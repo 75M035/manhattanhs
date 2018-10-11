@@ -1,0 +1,2567 @@
+@charset "UTF-8";
+
+body {
+	margin: 0px;
+	background: #F8F3E6;
+}
+
+a {
+	color: #825E09;
+}
+
+a:hover {
+	color: #372804;
+}
+
+/* Header */
+
+#warning {
+	position: relative;
+	top: 0px;
+	width: 100%;
+	background-color: #fff;
+	margin-top: 0px;
+	padding: 4px;
+	border-bottom: solid 4px #000066;
+}
+
+#warning .red {
+	color: #FF0000;
+	margin: 0;
+}
+
+#warning p {
+	margin: 0;
+}
+
+#nav {
+	height: 100px;
+}
+
+#nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+#nav li {
+	display: inline-block;
+	height: 100px;
+	line-height: 100px;
+	font-size: 25px;
+	width: 25%;
+	margin-right: -4px;
+}
+
+#nav li a{
+	color: #fff;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	text-decoration: none;
+	text-shadow: 0 0 1px #000;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+
+#nav li a:hover{
+	text-shadow: 0 0 5px #000;
+}
+
+#nav li a:active{
+	text-shadow: 0 0 5px #000;
+	color: #CFCFCF;
+}
+
+li#students a {
+	background: #80B34E;
+	box-shadow: inset 0 0 20px #6F835C;
+}
+
+li#students a:hover {
+	box-shadow: inset 0 0 25px #48543C;
+}
+
+li#students a:active {
+	box-shadow: inset 0 0 30px #303828;
+}
+
+li#parents a {
+	background: #FF9832;
+	box-shadow: inset 0 0 20px #AA6E32;
+}
+
+li#parents a:hover {
+	box-shadow: inset 0 0 25px #845627;
+}
+
+li#parents a:active {
+	box-shadow: inset 0 0 30px #513418;
+}
+
+li#staff a {
+	background: #669ACC;
+	box-shadow: inset 0 0 20px #517AA2;
+}
+
+li#staff a:hover {
+	box-shadow: inset 0 0 25px #395672;
+}
+
+li#staff a:active {
+	box-shadow: inset 0 0 30px #273A4E;
+}
+
+li#visitors a {
+	background: #F9414E;
+	box-shadow: inset 0 0 20px #AE5057;
+}
+
+li#visitors a:hover {
+	box-shadow: inset 0 0 25px #75363A;
+}
+
+li#visitors a:active {
+	box-shadow: inset 0 0 25px #482123;
+}
+
+#logo {
+	height: 60px;
+	background: linear-gradient(#B8870F, #F8F3E6);
+}
+
+#logo a {
+	font-size: 22px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #000;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+
+#logo img {
+	height: 60px;
+}
+
+#logo a:after {
+	position: absolute;
+	content: '';
+	height: 2px;
+	bottom: 12px;
+	margin: 0 auto;
+	left: -150px;
+	right: 0;
+	width: 150px;
+	background: #000;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+#logo a:hover:after {
+	width: 210px;
+}
+
+/* Main page content */
+
+#left{
+	float: left;
+	width: 55%;
+	margin: 0 25px 0 10%;
+}
+
+#right{
+	float: left;
+	width: 23%;
+}
+
+.contentleft {
+	background: #F2E6C8;
+	border: 1px solid rgba(105, 76, 7, 0.4);
+	border-radius: 4px;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+	margin-bottom: 20px;
+}
+
+.contenthead {
+	color: #453205;
+	background: #D4C7A6;
+	margin-top: 0;
+	padding: 5px 0 5px 5px;
+	border-bottom: 1px solid rgba(105, 76, 7, 0.49);
+	border-radius: 4px 4px 0 0;
+	box-shadow: 0 10px 22px -18px #000;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+	font: 'LeagueGothicRegular';
+}
+
+h3.contenthead {
+	display: flex;
+	justify-content: space-between;
+}
+
+.maincontent, .fullcontent {
+	margin: -10px 10px -5px 10px;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 11pt;
+	line-height: 1.4em;
+}
+
+.contentright {
+	background: #D4C7A6;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	padding-bottom: 1px;
+}
+
+.contentheadright {
+	background: #453205;
+	color: #F8F3E6;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+	margin-top: 0;
+	padding: 5px 0 5px 5px;
+	border-radius: 4px 4px 0 0;
+}
+
+.sidecontent {
+	margin: -10px 10px -5px 10px;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 11pt;
+	line-height: 1.4em;
+}
+
+.news-image {
+	text-align: center;
+}
+
+.news-image img {
+	width: 40%;
+}
+
+.news-photo {
+	text-align: center;
+}
+
+.news-photo img {
+	width: 60%;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.labels {
+	margin-top: -1px;
+	margin-right: 6px;
+}
+
+.contenthead .all-label, .contenthead .main-label, .contenthead .beacon-label, .contenthead .bellevue-label, .contenthead .mha-label {
+	padding-top: 2px;
+	margin-right: 1px;
+}
+
+.all-label, .main-label, .beacon-label, .bellevue-label, .mha-label {
+	border-radius: 5px;
+	font-size: 9pt;
+	color: #FFFFFF;
+	text-shadow: none;
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: normal;
+	display: inline-block;
+	width: 60px;
+	text-align: center;
+	height: 19px;
+}
+
+.all-label {
+	background: #453205;
+}
+
+.main-label {
+	background: #CA6500;
+}
+
+.beacon-label {
+	background: #68923F;
+}
+
+.bellevue-label {
+	background: #3B76B2;
+}
+
+.mha-label {
+	background: #F9414E;
+}
+
+.upcoming p {
+	background: #ECDAB1;
+	border: 1px solid #DDC796;
+	border-radius: 4px;
+	padding-left: 2px;
+	box-shadow: 0 2px 3px -3px #000;
+}
+
+.upcoming-date {
+	color: #634808;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+#donate-link {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+#donate-link a:hover img {
+	transform: scale(1.1);
+}
+
+#donate-link img {
+	width: 100px;
+	-webkit-transition:all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+
+/* Footer */
+
+#footer {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	background: #453205;
+	color: #EFE4C7;
+	box-shadow: 0 500px 0 500px #453205;
+}
+
+#footerhead {
+	margin: 15px auto 0 auto;
+	position: relative;
+	color: #F8F3E6;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align: center;
+}
+
+#footercontent {
+	display: flex;
+	align-items: stretch;
+    justify-content: space-between;
+	width: 80%;
+	margin: 0 auto;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 14pt;
+	line-height: 1.4em;
+}
+
+.footerbar {
+	border-left: 1px dotted #fff;
+	margin: 30px 0 30px 0;
+}
+
+#footercontent h3 {
+	text-align: center;
+}
+
+#leftfoot h3 a{
+	color: #FFCA96;
+}
+
+#middlefoot h3 a{
+	color: #C1D9A8;
+}
+
+#rightfoot h3 a{
+	color: #AEC9E4;
+}
+
+#righterfoot h3 a{
+	color: #FCA5AB;
+}
+
+#footercontent h3 a{
+	display: block;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+	text-decoration: none;
+	-webkit-transition:all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+
+#footercontent h3 a:hover {
+	transform: scale(1.1);
+}
+
+.phone {
+	text-align: center;
+	margin: -20px 0 0px 0;
+	color: #DBC383;
+}
+
+.phone a {
+	color: #DBC383;
+	text-decoration: none;
+}
+
+#copyright {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#accessibility {
+	color: #EFE4C7;
+	margin: 10px;
+}
+
+#accessibility a {
+	color: #B19C6C;
+}
+
+#accessibility a:hover {
+	color: #806E44;
+}
+
+/* Subpage content */
+
+#subcontent #left{
+	float: left;
+	width: 39%;
+	margin: 0 25px 0 10%;
+}
+
+#subcontent #right{
+	float: left;
+	width: 39%;
+}
+
+#subcontent .maincontent, #subcontent .sidecontent {
+	margin: -10px 10px 10px 10px;
+	display: flex;
+	flex-flow: row wrap;
+	font-size: 10pt;
+}
+
+#subcontent .contentleft, #subcontent .contentright {
+	background: #F2E6C8;
+	border: 1px solid rgba(105, 76, 7, 0.4);
+	border-radius: 4px;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+	margin-bottom: 20px;
+}
+
+#subcontent .contenthead, #subcontent .contentheadright {
+	color: #453205;
+	background: #D4C7A6;
+	margin-top: 0;
+	padding: 5px 0 5px 5px;
+	border-bottom: 1px solid rgba(105, 76, 7, 0.49);
+	border-radius: 4px 4px 0 0;
+	box-shadow: 0 10px 22px -18px #000;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+	font: 'LeagueGothicRegular';
+}
+
+#subcontent a{
+	display: flex;
+	height: 100px;
+	width: 100px;
+	border-radius: 3px;
+	flex-direction: column;
+	justify-content: flex-end;
+	text-decoration: none;
+	box-shadow: 0 0 5px #888;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+	margin: 10px;
+	text-align: center;
+}
+
+#subcontent a:hover{
+	box-shadow: 0 0 5px #888, inset 0 0 10px #888;
+}
+
+#subcontent a:hover .buttonbottom {
+	background-position: 20px;
+}
+
+.buttonbottom {
+	height: 20px;
+	display: flex;
+	align-items: flex-end;
+	padding-bottom: 1px;
+	width: 100%;
+	justify-content: center;
+	border-radius: 0 0 3px 3px;
+}
+
+.line-break {
+	width: 100%;
+}
+
+/* Mobile Layout */
+
+@media only screen and (max-width: 768px) {
+	
+	#nav {
+		height: 50px;
+	}
+	
+	#nav li {
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
+	}
+	
+	#nav li a {
+	height: 50px;
+	}
+	
+	#logo a {
+		font-size: 20px;
+	}
+	
+	#left {
+		width: 96%;
+		margin-left: 2%;
+	}
+	
+	#right {
+        width: 96%;
+		margin-left: 2%;
+    }
+	
+	.contenthead {
+		box-shadow: none;
+	}
+	
+	ul.contenthead h3{
+		font-size: 17px;
+	}
+	
+	.contenthead li {
+		margin-top: -15.5px !important;
+		margin-bottom: -16px !important;
+	}
+	
+	.labels {
+		width: 60px;
+	}
+	
+	.news-photo img {
+	width: 100%;
+	}
+	
+	#footercontent {
+		display: block;
+	}
+	
+	#footercontent p {
+		text-align: center;
+	}
+	
+	.footerbar {
+		border-left: none;
+		border-bottom: 1px dotted #fff;
+	}
+	
+	#subcontent #left, #subcontent #right {
+		width: 96%;
+		margin-left: 2%;
+	}
+	
+	#subcontent a {
+		margin: 5px;
+	}
+	
+	#directory, #fullwidth, #govtresults {
+		width: 96% !important;
+	}
+	
+	.directorylist td tr:last-child td {
+		border-bottom: none !important;
+	}
+	
+	.footable .pagination>li>a {
+		padding: 6px 11px !important;
+	}
+	
+	.expandedImg {
+		width: 100% !important;
+	}
+	
+	.column {
+    padding: 1px !important;
+	}
+	
+	div.loading > span.fooicon {
+		margin-top: 5px !important;
+	}
+	
+	.google-maps {
+		position: relative;
+		padding-bottom: 75%;
+		height: 0;
+		overflow: hidden;
+		margin: 0 auto !important;
+		outline: 1px solid rgba(0, 0, 0, 0.2);
+		-webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+		-moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+		-webkit-border-radius: 2px;
+		-moz-border-radius: 2px;
+		border-radius: 2px;
+	}
+	
+	.google-maps iframe {
+		display: block;
+		margin: 0 auto;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100% !important;
+		height: 100% !important;
+	}
+	
+	.piechart_3d {
+	margin: 0 auto !important;
+	}
+}
+
+/* PupilPath Button */
+
+#buttonpp {
+	border: 1px solid #0A6A8C;
+	background: url("/images/buttons/pupilpath.png") no-repeat #10A5DA;
+	background-size: 62px 60px;
+	background-position: 50% 25%;
+	color: #fff;
+}
+
+#buttonpp .buttonbottom {
+	border-top: 1px solid #0A6A8C;
+	background: linear-gradient(to bottom, #51C8F1 0%, #10A5DA 50%, #51C8F1 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* IO Classroom Button */
+
+#buttonio {
+	border: 1px solid #323232;
+	background: url("/images/buttons/ioclassroom.png") no-repeat #000000;
+	background-size: 63px 60px;
+	background-position: 50% 25%;
+	color: #fff;
+}
+
+#buttonio .buttonbottom {
+	border-top: 1px solid #323232;
+	background: linear-gradient(to bottom, #000 0%, #4D4D4D 50%, #4D4D4D 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonio:hover{
+	box-shadow: 0 0 10px #6B6B6B, inset 0 0 15px #9F9F9F;
+}
+
+/* Google Classroom Button */
+
+#buttongc {
+	border: 1px solid #1F8A53;
+	background: url("/images/buttons/googleclassroom.png") no-repeat #44D58B;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #186B41;
+}
+
+#buttongc .buttonbottom {
+	border-top: 1px solid #1F8A53;
+	background: linear-gradient(to bottom, #99E8C0 0%, #44D58B 50%, #A0E9C4 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* Sesis Button */
+
+#buttonse {
+	border: 1px solid #678E3E;
+	background: url("/images/buttons/sesis.png") no-repeat #ABED67;
+	background-size: 71px 70px;
+	background-position: 50% 15%;
+	color: #415A27;
+}
+
+#buttonse .buttonbottom {
+	border-top: 1px solid #678E3E;
+	background: linear-gradient(to bottom, #CAF3A0 0%, #ABED67 50%, #CAF3A0 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonse:hover{
+	box-shadow: 0 0 5px #979797, inset 0 0 10px #979797;
+}
+
+/* STARS Classroom Button */
+
+#buttonstc {
+	border: 1px solid #BB8C28;
+	background: url("/images/buttons/starsclassroom.svg") no-repeat #E8CD95;
+	background-size: 100px 68px;
+	background-position: 50% 65%;
+	color: #98721F;
+}
+
+#buttonstc .buttonbottom {
+	border-top: 1px solid #BB8C28;
+	background: linear-gradient(to bottom, #F1E2C1 0%, #E8CD95 50%, #F1E2C1 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonstc:hover{
+	box-shadow: 0 0 5px #959595, inset 0 0 10px #959595;
+}
+
+/* Student Profile Button */
+
+#buttonsp {
+	border: 1px solid #DAE6F2;
+	background: url("/images/buttons/studentprofile.png") no-repeat #EDF5FB;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #46589A;
+	font-size: 9pt;
+}
+
+#buttonsp .buttonbottom {
+	border-top: 1px solid #DAE6F2;
+	background: linear-gradient(to bottom, #EDF5FB 0%, #C9E1F3 50%, #EDF5FB 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonsp:hover{
+	box-shadow: 0 0 5px #D9D9D9, inset 0 0 10px #D9D9D9;
+}
+
+/* Intranet Button */
+
+#buttonin {
+	border: 1px solid #5E5E5E;
+	background: url("/images/buttons/intranet.svg") no-repeat #FE6FFF;
+	background-size: 100px 70px;
+	background-position: 50% 15%;
+	color: #5E5E5E;
+}
+
+#buttonin .buttonbottom {
+	border-top: 1px solid #5E5E5E;
+	background: linear-gradient(to bottom, #FEB0FF 0%, #FE6FFF 50%, #FEB0FF 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonin:hover{
+	box-shadow: 0 0 5px #959595, inset 0 0 10px #959595;
+}
+
+/* ShopDOE Button */
+
+#buttonsh {
+	border: 1px solid #B7ADB1;
+	background: url("/images/buttons/shopdoe.png") no-repeat #FDDBD3;
+	background-size: 66px 70px;
+	background-position: 50% 15%;
+	color: #8A7A80;
+}
+
+#buttonsh .buttonbottom {
+	border-top: 1px solid #B7ADB1;
+	background: linear-gradient(to bottom, #FDE7E2 0%, #FDDBD3 50%, #FDE7E2 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonsh:hover{
+	box-shadow: 0 0 5px #B2B2B2, inset 0 0 10px #B2B2B2;
+}
+
+/* Tech Share Button */
+
+#buttonts {
+	border: 1px solid #1D78BB;
+	background: url("/images/buttons/techshare.png") no-repeat #C7E1F5;
+	background-size: 93px 65px;
+	background-position: 50% 22%;
+	color: #1D78BB;
+}
+
+#buttonts .buttonbottom {
+	border-top: 1px solid #1D78BB;
+	background: linear-gradient(to bottom, #E6F1FA 0%, #C7E1F5 50%, #E6F1FA 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* Email Button */
+
+.buttonem {
+	border: 1px solid #99CCFF;
+	background: url("/images/buttons/email.svg") no-repeat #F5FAFF;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #0062C6;
+}
+
+.buttonem .buttonbottom {
+	border-top: 1px solid #99CCFF;
+	background: linear-gradient(to bottom, #F5FAFF 0%, #E1F0FF 50%, #F5FAFF 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonem:hover{
+	box-shadow: 0 0 5px #C3C3C3, inset 0 0 10px #C3C3C3 !important;
+}
+
+/* Beacon SharePoint Button */
+
+.buttonbsp {
+	border: 1px solid #AACB8C;
+	background: url("/images/buttons/beaconsharepoint.svg") no-repeat #F1FFE4;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #60873D;
+}
+
+.buttonbsp .buttonbottom {
+	border-top: 1px solid #AACB8C;
+	background: linear-gradient(to bottom, #F1FFE4 0%, #E8FFD2 50%, #F1FFE4 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonbsp:hover{
+	box-shadow: 0 0 5px #C3C3C3, inset 0 0 10px #C3C3C3 !important;
+}
+
+/* Main SharePoint Button */
+
+.buttonmsp {
+	border: 1px solid #D2B99F;
+	background: url("/images/buttons/mainsharepoint.svg") no-repeat #FFEEDD;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #7F5E3B;
+}
+
+.buttonmsp .buttonbottom {
+	border-top: 1px solid #D2B99F;
+	background: linear-gradient(to bottom, #FFEEDD 0%, #FFDFC0 50%, #FFEEDD 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonmsp:hover{
+	box-shadow: 0 0 5px #C3C3C3, inset 0 0 10px #C3C3C3 !important;
+}
+
+/* All SharePoint Button */
+
+.buttonasp {
+	border: 1px solid #E5D3A1;
+	background: url("/images/buttons/allsharepoint.svg") no-repeat #F9F5E9;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #806823;
+}
+
+.buttonasp .buttonbottom {
+	border-top: 1px solid #E5D3A1;
+	background: linear-gradient(to bottom, #F9F5E9 0%, #F2E9CF 50%, #F9F5E9 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonasp:hover{
+	box-shadow: 0 0 5px #C3C3C3, inset 0 0 10px #C3C3C3 !important;
+}
+
+/* Scantron Button */
+
+#buttonsc {
+	border: 1px solid #A5AA4A;
+	background: url("/images/buttons/scantron.svg") no-repeat #D4D6A2;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #61642B;
+}
+
+#buttonsc .buttonbottom {
+	border-top: 1px solid #A5AA4A;
+	background: linear-gradient(to bottom, #EAEBD2 0%, #D4D6A2 50%, #EAEBD2 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonsc:hover{
+	box-shadow: 0 0 5px #AAAAAA, inset 0 0 10px #AAAAAA;
+}
+
+/* HR Connect Button */
+
+#buttonhr {
+	border: 1px solid #0A5A54;
+	background: url("/images/buttons/hrconnect.png") no-repeat #FAA9BF;
+	background-size: 91px 60px;
+	background-position: 50% 23%;
+	color: #0A5A54;
+}
+
+#buttonhr .buttonbottom {
+	border-top: 1px solid #0A5A54;
+	background: linear-gradient(to bottom, #FCD5DF 0%, #FAA9BF 50%, #FCD5DF 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonhr:hover{
+	box-shadow: 0 0 5px #A2A2A2, inset 0 0 10px #A2A2A2;
+}
+
+/* Payroll Button */
+
+#buttonpa {
+	border: 1px solid #005500;
+	background: url("/images/buttons/payroll.svg") no-repeat #BEFFBE;
+	background-size: 100px 70px;
+	background-position: 50% 15%;
+	color: #005500;
+}
+
+#buttonpa .buttonbottom {
+	border-top: 1px solid #005500;
+	background: linear-gradient(to bottom, #E2FFE2 0%, #BEFFBE 50%, #E2FFE2 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonpa:hover{
+	box-shadow: 0 0 5px #A2A2A2, inset 0 0 10px #A2A2A2;
+}
+
+/* ESS Button */
+
+#buttones {
+	border: 1px solid #37329E;
+	background: url("/images/buttons/ess.png") no-repeat #B0C2E2;
+	background-size: 92px 18px;
+	background-position: 50% 42%;
+	color: #37329E;
+}
+
+#buttones .buttonbottom {
+	border-top: 1px solid #37329E;
+	background: linear-gradient(to bottom, #D2DCEE 0%, #B0C2E2 50%, #D2DCEE 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* TRS Button */
+
+#buttontrs {
+	border: 1px solid #E9AF10;
+	background: url("/images/buttons/trs.svg") no-repeat #F6DB91;
+	background-size: 100px 60px;
+	background-position: 50% 30%;
+	color: #7D5E08;
+}
+
+#buttontrs .buttonbottom {
+	border-top: 1px solid #E9AF10;
+	background: linear-gradient(to bottom, #F9E8BA 0%, #F6DB91 50%, #F9E8BA 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttontrs:hover{
+	box-shadow: 0 0 5px #B3B3B3, inset 0 0 10px #B3B3B3;
+}
+
+/* WageWorks Button */
+
+#buttonwa {
+	border: 1px solid #0C5684;
+	background: url("/images/buttons/wageworks.svg") no-repeat #127FC2;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #FADFC8;
+}
+
+#buttonwa .buttonbottom {
+	border-top: 1px solid #0C5684;
+	background: linear-gradient(to bottom, #4DB1EE 0%, #127FC2 50%, #4DB1EE 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonwa:hover{
+	box-shadow: 0 0 5px #5B5B5B, inset 0 0 10px #5B5B5B;
+}
+
+/* Advance Button */
+
+#buttonad {
+	border: 1px solid #9A5006;
+	background: url("/images/buttons/advance.svg") no-repeat #C0D9A7;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #9A5006;
+}
+
+#buttonad .buttonbottom {
+	border-top: 1px solid #9A5006;
+	background: linear-gradient(to bottom, #DEEBD1 0%, #C0D9A7 50%, #DEEBD1 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* SubCentral Button */
+
+#buttonsub {
+	border: 1px solid #979DAD;
+	background: url("/images/buttons/subcentral.png") no-repeat #B5E9B7;
+	background-size: 99px 70px;
+	background-position: 50% 15%;
+	color: #636A7D;
+}
+
+#buttonsub .buttonbottom {
+	border-top: 1px solid #979DAD;
+	background: linear-gradient(to bottom, #DEEBD1 0%, #C0D9A7 50%, #DEEBD1 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonsub:hover{
+	box-shadow: 0 0 5px #AAAAAA, inset 0 0 10px #AAAAAA;
+}
+
+/* NYCDOE Button */
+
+#buttonnyc {
+	border: 1px solid #6EAAE2;
+	background: url("/images/buttons/nycdoe.svg") no-repeat #D6E7F7;
+	background-size: 92px 30px;
+	background-position: 50% 42%;
+	color: #2166A7;
+}
+
+#buttonnyc .buttonbottom {
+	border-top: 1px solid #6EAAE2;
+	background: linear-gradient(to bottom, #D6E7F7 0%, #B0D0EE 50%, #D6E7F7 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonnyc:hover{
+	box-shadow: 0 0 5px #AAAAAA, inset 0 0 10px #AAAAAA;
+}
+
+/* NYSED Button */
+
+#buttonnys {
+	border: 1px solid #14598E;
+	background: url("/images/buttons/nysed.png") no-repeat #7FB5E8;
+	background-size: 85px 65px;
+	background-position: 50% 31%;
+	color: #0D3A5D;
+}
+
+#buttonnys .buttonbottom {
+	border-top: 1px solid #14598E;
+	background: linear-gradient(to bottom, #B7D5F2 0%, #7FB5E8 50%, #B7D5F2 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* UFT Button */
+
+#buttonuf {
+	border: 1px solid #0B3688;
+	background: url("/images/buttons/uft.svg") no-repeat #114EC2;
+	background-size: 100px 65px;
+	background-position: 50% 22%;
+	color: #fff;
+}
+
+#buttonuf .buttonbottom {
+	border-top: 1px solid #0B3688;
+	background: linear-gradient(to bottom, #4F86EF 0%, #114EC2 50%, #4F86EF 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonuf:hover{
+	box-shadow: 0 0 5px #4D4D4D, inset 0 0 10px #4D4D4D;
+}
+
+/* Bellevue Button */
+
+#buttonbl {
+	border: 1px solid #18479F;
+	background: url("/images/buttons/bellevuelogo.png") no-repeat #DFF4FC;
+	background-size: 86px 62px;
+	background-position: 50% 29%;
+	color: #18479F;
+}
+
+#buttonbl .buttonbottom {
+	border-top: 1px solid #18479F;
+	background: linear-gradient(to bottom, #F8FCFE 0%, #DFF4FC 50%, #F8FCFE 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonbl:hover{
+	box-shadow: 0 0 5px #969696, inset 0 0 10px #969696;
+}
+
+/* MHA-NYC Button */
+
+#buttonmha {
+	border: 1px solid #04537E;
+	background: url("/images/buttons/mhalogo.png") no-repeat #A1DCFC;
+	background-size: 94px 62px;
+	background-position: 50% 29%;
+	color: #04537E;
+}
+
+#buttonmha .buttonbottom {
+	border-top: 1px solid #04537E;
+	background: linear-gradient(to bottom, #CAEBFD 0%, #A1DCFC 50%, #CAEBFD 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonmha:hover{
+	box-shadow: 0 0 5px #969696, inset 0 0 10px #969696;
+}
+
+/* OPT Button */
+
+#buttonopt {
+	border: 1px solid #14598E;
+	background: url("/images/buttons/opt.svg") no-repeat #3D71A7;
+	background-size: 64px 65px;
+	background-position: 50% 29%;
+	color: #FFFFFF;
+}
+
+#buttonopt .buttonbottom {
+	border-top: 1px solid #14598E;
+	background: linear-gradient(to bottom, #749FCC 0%, #3D71A7 50%, #749FCC 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonopt:hover{
+	box-shadow: 0 0 5px #444444, inset 0 0 10px #444444;
+}
+
+/* PSAL Button */
+
+#buttonpl {
+	border: 1px solid #2C2F85;
+	background: url("/images/buttons/psal.png") no-repeat #545AD0;
+	background-size: 90px 90px;
+	background-position: 50% 10%;
+	color: #F5C6B0;
+}
+
+#buttonpl .buttonbottom {
+	border-top: 1px solid #2C2F85;
+	background: linear-gradient(to bottom, #8589DD 0%, #545AD0 50%, #8589DD 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonpl:hover{
+	box-shadow: 0 0 5px #444444, inset 0 0 10px #444444;
+}
+
+/* Beacon Button */
+
+#buttonbs {
+	border: 1px solid #000;
+	background: url("/images/buttons/beacon.png") no-repeat #444444;
+	background-size: 41px 65px;
+	background-position: 50% 31%;
+	color: #fff;
+}
+
+#buttonbs .buttonbottom {
+	border-top: 1px solid #000;
+	background: linear-gradient(to bottom, #686868 0%, #444444 50%, #686868 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonbs:hover{
+	box-shadow: 0 0 5px #000, inset 0 0 10px #000;
+}
+
+/* CAASS Button */
+
+#buttonca {
+	border: 1px solid #714B03;
+	background: url("/images/buttons/caass.svg") no-repeat #0D0C13;
+	background-size: 100px 40px;
+	background-position: 50% 35%;
+	color: #FAB839;
+}
+
+#buttonca .buttonbottom {
+	border-top: 1px solid #714B03;
+	background: linear-gradient(to bottom, #420213 0%, #0D0C13 25%, #420213 50%, #0D0C13 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonca:hover{
+	box-shadow: 0 0 5px #915F03, inset 0 0 15px #915F03;
+}
+
+/* Directory Button */
+
+#buttondy {
+	border: 1px solid #888A85;
+	background: url("/images/buttons/directory.svg") #C8C9C6;
+	background-size: 100px 75px;
+	background-position: 50% 21%;
+	color: #555652;
+}
+
+#buttondy .buttonbottom {
+	border-top: 1px solid #888A85;
+	background: linear-gradient(to bottom, #E8E9E7 0%, #C8C9C6 50%, #E8E9E7 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* Courses Button */
+
+#buttoncs {
+	border: 1px solid #8828E3;
+	background: url("/images/buttons/courses.svg") #BF8BF0;
+	background-size: 100px 75px;
+	background-position: 50% 15%;
+	color: #5E15A3;
+}
+
+#buttoncs .buttonbottom {
+	border-top: 1px solid #8828E3;
+	background: linear-gradient(to bottom, #D7B6F5 0%, #BF8BF0 50%, #D7B6F5 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* Photos Button */
+
+#buttonps {
+	border: 1px solid #B1B100;
+	background: url("/images/buttons/photos.svg") no-repeat #FFFF9C;
+	background-size: 100px 70px;
+	background-position: 50% 15%;
+	color: #878700;
+}
+
+#buttonps .buttonbottom {
+	border-top: 1px solid #B1B100;
+	background: linear-gradient(to bottom, #FFFFE1 0%, #FFFF6D 50%, #FFFFE1 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonps:hover{
+	box-shadow: 0 0 5px #C3C3C3, inset 0 0 10px #C3C3C3;
+}
+
+/* Khan Academy Button */
+
+#buttonka {
+	border: 1px solid #95AD38;
+	background: url("/images/buttons/khanacademy.svg") no-repeat #D7E3A8;
+	background-size: 65px 65px;
+	background-position: 50% 20%;
+	color: #72842A;
+	font-size: 9pt;
+}
+
+#buttonka .buttonbottom {
+	border-top: 1px solid #95AD38;
+	background: linear-gradient(to bottom, #EAF0D2 0%, #D7E3A8 50%, #EAF0D2 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonka:hover{
+	box-shadow: 0 0 5px #AAAAAA, inset 0 0 10px #AAAAAA;
+}
+
+/* Geogebra Button */
+
+#buttongb {
+	border: 1px solid #8686FF;
+	background: url("/images/buttons/geogebra.png") no-repeat #C1C1FF;
+	background-size: 75px 75px;
+	background-position: 50% 18%;
+	color: #00008B;
+}
+
+#buttongb .buttonbottom {
+	border-top: 1px solid #8686FF;
+	background: linear-gradient(to bottom, #D8D8FF 0%, #C1C1FF 50%, #D8D8FF 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttongb:hover{
+	box-shadow: 0 0 5px #959595, inset 0 0 10px #959595;
+}
+
+/* Desmos Button */
+
+#buttonds {
+	border: 1px solid #0D582D;
+	background: url("/images/buttons/desmos.png") no-repeat #148343;
+	background-size: 98px 78px;
+	color: #FFF;
+}
+
+#buttonds .buttonbottom {
+	border-top: 1px solid #0D582D;
+	background: linear-gradient(to bottom, #1AAF59 0%, #148343 50%, #1AAF59 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonds:hover{
+	box-shadow: 0 0 5px #404040, inset 0 0 10px #404040;
+}
+
+/* Flocabulary Button */
+
+#buttonfl {
+	border: 1px solid #9A290B;
+	background: url("/images/buttons/flocabulary.png") no-repeat #F39076;
+	background-size: 97px 26px;
+	background-position: 50% 43%;
+	color: #9A290B;
+}
+
+#buttonfl .buttonbottom {
+	border-top: 1px solid #9A290B;
+	background: linear-gradient(to bottom, #F8C0B1 0%, #F39076 50%, #F8C0B1 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* Pearson Realize Button */
+
+#buttonpr {
+	border: 1px solid #000000;
+	background: url("/images/buttons/pearsonrealize.png") no-repeat #68A61A;
+	background-size: 96px 23px;
+	background-position: 50% 41%;
+	color: #000000;
+}
+
+#buttonpr .buttonbottom {
+	border-top: 1px solid #000000;
+	background: linear-gradient(to bottom, #84D421 0%, #68A61A 50%, #84D421 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonpr:hover{
+	box-shadow: 0 0 5px #5F5F5F, inset 0 0 10px #5F5F5F;
+}
+
+/* Problem-Attic Button */
+
+#buttonpc {
+	border: 1px solid #50208E;
+	background: url("/images/buttons/problem-attic.svg") no-repeat #EEEEEE;
+	background-size: 100px 17px;
+	background-position: 50% 42%;
+	color: #50208E;
+}
+
+#buttonpc .buttonbottom {
+	border-top: 1px solid #50208E;
+	background: linear-gradient(to bottom, #EEEEEE 0%, #E1E1E1 50%, #EEEEEE 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonpc:hover{
+	box-shadow: 0 0 5px #A2A2A2, inset 0 0 10px #A2A2A2;
+}
+
+/* Bookshare Button */
+
+#buttonbks {
+	border: 1px solid #182D65;
+	background: url("/images/buttons/bookshare.svg") no-repeat #23408E;
+	background-size: 90px 47px;
+	background-position: 50% 30%;
+	color: #FFFFFF;
+}
+
+#buttonbks .buttonbottom {
+	border-top: 1px solid #182D65;
+	background: linear-gradient(to bottom, #3961CE 0%, #23408E 50%, #3961CE 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonbks:hover{
+	box-shadow: 0 0 5px #3C3C3C, inset 0 0 10px #3C3C3C;
+}
+
+/* Bands Button */
+
+#buttonbb {
+	border: 1px solid #AEAEAE;
+	background: url("/images/buttons/bandschedule.png") no-repeat #FFFFFF;
+	background-size: 96px 62px;
+	background-position: 50% 25%;
+	color: #434343;
+	font-size: 10pt;
+}
+
+#buttonbb .buttonbottom {
+	border-top: 1px solid #AEAEAE;
+	background: linear-gradient(to bottom, #E4E4E4 0%, #FFF 50%, #E4E4E4 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonbb:hover{
+	box-shadow: 0 0 5px #B3B3B3, inset 0 0 10px #B3B3B3;
+}
+
+/* Schedule Button */
+
+#buttonms {
+	border: 1px solid #000;
+	background: url("/images/buttons/clock.png") no-repeat #D7D2C5;
+	background-size: 80px 80px;
+	background-position: 50% 7%;
+	color: #000;
+}
+
+#buttonms .buttonbottom {
+	border-top: 1px solid #000;
+	background: linear-gradient(to bottom, #E8E5DE 0%, #D7D2C5 50%, #E8E5DE 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* Government Button */
+
+#buttongt {
+	border: 1px solid #6E530B;
+	background: url("/images/buttons/government.svg") no-repeat #D9A317;
+	background-size: 77px 70px;
+	background-position: 50% 15%;
+	color: #332605;
+}
+
+#buttongt .buttonbottom {
+	border-top: 1px solid #6E530B;
+	background: linear-gradient(to bottom, #EFCB6E 0%, #D9A317 50%, #EFCB6E 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* Calendar Button */
+
+#buttoncl {
+	border: 1px solid #E04E52;
+	background: url("/images/buttons/calendar.png") no-repeat #F0A7A9;
+	background-size: 75px 75px;
+	background-position: 50% 10%;
+	color: #AA1D21;
+}
+
+#buttoncl .buttonbottom {
+	margin-bottom: -36px;
+	border-top: 1px solid #E04E52;
+	background: linear-gradient(to bottom, #F7D1D2 0%, #F0A7A9 50%, #F7D1D2 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttoncl:hover{
+	box-shadow: 0 0 5px #AAAAAA, inset 0 0 10px #AAAAAA;
+}
+
+#calm {
+	position: relative;
+	color: #fff;
+	text-shadow: 0 1px 0 #000;
+	font-size: 10px;
+	top: -58px;
+	left: 39px;
+	text-align: left;
+}
+
+#cald {
+	position: relative;
+	color: #000;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+	font-size: 35px;
+	font-family: Arial;
+	font-weight: bold;
+	top: -46px;
+	left: 30px;
+	text-align: left;
+}
+
+/* Regents Button */
+
+#buttonrg {
+	border: 1px solid #F09843;
+	background: url("/images/buttons/regents.svg") no-repeat #F6C393;
+	background-size: 57px 75px;
+	background-position: 50% 10%;
+	color: #B15E0E;
+}
+
+#buttonrg .buttonbottom {
+	border-top: 1px solid #F09843;
+	background: linear-gradient(to bottom, #FADEC4 0%, #F6C393 50%, #FADEC4 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonrg:hover{
+	box-shadow: 0 0 5px #B3B3B3, inset 0 0 10px #B3B3B3;
+}
+
+/* Graduation Button */
+
+#buttongr {
+	border: 1px solid #9C0000;
+	background: url("/images/buttons/graduation.svg") no-repeat #FF3A3A;
+	background-size: 94px 75px;
+	background-position: 50% 10%;
+	color: #700000;
+}
+
+#buttongr .buttonbottom {
+	border-top: 1px solid #9C0000;
+	background: linear-gradient(to bottom, #FF8080 0%, #FF3A3A 50%, #FF8080 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* DIIT Service Button */
+
+#buttondi {
+	border: 1px solid #3B6398;
+	background: url("/images/buttons/diitservice.svg") no-repeat #737C7E;
+	background-size: 100px 70px;
+	background-position: 50% 13%;
+	color: #EBEBEB;
+}
+
+#buttondi .buttonbottom {
+	border-top: 1px solid #3B6398;
+	background: linear-gradient(to bottom, #9CA3A4 0%, #737C7E 50%, #9CA3A4 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttondi:hover {
+	box-shadow: 0 0 5px #575757, inset 0 0 10px #575757;
+}
+
+/* STARS Admin Button */
+
+#buttonsa {
+	border: 1px solid #470813;
+	background: url("/images/buttons/starsadmin.svg") no-repeat #850F25;
+	background-size: 100px 45px;
+	background-position: 50% 35%;
+	color: #fff;
+}
+
+#buttonsa .buttonbottom {
+	border-top: 1px solid #470813;
+	background: linear-gradient(to bottom, #C01535 0%, #850F25 50%, #C01535 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonsa:hover{
+	box-shadow: 0 0 5px #242424, inset 0 0 10px #242424;
+}
+
+/* ATS Button */
+
+#buttonat {
+	border: 1px solid #00ED00;
+	background: url("/images/buttons/ats.png") no-repeat #000000;
+	background-size: 55px 55px;
+	background-position: 50% 33%;
+	color: #00ff00;
+}
+
+#buttonat .buttonbottom {
+	border-top: 1px solid #00ED00;
+	background: linear-gradient(to bottom, #000 0%, #000 50%, #000 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonat:hover{
+	box-shadow: 0 0 5px #242424, inset 0 0 10px #00ED00;
+}
+
+/* ATS Print Button */
+
+#buttonatp {
+	border: 1px solid #00ED00;
+	background: url("/images/buttons/atsprint.png") no-repeat #000000;
+	background-size: 43px 35px;
+	background-position: 50% 35%;
+	color: #00ff00;
+}
+
+#buttonatp .buttonbottom {
+	border-top: 1px solid #00ED00;
+	background: linear-gradient(to bottom, #000 0%, #000 50%, #000 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonatp:hover{
+	box-shadow: 0 0 5px #242424, inset 0 0 10px #00ED00;
+}
+
+/* FAMIS Button */
+
+#buttonfa {
+	border: 1px solid #A4BCDE;
+	background: url("/images/buttons/famis.gif") no-repeat #E9EDFF;
+	background-size: 97px 30px;
+	background-position: 50% 41%;
+	color: #88A7D4;
+}
+
+#buttonfa .buttonbottom {
+	border-top: 1px solid #A4BCDE;
+	background: linear-gradient(to bottom, #F5F7FF 0%, #E9EDFF 50%, #F5F7FF 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonfa:hover{
+	box-shadow: 0 0 5px #B6B6B6, inset 0 0 10px #B6B6B6;
+}
+
+/* FAMIS Button */
+
+#buttonfg {
+	border: 1px solid #92C183;
+	background: url("/images/buttons/fitnessgram.png") no-repeat #DCEBD7;
+	background-size: 41px 37px;
+	background-position: 50% 41%;
+	color: #6EAD5B;
+}
+
+#buttonfg .buttonbottom {
+	border-top: 1px solid #92C183;
+	background: linear-gradient(to bottom, #EAF3E7 0%, #DCEBD7 50%, #EAF3E7 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonfg:hover{
+	box-shadow: 0 0 5px #B6B6B6, inset 0 0 10px #B6B6B6;
+}
+
+/* DOE Wiki Button */
+
+#buttonwi {
+	border: 1px solid #BB702D;
+	background: url("/images/buttons/wiki.svg") no-repeat #CD7A31;
+	background-size: 100px 50px;
+	background-position: 50% 33%;
+	color: #72431B;
+}
+
+#buttonwi .buttonbottom {
+	border-top: 1px solid #BB702D;
+	background: linear-gradient(to bottom, #DA9D67 0%, #CD7A31 50%, #DA9D67 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonwi:hover{
+	box-shadow: 0 0 5px #707070, inset 0 0 10px #707070;
+}
+
+/* myTGI Button */
+
+#buttontgi {
+	border: 1px solid #85BF3D;
+	background: url("/images/buttons/mytgi.png") no-repeat #000000;
+	background-size: 100px 42px;
+	background-position: 50% 33%;
+	color: #FFFFFF;
+}
+
+#buttontgi .buttonbottom {
+	border-top: 1px solid #85BF3D;
+	background: linear-gradient(to bottom, #000 0%, #000 50%, #000 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttontgi:hover{
+	box-shadow: 0 0 5px #5F5F5F, inset 0 0 20px #858585;
+}
+
+/* Donate Button */
+
+#buttondn {
+	border: 1px solid #400000;
+	background: url("/images/buttons/donate.svg") no-repeat #710101;
+	background-size: 100px 75px;
+	background-position: 50% 10%;
+	color: #F9DADA;
+}
+
+#buttondn .buttonbottom {
+	border-top: 1px solid #400000;
+	background: linear-gradient(to bottom, #B10101 0%, #710101 50%, #B10101 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttondn:hover{
+	box-shadow: 0 0 5px #242424, inset 0 0 10px #242424;
+}
+
+/* About Main Button */
+
+.buttonam {
+	border: 1px solid #352D27;
+	background: url("/images/buttons/main.jpg") #FF9832;
+	background-size: 100px 80px;
+	color: #352D27;
+}
+
+.buttonam .buttonbottom {
+	border-top: 1px solid #352D27;
+	background: linear-gradient(to bottom, #FFBB77 0%, #FF9832 50%, #FFBB77 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonam:hover{
+	box-shadow: 0 0 5px #646464, inset 0 0 10px #646464 !important;
+}
+
+/* About Beacon Button */
+
+.buttonab {
+	border: 1px solid #3C5515;
+	background: url("/images/buttons/beacon.jpg") #5BA02F;
+	background-size: 100px 80px;
+	color: #3C5515;
+}
+
+.buttonab .buttonbottom {
+	border-top: 1px solid #3C5515;
+	background: linear-gradient(to bottom, #75C741 0%, #5BA02F 50%, #75C741 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonab:hover{
+	box-shadow: 0 0 5px #646464, inset 0 0 10px #646464 !important;
+}
+
+/* About Bellevue Button */
+
+.buttonau {
+	border: 1px solid #244C63;
+	background: url("/images/buttons/bellevue.jpg") #6DA7C9;
+	background-size: 100px 80px;
+	color: #244C63;
+}
+
+.buttonau .buttonbottom {
+	border-top: 1px solid #244C63;
+	background: linear-gradient(to bottom, #98C1D9 0%, #6DA7C9 50%, #98C1D9 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonau:hover{
+	box-shadow: 0 0 5px #646464, inset 0 0 10px #646464 !important;
+}
+
+/* About MHA Button */
+
+.buttonaa {
+	border: 1px solid #85040D;
+	background: url("/images/buttons/mha.jpg") #F9414E;
+	background-size: 100px 80px;
+	color: #85040D;
+}
+
+.buttonaa .buttonbottom {
+	border-top: 1px solid #85040D;
+	background: linear-gradient(to bottom, #FA737D 0%, #F9414E 50%, #FA737D 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonaa:hover{
+	box-shadow: 0 0 5px #646464, inset 0 0 10px #646464 !important;
+}
+
+/* Jobs Button */
+
+#buttonjo {
+	border: 1px solid #404040;
+	background: url("/images/buttons/jobs.svg") no-repeat #85DDFE;
+	background-size: 100px 75px;
+	background-position: 50% 10%;
+	color: #404040;
+}
+
+#buttonjo .buttonbottom {
+	border-top: 1px solid #404040;
+	background: linear-gradient(to bottom, #C3EEFE 0%, #85DDFE 50%, #C3EEFE 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+/* myGalaxy Button */
+
+#buttonga {
+	border: 1px solid #041B4A;
+	background: url("/images/buttons/mygalaxy.svg") #000000;
+	background-size: 100px 80px;
+	color: #E7E7EC;
+}
+
+#buttonga .buttonbottom {
+	border-top: 1px solid #041B4A;
+	background: linear-gradient(to bottom, #1B3873 0%, #000 50%, #8BA7E2 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonga:hover{
+	box-shadow: 0 0 5px #858585, inset 0 0 15px #858585;
+}
+
+
+/* Directory and Courses */
+
+* {
+	box-sizing: border-box;
+}
+
+#directory {
+	background: #F2E6C8;
+	border: 1px solid rgba(105, 76, 7, 0.4);
+	border-radius: 4px;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+	width: 80%;
+	margin: 0 auto 20px auto;
+}
+
+#directory .contenthead {
+	margin: 0;
+}
+
+.footable-details.directorylist {
+	border-top: none;
+}
+
+div.form-group.footable-filtering-search, .footable .form-inline .input-group .form-control, table.footable>thead>tr.footable-filtering>th div.input-group {
+	width: 100% !important;
+}
+
+tr.footable-filtering th {
+	border-top: none !important;
+}
+
+.footable .form-control {
+	font-size: 16px !important;
+}
+
+.footable .btn-primary {
+	background: #B8A36E !important;
+	border-color: #9D864D !important;
+}
+
+.footable .btn-primary:hover {
+	background: #AB9255 !important;
+}
+
+tr.footable-filtering:hover, tr.footable-paging:hover {
+	background: #F2E6C8 !important;
+}
+
+.directorylist {
+	border-collapse: collapse;
+	width: 100%;
+	font-size: 16px;
+}
+
+.directorylist tr.header, .directorylist tr.header:hover {
+	background: #453205;
+	color: #F8F3E6;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+.directorylist th, .directorylist td {
+	text-align: left;
+	padding: 12px;
+}
+
+.directorylist tr td, .directorylist tr th {
+	border-top: 1px solid rgba(105,76,7,0.22);
+}
+
+.directorylist tr:last-child td {
+	border-bottom: 1px solid rgba(105, 76, 7, 0.22);
+}
+
+tr.footable-paging td {
+	border-bottom: none !important;
+}
+
+table.footable-paging-center>tfoot>tr.footable-paging>td {
+	padding: 0;
+}
+
+.footable .pagination>li:last-child>a, .footable .pagination>li:last-child>span {
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+
+.directorylist tr:hover {
+	background-color: #D4C7A6;
+}
+
+.rightlink {
+	margin-right: 10px;
+}
+
+.footable .pagination>.active>a, .footable .pagination>.active>a:focus, .footable .pagination>.active>a:hover, .footable .pagination>.active>span, .footable .pagination>.active>span:focus, .footable .pagination>.active>span:hover {
+	background: #B8A36E !important;
+	border-color: #9D864D !important;
+}
+
+.footable .pagination>li>a, .footable .pagination>li>span {
+	color: #9D864D !important;
+}
+
+.footable .pagination>.active>a, .footable .pagination>.active>a:focus, .footable .pagination>.active>a:hover, .footable .pagination>.active>span, .footable .pagination>.active>span:focus, .footable .pagination>.active>span:hover {
+	color: #fff !important;
+}
+
+.footable .pagination>.disabled>a, .footable .pagination>.disabled>a:focus, .footable .pagination>.disabled>a:hover, .footable .pagination>.disabled>span, .footable .pagination>.disabled>span:focus, .footable .pagination>.disabled>span:hover {
+	color: #777 !important;
+}
+
+.footable .label-default {
+	background: #9D864D !important;
+}
+
+.excelexport {
+	background-image: url("/images/buttons/excel.png");
+	background-color: #217346;
+	background-size: 20px 20px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	border: none;
+	border-radius: 0 4px 0 0;
+	height: 32px;
+	width: 33px;
+	position: relative;
+	margin-top: -14px;
+	top: 9px;
+	left: 10px;
+	padding: 1px;
+}
+
+ul.contenthead .excelexport{
+	float: right;
+	left: 0;
+}
+
+.excelexport:hover {
+	background-color: #195534;
+	cursor: pointer;
+}
+
+.excelexport:active {
+	background-color: #15492d;
+}
+
+#rowcount {
+	text-align: center;
+	margin: 10px;
+	color: #5D4F2D;
+}
+
+#rowcount ul {
+	display: inline-block;
+	padding-left: 0;
+	margin: 20px 0;
+	border-radius: 4px;
+}
+
+#rowcount ul li {
+	display: inline;
+	float: left;
+	line-height: 32px;
+}
+
+#rowcount ul li:nth-child(2) button {
+	margin-left: 5px;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+
+#rowcount ul li:last-child button {
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+
+#rowcount ul li button {
+	position: relative;
+	float: left;
+	padding: 6px 12px;
+	margin-left: -3px;
+	line-height: 1.42857143;
+	color: #9D864D;
+	text-decoration: none;
+	background-color: #fff;
+	border: 1px solid #ddd;
+}
+
+#rowcount ul li button:hover {
+	background-color: #eee;
+	border-color: #ddd;
+	cursor: pointer;
+}
+
+/* Full Content Pages */
+
+#fullwidth {
+	background: #F2E6C8;
+	border: 1px solid rgba(105, 76, 7, 0.4);
+	border-radius: 4px;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+	width: 70%;
+	margin: 0 auto 20px auto;
+}
+
+.fullcontent {
+	margin-bottom: 10px;
+}
+
+/* Photo Galleries */
+
+ul.contenthead {
+	list-style: none;
+	overflow: hidden;
+}
+
+.contenthead li {
+	float: left;
+	margin-top: -18.5px;
+	margin-bottom: -19px;
+	margin-right: 20px;
+}
+
+.contenthead li a {
+	position: relative;
+	display: block;
+	float: left;
+	color: #453205;
+	text-decoration: none;
+	z-index: 3;
+	margin-left: -10px;
+	padding-left: 10px;
+}
+
+.contenthead li a::after { 
+	content: " "; 
+	display: block;
+	width: 0; 
+	height: 0;
+	border-top: 22px solid transparent; /* Go big on the size, and let overflow hide */
+	border-bottom: 22px solid transparent;
+	border-left: 12px solid #D4C7A6;
+	position: absolute;
+	top: 50%;
+	margin-top: -22px;
+	left: 100%;
+	z-index: 2;
+}
+
+.contenthead li a::before { 
+	content: " "; 
+	display: block; 
+	width: 0; 
+	height: 0;
+	border-top: 22px solid transparent;       
+	border-bottom: 22px solid transparent;
+	border-left: 12px solid rgba(105, 76, 7, 0.49);
+	position: absolute;
+	top: 50%;
+	margin-top: -22px;
+	margin-left: 1px;
+	left: 100%;
+	z-index: 1; 
+}
+
+.contenthead li a:hover { 
+  background: #C4B285; 
+}
+.contenthead li a:hover:after { 
+  border-left-color: #C4B285 !important; 
+}
+
+.contenthead li a:active { 
+  background: #9D854B; 
+}
+.contenthead li a:active:after { 
+  border-left-color: #9D854B !important; 
+}
+
+.column {
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
+
+.column img {
+    opacity: 0.8; 
+    cursor: pointer;
+	border: 2px solid #E9D6A6;
+}
+
+.column img:hover {
+    opacity: 1;
+}
+
+.row {
+	visibility: hidden;
+}
+
+div.loading {
+	vertical-align: middle;
+	text-align: center;
+	position: relative;
+}
+div.loading > span.fooicon {
+	display: inline-block;
+	opacity: 0.3;
+	font-size: 30px;
+	line-height: 32px;
+	width: 32px;
+	height: 32px;
+	margin-top: -16px;
+	margin-left: -16px;
+	position: absolute;
+	margin-top: 50px;
+	left: 50%;
+	-webkit-animation: fooicon-spin-r 2s infinite linear;
+	animation: fooicon-spin-r 2s infinite linear;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.expandedImg {
+    position: relative;
+    display: none;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.expandedImg img {
+	border: 2px solid #E9D6A6;
+}
+
+.imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.closebtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.closebtn:hover {
+	color: #D4C7A6 !important;
+}
+
+.opacity-off {
+	opacity: 1 !important;
+}
+
+.leftphotobutton, .rightphotobutton {
+	color: #fff !important;
+	background: transparent;
+	font-size: 24px;
+	position: absolute;
+	top: 50%;
+	transform: translate(0%, -50%);
+	-ms-transform: translate(-0%, -50%);
+	border: none;
+	display: inline-block;
+	outline: 0;
+	padding: 8px 16px;
+	vertical-align: middle;
+	overflow: hidden;
+	text-decoration: none;
+	text-align: center;
+	cursor: pointer;
+	white-space: nowrap;
+}
+
+.leftphotobutton:hover, .rightphotobutton:hover {
+	color: #D4C7A6 !important;
+}
+
+.leftphotobutton {
+	left: 0%;
+}
+
+.rightphotobutton {
+	right: 0%;
+}
+
+.printbutton {
+	position: absolute;
+	height: 20px;
+	width: 20px;
+    bottom: 15px;
+    right: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.printbutton:hover {
+	color: #D4C7A6
+}
+
+/* About Pages */
+
+.about-image img {
+	float: right;
+	width: 50%;
+	margin: 5px 5px 10px 10px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.google-maps {
+	padding-top: 20px;
+}
+
+.google-maps iframe {
+	display: block;
+	margin: 0 auto;
+	outline: 1px solid rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+/* Donate Page */
+
+#donate {
+	text-align: center;
+}
+
+#donate img {
+	width: 20%;
+}
+
+/* Jobs Page */
+
+#jobs {
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#jobs img {
+	width: 20%;
+	margin: 10px;
+}
+
+/* Government Page */
+
+.government, .representatives {
+	justify-content: center;
+	min-height: 500px;
+}
+
+#buttonpt, #buttonvp, #buttontr, #buttonsy{
+	display: flex;
+	height: 150px;
+	width: 200px;
+	flex-direction: column;
+	justify-content: flex-end;
+	text-decoration: none;
+	margin: 39px 20px 40px 20px;
+}
+
+.govtbtntop {
+	text-align: center;
+	position: relative;
+	top: -100px;
+	font-size: 14px;
+	background: #252525;
+	background: none\9;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+}
+
+.govtbtnbottom {
+	text-align: center;
+	margin: -83px 0 25px 0;
+	font-size: 15px;
+	background: #252525;
+	background: none\9;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+	color: #252525\9;
+    text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+}
+
+#buttonpt {
+	background: url("/images/buttons/president.png");
+	background-size: 200px 150px;
+}
+
+#buttonvp {
+	background: url("/images/buttons/vicepresident.png");
+	background-size: 200px 150px;
+}
+
+#buttontr {
+	background: url("/images/buttons/treasury.png");
+	background-size: 200px 150px;
+}
+
+#buttonsy {
+	background: url("/images/buttons/secretary.png");
+	background-size: 200px 150px;
+}
+
+#buttonfr, #buttonso, #buttonju, #buttonsr{
+	display: flex;
+	height: 180px;
+	width: 144px;
+	flex-direction: column;
+	justify-content: flex-end;
+	text-decoration: none;
+	margin: 20px;
+}
+
+.repbtntop {
+	text-align: center;
+	position: relative;
+	top: -105px;
+	font-size: 16px;
+	background: #0E0E0E;
+	background: none\9;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+	color: #252525\9;
+    text-shadow: rgba(255,255,255,0.5) 0px 1px 2px;
+}
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+   .govtbtntop, .govtbtnbottom, .repbtntop { background: none; color: #252525; }
+}
+
+@media screen and (min-width:0\0) {
+	.govtbtntop, .govtbtnbottom, .repbtntop { background: none; color: #252525; }
+}
+
+.repbtnbottom {
+	text-align: center;
+	margin: -55px 0 17px 0;
+	font-size: 18px;
+	text-shadow: 0px 1px 1px #000;
+}
+
+#buttonfr {
+	background: url("/images/buttons/freshman.png");
+	background-size: 144px 180px;
+}
+
+#buttonso {
+	background: url("/images/buttons/sophomore.png");
+	background-size: 144px 180px;
+}
+
+#buttonju {
+	background: url("/images/buttons/junior.png");
+	background-size: 144px 180px;
+}
+
+#buttonsr {
+	background: url("/images/buttons/senior.png");
+	background-size: 144px 180px;
+}
+
+#buttonfr .repbtnbottom {
+	color: #6D8C61;
+}
+
+#buttonso .repbtnbottom {
+	color: #E0983E;
+}
+
+#buttonju .repbtnbottom {
+	color: #5A8EAA;
+}
+
+#buttonsr .repbtnbottom {
+	color: #A83B3B;
+}
+
+#govtresults {
+	background: #F2E6C8;
+	border: 1px solid rgba(105, 76, 7, 0.4);
+	border-radius: 4px;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+	width: 80%;
+	clear: both;
+	margin: 0 auto 20px auto;
+}
+
+#govtresults .fullcontent {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+}
+
+.piechart_3d {
+	margin: 0 -60px 0 -60px;
+}
+
+.piechart_3d rect {
+	fill: none;
+}
