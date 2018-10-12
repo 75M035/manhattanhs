@@ -8,7 +8,7 @@ include("includes/header.php");
 	<div id="content">
 		<div id="left">
 			<div class="contentleft">
-				<h3 class="contenthead">Camping Trip - June 4, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
+				<h3 class="contenthead">Test - June 4, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<p>On May 24 and 25 Mr. Wybaillie took students from the Main and Beacon sites on an overnight camping trip. We all had a lot of fun and practiced some great living environment skills!</p>
 					<div class="news-photo"><img src="/images/news/06_04_2018_Camping_Trip.jpg"></div>
