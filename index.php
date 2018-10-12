@@ -8,7 +8,7 @@ include("includes/header.php");
 	<div id="content">
 		<div id="left">
 			<div class="contentleft">
-				<h3 class="contenthead">Test - June 4, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
+				<h3 class="contenthead">Camping Trip - June 4, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<p>On May 24 and 25 Mr. Wybaillie took students from the Main and Beacon sites on an overnight camping trip. We all had a lot of fun and practiced some great living environment skills!</p>
 					<div class="news-photo"><img src="/images/news/06_04_2018_Camping_Trip.jpg"></div>
@@ -66,6 +66,7 @@ include("includes/header.php");
 				<h3 class="contentheadright">Reminders</h3>
 				<div class="sidecontent">
 					<p><span class="all-label">All</span> Marking Period 1 grades for Term 1 are due November 12. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
+					<p><span class="main-label">Main</span><span class="beacon-label">Beacon</span> Next senior dues installment is due 10/12/18. Contact <a href="mailto:twatkin@schools.nyc.gov">Ms Watkins</a> with any questions</p>
 					<p><span class="beacon-label">Beacon</span> Anyone interested in donating Legos for science projects should see <a href="mailto:lrojas2@schools.nyc.gov">Ms. Rojas</a> in room 204.</p>
 					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:MMedina25@schools.nyc.gov">Ms. Medina</a>, <a href="mailto:KWhite25@schools.nyc.gov">Ms. Hughes</a>, or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
@@ -73,11 +74,11 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/4/18</span> <br />Staff report</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/5/18</span> <br />First day of school</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/10/18 - 9/11/18</span> <br />Rosh Hashanah (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/19/18</span> <br />Yom Kippur (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">10/8/18</span> <br />Columbus Day (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/6/18</span> <br />Election Day (staff report)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/12/18</span> <br />Veterans Day (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/22/18-11/23/18</span> <br />Thanksgiving Break (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/18-1/1/19</span> <br />Winter Break (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">1/21/18</span> <br />Martin Luther King Jr. Day (school closed)</p>
 				</div>
 			</div>
 			<div class="contentright">
