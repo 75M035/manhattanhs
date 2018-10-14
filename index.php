@@ -24,14 +24,6 @@ include("includes/header.php");
 				</div>
 			</div>
 			<div class="contentleft">
-				<h3 class="contenthead">Snow Day - March 20, 2018 <span class="labels"><span class="all-label">All</span></span></h3>
-				<div class="maincontent">
-					<p>Due to expected severe weather conditions, all New York City district schools will be closed Wednesday, March 21, 2018. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
-					<p>SAT School Day administration will be postponed to Tuesday, April 24, 2018.</p>
-					<p>Additional information is available <a href="http://schools.nyc.gov/Offices/mediarelations/NewsandSpeeches/2017-2018/NYC+Public+Schools+Closed+Wednesday+March+21+Due+to+Severe+Weather+Conditions.htm" target="_blank">here</a>.</p>
-				</div>
-			</div>
-			<div class="contentleft">
 				<h3 class="contenthead">NBA Game - February 14, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/02_14_2018_Nets_Game.jpg"></div>
