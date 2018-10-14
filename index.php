@@ -24,6 +24,14 @@ include("includes/header.php");
 				</div>
 			</div>
 			<div class="contentleft">
+				<h3 class="contenthead">Snow Day - March 20, 2018 <span class="labels"><span class="all-label">All</span></span></h3>
+				<div class="maincontent">
+					<p>Due to expected severe weather conditions, all New York City district schools will be closed Wednesday, March 21, 2018. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
+					<p>SAT School Day administration will be postponed to Tuesday, April 24, 2018.</p>
+					<p>Additional information is available <a href="http://schools.nyc.gov/Offices/mediarelations/NewsandSpeeches/2017-2018/NYC+Public+Schools+Closed+Wednesday+March+21+Due+to+Severe+Weather+Conditions.htm" target="_blank">here</a>.</p>
+				</div>
+			</div>
+			<div class="contentleft">
 				<h3 class="contenthead">NBA Game - February 14, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/02_14_2018_Nets_Game.jpg"></div>
@@ -66,6 +74,7 @@ include("includes/header.php");
 				<h3 class="contentheadright">Reminders</h3>
 				<div class="sidecontent">
 					<p><span class="all-label">All</span> Marking Period 1 grades for Term 1 are due November 12. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> Next senior dues deposit is due 10/19/18. Contact <a href="mailto:twatkin@schools.nyc.gov">Ms Watkins</a> with any questions</p>
 					<p><span class="beacon-label">Beacon</span> Anyone interested in donating Legos for science projects should see <a href="mailto:lrojas2@schools.nyc.gov">Ms. Rojas</a> in room 204.</p>
 					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:MMedina25@schools.nyc.gov">Ms. Medina</a>, <a href="mailto:KWhite25@schools.nyc.gov">Ms. Hughes</a>, or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
@@ -73,11 +82,13 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/4/18</span> <br />Staff report</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/5/18</span> <br />First day of school</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/10/18 - 9/11/18</span> <br />Rosh Hashanah (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/19/18</span> <br />Yom Kippur (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">10/8/18</span> <br />Columbus Day (school closed)</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">10/25/18</span> <br />Hunter College Tour</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/5/18</span> <br />LaGuardia College Tour</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/6/18</span> <br />Election Day (staff report)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/12/18</span> <br />Veterans Day (school closed)</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/15/18</span> <br />City College of New York Tour</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/16/18</span> <br />College Fair at NJIT</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/22/18-11/23/18</span> <br />Thanksgiving Break (school closed)</p>
 				</div>
 			</div>
 			<div class="contentright">
