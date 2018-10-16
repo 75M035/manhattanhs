@@ -6,7 +6,7 @@ include("includes/header.php");
 ?>
 	
 <div id="directory">
-<h3 class="contenthead">test2018-2019 Staff Directory<span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button"></button></span></h3>	
+<h3 class="contenthead">2018-2019 Staff Directory<span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button"></button></span></h3>	
 <table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)">
 	<thead>
 		<tr class="header">
