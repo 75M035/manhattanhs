@@ -68,7 +68,7 @@ include("includes/header.php");
 				<td>Beacon</td>
 			</tr>
 			<tr>
-				<td>AP Calculus BC</td>
+				<td><a href="/syllabi/2018_1/AP_Calculus_BC_Syllabus_Roberts.pdf" target="_blank">AP Calculus BC</a></td>
 				<td>Mathematics</td>
 				<td>Roberts</td>
 				<td>216</td>
