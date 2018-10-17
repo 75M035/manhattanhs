@@ -54,7 +54,7 @@ $path .= "/includes/header.php";
 				<td>Main</td>
 			</tr>
 			<tr>
-				<td><a href="/syllabi/2017_1/Algebra_I_1_4_Syllabus_Jin.pdf" target="_blank">Algebra I 3/4</a></td>
+				<td><a href="/syllabi/2017_1/Algebra_I_3_4_Syllabus_Jin.pdf" target="_blank">Algebra I 3/4</a></td>
 				<td>Mathematics</td>
 				<td>Jin</td>
 				<td>216</td>
