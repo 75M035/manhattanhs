@@ -60,7 +60,7 @@ include("includes/header.php");
 				<td>Beacon</td>
 			</tr>
 			<tr>
-				<td>Anatomy</td>
+				<td><a href="/syllabi/2018_1/Anatomy_Syllabus_Rojas.pdf" target="_blank">Anatomy</a></td>
 				<td>Life Science</td>
 				<td>Rojas</td>
 				<td>204</td>
