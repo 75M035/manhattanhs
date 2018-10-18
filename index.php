@@ -8,6 +8,13 @@ include("includes/header.php");
 	<div id="content">
 		<div id="left">
 			<div class="contentleft">
+				<h3 class="contenthead">College Application Week - October 18, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
+				<div class="maincontent">
+					<div class="news-photo"><img src="/images/news/college_application_week.jpg"></div>
+					<p>The week of October 22 is College Application Week. Seniors should fill out at least 1 application. For assisstance, please see <a href="mailto:twatkins@schools.nyc.gov">Ms. Watkins</a> at the Beacon Site or <a href="mailto:vrankins@schools.nyc.gov">Ms. Rankins</a> at the Main Site. More information about the college application process is available <a href="https://startheregetthere.org">here</a>.</p>
+				</div>
+			</div>
+			<div class="contentleft">
 				<h3 class="contenthead">Camping Trip - June 4, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<p>On May 24 and 25 Mr. Wybaillie took students from the Main and Beacon sites on an overnight camping trip. We all had a lot of fun and practiced some great living environment skills!</p>
@@ -74,11 +81,13 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/4/18</span> <br />Staff report</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/5/18</span> <br />First day of school</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/10/18 - 9/11/18</span> <br />Rosh Hashanah (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/19/18</span> <br />Yom Kippur (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">10/8/18</span> <br />Columbus Day (school closed)</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">10/25/18</span> <br />Hunter College Tour</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/5/18</span> <br />LaGuardia College Tour</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/6/18</span> <br />Election Day (staff report)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/12/18</span> <br />Veterans Day (school closed)</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/15/18</span> <br />City College Tour</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/16/18</span> <br />College Fair at NJIT</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/22/18-11/23/18</span> <br />Thanksgiving Break (school closed)</p>
 				</div>
 			</div>
 			<div class="contentright">
