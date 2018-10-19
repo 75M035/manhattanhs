@@ -30,7 +30,7 @@ $path .= "/includes/header.php";
 				<a href="/images/photos/2018_2019/PepRally_2018/peprally_2018_2.jpg" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
-				<div class="imgtext">NBA Game 2</div>
+				<div class="imgtext">Pep Rally 2</div>
 			</div>
 			
 			<div id="Pep Rally 3" class="expandedImg">
@@ -41,7 +41,7 @@ $path .= "/includes/header.php";
 				<a href="/images/photos/2018_2019/PepRally_2018/peprally_2018_3.jpg.jpeg" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
-				<div class="imgtext">NBA Game 3</div>
+				<div class="imgtext">Pep Rally 3</div>
 			</div>
 			
 			<div id="Pep Rally 4" class="expandedImg">
@@ -52,7 +52,7 @@ $path .= "/includes/header.php";
 				<a href="/images/photos/2018_2019/PepRally_2018/peprally_2018_4.jpg" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
-				<div class="imgtext">NBA Game 4</div>
+				<div class="imgtext">Pep Rally 4</div>
 			</div>
 			<div id="Pep Rally 5" class="expandedImg">
 				<img src="/images/photos/2018_2019/PepRally_2018/peprally_2018_5_lg.jpg" alt="Pep Rally 5" style="width:100%">
@@ -62,7 +62,7 @@ $path .= "/includes/header.php";
 				<a href="/images/photos/2018_2019/PepRally_2018/peprally_2018_5.jpg" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
-				<div class="imgtext">NBA Game 5</div>
+				<div class="imgtext">Pep Rally 5</div>
 			</div>
 			
 			<script>
