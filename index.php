@@ -11,7 +11,7 @@ include("includes/header.php");
 				<h3 class="contenthead">College Application Week - October 18, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/college_application_week.jpg"></div>
-					<p>The week of October 22 is College Application Week. Seniors should fill out at least 1 application. For assisstance, please see <a href="mailto:twatkins@schools.nyc.gov">Ms. Watkins</a> at the Beacon Site or <a href="mailto:vrankins@schools.nyc.gov">Ms. Rankins</a> at the Main Site. More information about the college application process is available <a href="https://startheregetthere.org">here</a>.</p>
+					<p>The week of October 22 is College Application Week. Seniors should fill out at least 1 application. For assisstance, please see <a href="mailto:twatkins@schools.nyc.gov">Ms. Watkins</a> at the Beacon Site or <a href="mailto:vrankins@schools.nyc.gov">Ms. Rankins</a> at the Main Site. More information about the college application process is available <a href="https://startheregetthere.org" target="_blank">here</a>.</p>
 				</div>
 			</div>
 			<div class="contentleft">
