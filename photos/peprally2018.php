@@ -23,43 +23,43 @@ $path .= "/includes/header.php";
 			</div>
 			
 			<div id="Pep Rally 2" class="expandedImg">
-				<img src="/images/photos/2018_2019/PepRally_2018/peprally_2018_2_lg.jpg" alt="Pep Rally 2" style="width:100%">
+				<img src="/images/photos/2018_2019/peprally_2018/peprally_2018_2_lg.jpg" alt="Pep Rally 2" style="width:100%">
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/PepRally_2018/peprally_2018_2.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/peprally_2018/peprally_2018_2.JPG" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Pep Rally 2</div>
 			</div>
 			
 			<div id="Pep Rally 3" class="expandedImg">
-				<img src="/images/photos/2018_2019/PepRally_2018/peprally_2018_3_lg.jpg" alt="Pep Rally 3" style="width:100%">
+				<img src="/images/photos/2018_2019/peprally_2018/peprally_2018_3_lg.jpg" alt="Pep Rally 3" style="width:100%">
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/PepRally_2018/peprally_2018_3.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/peprally_2018/peprally_2018_3.JPG" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Pep Rally 3</div>
 			</div>
 			
 			<div id="Pep Rally 4" class="expandedImg">
-				<img src="/images/photos/2018_2019/PepRally_2018/peprally_2018_4_lg.jpg" alt="Pep Rally 4" style="width:100%">
+				<img src="/images/photos/2018_2019/peprally_2018/peprally_2018_4_lg.jpg" alt="Pep Rally 4" style="width:100%">
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/PepRally_2018/peprally_2018_4.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/peprally_2018/peprally_2018_4.JPG" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Pep Rally 4</div>
 			</div>
 			<div id="Pep Rally 5" class="expandedImg">
-				<img src="/images/photos/2018_2019/PepRally_2018/peprally_2018_5_lg.jpg" alt="Pep Rally 5" style="width:100%">
+				<img src="/images/photos/2018_2019/peprally_2018/peprally_2018_5_lg.jpg" alt="Pep Rally 5" style="width:100%">
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/PepRally_2018/peprally_2018_5.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/peprally_2018/peprally_2018_5.JPG" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Pep Rally 5</div>
@@ -93,16 +93,16 @@ function showDivs(n) {
 					<img class="gallerythumbnail" src="/images/photos/2018_2019/peprally_2018/peprally_2018_1_th.jpg" alt="Pep Rally 1" style="width:100%" onclick="currentDiv(1)">
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/PepRally_2018/peprally_2018_2_th.jpg" alt="Pep Rally 2" style="width:100%" onclick="currentDiv(2)">
+					<img class="gallerythumbnail" src="/images/photos/2018_2019/peprally_2018/peprally_2018_2_th.jpg" alt="Pep Rally 2" style="width:100%" onclick="currentDiv(2)">
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/PepRally_2018/peprally_2018_3_th.jpg" alt="Pep Rally 3" style="width:100%" onclick="currentDiv(3)">
+					<img class="gallerythumbnail" src="/images/photos/2018_2019/peprally_2018/peprally_2018_3_th.jpg" alt="Pep Rally 3" style="width:100%" onclick="currentDiv(3)">
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/PepRally_2018/peprally_2018_4_th.jpg" alt="Pep Rally 4" style="width:100%" onclick="currentDiv(4)">
+					<img class="gallerythumbnail" src="/images/photos/2018_2019/peprally_2018/peprally_2018_4_th.jpg" alt="Pep Rally 4" style="width:100%" onclick="currentDiv(4)">
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/PepRally_2018/peprally_2018_5_th.jpg" alt="Pep Rally 5" style="width:100%" onclick="currentDiv(5)">
+					<img class="gallerythumbnail" src="/images/photos/2018_2019/peprally_2018/peprally_2018_5_th.jpg" alt="Pep Rally 5" style="width:100%" onclick="currentDiv(5)">
 				</div>
 			</div>
 			
