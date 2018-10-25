@@ -81,13 +81,13 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">10/25/18</span> <br />Hunter College Tour</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/5/18</span> <br />LaGuardia College Tour</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/6/18</span> <br />Election Day (staff report)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/12/18</span> <br />Veterans Day (school closed)</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/15/18</span> <br />City College Tour</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/16/18</span> <br />College Fair at NJIT</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/22/18-11/23/18</span> <br />Thanksgiving Break (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/18-1/1/19</span> <br />Winter Break (school closed)</p
 				</div>
 			</div>
 			<div class="contentright">
