@@ -9,10 +9,12 @@ $path .= "/includes/header.php";
 
 	<div id="subcontent">
 		<div id="left">
+			
 			<div class="contentleft">
 				<h3 class="contenthead">2018-2019</h3>
 				<div class="maincontent">
-					<a href="photos/peprally2018.php" class="buttonab" style="background-image: url(images/photos/2018_2019/peprally_2018/peprally_2018_1_th.jpg)"><div class="buttontop"></div><div class="buttonbottom">Pep Rally</div></a>
+					<a href="photos/halloween2018.php" class="buttonab" style="background-image: url(images/photos/2018_2019/halloween2018/halloween2018_beacon_1_th.jpg)"><div class="buttontop"></div><div class="buttonbottom">Halloween</div></a>
+					<a href="photos/halloween2018.php" class="buttonab" style="background-image: url(images/photos/2018_2019/peprally_2018/peprally_2018_1_th.jpg)"><div class="buttontop"></div><div class="buttonbottom">Halloween</div></a>
 				</div>
 			</div>
 			<div class="contentleft">
