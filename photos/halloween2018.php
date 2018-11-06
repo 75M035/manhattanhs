@@ -128,14 +128,6 @@ function showDivs(n) {
 					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5th.jpg" alt="Halloween 5" style="width:100%" onclick="currentDiv(5)">
 				</div>
 			</div>
-			<div class="row">
-				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6th.jpg" alt="Halloween 6" style="width:100%" onclick="currentDiv(6)">
-				</div>
-				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7th.jpg" alt="Halloween 7" style="width:100%" onclick="currentDiv(7)">
-				</div>
-			</div>
 			
 		<script>
 				$( window ).on( "load", function() {
