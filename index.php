@@ -72,7 +72,7 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Reminders</h3>
 				<div class="sidecontent">
-					<p><span class="all-label">All</span> Marking Period 1 grades for Term 1 are due November 12. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
+					<p><span class="all-label">All</span> Marking Period 2 grades for Term 1 are due January 28. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> The third senior dues installment is due by the end of November. Please contact <a href="mailto:mnegron2@schools.nyc.gov">Mr. Negron</a> with any questions.</p>
 					<p><span class="beacon-label">Beacon</span> Anyone interested in donating Legos for science projects should see <a href="mailto:lrojas2@schools.nyc.gov">Ms. Rojas</a> in room 204.</p>
 					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:MMedina25@schools.nyc.gov">Ms. Medina</a>, <a href="mailto:KWhite25@schools.nyc.gov">Ms. Hughes</a>, or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
@@ -81,8 +81,6 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/6/18</span> <br />Election Day (staff report)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/12/18</span> <br />Veterans Day (school closed)</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/15/18</span> <br />City College Tour</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/16/18</span> <br />College Fair at NJIT</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/22/18-11/23/18</span> <br />Thanksgiving Break (school closed)</p>
