@@ -33,8 +33,8 @@ $path .= "/includes/header.php";
 				<div class="imgtext">Halloween 2</div>
 			</div>
 			
-			<div id="Halloween 4" class="expandedImg">
-				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4lg.jpg" alt="Halloween 4" style="width:100%">
+			<div id="Halloween 3" class="expandedImg">
+				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4lg.jpg" alt="Halloween 3" style="width:100%">
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
@@ -44,8 +44,8 @@ $path .= "/includes/header.php";
 				<div class="imgtext">Halloween 4</div>
 			</div>
 			
-			<div id="Halloween 5" class="expandedImg">
-				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5lg.jpg" alt="Halloween 5" style="width:100%">
+			<div id="Halloween 4" class="expandedImg">
+				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5lg.jpg" alt="Halloween 4" style="width:100%">
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
@@ -55,8 +55,8 @@ $path .= "/includes/header.php";
 				<div class="imgtext">Halloween 5</div>
 			</div>
 			
-			<div id="Halloween 6" class="expandedImg">
-				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6lg.jpg" alt="Halloween 6" style="width:100%">
+			<div id="Halloween 5" class="expandedImg">
+				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6lg.jpg" alt="Halloween 5" style="width:100%">
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
@@ -66,8 +66,8 @@ $path .= "/includes/header.php";
 				<div class="imgtext">Halloween 6</div>
 			</div>
 			
-			<div id="Halloween 7" class="expandedImg">
-				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7lg.jpg" alt="Halloween 7" style="width:100%">
+			<div id="Halloween 6" class="expandedImg">
+				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7lg.jpg" alt="Halloween 6" style="width:100%">
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
@@ -108,16 +108,16 @@ function showDivs(n) {
 					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_2th.jpg" alt="Halloween 2" style="width:100%" onclick="currentDiv(2)">
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4th.jpg" alt="Halloween 4" style="width:100%" onclick="currentDiv(4)">
+					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4th.jpg" alt="Halloween 3" style="width:100%" onclick="currentDiv(3)">
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5th.jpg" alt="Halloween 5" style="width:100%" onclick="currentDiv(5)">
+					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5th.jpg" alt="Halloween 4" style="width:100%" onclick="currentDiv(4)">
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6th.jpg" alt="Halloween 6" style="width:100%" onclick="currentDiv(6)">
+					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6th.jpg" alt="Halloween 5" style="width:100%" onclick="currentDiv(5)">
 				</div>
-				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7th.jpg" alt="Halloween 7" style="width:100%" onclick="currentDiv(7)">
+				<div class="column" style="margin-right:50%">
+					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7th.jpg" alt="Halloween 6" style="width:100%" onclick="currentDiv(6)">
 				</div>
 				
 			</div>
