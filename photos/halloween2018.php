@@ -119,8 +119,6 @@ function showDivs(n) {
 				<div class="column">
 					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7th.jpg" alt="Halloween 6" style="width:100%" onclick="currentDiv(6)">
 				</div>
-				
-			</div>
 			</div>
 			
 		<script>
