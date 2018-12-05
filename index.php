@@ -85,7 +85,7 @@ include("includes/header.php");
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/16/18</span> <br />College Fair at NJIT</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/22/18-11/23/18</span> <br />Thanksgiving Break (school closed)</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/29/18-11/30/18</span> <br />Parent-Teacher Conferences</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/18-1/1/19</span> <br />Winter Break (school closed)</p
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/18-1/1/19</span> <br />Winter Break (school closed)</p>
 				</div>
 			</div>
 			<div class="contentright">
