@@ -214,7 +214,7 @@ include("includes/header.php");
 	<tr>
 		<td>Emily Clark</td>
 		<td>Inclusion Coordinator</td>
-		<td>213C</td>
+		<td>213B</td>
 		<td>2132</td>
 		<td><a href="mailto:eclark11@schools.nyc.gov">eclark11@schools.nyc.gov</a></td>
 		<td>Beacon</td>
@@ -410,14 +410,6 @@ include("includes/header.php");
 		<td></td>
 		<td><a href="mailto:dgomez9@schools.nyc.gov">dgomez9@schools.nyc.gov</a></td>
 		<td>Main</td>
-	</tr>
-	<tr>
-		<td>Rosa Gomez</td>
-		<td>Educational Assistant</td>
-		<td></td>
-		<td></td>
-		<td><a href="mailto:rgomez2@schools.nyc.gov">rgomez2@schools.nyc.gov</a></td>
-		<td>Beacon</td>
 	</tr>
 	<tr>
 		<td>Sohad Gonzalez</td>
@@ -860,6 +852,14 @@ include("includes/header.php");
 		<td>Bellevue</td>
 	</tr>
 	<tr>
+		<td>Nancy Singer</td>
+		<td>Social Worker</td>
+		<td>213A</td>
+		<td>2131</td>
+		<td><a href="mailto:nsinger@schools.nyc.gov">nsinger@schools.nyc.gov</a></td>
+		<td>Beacon</td>
+	</tr>
+	<tr>
 		<td>Henrietta Smith</td>
 		<td>Educational Assistant</td>
 		<td></td>
@@ -1026,14 +1026,6 @@ include("includes/header.php");
 		<td></td>
 		<td><a href="mailto:hxiao2@schools.nyc.gov">hxiao2@schools.nyc.gov</a></td>
 		<td>Bellevue</td>
-	</tr>
-	<tr>
-		<td>Kate Zayko</td>
-		<td>Social Worker</td>
-		<td>213A</td>
-		<td>2131</td>
-		<td><a href="mailto:kzayko@schools.nyc.gov">kzayko@schools.nyc.gov</a></td>
-		<td>Beacon</td>
 	</tr>
 	<tr>
 		<td>James Zimmerman</td>
