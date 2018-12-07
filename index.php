@@ -8,6 +8,20 @@ include("includes/header.php");
 	<div id="content">
 		<div id="left">
 			<div class="contentleft">
+				<h3 class="contenthead">Shelter In - December 7, 2018 <span class="labels"><span class="beacon-label">Beacon</span></span></h3>
+				<div class="maincontent">
+					<p>Dear Parents/Guardians and Staff,</p>
+					<p>The safety and well-being of all students and staff members at P35M: Manhattan High School at The Beacon School remains our highest priority.  Towards that end, we are informing about an incident that took place today near our school today, during which no one was hurt.</p>
+					<p>At approximately 1:00 pm, a small engine fire occurred in an unoccupied school bus outside of the school building.  FDNY immediately responded to the scene.  Out of an abundance of caution, the school was placed in a shelter-in for approximately 15 minutes.  FDNY quickly addressed the issue, after which point the shelter-in was lifted.  A new school bus was assigned to transport students and service was not interrupted.</p>
+					<p>We assure you that every precaution was taken and will continue to be taken to ensure the safety of our students and staff.  I want to thank all students and staff for their cooperation during the shelter-in.</p>
+					<p>We look forward to your continued partnership as we work together to ensure that P35M: Manhattan High School at The Beacon School continues to provide the best and safest learning environment possible for all of its students and staff.</p>
+					<p>If you have any questions, please feel free to contact Assistant Principal Gavriel Berkovits at (212) 465-4390.</p>
+					<p>Sincerely yours,</p>
+					<p>Marta Barnett<br />
+					Principal</p>
+				</div>
+			</div>
+			<div class="contentleft">
 				<h3 class="contenthead">College Application Week - October 18, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<div class="news-image"><img src="/images/news/collegeappwk.png"></div>
@@ -81,17 +95,14 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-<<<<<<< HEAD
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/15/18</span> <br />City College Tour</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/16/18</span> <br />College Fair at NJIT</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/22/18-11/23/18</span> <br />Thanksgiving Break (school closed)</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/29/18-11/30/18</span> <br />Parent-Teacher Conferences</p>
-=======
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">12/10/18</span> <br /> Bronx Community College Tour</p>
 					<p><span class="beacon-label">Beacon</span> <span class="upcoming-date">12/11/18</span> <br /> New York Film Academy College Tour</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">12/17/18</span> <br /> Mercy College Tour</p>
 					<p><span class="beacon-label">Beacon</span> <span class="upcoming-date">12/18/18</span> <br /> Field Trip to Aviator Sports Complex</p>
->>>>>>> joseph
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/18-1/1/19</span> <br />Winter Break (school closed)</p>
 				</div>
 			</div>
