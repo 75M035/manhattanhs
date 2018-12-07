@@ -81,10 +81,17 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
+<<<<<<< HEAD
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/15/18</span> <br />City College Tour</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/16/18</span> <br />College Fair at NJIT</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/22/18-11/23/18</span> <br />Thanksgiving Break (school closed)</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/29/18-11/30/18</span> <br />Parent-Teacher Conferences</p>
+=======
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">12/10/18</span> <br /> Bronx Community College Tour</p>
+					<p><span class="beacon-label">Beacon</span> <span class="upcoming-date">12/11/18</span> <br /> New York Film Academy College Tour</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">12/17/18</span> <br /> Mercy College Tour</p>
+					<p><span class="beacon-label">Beacon</span> <span class="upcoming-date">12/18/18</span> <br /> Field Trip to Aviator Sports Complex</p>
+>>>>>>> joseph
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/18-1/1/19</span> <br />Winter Break (school closed)</p>
 				</div>
 			</div>
