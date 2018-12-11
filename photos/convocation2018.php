@@ -76,7 +76,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/convocation2018/convocation201875.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/convocation2018/convocation2018_7.jpg" class="printbutton" target="_blank">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Senior Convocation 7</div>
