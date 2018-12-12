@@ -340,6 +340,14 @@ include("includes/header.php");
 		<td>Bellevue</td>
 	</tr>
 	<tr>
+		<td>Alexandro Flores</td>
+		<td>Paraprofessional</td>
+		<td></td>
+		<td></td>
+		<td><a href="mailto:aflores21@schools.nyc.gov">aflores21@schools.nyc.gov</a></td>
+		<td>Beacon</td>
+	</tr>
+	<tr>
 		<td>Jessica Flores</td>
 		<td>Social Skills Teacher</td>
 		<td>222</td>
@@ -540,6 +548,14 @@ include("includes/header.php");
 		<td>Beacon</td>
 	</tr>
 	<tr>
+		<td>Anthony Marte</td>
+		<td>Paraprofessional</td>
+		<td></td>
+		<td></td>
+		<td><a href="mailto:amarte13@schools.nyc.gov">amarte13@schools.nyc.gov</a></td>
+		<td>Beacon</td>
+	</tr>
+	<tr>
 		<td>Michael McCarthy</td>
 		<td>Teacher</td>
 		<td></td>
@@ -604,6 +620,14 @@ include("includes/header.php");
 		<td>Main</td>
 	</tr>
 	<tr>
+		<td>Alex Murillo</td>
+		<td>Paraprofessional</td>
+		<td></td>
+		<td></td>
+		<td><a href="mailto:amurillo4@schools.nyc.gov">amurillo4@schools.nyc.gov</a></td>
+		<td>Beacon</td>
+	</tr>
+	<tr>
 		<td>Shannon Murphy</td>
 		<td>Speech Teacher</td>
 		<td>213</td>
@@ -640,7 +664,7 @@ include("includes/header.php");
 		<td>Jewish Board Clinical Director</td>
 		<td></td>
 		<td></td>
-		<td><a href="mailto:jrios@jbfcs.org">jrios@jbfcs.org</a></td>
+		<td><a href="mailto:sorellana@jbfcs.org">sorellana@jbfcs.org</a></td>
 		<td>Beacon</td>
 	</tr>
 	<tr>
@@ -788,14 +812,6 @@ include("includes/header.php");
 		<td>Beacon</td>
 	</tr>
 	<tr>
-		<td>Aleida Rosario</td>
-		<td>Educational Assistant</td>
-		<td></td>
-		<td></td>
-		<td><a href="mailto:arosario5@schools.nyc.gov">arosario5@schools.nyc.gov</a></td>
-		<td>Beacon</td>
-	</tr>
-	<tr>
 		<td>Leslie Rosenstein</td>
 		<td>Teacher</td>
 		<td></td>
@@ -865,6 +881,14 @@ include("includes/header.php");
 		<td></td>
 		<td></td>
 		<td><a href="mailto:hsmith5@schools.nyc.gov">hsmith5@schools.nyc.gov</a></td>
+		<td>Beacon</td>
+	</tr>
+	<tr>
+		<td>Cheryl Snow</td>
+		<td>School Psychologist</td>
+		<td></td>
+		<td></td>
+		<td><a href="mailto:csnow@schools.nyc.gov">csnow@schools.nyc.gov</a></td>
 		<td>Beacon</td>
 	</tr>
 	<tr>
@@ -1004,7 +1028,7 @@ include("includes/header.php");
 		<td>Beacon</td>
 	</tr>
 	<tr>
-		<td>Aaron Aja Woodson</td>
+		<td>Aja Aaron Woodson</td>
 		<td>IEP Coordinator</td>
 		<td>203C</td>
 		<td>2033</td>
