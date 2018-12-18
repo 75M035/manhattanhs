@@ -95,7 +95,6 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">12/17/18</span> <br /> Mercy College Tour</p>
 					<p><span class="beacon-label">Beacon</span> <span class="upcoming-date">12/18/18</span> <br /> Field Trip to Aviator Sports Complex</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/18-1/1/19</span> <br />Winter Break (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">1/21/19</span> <br /> Martin Luther King Jr. Day (school closed)</p>
