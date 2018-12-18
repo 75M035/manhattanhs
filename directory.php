@@ -70,7 +70,7 @@ include("includes/header.php");
 	<tr>
 		<td>Damon Avinger</td>
 		<td>Jewish Board Social Worker</td>
-		<td>217D</td>
+		<td>217E</td>
 		<td></td>
 		<td><a href="mailto:davinger@jbfcs.org">davinger@jbfcs.org</a></td>
 		<td>Beacon</td>
@@ -436,6 +436,14 @@ include("includes/header.php");
 		<td>Bellevue</td>
 	</tr>
 	<tr>
+		<td>Jeniffer Higgins</td>
+		<td>Jewish Board Social Worker</td>
+		<td>217D</td>
+		<td></td>
+		<td><a href="mailto:ssingh@jbfcs.org">ssingh@jbfcs.org</a></td>
+		<td>Beacon</td>
+	</tr>
+	<tr>
 		<td>Janice Huggins</td>
 		<td>Educational Assistant</td>
 		<td>204</td>
@@ -498,6 +506,14 @@ include("includes/header.php");
 		<td></td>
 		<td><a href="mailto:dking11@schools.nyc.gov">dking11@schools.nyc.gov</a></td>
 		<td>Main</td>
+	</tr>
+	<tr>
+		<td>Avery Klotsche</td>
+		<td>Jewish Board Social Worker</td>
+		<td></td>
+		<td></td>
+		<td><a href="mailto:aklotsche@jbfcs.org">aklotsche@jbfcs.org</a></td>
+		<td>Beacon</td>
 	</tr>
 	<tr>
 		<td>Marc Landas</td>
@@ -662,7 +678,7 @@ include("includes/header.php");
 	<tr>
 		<td>Silvia Orellana</td>
 		<td>Jewish Board Clinical Director</td>
-		<td></td>
+		<td>217F</td>
 		<td></td>
 		<td><a href="mailto:sorellana@jbfcs.org">sorellana@jbfcs.org</a></td>
 		<td>Beacon</td>
@@ -852,14 +868,6 @@ include("includes/header.php");
 		<td>Bellevue</td>
 	</tr>
 	<tr>
-		<td>Sonia Singh</td>
-		<td>Jewish Board Social Worker</td>
-		<td></td>
-		<td></td>
-		<td><a href="mailto:jrios@jbfcs.org">jrios@jbfcs.org</a></td>
-		<td>Beacon</td>
-	</tr>
-	<tr>
 		<td>Louis Simmons</td>
 		<td>Educational Assistant</td>
 		<td></td>
@@ -876,6 +884,14 @@ include("includes/header.php");
 		<td>Beacon</td>
 	</tr>
 	<tr>
+		<td>Sonia Singh</td>
+		<td>Jewish Board Social Worker</td>
+		<td>217B</td>
+		<td></td>
+		<td><a href="mailto:ssingh@jbfcs.org">ssingh@jbfcs.org</a></td>
+		<td>Beacon</td>
+	</tr>
+	<tr>
 		<td>Henrietta Smith</td>
 		<td>Educational Assistant</td>
 		<td></td>
@@ -884,10 +900,18 @@ include("includes/header.php");
 		<td>Beacon</td>
 	</tr>
 	<tr>
+		<td>Lily Smith</td>
+		<td>Jewish Board Social Worker</td>
+		<td></td>
+		<td></td>
+		<td><a href="mailto:ssingh@jbfcs.org">ssingh@jbfcs.org</a></td>
+		<td>Beacon</td>
+	</tr>
+	<tr>
 		<td>Cheryl Snow</td>
 		<td>School Psychologist</td>
-		<td></td>
-		<td></td>
+		<td>406</td>
+		<td>4061</td>
 		<td><a href="mailto:csnow@schools.nyc.gov">csnow@schools.nyc.gov</a></td>
 		<td>Beacon</td>
 	</tr>
