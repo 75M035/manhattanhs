@@ -96,8 +96,9 @@ include("includes/header.php");
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">1/10/19</span> <br /> Yearbook Picture Day</p>
+					<p> <span class="beacon-label">Beacon</span> <span class="upcoming-date">1/18/19</span> <br /> Music Concert</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">1/21/19</span> <br /> Martin Luther King Jr. Day (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">1/22/19-1/25/19</span> <br /> Regents Week</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">1/22/19-1/25/19</span> <br /> <a href="http://www.p12.nysed.gov/assessment/schedules/2019/504-119.pdf" target="_blank">Regents Week</a></p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">2/5/19</span> <br /> Lunar New Year (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">2/18/19-2/22/19</span> <br /> Midwinter Recess</p>
 				</div>
