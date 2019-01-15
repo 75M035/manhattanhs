@@ -8,9 +8,8 @@ include("includes/header.php");
 	<div id="content">
 		<div id="left">
 			<div class="contentleft">
-				<h3 class="contenthead">Shelter In - December 7, 2018 <span class="labels"><span class="beacon-label">Beacon</span></span></h3>
-				<div class="maincontent">
-					<p>Dear Parents/Guardians and Staff,</p>
+<div class="maincontent">
+	    <p>Dear Parents/Guardians and Staff,</p>
 					<p>The safety and well-being of all students and staff members at P35M: Manhattan High School at The Beacon School remains our highest priority.  Towards that end, we are informing about an incident that took place today near our school today, during which no one was hurt.</p>
 					<p>At approximately 1:00 pm, a small engine fire occurred in an unoccupied school bus outside of the school building.  FDNY immediately responded to the scene.  Out of an abundance of caution, the school was placed in a shelter-in for approximately 15 minutes.  FDNY quickly addressed the issue, after which point the shelter-in was lifted.  A new school bus was assigned to transport students and service was not interrupted.</p>
 					<p>We assure you that every precaution was taken and will continue to be taken to ensure the safety of our students and staff.  I want to thank all students and staff for their cooperation during the shelter-in.</p>
@@ -65,8 +64,9 @@ include("includes/header.php");
 					<p>Additional information is available <a href="http://schools.nyc.gov/Offices/mediarelations/NewsandSpeeches/2017-2018/SEVERE+WEATHER+CONDITIONS.htm" target="_blank">here</a>.</p>
 				</div>
 			</div>
+			<h3 class="contenthead">Shelter In - December 7, 2018 <span class="labels"><span class="beacon-label">Beacon</span></span></h3>
 			<div class="contentleft">
-				<h3 class="contenthead">NBA Game - December 20, 2017 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
+			  <h3 class="contenthead">NBA Game - December 20, 2017 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/12_20_2017_Nets_Game.jpg"></div>
 					<p>On Dec 12, 2017 Manhattan HS selected students from both Beacon and the main site to attend a NBA Basketball game. These students were rewarded for excellent progress made from September to December. They have progressed in both academics and behavior in the classroom. They enjoyed the Brooklyn Nets play the Washington Wizards, where the kids were able to receive a free shirt for their attendance.</p>
@@ -95,7 +95,6 @@ include("includes/header.php");
 			<div class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">1/10/19</span> <br /> Yearbook Picture Day</p>
 					<p> <span class="beacon-label">Beacon</span> <span class="upcoming-date">1/18/19</span> <br /> Music Concert</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">1/21/19</span> <br /> Martin Luther King Jr. Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">1/22/19-1/25/19</span> <br /> <a href="http://www.p12.nysed.gov/assessment/schedules/2019/504-119.pdf" target="_blank">Regents Week</a></p>
