@@ -2565,17 +2565,3 @@ div.loading > span.fooicon {
 .piechart_3d rect {
 	fill: none;
 }
-
-/* Help Desk Page */
-
-iframe.help-desk {
-	height: 986px;
-}
-
-iframe.help-desk .ember-application {
-	background: none !important;
-}
-
-div#ember518 {
-	display: none !important;
-}
