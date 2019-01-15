@@ -2572,7 +2572,7 @@ iframe.help-desk {
 	height: 986px;
 }
 
-.ember-application {
+iframe.help-desk .ember-application {
 	background: none !important;
 }
 
