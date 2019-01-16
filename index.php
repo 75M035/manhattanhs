@@ -8,8 +8,9 @@ include("includes/header.php");
 	<div id="content">
 		<div id="left">
 			<div class="contentleft">
-<div class="maincontent">
-	    <p>Dear Parents/Guardians and Staff,</p>
+				<h3 class="contenthead">Shelter In - December 7, 2018 <span class="labels"> <span class="beacon-label">Beacon</span></span></h3>
+				<div class="maincontent">
+	    			<p>Dear Parents/Guardians and Staff,</p>
 					<p>The safety and well-being of all students and staff members at P35M: Manhattan High School at The Beacon School remains our highest priority.  Towards that end, we are informing about an incident that took place today near our school today, during which no one was hurt.</p>
 					<p>At approximately 1:00 pm, a small engine fire occurred in an unoccupied school bus outside of the school building.  FDNY immediately responded to the scene.  Out of an abundance of caution, the school was placed in a shelter-in for approximately 15 minutes.  FDNY quickly addressed the issue, after which point the shelter-in was lifted.  A new school bus was assigned to transport students and service was not interrupted.</p>
 					<p>We assure you that every precaution was taken and will continue to be taken to ensure the safety of our students and staff.  I want to thank all students and staff for their cooperation during the shelter-in.</p>

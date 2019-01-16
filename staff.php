@@ -34,6 +34,7 @@ include("includes/header.php");
 					<a href="http://intranet.nycboe.net/default.htm" id="buttonin" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Intranet</div></a>
 					<a href="http://www.shopdoe.com/" id="buttonsh" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ShopDOE</div></a>
 					<a href="https://techshare.nycenet.edu/sites/FinanceAdmin/DIIT/operations/TechShare/default.aspx" id="buttonts" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Tech Share</div></a>
+					<a href="https://manhattanhs.on.spiceworks.com/portal/tickets" id="buttonsw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Help Desk</div></a>
 				</div>
 			</div>
 			
