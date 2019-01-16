@@ -1095,23 +1095,23 @@ a#buttonnyc:hover{
 /* Help Desk Button */
 
 #buttonsw {
-	border: 1px solid #C44C00;
+	border: 1px solid #7E0B00;
 	background: url("/images/buttons/swlogo.svg") no-repeat #8E3700;
 	background-size: 63px 60px;
 	background-position: 45% 30%;
-	color: #fff;
+	color: #640800;
 }
 
 #buttonsw .buttonbottom {
-	border-top: 1px solid #672700;
-	background: linear-gradient(to bottom, #8E3700, #872505, #8E3700);
+	border-top: 1px solid #7E0B00;
+	background: linear-gradient(to bottom, #BD6227, #AE3109, #9B3D01);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
 }
 
 a#buttonsw:hover{
-	box-shadow: 0 0 10px #4D2308, inset 0 0 25px #592D11;
+	box-shadow: 0 0 5px #4D2308, inset 0 0 20px #56280B;
 }
 
 /* NYSED Button */
