@@ -48,16 +48,16 @@
 <![endif]-->
 </head>
 <body>
-	<div id="header">
-	<div id="nav">
+<header id="header">
+	<nav id="nav">
 		<ul>
 			<li id="students"><a href="/students.php">Students</a></li>
 			<li id="parents"><a href="/parents.php">Parents</a></li>
 			<li id="staff"><a href="/staff.php">Staff</a></li>
 			<li id="visitors"><a href="/visitors.php">Visitors</a></li>
 		</ul>
-	</div>
+	</nav>
 	<div id="logo">
 		<a href="/index.php">Manhattan High School <img src="/images/logo.svg"></a>
 	</div>
-</div>
+</header>
