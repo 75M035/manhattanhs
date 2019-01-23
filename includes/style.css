@@ -63,11 +63,11 @@ a:hover {
 	transition: 1s;
 }
 
-#nav li a:hover{
+nav li a:hover{
 	text-shadow: 0 0 5px #000;
 }
 
-#nav li a:active{
+nav li a:active{
 	text-shadow: 0 0 5px #000;
 	color: #CFCFCF;
 }
@@ -502,17 +502,17 @@ h3.contenthead {
 
 @media only screen and (max-width: 768px) {
 	
-	#nav {
+	nav {
 		height: 50px;
 	}
 	
-	#nav li {
+	nav li {
 	height: 50px;
 	line-height: 50px;
 	font-size: 20px;
 	}
 	
-	#nav li a {
+	nav li a {
 	height: 50px;
 	}
 	
