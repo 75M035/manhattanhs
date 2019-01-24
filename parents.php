@@ -5,9 +5,9 @@ $page_description = "Manhattan High School Parents Page";
 include("includes/header.php");
 ?>
 
-	<div id="subcontent">
+	<main id="subcontent">
 		<div id="left">
-			<div class="contentleft">
+			<section class="contentleft">
 				<h3 class="contenthead">School Information</h3>
 				<div class="maincontent">
 					<a href="directory.php" id="buttondy"><div class="buttontop"></div><div class="buttonbottom">Directory</div></a>
@@ -17,24 +17,24 @@ include("includes/header.php");
 					<a href="2018_2019_Main_Schedule_P35.pdf" id="buttonms" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
 					<a href="donate.php" id="buttondn"><div class="buttontop"></div><div class="buttonbottom">Donate</div></a>
 				</div>
-			</div>
-			<div class="contentleft">
+			</section>
+			<section class="contentleft">
 				<h3 class="contenthead">Important Logins</h3>
 				<div class="maincontent">
 					<a href="https://pupilpath.skedula.com" id="buttonpp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">PupilPath</div></a>
 				</div>
-			</div>
+			</section>
 		</div>
 		<div id="right">
-			<div class="contentright">
+			<section class="contentright">
 				<h3 class="contentheadright">Helpful Links</h3>
 				<div class="sidecontent">
 					<a href="https://cdn-blob-prd.azureedge.net/prd-pws/docs/default-source/default-document-library/school-calendar-2018-2019.pdf" id="buttoncl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><? echo date("M"); ?></div><div id="cald"><? echo date("d"); ?></div></a>
-					<a href="http://www.p12.nysed.gov/assessment/schedules/2019/504-119.pdf" id="buttonrg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
+					<a href="http://www.p12.nysed.gov/assessment/schedules/2019/504-619.pdf" id="buttonrg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 				</div>
-			</div>
-			<div class="contentright">
+			</section>
+			<section class="contentright">
 				<h3 class="contentheadright">Other Websites</h3>
 				<div class="sidecontent">
 					<a href="http://schools.nyc.gov" id="buttonnyc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">NYCDOE</div></a>
@@ -45,8 +45,8 @@ include("includes/header.php");
 					<a href="http://www.optnyc.org" id="buttonopt" target="_blank"><div class="buttontop"></div><div class="buttonbottom">OPT</div></a>
 					<a href="http://www.psal.org" id="buttonpl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">PSAL</div></a>
 				</div>
-			</div>
+			</section>
 		</div>
-	</div>
+	</main>
 
 <?php include("includes/footer.php");?>

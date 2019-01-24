@@ -5,7 +5,7 @@ $page_description = "Manhattan High School Courses";
 include("includes/header.php");
 ?>
 
-	<div id="directory">
+	<main id="directory">
 		<h3 class="contenthead">Fall 2018 Courses <span class="rightlink"><a href="pastcourses.php">Past Courses</a><button class="btn btn-warning excelexport btn-md" type="button"></button></span></h3>
 		<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)" data-exporting="true">
 			<thead>
@@ -615,7 +615,7 @@ include("includes/header.php");
 				<li><button type="button" data-page-size="200">200</button></li>
 			</ul>
 		</div>
-	</div>
+	</main>
 
 <script>
 function myFunction() {

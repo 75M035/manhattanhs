@@ -5,9 +5,9 @@ $page_description = "Manhattan High School Staff Page";
 include("includes/header.php");
 ?>
 
-	<div id="subcontent">
+	<main id="subcontent">
 		<div id="left">
-			<div class="contentleft">
+			<section class="contentleft">
 				<h3 class="contenthead">School Information</h3>
 				<div class="maincontent">
 					<a href="directory.php" id="buttondy"><div class="buttontop"></div><div class="buttonbottom">Directory</div></a>
@@ -19,8 +19,8 @@ include("includes/header.php");
 					<a href="https://nycdoe.sharepoint.com/sites/p35main" class="buttonmsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Main Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35allsites" class="buttonasp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">All Share</div></a>
 				</div>
-			</div>
-			<div class="contentleft">
+			</section>
+			<section class="contentleft">
 				<h3 class="contenthead">Important Logins</h3>
 				<div class="maincontent">
 					<a href="https://portal.office.com" class="buttonem" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Email</div></a>
@@ -35,9 +35,9 @@ include("includes/header.php");
 					<a href="http://www.shopdoe.com/" id="buttonsh" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ShopDOE</div></a>
 					<a href="https://techshare.nycenet.edu/sites/FinanceAdmin/DIIT/operations/TechShare/default.aspx" id="buttonts" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Tech Share</div></a>
 				</div>
-			</div>
+			</section>
 			
-			<div class="contentleft">
+			<section class="contentleft">
 				<h3 class="contenthead">Administrative Links</h3>
 				<div class="maincontent">
 					<a href="https://wc.nycenet.edu" id="buttonat" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ATS</div></a>
@@ -49,10 +49,10 @@ include("includes/header.php");
 					<a href="https://wiki.nycenet.edu" id="buttonwi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DOE Wiki</div></a>
 					<a href="https://www.mytgiportal.com" id="buttontgi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">myTGI Portal</div></a>
 				</div>
-			</div>
+			</section>
 		</div>
 		<div id="right">
-			<div class="contentright">
+			<section class="contentright">
 				<h3 class="contentheadright">Human Resources</h3>
 				<div class="sidecontent">
 					<a href="https://doehrconnect.custhelp.com" id="buttonhr" target="_blank"><div class="buttontop"></div><div class="buttonbottom">HR Connect</div></a>
@@ -63,8 +63,8 @@ include("includes/header.php");
 					<a href="https://www.nycenet.edu/advance/" id="buttonad" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Advance</div></a>
 					<a href="https://subcentral.eschoolsolutions.com/" id="buttonsub" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SubCentral</div></a>
 				</div>
-			</div>
-			<div class="contentright">
+			</section>
+			<section class="contentright">
 				<h3 class="contentheadright">Other Resources</h3>
 				<div class="sidecontent">
 					<a href="https://www.khanacademy.org" id="buttonka" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Khan Academy</div></a>
@@ -75,8 +75,8 @@ include("includes/header.php");
 					<a href="http://www.problem-attic.com/" id="buttonpc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Problem-Attic</div></a>
 					<a href="https://www.bookshare.org/cms" id="buttonbks" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bookshare</div></a>
 				</div>
-			</div>
-			<div class="contentright">
+			</section>
+			<section class="contentright">
 				<h3 class="contentheadright">Other Websites and Links</h3>
 				<div class="sidecontent">
 					<a href="http://schools.nyc.gov" id="buttonnyc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">NYCDOE</div></a>
@@ -87,13 +87,13 @@ include("includes/header.php");
 					<a href="https://mhaofnyc.org" id="buttonmha" target="_blank"><div class="buttontop"></div><div class="buttonbottom">MHA-NYC</div></a>
 					<a href="http://www.optnyc.org" id="buttonopt" target="_blank"><div class="buttontop"></div><div class="buttonbottom">OPT</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/school-calendar-2018-2019.pdf" id="buttoncl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><? echo date("M"); ?></div><div id="cald"><? echo date("d"); ?></div></a>
-					<a href="http://www.p12.nysed.gov/assessment/schedules/2019/504-119.pdf" id="buttonrg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
+					<a href="http://www.p12.nysed.gov/assessment/schedules/2019/504-619.pdf" id="buttonrg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 					<a href="https://servicecenter.nycenet.edu/selfsupport/" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DIIT Service</div></a>
 					<a href="https://manhattanhs.on.spiceworks.com/portal/tickets" id="buttonsw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Help Desk</div></a>
 				</div>
-			</div>
+			</section>
 		</div>
-	</div>
+	</main>
 
 <?php include("includes/footer.php");?>

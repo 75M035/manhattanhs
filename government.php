@@ -5,8 +5,8 @@ $page_description = "Manhattan High School Student Government";
 include("includes/header.php");
 ?>
 
-	<div id="subcontent">
-		<div id="left">
+	<main id="subcontent">
+		<section id="left">
 			<div class="contentleft">
 				<h3 class="contenthead">Beacon Student Government</h3>
 				<div class="maincontent government">
@@ -16,8 +16,8 @@ include("includes/header.php");
 					<div id="buttonsy"><div class="govtbtntop">Juliel <br /> P.</div><div class="govtbtnbottom">Secretary</div></div>
 				</div>
 			</div>
-		</div>
-		<div id="right">
+		</section>
+		<section id="right">
 			<div class="contentright">
 				<h3 class="contentheadright">Beacon Grade Representatives</h3>
 				<div class="maincontent representatives">
@@ -27,9 +27,8 @@ include("includes/header.php");
 					<div id="buttonsr"><div class="repbtntop">Juliel <br /> P.</div><div class="repbtnbottom">12</div></div>
 				</div>
 			</div>
-		</div>
-	</div>
-	</div>
+		</section>
+	</main>
 
 <script type="text/javascript">
       google.charts.load("current", {packages:["corechart"]});
@@ -117,7 +116,7 @@ include("includes/header.php");
       }
 </script>
 
-	<div id="govtresults">
+	<section id="govtresults">
 		<h3 class="contenthead">Election Results</h3>
 		<div class="fullcontent">
 			<div class="piechart_3d" id="piechart1" style="width: 594px; height: 330px;"></div>
@@ -125,6 +124,6 @@ include("includes/header.php");
 			<div class="piechart_3d" id="piechart3" style="width: 594px; height: 330px;"></div>
 			<div class="piechart_3d" id="piechart4" style="width: 594px; height: 330px;"></div>
 		</div>
-	</div>
+	</section>
 
 <?php include("includes/footer.php");?>
