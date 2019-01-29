@@ -44,14 +44,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Janice Alston</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:jalston3@schools.nyc.gov">jalston3@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Luz Alvarez</td>
 			<td>Family Worker</td>
 			<td></td>
@@ -410,6 +402,14 @@ include("includes/header.php");
 			<td>2071, 2261, 2141, 7021</td>
 			<td><a href="mailto:egerdes@schools.nyc.gov">egerdes@schools.nyc.gov</a></td>
 			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>Patrick Glynn</td>
+			<td>Teacher</td>
+			<td>302</td>
+			<td>3021</td>
+			<td><a href="mailto:pglynn@schools.nyc.gov">pglynn@schools.nyc.gov</a></td>
+			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Digna Gomez</td>
