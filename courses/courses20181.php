@@ -1,12 +1,14 @@
 <?php 
-$page_title = "Courses";
-$page_description = "Manhattan High School Courses";
+$page_title = "Fall 2018 Courses";
+$page_description = "Manhattan High School Fall 2018 Courses";
 
-include("includes/header.php");
+$path = $_SERVER['DOCUMENT_ROOT'];
+$path .= "/includes/header.php";
+	include_once($path);
 ?>
 
 	<main id="directory">
-		<h3 class="contenthead">Fall 2018 Courses <span class="rightlink"><a href="pastcourses.php">Past Courses</a><button class="btn btn-warning excelexport btn-md" type="button"></button></span></h3>
+		<ul class="contenthead"><li><a href="/pastcourses.php"><h3>Past Courses</h3></li></a><li><h3>Fall 2018 Courses</h3></li><span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button"></button></span></ul>
 		<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)" data-exporting="true">
 			<thead>
 			<tr class="header">
@@ -656,9 +658,13 @@ $('.excelexport').on('click', function (e) {
     var hiddenElement = document.createElement('a');
     hiddenElement.href = 'data:application/csv;charset=utf-8,' + encodeURI(csv);
     hiddenElement.target = '_blank';
-    hiddenElement.download = 'Courses_2018_1.csv';
+    hiddenElement.download = 'Courses_2017_7.csv';
     hiddenElement.click();
 }); 
 </script>
 
-<?php include("includes/footer.php");?>
+<?php
+$path = $_SERVER['DOCUMENT_ROOT'];
+$path .= "/includes/footer.php";
+	include_once($path);
+?>

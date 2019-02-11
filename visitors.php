@@ -51,6 +51,6 @@ include("includes/header.php");
 				</div>
 			</section>
 		</div>
-	</div>
+	</main>
 
 <?php include("includes/footer.php");?>

@@ -7,7 +7,7 @@ $path .= "/includes/header.php";
 	include_once($path);
 ?>
 
-	<div id="directory">
+	<main id="directory">
 		<ul class="contenthead"><li><a href="/pastcourses.php"><h3>Past Courses</h3></li></a><li><h3>Fall 2017 Courses</h3></li><span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button"></button></span></ul>
 		<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)">
 			<thead>
@@ -705,7 +705,7 @@ $path .= "/includes/header.php";
 				<li><button type="button" data-page-size="200">200</button></li>
 			</ul>
 		</div>
-	</div>
+	</main>
 	
 <script>jQuery(function($){
 	$('.directorylist').footable();
