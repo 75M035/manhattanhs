@@ -44,14 +44,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Luz Alvarez</td>
-			<td>Family Worker</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:lalvarez20@schools.nyc.gov">lalvarez20@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Morece Anderson</td>
 			<td>Educational Assistant</td>
 			<td></td>
@@ -188,14 +180,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Nile Carter Thorpe</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:ncarterthorpe@schools.nyc.gov">ncarterthorpe@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Luz Ceballosiaconis</td>
 			<td>Educational Assistant</td>
 			<td></td>
@@ -217,6 +201,14 @@ include("includes/header.php");
 			<td></td>
 			<td></td>
 			<td><a href="mailto:lcohen23@schools.nyc.gov">lcohen23@schools.nyc.gov</a></td>
+			<td>Bellevue</td>
+		</tr>
+		<tr>
+			<td>Lisa Collazo</td>
+			<td>Teacher</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:lcollazo2@schools.nyc.gov">lcollazo2@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
 		</tr>
 		<tr>
@@ -242,14 +234,6 @@ include("includes/header.php");
 			<td>2031</td>
 			<td><a href="mailto:rcooper2@schools.nyc.gov">rcooper2@schools.nyc.gov</a></td>
 			<td>Beacon</td>
-		</tr>
-		<tr>
-			<td>Irma Crespo</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:icrespo2@schools.nyc.gov">icrespo2@schools.nyc.gov</a></td>
-			<td>Bellevue</td>
 		</tr>
 		<tr>
 			<td>Nicole Croce</td>
@@ -281,6 +265,14 @@ include("includes/header.php");
 			<td>210</td>
 			<td>2101</td>
 			<td><a href="mailto:ddejesus7@schools.nyc.gov">ddejesus7@schools.nyc.gov</a></td>
+			<td>Main</td>
+		</tr>
+		<tr>
+			<td>Ibrahima Diallo</td>
+			<td>Nurse</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:idiallo@schools.nyc.gov">idiallo@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
@@ -347,6 +339,14 @@ include("includes/header.php");
 			<td><a href="mailto:jflores25@schools.nyc.gov">jflores25@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
+		<tr>
+			<td>Brunilda Fonseca</td>
+			<td>School Aide</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:bfonseca@schools.nyc.gov">bfonseca32@schools.nyc.gov</a></td>
+			<td>Bellevue</td>
+		</tr>	
 		<tr>
 			<td>Darryl Foster</td>
 			<td>Teacher</td>
@@ -420,14 +420,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Sohad Gonzalez</td>
-			<td>Culinary Teacher</td>
-			<td>104</td>
-			<td>1041</td>
-			<td><a href="mailto:sgonzalez4@schools.nyc.gov">sgonzalez4@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Gilberto Graciani</td>
 			<td>Teacher</td>
 			<td></td>
@@ -498,14 +490,6 @@ include("includes/header.php");
 			<td>2071, 2121</td>
 			<td><a href="mailto:rkatz11@schools.nyc.gov">rkatz11@schools.nyc.gov</a></td>
 			<td>Beacon</td>
-		</tr>
-		<tr>
-			<td>Devona King</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:dking11@schools.nyc.gov">dking11@schools.nyc.gov</a></td>
-			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Avery Klotsche</td>
@@ -657,22 +641,6 @@ include("includes/header.php");
 			<td>204</td>
 			<td>2042</td>
 			<td><a href="mailto:mnegron2@schools.nyc.gov">mnegron2@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
-			<td>Rosa Negron</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:rnegron3@schools.nyc.gov">rnegron3@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
-			<td>Emily Nord-Podberesky</td>
-			<td>School Psychologist</td>
-			<td>208</td>
-			<td>2081</td>
-			<td><a href="mailto:enordpodberesky@schools.nyc.gov">enordpodberesky@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
@@ -914,6 +882,14 @@ include("includes/header.php");
 			<td>4061</td>
 			<td><a href="mailto:csnow@schools.nyc.gov">csnow@schools.nyc.gov</a></td>
 			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>Rosa Suarez</td>
+			<td>Educational Assistant</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:rnegron3@schools.nyc.gov">rnegron3@schools.nyc.gov</a></td>
+			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Hezekiah Spady</td>
