@@ -96,7 +96,7 @@ include("includes/header.php");
 				<td>Mathematics</td>
 				<td>Roberts</td>
 				<td>216</td>
-				<td></td>
+				<td>H124, G2</td>
 				<td>Beacon</td>
 			</tr>
 			<tr>
