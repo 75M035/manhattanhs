@@ -15,7 +15,7 @@ $path .= "/includes/header.php";
 					<a href="photos/halloween2018.php" class="buttonab" style="background-image: url(images/photos/2018_2019/halloween2018/halloween2018_beacon_1_th.jpg)"><div class="buttontop"></div><div class="buttonbottom">Halloween</div></a>
 					<a href="photos/peprally2018.php" class="buttonab" style="background-image: url(images/photos/2018_2019/peprally_2018/peprally_2018_1_th.jpg)"><div class="buttontop"></div><div class="buttonbottom">Pep Rally</div></a>
 					<a href="photos/convocation2018.php" class="buttonab" style="background-image: url(images/photos/2018_2019/convocation2018/convocation2018_24th.jpg)"><div class="buttontop"></div><div class="buttonbottom">Convocation</div></a>
-					<a href="photos/intrepid2018.php" class="buttonab" style="background-image: url("/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_1th.jpg")><div class="buttontop"></div><div class="buttonbottom">Intrepid Trip</div></a>
+					<a href="photos/intrepid2018.php" class="buttonab" style="background-image: url(/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_1lg.jpg)"><div class="buttontop"></div><div class="buttonbottom">Intrepid Trip</div></a>
 				</div>
 			</section>
 			<section class="contentleft">

@@ -106,8 +106,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="main-label">Main</span> <span class="upcoming-date">3/13/19</span> <br /> Career Fair for Juniors and Seniors</p>
-					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">3/15/19</span> <br /> Senior Field Trip to New Roc City</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">3/27/19</span> <br /> SAT Day (Juniors and Seniors)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">4/19/19-4/26/19</span> <br /> Spring Break (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">5/27/19</span> <br /> Memorial Day (school closed)</p>
