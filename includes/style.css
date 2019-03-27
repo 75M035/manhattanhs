@@ -2402,10 +2402,12 @@ div.loading > span.fooicon {
 /* Donate Page */
 
 #donate {
-	text-align: center;
+	text-align: left;
 }
 
 #donate img {
+	display:block;
+	margin:auto;
 	width: 20%;
 }
 

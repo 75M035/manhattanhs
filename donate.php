@@ -6,7 +6,7 @@ include("includes/header.php");
 ?>
 
 	<main id="fullwidth">
-		<section id="donate">
+		<div id="donate">
 			<h3 class="contenthead">Donate</h3>
 			<div class="fullcontent">
 				<p>It turns out that donating to public schools is actually kind of complicated. As a result, we unfortunately cannot provide a way for you to do so online at this time.</p>
@@ -28,7 +28,7 @@ include("includes/header.php");
 				</p>
 				<div id="donate"><img src="images/buttons/donate.svg" alt=""></div>
 			</div>
-		</section>
+		</div>
 	</main>
 
 <?php include("includes/footer.php");?>
