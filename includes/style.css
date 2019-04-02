@@ -256,11 +256,12 @@ h3.contenthead {
 /* Primary Button */
 .primary-btn {
 	font-family: Verdana, Arial, sans-serif;
+	font-size:12pt;
 	display:block;
     padding: 6px 12px;
 	width:200px;
     line-height: 1.5;
-    color: #9D864D;
+    color: #453205;
     background-color: #fff;
     border: 1px solid #ddd;
 	border-radius:4px;
