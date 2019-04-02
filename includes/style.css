@@ -253,6 +253,36 @@ h3.contenthead {
 	border-radius: 2px;
 }
 
+/* Primary Button */
+.primary-btn {
+	font-family: Verdana, Arial, sans-serif;
+	display:block;
+    padding: 6px 12px;
+	width:200px;
+    line-height: 1.5;
+    color: #9D864D;
+    background-color: #fff;
+    border: 1px solid #ddd;
+	border-radius:4px;
+	
+}
+
+.primary-btn:hover {
+	background-color: #eee;
+	border-color: #ddd;
+	cursor: pointer;
+}
+
+/* Archive Button */
+.archive-btn {
+	margin: 0 auto 20px;
+}
+
+.archive-page.archive-btn {
+	width:200px;
+}
+
+/* Site Labels */
 .labels {
 	margin-top: -1px;
 	margin-right: 6px;
@@ -274,32 +304,6 @@ h3.contenthead {
 	width: 60px;
 	text-align: center;
 	height: 19px;
-}
-
-/* Archive Button */
-.archive-btn {
-	font-family: Verdana, Arial, sans-serif;
-	display:block;
-    padding: 6px 12px;
-    margin: 0 auto 20px;
-	width:25%;
-    line-height: 1.5;
-    color: #9D864D;
-    background-color: #fff;
-    border: 1px solid #ddd;
-	border-radius:4px;
-	text-align:center;
-}
-
-.archive-btn:hover {
-	background-color: #eee;
-	border-color: #ddd;
-	cursor: pointer;
-}
-
-.archive-btn a {
-	text-decoration:none;
-	text-align:center;
 }
 
 .all-label {

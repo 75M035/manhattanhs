@@ -7,7 +7,7 @@ $path .= "/includes/header.php";
 	include_once($path);
 ?>
 
-	<main>
+	<main class="archive-page">
 		<article id="fullwidth">
 			 <h3 class="contenthead">NBA Game - December 20, 2017 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 			<div class="fullcontent">
@@ -24,7 +24,15 @@ $path .= "/includes/header.php";
 				<p>Be sure to explore around, and contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> if you run into any issues.</p>
 			</div>
 		</article>
+		<!--Back to General Archive Button-->
+		<button type="button" class="primary-btn archive-btn" onClick="archivePage();">Back to Past News</button>
 	</main>
+
+<script>
+    function archivePage(){
+        window.location="/newsarchive.php";
+    }
+</script>
 
 <?php
 $path = $_SERVER['DOCUMENT_ROOT'];

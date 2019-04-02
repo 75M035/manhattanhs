@@ -76,7 +76,8 @@ include("includes/header.php");
 					<p>Additional information is available <a href="http://schools.nyc.gov/Offices/mediarelations/NewsandSpeeches/2017-2018/SEVERE+WEATHER+CONDITIONS.htm" target="_blank">here</a>.</p>
 				</div>
 			</article>
-			<span class="archive-btn"><a href="newsarchive.php">Past News</a></span>
+			<!--Archive Page Button-->
+			<button type="button" class="primary-btn archive-btn" onClick="archivePage();">Past News</button>
 		</section>
 		<section id="right">
 			<aside class="contentright">
@@ -108,6 +109,12 @@ include("includes/header.php");
 			</aside>
 		</section>
 	</main>
+
+<script>
+    function archivePage(){
+        window.location="/newsarchive.php";
+    }
+</script>
 
 <?php include("includes/footer.php");?>
 
