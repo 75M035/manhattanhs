@@ -276,6 +276,32 @@ h3.contenthead {
 	height: 19px;
 }
 
+/* Archive Button */
+.archive-btn {
+	font-family: Verdana, Arial, sans-serif;
+	display:block;
+    padding: 6px 12px;
+    margin: 0 auto 20px;
+	width:25%;
+    line-height: 1.5;
+    color: #9D864D;
+    background-color: #fff;
+    border: 1px solid #ddd;
+	border-radius:4px;
+	text-align:center;
+}
+
+.archive-btn:hover {
+	background-color: #eee;
+	border-color: #ddd;
+	cursor: pointer;
+}
+
+.archive-btn a {
+	text-decoration:none;
+	text-align:center;
+}
+
 .all-label {
 	background: #453205;
 }
