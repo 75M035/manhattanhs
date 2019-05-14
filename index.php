@@ -10,7 +10,7 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h3 class="contenthead">Snow Day - March 3, 2019 <span class="labels"><span class="all-label">All</span></span></h3>
 				<div class="maincontent">
-					<div class="news-photo"><img src="/images/news/03_03_2019_Snow_Day.gif"></div>
+					<div class="news-photo"><img src="/images/news/03_03_2019_Snow_Day.gif" alt="Snow Day Announcement"></div>
 					<p>Due to expected severe weather conditions, all New York City public schools will be closed Monday, March 4, 2019. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
 					<p>DOE central and field offices will remain open.</p>
 					<p>New York City district schools will be open, Tuesday, March 5, 2019. All programs and activities will be held as scheduled.</p>
@@ -35,7 +35,7 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h3 class="contenthead">College Application Week - October 18, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
-					<div class="news-image"><img src="/images/news/collegeappwk.png"></div>
+					<div class="news-image"><img src="/images/news/collegeappwk.png" alt="College Application Week"></div>
 					<p>The week of October 22 is College Application Week. Seniors should fill out at least 1 application. For assistance, please see <a href="mailto:twatkin@schools.nyc.gov">Ms. Watkins</a> at the Beacon Site or <a href="mailto:vrankins@schools.nyc.gov">Ms. Rankins</a> at the Main Site. More information about the college application process is available <a href="https://startheregetthere.org" target="_blank">here</a>.</p>
 				</div>
 			</article>
@@ -43,7 +43,7 @@ include("includes/header.php");
 				<h3 class="contenthead">Camping Trip - June 4, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
 					<p>On May 24 and 25 Mr. Wybaillie took students from the Main and Beacon sites on an overnight camping trip. We all had a lot of fun and practiced some great living environment skills!</p>
-					<div class="news-photo"><img src="/images/news/06_04_2018_Camping_Trip.jpg"></div>
+					<div class="news-photo"><img src="/images/news/06_04_2018_Camping_Trip.jpg" alt="Students at the camping trip"></div>
 					<br />
 				</div>
 			</article>
@@ -58,7 +58,7 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h3 class="contenthead">NBA Game - February 14, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
 				<div class="maincontent">
-					<div class="news-photo"><img src="/images/news/02_14_2018_Nets_Game.jpg"></div>
+					<div class="news-photo"><img src="/images/news/02_14_2018_Nets_Game.jpg" alt="Students at the NBA game"></div>
 					<p>On Monday February 12, 2018 select students were greeted on a trip to a NBA basketball game between the Brooklyn Nets and Los Angeles Clippers. This was the 2nd annual reward trip for students who have shown great improvement both in academics and social behavior.</p>
 					<p>Special Thank you to staff who have helped out on trips Ms. Flores, Ms. Bodner, Ms. Murphy, Mr. Rivera, Mr. Spady, Mr. Prisco, and Mr. Turner. Special thank you to Barclays Center staff and Brooklyn Nets for the hospitality.</p>
 				</div>
@@ -104,7 +104,7 @@ include("includes/header.php");
 					<p>To donate, please write a check payable to P.S. 035 Manhattan High School and either hand it to a secretary in the main office, or mail it to the site your child attends at the address on the bottom of this page.</p>
 					<p>All contributions are tax deductible! Tax ID #13-6400434.</p>
 					<p>Your generous contribution is used to fund vital school activities, including gatherings, field trips, and school materials. Our school staff very frequently pays for these things out of pocket, so any amount you can contribute is extremely appreciated.</p>
-					<div id="donate-link"><a href="/donate.php"><img src="images/buttons/donate.svg" alt=""></a></div>
+					<div id="donate-link"><a href="/donate.php"><img src="images/buttons/donate.svg" alt="Heart"></a></div>
 				</div>
 			</aside>
 		</section>
