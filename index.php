@@ -17,7 +17,11 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h3 class="contenthead">Snow Day - March 3, 2019 <span class="labels"><span class="all-label">All</span></span></h3>
 				<div class="maincontent">
+<<<<<<< HEAD
 					<div class="news-photo"><img src="/images/news/03_03_2019_Snow_Day.gif" alt="Snow Day Announcement"></div>
+=======
+					<div class="news-photo"><img src="/images/news/03_03_2019_Snow_Day.gif"></div>
+>>>>>>> origin/joseph2
 					<p>Due to expected severe weather conditions, all New York City public schools will be closed Monday, March 4, 2019. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
 					<p>DOE central and field offices will remain open.</p>
 					<p>New York City district schools will be open, Tuesday, March 5, 2019. All programs and activities will be held as scheduled.</p>
