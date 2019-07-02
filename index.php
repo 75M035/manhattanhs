@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h3 class="contenthead">Fleet Week - May 30, 2019 <span class="labels"><span class="all-label">All</span></span></h3>
+				<div class="maincontent">
+					<div class="news-photo"><img src="/images/news/fleetwk2019.jpeg" alt="Fleet Week"></div>
+					<p>On May 23, Manhattan High School students attended Fleet Week on board the USS New York.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h3 class="contenthead">Snow Day - March 3, 2019 <span class="labels"><span class="all-label">All</span></span></h3>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/03_03_2019_Snow_Day.gif" alt="Snow Day Announcement"></div>
