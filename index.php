@@ -15,7 +15,6 @@ include("includes/header.php");
 					<p>DOE central and field offices will remain open.</p>
 					<p>New York City district schools will be open, Tuesday, March 5, 2019. All programs and activities will be held as scheduled.</p>
 					<p>Thank you to all custodial engineers and custodial staff who will be out in full force to shovel snow, clear sidewalks, and ensure our buildings are ready for staff and students to safely return.</p>
-					<p>Additional information is available <a href="https://www.schools.nyc.gov/alerts/schools-closed-monday-march-4-2019" target="_blank">here</a>.</p>
 				</div>
 			</article>
 			<article class="contentleft">
@@ -52,7 +51,6 @@ include("includes/header.php");
 				<div class="maincontent">
 					<p>Due to expected severe weather conditions, all New York City district schools will be closed Wednesday, March 21, 2018. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
 					<p>SAT School Day administration will be postponed to Tuesday, April 24, 2018.</p>
-					<p>Additional information is available <a href="http://schools.nyc.gov/Offices/mediarelations/NewsandSpeeches/2017-2018/NYC+Public+Schools+Closed+Wednesday+March+21+Due+to+Severe+Weather+Conditions.htm" target="_blank">here</a>.</p>
 				</div>
 			</article>
 			<article class="contentleft">
@@ -73,7 +71,6 @@ include("includes/header.php");
 				<h3 class="contenthead">Snow Day - January 3, 2018 <span class="labels"><span class="all-label">All</span></span></h3>
 				<div class="maincontent">
 					<p>As per the New York City Department of Education all NYC Public Schools will be closed Thursday, January 4th, 2018. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
-					<p>Additional information is available <a href="http://schools.nyc.gov/Offices/mediarelations/NewsandSpeeches/2017-2018/SEVERE+WEATHER+CONDITIONS.htm" target="_blank">here</a>.</p>
 				</div>
 			</article>
 			<!--Archive Page Button-->
