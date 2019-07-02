@@ -55,7 +55,7 @@ include("includes/header.php");
 			<td>Damon Avinger</td>
 			<td>Jewish Board Social Worker</td>
 			<td>217E</td>
-			<td>2174</td>
+			<td></td>
 			<td><a href="mailto:davinger@jbfcs.org">davinger@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -558,16 +558,16 @@ include("includes/header.php");
 		<tr>
 			<td>Michael McCarthy</td>
 			<td>Teacher</td>
-			<td>404</td>
-			<td>4041</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:mmccarthy15@schools.nyc.gov">mmccarthy15@schools.nyc.gov</a></td>
-			<td>Main</td>
+			<td>MHA</td>
 		</tr>
 		<tr>
 			<td>Constance McKillion</td>
 			<td>Nurse</td>
 			<td>217</td>
-			<td>2176</td>
+			<td>2177</td>
 			<td><a href="mailto:cmckillion@schools.nyc.gov">cmckillion@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -593,7 +593,7 @@ include("includes/header.php");
 			<td></td>
 			<td></td>
 			<td><a href="mailto:rmercado12@schools.nyc.gov">rmercado12@schools.nyc.gov</a></td>
-			<td>Main</td>
+			<td>MHA</td>
 		</tr>
 		<tr>
 			<td>Margaret Moore</td>
@@ -700,6 +700,14 @@ include("includes/header.php");
 			<td>Bellevue</td>
 		</tr>
 		<tr>
+			<td>Estella Powell</td>
+			<td>English Teacher</td>
+			<td>404</td>
+			<td>4041</td>
+			<td><a href="mailto:epowell32@schools.nyc.gov">epowell32@schools.nyc.gov</a></td>
+			<td>Main</td>
+		</tr>
+		<tr>
 			<td>Judith Powell</td>
 			<td>Payroll Secretary</td>
 			<td>204</td>
@@ -709,7 +717,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Anthony Prisco</td>
-			<td>Testing Coordinator</td>
+			<td>Social Studies Teacher</td>
 			<td>214</td>
 			<td>2141</td>
 			<td><a href="mailto:aprisco@schools.nyc.gov">aprisco@schools.nyc.gov</a></td>
