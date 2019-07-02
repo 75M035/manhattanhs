@@ -458,6 +458,7 @@ h3.contenthead {
 
 #copyright {
 	text-align: center;
+	color: #EFE4C7;
 	margin-bottom: 5px;
 }
 
@@ -727,7 +728,7 @@ a#buttonio:hover{
 	background: url("/images/buttons/googleclassroom.png") no-repeat #44D58B;
 	background-size: 70px 70px;
 	background-position: 50% 15%;
-	color: #186B41;
+	color: #0C3620;
 }
 
 #buttongc .buttonbottom {
@@ -896,7 +897,7 @@ a.buttonem:hover{
 	background: url("/images/buttons/beaconsharepoint.svg") no-repeat #F1FFE4;
 	background-size: 70px 70px;
 	background-position: 50% 15%;
-	color: #60873D;
+	color: #3C5426;
 }
 
 .buttonbsp .buttonbottom {
@@ -918,7 +919,7 @@ a.buttonbsp:hover{
 	background: url("/images/buttons/mainsharepoint.svg") no-repeat #FFEEDD;
 	background-size: 70px 70px;
 	background-position: 50% 15%;
-	color: #7F5E3B;
+	color: #5A432A;
 }
 
 .buttonmsp .buttonbottom {
@@ -940,7 +941,7 @@ a.buttonmsp:hover{
 	background: url("/images/buttons/allsharepoint.svg") no-repeat #F9F5E9;
 	background-size: 70px 70px;
 	background-position: 50% 15%;
-	color: #806823;
+	color: #584919;
 }
 
 .buttonasp .buttonbottom {
@@ -962,7 +963,7 @@ a.buttonasp:hover{
 	background: url("/images/buttons/scantron.svg") no-repeat #D4D6A2;
 	background-size: 70px 70px;
 	background-position: 50% 15%;
-	color: #61642B;
+	color: #3F3F1C;
 }
 
 #buttonsc .buttonbottom {
@@ -1130,7 +1131,7 @@ a#buttonsub:hover{
 	background: url("/images/buttons/nycdoe.svg") no-repeat #D6E7F7;
 	background-size: 92px 30px;
 	background-position: 50% 42%;
-	color: #2166A7;
+	color: #113855;
 }
 
 #buttonnyc .buttonbottom {
@@ -1174,7 +1175,7 @@ a#buttonsw:hover{
 	background: url("/images/buttons/nysed.png") no-repeat #7FB5E8;
 	background-size: 85px 65px;
 	background-position: 50% 31%;
-	color: #0D3A5D;
+	color: #062132;
 }
 
 #buttonnys .buttonbottom {
@@ -1236,7 +1237,7 @@ a#buttonbl:hover{
 	background: url("/images/buttons/mhalogo.png") no-repeat #A1DCFC;
 	background-size: 94px 62px;
 	background-position: 50% 29%;
-	color: #04537E;
+	color: #043E5D;
 }
 
 #buttonmha .buttonbottom {
@@ -1346,7 +1347,7 @@ a#buttonca:hover{
 	background: url("/images/buttons/directory.svg") #C8C9C6;
 	background-size: 100px 75px;
 	background-position: 50% 21%;
-	color: #555652;
+	color: #363630;
 }
 
 #buttondy .buttonbottom {
@@ -1364,7 +1365,7 @@ a#buttonca:hover{
 	background: url("/images/buttons/courses.svg") #BF8BF0;
 	background-size: 100px 75px;
 	background-position: 50% 15%;
-	color: #5E15A3;
+	color: #23073B;
 }
 
 #buttoncs .buttonbottom {
@@ -1382,7 +1383,7 @@ a#buttonca:hover{
 	background: url("/images/buttons/photos.svg") no-repeat #FFFF9C;
 	background-size: 100px 70px;
 	background-position: 50% 15%;
-	color: #878700;
+	color: #383800;
 }
 
 #buttonps .buttonbottom {
@@ -1404,7 +1405,7 @@ a#buttonps:hover{
 	background: url("/images/buttons/khanacademy.svg") no-repeat #D7E3A8;
 	background-size: 65px 65px;
 	background-position: 50% 20%;
-	color: #72842A;
+	color: #3B4215;
 	font-size: 9pt;
 }
 
@@ -1470,7 +1471,7 @@ a#buttonds:hover{
 	background: url("/images/buttons/flocabulary.png") no-repeat #F39076;
 	background-size: 97px 26px;
 	background-position: 50% 43%;
-	color: #9A290B;
+	color: #3C1206;
 }
 
 #buttonfl .buttonbottom {
@@ -1595,7 +1596,7 @@ a#buttonbb:hover{
 	background: url("/images/buttons/government.svg") no-repeat #D9A317;
 	background-size: 77px 70px;
 	background-position: 50% 15%;
-	color: #332605;
+	color: #251B04;
 }
 
 #buttongt .buttonbottom {
@@ -1613,7 +1614,7 @@ a#buttonbb:hover{
 	background: url("/images/buttons/calendar.png") no-repeat #F0A7A9;
 	background-size: 75px 75px;
 	background-position: 50% 10%;
-	color: #AA1D21;
+	color: #5D0E15;
 }
 
 #buttoncl .buttonbottom {
@@ -1658,7 +1659,7 @@ a#buttoncl:hover{
 	background: url("/images/buttons/regents.svg") no-repeat #F6C393;
 	background-size: 57px 75px;
 	background-position: 50% 10%;
-	color: #B15E0E;
+	color: #552D06;
 }
 
 #buttonrg .buttonbottom {
@@ -1874,7 +1875,7 @@ a#buttontgi:hover{
 	background: url("/images/buttons/donate.svg") no-repeat #710101;
 	background-size: 100px 75px;
 	background-position: 50% 10%;
-	color: #F9DADA;
+	color: #FAFAFA;
 }
 
 #buttondn .buttonbottom {
