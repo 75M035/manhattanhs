@@ -709,7 +709,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Anthony Prisco</td>
-			<td>Social Studies Teacher</td>
+			<td>Testing Coordinator</td>
 			<td>214</td>
 			<td>2141</td>
 			<td><a href="mailto:aprisco@schools.nyc.gov">aprisco@schools.nyc.gov</a></td>
