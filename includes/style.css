@@ -1,16 +1,8 @@
 @charset "UTF-8";
 
-main {
-	display:block;
-}
-
 body {
 	margin: 0px;
 	background: #F8F3E6;
-}
-
-main {
-	display:block;
 }
 
 a {
@@ -55,94 +47,80 @@ a:hover {
 	display: inline-block;
 	height: 100px;
 	line-height: 100px;
-	font-size: 30px;
+	font-size: 25px;
 	width: 25%;
 	margin-right: -4px;
 }
 
-#nav li a {
+#nav li a{
 	color: #fff;
 	height: 100px;
 	display: flex;
 	justify-content: center;
 	text-decoration: none;
+	text-shadow: 0 0 1px #000;
 	-webkit-transition: 1s;
 	transition: 1s;
 }
 
-#nav li a:active{
-	-webkit-transition: .5s;
-	transition: .5s;
+#nav li a:hover{
+	text-shadow: 0 0 5px #000;
 }
 
-li#students {
+#nav li a:active{
+	text-shadow: 0 0 5px #000;
+	color: #CFCFCF;
+}
+
+li#students a {
 	background: #80B34E;
 	box-shadow: inset 0 0 20px #6F835C;
 }
 
-li#students a {
-	color:#243415;
-	text-shadow: 0 -.75px 0 rgba(255,255,255,0.50);
-}
-
 li#students a:hover {
-	text-shadow: 0 .75px .5px rgba(255,255,255,0.50);
 	box-shadow: inset 0 0 25px #48543C;
 }
 
 li#students a:active {
-	text-shadow: 0 1px 0px rgba(255,255,255,0.50);
 	box-shadow: inset 0 0 30px #303828;
 }
 
 li#parents a {
-	color:#53310F;
-	text-shadow: 0 -.5px 0 rgba(255,255,255,0.50);
 	background: #FF9832;
 	box-shadow: inset 0 0 20px #AA6E32;
 }
 
 li#parents a:hover {
-	text-shadow: 0 1px .5px rgba(255,255,255,0.50);
 	box-shadow: inset 0 0 25px #845627;
 }
 
 li#parents a:active {
-	text-shadow: 0 1.25px 0 rgba(255,255,255,0.50);
 	box-shadow: inset 0 0 30px #513418;
 }
 
 li#staff a {
-	color:#1F313D;
-	text-shadow: 0 -.5px 0 rgba(255,255,255,0.50);
 	background: #669ACC;
 	box-shadow: inset 0 0 20px #517AA2;
 }
 
 li#staff a:hover {
-	text-shadow: 0 .75px .5px rgba(255,255,255,0.50);
 	box-shadow: inset 0 0 25px #395672;
 }
 
 li#staff a:active {
-	text-shadow: 0 1px 0 rgba(255,255,255,0.50);
 	box-shadow: inset 0 0 30px #273A4E;
 }
 
 li#visitors a {
-	color:#420004;
-	text-shadow: 0 -.25px 0 rgba(255,255,255,0.50);
 	background: #F9414E;
 	box-shadow: inset 0 0 20px #AE5057;
 }
 
 li#visitors a:hover {
-	text-shadow: 0 .5px .25px rgba(255,255,255,0.50);
 	box-shadow: inset 0 0 25px #75363A;
 }
 
 li#visitors a:active {
-	text-shadow: 0 .75px 0 rgba(255,255,255,0.50);
 	box-shadow: inset 0 0 25px #482123;
 }
 
