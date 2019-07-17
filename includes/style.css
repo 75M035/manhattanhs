@@ -1040,26 +1040,26 @@ a#buttontrs:hover{
 	box-shadow: 0 0 5px #B3B3B3, inset 0 0 10px #B3B3B3;
 }
 
-/* WageWorks Button */
+/* Edenred Button */
 
-#buttonwa {
-	border: 1px solid #0C5684;
-	background: url("/images/buttons/wageworks.svg") no-repeat #127FC2;
+#buttoner {
+	border: 1px solid #162056;
+	background: url("/images/buttons/edenred.svg") no-repeat #FAFAFD;
 	background-size: 70px 70px;
 	background-position: 50% 15%;
-	color: #FADFC8;
+	color: #162056;
 }
 
-#buttonwa .buttonbottom {
-	border-top: 1px solid #0C5684;
-	background: linear-gradient(to bottom, #4DB1EE 0%, #127FC2 50%, #4DB1EE 100%);
+#buttoner .buttonbottom {
+	border-top: 1px solid #162056;
+	background: linear-gradient(to bottom, #FAFAFD 0%, #DEDEF2 50%, #FAFAFD 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
 }
 
-a#buttonwa:hover{
-	box-shadow: 0 0 5px #5B5B5B, inset 0 0 10px #5B5B5B;
+a#buttoner:hover{
+	box-shadow: 0 0 5px #9D9D9D, inset 0 0 10px #9D9D9D;
 }
 
 /* Advance Button */
@@ -1800,6 +1800,94 @@ a#buttonfa:hover{
 
 a#buttonfg:hover{
 	box-shadow: 0 0 5px #B6B6B6, inset 0 0 10px #B6B6B6;
+}
+
+/* SchoolMessenger Button */
+
+#buttonsm {
+	border: 1px solid #132D60;
+	background: url("/images/buttons/schoolmessenger.svg") no-repeat #FFCB2C;
+	background-size: 50px 50px;
+	background-position: 50% 32%;
+	color: #132D60;
+}
+
+#buttonsm .buttonbottom {
+	border-top: 1px solid #132D60;
+	background: linear-gradient(to bottom, #FFDA69 0%, #FFCB2C 50%, #FFDA69 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonsm:hover{
+	box-shadow: 0 0 5px #939393, inset 0 0 10px #939393;
+}
+
+/* OSYD Button */
+
+#buttonos {
+	border: 1px solid #243BA5;
+	background: url("/images/buttons/osyd.svg") no-repeat #DFDE5E;
+	background-size: 50px 50px;
+	background-position: 50% 32%;
+	color: #243BA5;
+}
+
+#buttonos .buttonbottom {
+	border-top: 1px solid #243BA5;
+	background: linear-gradient(to bottom, #E8E88F 0%, #DFDE5E 50%, #E8E88F 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonos:hover{
+	box-shadow: 0 0 5px #939393, inset 0 0 10px #939393;
+}
+
+/* SOLAS Button */
+
+#buttonsl {
+	border: 1px solid #171717;
+	background: url("/images/buttons/solas.svg") no-repeat #C654C5;
+	background-size: 60px 60px;
+	background-position: 50% 30%;
+	color: #171717;
+}
+
+#buttonsl .buttonbottom {
+	border-top: 1px solid #171717;
+	background: linear-gradient(to bottom, #D583D5 0%, #C654C5 50%, #D583D5 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonsl:hover{
+	box-shadow: 0 0 5px #656565, inset 0 0 10px #656565;
+}
+
+/* Schoolview Button */
+
+#buttonsv {
+	border: 1px solid #252525;
+	background: url("/images/buttons/schoolview.svg") no-repeat #669999;
+	background-size: 60px 60px;
+	background-position: 50% 30%;
+	color: #252525;
+}
+
+#buttonsv .buttonbottom {
+	border-top: 1px solid #252525;
+	background: linear-gradient(to bottom, #98BABA 0%, #669999 50%, #669999 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonsv:hover{
+	box-shadow: 0 0 5px #656565, inset 0 0 10px #656565;
 }
 
 /* DOE Wiki Button */

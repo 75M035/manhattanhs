@@ -31,9 +31,9 @@ include("includes/header.php");
 					<a href="https://www.nycenet.edu/starsclassroom" id="buttonstc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">STARS</div></a>
 					<a href="https://www.nycenet.edu/studentprofile/" id="buttonsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Student Profile</div></a>
 					<a href="https://nycdoe.access411.com" id="buttonca" target="_blank"><div class="buttontop"></div><div class="buttonbottom">CAASS</div></a>
-					<a href="http://intranet.nycboe.net/default.htm" id="buttonin" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Intranet</div></a>
+					<a href="https://infohub.nyced.org" id="buttonin" target="_blank"><div class="buttontop"></div><div class="buttonbottom">InfoHub</div></a>
 					<a href="http://www.shopdoe.com/" id="buttonsh" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ShopDOE</div></a>
-					<a href="https://techshare.nycenet.edu/sites/FinanceAdmin/DIIT/operations/TechShare/default.aspx" id="buttonts" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Tech Share</div></a>
+					<a href="https://infohub.nyced.org/nyc-doe-topics/it/nycschoolstech" id="buttonts" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SchoolsTech</div></a>
 				</div>
 			</section>
 			
@@ -48,6 +48,8 @@ include("includes/header.php");
 					<a href="https://www.nycenet.edu/wellness/nycfitnessgram/" id="buttonfg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Fitnessgram</div></a>
 					<a href="https://wiki.nycenet.edu" id="buttonwi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DOE Wiki</div></a>
 					<a href="https://www.mytgiportal.com" id="buttontgi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">myTGI Portal</div></a>
+					<a href="https://asp.schoolmessenger.com/manhattan035/index.php" id="buttonsm" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Messenger</div></a>
+					<a href="https://ats.nycboe.net/safety/portal" id="buttonos" target="_blank"><div class="buttontop"></div><div class="buttonbottom">OSYD</div></a>
 				</div>
 			</section>
 		</div>
@@ -59,9 +61,10 @@ include("includes/header.php");
 					<a href="https://payrollportal.nycboe.net/payrollportalweb/main.aspx" id="buttonpa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Payroll</div></a>
 					<a href="http://www.nyc.gov/ess" id="buttones" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ESS</div></a>
 					<a href="https://www.trsnyc.org" id="buttontrs" target="_blank"><div class="buttontop"></div><div class="buttonbottom">TRS</div></a>
-					<a href="http://wageworks.com" id="buttonwa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">WageWorks</div></a>
+					<a href="https://www.commuterbenefitsnyc.com" id="buttoner" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Edenred</div></a>
 					<a href="https://www.nycenet.edu/advance/" id="buttonad" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Advance</div></a>
 					<a href="https://subcentral.eschoolsolutions.com/" id="buttonsub" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SubCentral</div></a>
+					<a href="https://dhrnycaps.nycenet.edu/solas/" id="buttonsl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SOLAS</div></a>
 				</div>
 			</section>
 			<section class="contentright">
@@ -91,6 +94,7 @@ include("includes/header.php");
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 					<a href="https://servicecenter.nycenet.edu/selfsupport/" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DIIT Service</div></a>
 					<a href="https://manhattanhs.on.spiceworks.com/portal/tickets" id="buttonsw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Help Desk</div></a>
+					<a href="http://schoolview.nycboe.net" id="buttonsv" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Schoolview</div></a>
 				</div>
 			</section>
 		</div>
