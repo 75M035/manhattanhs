@@ -1829,8 +1829,8 @@ a#buttonsm:hover{
 #buttonos {
 	border: 1px solid #243BA5;
 	background: url("/images/buttons/osyd.svg") no-repeat #DFDE5E;
-	background-size: 50px 50px;
-	background-position: 50% 32%;
+	background-size: 70px 50px;
+	background-position: 50% 25%;
 	color: #243BA5;
 }
 
