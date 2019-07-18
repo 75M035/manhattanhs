@@ -132,7 +132,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Computer Art</td>
+					<td><a href="\syllabi\2018_7\Computer_Art_Syllabus_Ayala.pdf" target="_blank">Computer Art</a></td>
 					<td>Arts</td>
 					<td>Ayala</td>
 					<td>310</td>
@@ -160,7 +160,7 @@ include("includes/header.php");
 					<td>Human Services</td>
 					<td>Sarno</td>
 					<td>227</td>
-					<td>A, B ,C ,D, E, F</td>
+					<td>A, B, C, D, E, F</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
