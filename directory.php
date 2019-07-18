@@ -430,9 +430,10 @@ include("includes/header.php");
 		<tr>
 			<td>Jeniffer Higgins</td>
 			<td>Jewish Board Social Worker</td>
-			<td>217D</td>
+			<td>2173</td>
+			<td>2173</td>
 			<td></td>
-			<td><a href="mailto:ssingh@jbfcs.org">ssingh@jbfcs.org</a></td>
+			<td><a href="mailto:jhiggins@jbfcs.org">jhiggins@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
 		<tr>
@@ -494,8 +495,8 @@ include("includes/header.php");
 		<tr>
 			<td>Avery Klotsche</td>
 			<td>Jewish Board Social Worker</td>
-			<td></td>
-			<td></td>
+			<td>217D</td>
+			<td>2173</td>
 			<td><a href="mailto:aklotsche@jbfcs.org">aklotsche@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -647,7 +648,7 @@ include("includes/header.php");
 			<td>Silvia Orellana</td>
 			<td>Jewish Board Clinical Director</td>
 			<td>217F</td>
-			<td></td>
+			<td>2175</td>
 			<td><a href="mailto:sorellana@jbfcs.org">sorellana@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -847,7 +848,7 @@ include("includes/header.php");
 			<td>Sonia Singh</td>
 			<td>Jewish Board Social Worker</td>
 			<td>217B</td>
-			<td></td>
+			<td>2172</td>
 			<td><a href="mailto:ssingh@jbfcs.org">ssingh@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -857,14 +858,6 @@ include("includes/header.php");
 			<td></td>
 			<td></td>
 			<td><a href="mailto:hsmith5@schools.nyc.gov">hsmith5@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
-			<td>Lily Smith</td>
-			<td>Jewish Board Social Worker</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:ssingh@jbfcs.org">ssingh@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
 		<tr>
