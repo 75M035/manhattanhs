@@ -20,7 +20,7 @@ include("includes/header.php");
 			</thead>
 			<tbody>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td><a href="\syllabi\2018_7\Algebra_I_1_4_Syllabus_Gasero.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Gasero</td>
 					<td>411</td>
@@ -28,7 +28,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td><a href="\syllabi\2018_7\Algebra_I_1_4_Syllabus_Jin.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Jin</td>
 					<td>216</td>
@@ -76,7 +76,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra I 3/4</td>
+					<td><a href="\syllabi\2018_7\Algebra_I_3_4_Syllabus_Jin.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Jin</td>
 					<td>216</td>
@@ -84,7 +84,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 3/4</td>
+					<td><a href="\syllabi\2018_7\Algebra_I_3_4_Syllabus_Pena.pdf" target="_blank">Algebra I 3/4</a></td>
 					<td>Mathematics</td>
 					<td>Peña</td>
 					<td>207</td>
@@ -108,7 +108,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 4/4</td>
+					<td><a href="\syllabi\2018_7\Algebra_I_4_4_Syllabus_Pena.pdf" target="_blank">Algebra I 4/4</a></td>
 					<td>Mathematics</td>
 					<td>Peña</td>
 					<td>207</td>
@@ -116,7 +116,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra II 1/2</td>
+					<td><a href="\syllabi\2018_7\Algebra_II_1_2_Syllabus_Pena.pdf" target="_blank">Algebra II 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Peña</td>
 					<td>207</td>
@@ -124,7 +124,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra II 2/2</td>
+					<td><a href="\syllabi\2018_7\Algebra_II_2_2_Syllabus_Pena.pdf" target="_blank">Algebra II 2/2</a></td>
 					<td>Mathematics</td>
 					<td>Peña</td>
 					<td>207</td>
@@ -140,7 +140,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Computer Business</td>
+					<td><a href="\syllabi\2018_7\Computer_Business_Syllabus_Afzal.pdf" target="_blank">Computer Business</a></td>
 					<td>Technology</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -148,7 +148,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Creative Writing</td>
+					<td><a href="\syllabi\2018_7\Creative_Writing_Syllabus_Velez.pdf" target="_blank">Creative Writing</a></td>
 					<td>Arts</td>
 					<td>Velez</td>
 					<td>408</td>
@@ -164,7 +164,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Earth Science 1/2</td>
+					<td><a href="\syllabi\2018_7\Earth_Science_1_2_Syllabus_Dubizh.pdf" target="_blank">Earth Science 1/2</a></td>
 					<td>Physical Science</td>
 					<td>Dubizh</td>
 					<td>208</td>
@@ -172,7 +172,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Earth Science 1/2</td>
+					<td><a href="\syllabi\2018_7\Earth_Science_1_2_Syllabus_Velez.pdf" target="_blank">Earth Science 1/2</a></td>
 					<td>Physical Science</td>
 					<td>Velez</td>
 					<td>408</td>
@@ -188,7 +188,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Earth Science 2/2</td>
+					<td><a href="\syllabi\2018_7\Earth_Science_2_2_Syllabus_Velez.pdf" target="_blank">Earth Science 2/2</a></td>
 					<td>Physical Science</td>
 					<td>Velez</td>
 					<td>408</td>
@@ -204,7 +204,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td><a href="\syllabi\2018_7\English_1_8_Syllabus_Bennett.pdf" target="_blank">English 1/8</a></td>
 					<td>Core English</td>
 					<td>Bennett</td>
 					<td>205</td>
@@ -212,7 +212,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td><a href="\syllabi\2018_7\English_1_8_Syllabus_Verde.pdf" target="_blank">English 1/8</a></td>
 					<td>Core English</td>
 					<td>Verde</td>
 					<td>415</td>
@@ -220,7 +220,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td><a href="\syllabi\2018_7\English_1_8_Syllabus_Williams.pdf" target="_blank">English 1/8</a></td>
 					<td>Core English</td>
 					<td>Williams</td>
 					<td>220</td>
@@ -228,7 +228,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 2/8</td>
+					<td><a href="\syllabi\2018_7\English_2_8_Syllabus_Bennett.pdf" target="_blank">English 2/8</a></td>
 					<td>Core English</td>
 					<td>Bennett</td>
 					<td>205</td>
@@ -236,7 +236,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 2/8</td>
+					<td><a href="\syllabi\2018_7\English_2_8_Syllabus_Verde.pdf" target="_blank">English 2/8</a></td>
 					<td>Core English</td>
 					<td>Verde</td>
 					<td>415</td>
@@ -252,7 +252,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 3/8</td>
+					<td><a href="\syllabi\2018_7\English_3_8_Syllabus_Bennett.pdf" target="_blank">English 3/8</a></td>
 					<td>Core English</td>
 					<td>Bennett</td>
 					<td>205</td>
@@ -260,7 +260,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 3/8</td>
+					<td><a href="\syllabi\2018_7\English_3_8_Syllabus_Verde.pdf" target="_blank">English 3/8</a></td>
 					<td>Core English</td>
 					<td>Verde</td>
 					<td>415</td>
@@ -268,7 +268,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 4/8</td>
+					<td><a href="\syllabi\2018_7\English_4_8_Syllabus_Bennett.pdf" target="_blank">English 4/8</a></td>
 					<td>Core English</td>
 					<td>Bennett</td>
 					<td>205</td>
@@ -276,7 +276,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 4/8</td>
+					<td><a href="\syllabi\2018_7\English_4_8_Syllabus_Verde.pdf" target="_blank">English 4/8</a></td>
 					<td>Core English</td>
 					<td>Verde</td>
 					<td>415</td>
@@ -284,7 +284,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td><a href="\syllabi\2018_7\English_5_8_Syllabus_Medina.pdf" target="_blank">English 5/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>218</td>
@@ -292,7 +292,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td><a href="\syllabi\2018_7\English_5_8_Syllabus_Verde.pdf" target="_blank">English 5/8</a></td>
 					<td>Core English</td>
 					<td>Verde</td>
 					<td>415</td>
@@ -300,15 +300,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 6/8</td>
-					<td>Core English</td>
-					<td>Bennett</td>
-					<td>205</td>
-					<td>DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td>English 6/8</td>
+					<td><a href="\syllabi\2018_7\English_6_8_Syllabus_Medina.pdf" target="_blank">English 6/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>218</td>
@@ -316,7 +308,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 6/8</td>
+					<td><a href="\syllabi\2018_7\English_6_8_Syllabus_Verde.pdf" target="_blank">English 6/8</a></td>
 					<td>Core English</td>
 					<td>Verde</td>
 					<td>415</td>
@@ -324,7 +316,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="\syllabi\2018_7\English_7_8_Syllabus_Medina.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>218</td>
@@ -332,7 +324,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="\syllabi\2018_7\English_7_8_Syllabus_Verde.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Verde</td>
 					<td>415</td>
@@ -340,7 +332,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 8/8</td>
+					<td><a href="\syllabi\2018_7\English_8_8_Syllabus_Medina.pdf" target="_blank">English 8/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>218</td>
@@ -348,7 +340,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 8/8</td>
+					<td><a href="\syllabi\2018_7\English_8_8_Syllabus_Verde.pdf" target="_blank">English 8/8</a></td>
 					<td>Core English</td>
 					<td>Verde</td>
 					<td>415</td>
@@ -356,7 +348,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td><a href="\syllabi\2018_7\Geometry_1_2_Syllabus_Gasero.pdf" target="_blank">Geometry 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Gasero</td>
 					<td>411</td>
@@ -364,7 +356,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td><a href="\syllabi\2018_7\Geometry_1_2_Syllabus_Pena.pdf" target="_blank">Geometry 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Peña</td>
 					<td>207</td>
@@ -380,7 +372,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Geometry 2/2</td>
+					<td><a href="\syllabi\2018_7\Geometry_2_2_Syllabus_Pena.pdf" target="_blank">Geometry 2/2</a></td>
 					<td>Mathematics</td>
 					<td>Peña</td>
 					<td>207</td>
@@ -388,7 +380,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td><a href="\syllabi\2018_7\Global_1_4_Syllabus_Afzal.pdf" target="_blank">Global 1/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -396,7 +388,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td><a href="\syllabi\2018_7\Global_1_4_Syllabus_Turner.pdf" target="_blank">Global 1/4</a></td>
 					<td>Social Studies</td>
 					<td>Turner</td>
 					<td>206</td>
@@ -404,7 +396,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td><a href="\syllabi\2018_7\Global_1_4_Syllabus_Williams.pdf" target="_blank">Global 1/4</a></td>
 					<td>Social Studies</td>
 					<td>Williams</td>
 					<td>220</td>
@@ -412,7 +404,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 2/4</td>
+					<td><a href="\syllabi\2018_7\Global_2_4_Syllabus_Afzal.pdf" target="_blank">Global 2/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -436,7 +428,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 3/4</td>
+					<td><a href="\syllabi\2018_7\Global_3_4_Syllabus_Afzal.pdf" target="_blank">Global 3/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -444,7 +436,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 3/4</td>
+					<td><a href="\syllabi\2018_7\Global_3_4_Syllabus_Morell.pdf" target="_blank">Global 3/4</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>214</td>
@@ -460,7 +452,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 4/4</td>
+					<td><a href="\syllabi\2018_7\Global_4_4_Syllabus_Afzal.pdf" target="_blank">Global 4/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -468,7 +460,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 4/4</td>
+					<td><a href="\syllabi\2018_7\Global_4_4_Syllabus_Morell.pdf" target="_blank">Global 4/4</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>214</td>
@@ -492,7 +484,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Government &#38; Economics 1/2</td>
+					<td><a href="\syllabi\2018_7\Government_Economics_1_2_Syllabus_Afzal.pdf" target="_blank">Government &#38; Economics 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -500,7 +492,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Government &#38; Economics 1/2</td>
+					<td><a href="\syllabi\2018_7\Government_Economics_1_2_Syllabus_Morell.pdf" target="_blank">Government &#38; Economics 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>214</td>
@@ -508,7 +500,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Government &#38; Economics 2/2</td>
+					<td><a href="\syllabi\2018_7\Government_Economics_2_2_Syllabus_Afzal.pdf" target="_blank">Government &#38; Economics 2/2</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -516,7 +508,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Government &#38; Economics 2/2</td>
+					<td><a href="\syllabi\2018_7\Government_Economics_2_2_Syllabus_Morell.pdf" target="_blank">Government &#38; Economics 2/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>214</td>
@@ -524,7 +516,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Health</td>
+					<td><a href="\syllabi\2018_7\Health_Syllabus_Geller.pdf" target="_blank">Health</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>212</td>
@@ -532,7 +524,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 1/4</td>
+					<td><a href="\syllabi\2018_7\Living_Environment_1_4_Syllabus_Velez.pdf" target="_blank">Living Environment 1/4</a></td>
 					<td>Life Science</td>
 					<td>Velez</td>
 					<td>408</td>
@@ -540,7 +532,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Living Environment 1/4</td>
+					<td><a href="\syllabi\2018_7\Living_Environment_1_4_Syllabus_Watkins.pdf" target="_blank">Living Environment 1/4</a></td>
 					<td>Life Science</td>
 					<td>Watkins</td>
 					<td>204</td>
@@ -548,7 +540,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 2/4</td>
+					<td><a href="\syllabi\2018_7\Living_Environment_2_4_Syllabus_Velez.pdf" target="_blank">Living Environment 2/4</a></td>
 					<td>Life Science</td>
 					<td>Velez</td>
 					<td>408</td>
@@ -564,7 +556,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 3/4</td>
+					<td><a href="\syllabi\2018_7\Living_Environment_3_4_Syllabus_Velez.pdf" target="_blank">Living Environment 3/4</a></td>
 					<td>Life Science</td>
 					<td>Velez</td>
 					<td>408</td>
@@ -580,7 +572,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 4/4</td>
+					<td><a href="\syllabi\2018_7\Living_Environment_4_4_Syllabus_Velez.pdf" target="_blank">Living Environment 4/4</a></td>
 					<td>Life Science</td>
 					<td>Velez</td>
 					<td>408</td>
@@ -596,7 +588,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Music</td>
+					<td><a href="\syllabi\2018_7\Music_Syllabus_Brickel.pdf" target="_blank">Music</a></td>
 					<td>Arts</td>
 					<td>Brickel</td>
 					<td>210</td>
@@ -612,7 +604,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Photo and Design</td>
+					<td><a href="\syllabi\2018_7\Photo_Design_Syllabus_Miller.pdf" target="_blank">Photo &#38; Design</a></td>
 					<td>Arts</td>
 					<td>Miller</td>
 					<td>211</td>
@@ -620,7 +612,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="\syllabi\2018_7\Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>226</td>
@@ -628,7 +620,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="\syllabi\2018_7\Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>702</td>
@@ -636,7 +628,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="\syllabi\2018_7\Physical_Education_Syllabus_Waver.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Waver</td>
 					<td>GYM</td>
@@ -644,7 +636,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Spanish 1/6</td>
+					<td><a href="\syllabi\2018_7\Spanish_1_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 1/6</a></td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>208</td>
@@ -652,7 +644,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Spanish 2/6</td>
+					<td><a href="\syllabi\2018_7\Spanish_2_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 2/6</a></td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>208</td>
@@ -660,7 +652,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Spanish 3/6</td>
+					<td><a href="\syllabi\2018_7\Spanish_3_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 3/6</a></td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>208</td>
@@ -668,7 +660,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Spanish 4/6</td>
+					<td><a href="\syllabi\2018_7\Spanish_4_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 4/6</a></td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>208</td>
@@ -676,7 +668,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Spanish 5/6</td>
+					<td><a href="\syllabi\2018_7\Spanish_5_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 5/6</a></td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>208</td>
@@ -684,7 +676,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Spanish 6/6</td>
+					<td><a href="\syllabi\2018_7\Spanish_6_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 6/6</a></td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>208</td>
@@ -692,7 +684,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td><a href="\syllabi\2018_7\US_History_1_2_Syllabus_Afzal.pdf" target="_blank">US History 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -700,7 +692,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td><a href="\syllabi\2018_7\US_History_1_2_Syllabus_Morell.pdf" target="_blank">US History 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>214</td>
@@ -716,7 +708,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>US History 2/2</td>
+					<td><a href="\syllabi\2018_7\US_History_2_2_Syllabus_Morell.pdf" target="_blank">US History 2/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>214</td>
