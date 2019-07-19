@@ -36,7 +36,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td><a href="\syllabi\2018_7\Algebra_I_1_4_Syllabus_Thomas.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Thomas</td>
 					<td>222</td>
@@ -60,7 +60,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 2/4</td>
+					<td><a href="\syllabi\2018_7\Algebra_I_2_4_Syllabus_Thomas.pdf" target="_blank">Algebra I 2/4</a></td>
 					<td>Mathematics</td>
 					<td>Thomas</td>
 					<td>222</td>
