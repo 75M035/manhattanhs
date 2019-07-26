@@ -432,7 +432,6 @@ include("includes/header.php");
 			<td>Jewish Board Social Worker</td>
 			<td>2173</td>
 			<td>2173</td>
-			<td></td>
 			<td><a href="mailto:jhiggins@jbfcs.org">jhiggins@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
