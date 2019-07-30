@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h3 class="contenthead">Phone Service Not Working - July 30, 2019 <span class="labels"><span class="beacon-label">Beacon</span></span></h3>
+				<div class="maincontent">
+					<p>We are currently experiencing technical difficulties with the phone service at our Beacon site. We can dial out, but we cannot receive calls, so you may be unable to reach us by phone.</p>
+					<p>If you need to reach us, email is the best method of communication at this time. For attendance issues, please email Ms. Rivera at <a href="mailto:erivera67@schools.nyc.gov">erivera67@schools.nyc.gov</a>. For email addresses of teachers and personnel, please view the <a href="directory.php">Faculty Directory</a>. For general inquiries, please email <a href="mailto:admin@manhattanhs.org">admin@manhattanhs.org</a></p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h3 class="contenthead">Fleet Week - May 30, 2019 <span class="labels"><span class="all-label">All</span></span></h3>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/fleetwk2019.jpeg" alt="Fleet Week"></div>
