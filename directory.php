@@ -116,14 +116,6 @@ include("includes/header.php");
 			<td>All</td>
 		</tr>
 		<tr>
-			<td>Sara Berman</td>
-			<td>Unit Coordinator</td>
-			<td>21E19</td>
-			<td></td>
-			<td><a href="mailto:sberman7@schools.nyc.gov">sberman7@schools.nyc.gov</a></td>
-			<td>Bellevue</td>
-		</tr>
-		<tr>
 			<td>Jennifer Bodner</td>
 			<td>Speech Teacher</td>
 			<td>213D</td>
@@ -250,6 +242,14 @@ include("includes/header.php");
 			<td>2104</td>
 			<td><a href="mailto:ddejesus7@schools.nyc.gov">ddejesus7@schools.nyc.gov</a></td>
 			<td>Main</td>
+		</tr>
+		<tr>
+			<td>Sara Deptula</td>
+			<td>Unit Coordinator</td>
+			<td>21E29</td>
+			<td></td>
+			<td><a href="mailto:sdeptula@schools.nyc.gov">sdeptula@schools.nyc.gov</a></td>
+			<td>Bellevue</td>
 		</tr>
 		<tr>
 			<td>Ibrahima Diallo</td>
