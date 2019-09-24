@@ -102,19 +102,19 @@ include("includes/header.php");
 				<div class="sidecontent">
 					<p><span class="all-label">All</span> Marking Period 1 grades for Term 1 are due November 14. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
 					<p><span class="beacon-label">Beacon</span> Anyone interested in donating Legos for science projects should see <a href="mailto:lrojas2@schools.nyc.gov">Ms. Rojas</a> in room 204.</p>
-					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:MMedina25@schools.nyc.gov">Ms. Medina</a>, <a href="mailto:KHughes15@schools.nyc.gov">Ms. Hughes</a>, or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
+					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:KHughes15@schools.nyc.gov">Ms. Hughes</a> or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
 			</aside>
 			<aside class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/3/2019</span> <br /> First day for all staff (staff only)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/4/2019</span> <br /> Chancellor's Conference Day (staff only)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">9/5/2019</span> <br /> First day for all students</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">9/30/2019-10/1/2019</span> <br /> Rosh Hashanah (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/9/2019</span> <br /> Yom Kippur (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/14/2019</span> <br /> Columbus Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/5/2019</span> <br /> Chancellor's Conference Day (staff only)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2019</span> <br /> Veterans Day (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/28/2019-11/29/2019</span> <br /> Thanksgiving Break (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/2019-1/1/2020</span> <br /> Winter Break (school closed)</p>
 				</div>
 			</aside>
 			<aside class="contentright">
