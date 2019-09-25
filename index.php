@@ -114,7 +114,7 @@ include("includes/header.php");
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/5/2019</span> <br /> Chancellor's Conference Day (staff only)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2019</span> <br /> Veterans Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/28/2019-11/29/2019</span> <br /> Thanksgiving Break (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/2019-1/1/2020</span> <br /> Winter Break (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/23/2019-1/1/2020</span> <br /> Winter Break (school closed)</p>
 				</div>
 			</aside>
 			<aside class="contentright">
