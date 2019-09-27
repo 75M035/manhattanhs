@@ -404,6 +404,14 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
+			<td>Sohad Gonzalez</td>
+			<td>Culinary Teacher</td>
+			<td>104</td>
+			<td>1041</td>
+			<td><a href="mailto:sgonzalez4@schools.nyc.gov">sgonzalez4@schools.nyc.gov</a></td>
+			<td>Main</td>
+		</tr>
+		<tr>
 			<td>Gilberto Graciani</td>
 			<td>Teacher</td>
 			<td>21E41</td>
