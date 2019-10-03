@@ -6,7 +6,7 @@ include("includes/header.php");
 ?>
 
 	<main id="directory">
-		<h3 class="contenthead">Summer 2019 Courses <span class="rightlink"><a href="pastcourses.php">Past Courses</a><button class="btn btn-warning excelexport btn-md" type="button"></button></span></h3>
+		<h3 class="contenthead">Fall 2019 Courses <span class="rightlink"><a href="pastcourses.php">Past Courses</a><button class="btn btn-warning excelexport btn-md" type="button"></button></span></h3>
 		<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)" data-exporting="true">
 			<thead>
 			<tr class="header">
@@ -20,699 +20,627 @@ include("includes/header.php");
 			</thead>
 			<tbody>
 				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_I_1_4_Syllabus_Gasero.pdf" target="_blank">Algebra I 1/4</a></td>
+					<td>Algebra I 1/4</td>
+					<td>Mathematics</td>
+					<td>Flores</td>
+					<td>222</td>
+					<td>4, 5</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Algebra I 1/4</td>
 					<td>Mathematics</td>
 					<td>Gasero</td>
 					<td>411</td>
-					<td>12, 34</td>
+					<td>2, 3</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_I_1_4_Syllabus_Jin.pdf" target="_blank">Algebra I 1/4</a></td>
+					<td>Algebra I 1/4</td>
 					<td>Mathematics</td>
-					<td>Jin</td>
-					<td>216</td>
-					<td>DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_I_1_4_Syllabus_Thomas.pdf" target="_blank">Algebra I 1/4</a></td>
-					<td>Mathematics</td>
-					<td>Thomas</td>
-					<td>222</td>
-					<td>BC, GH</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td>Algebra I 2/4</td>
-					<td>Mathematics</td>
-					<td>Gasero</td>
-					<td>411</td>
-					<td>12, 34, 78</td>
+					<td>Lopez</td>
+					<td>308</td>
+					<td>2, 3</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra I 2/4</td>
-					<td>Mathematics</td>
-					<td>Jin</td>
-					<td>216</td>
-					<td>DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_I_2_4_Syllabus_Thomas.pdf" target="_blank">Algebra I 2/4</a></td>
+					<td>Algebra I 1/4</td>
 					<td>Mathematics</td>
 					<td>Thomas</td>
 					<td>222</td>
-					<td>BC, GH</td>
+					<td>A, C, G, H</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
 					<td>Algebra I 3/4</td>
 					<td>Mathematics</td>
-					<td>Gasero</td>
-					<td>411</td>
-					<td>12, 34, 78</td>
+					<td>Jin</td>
+					<td>216</td>
+					<td>B, C, E, F</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Algebra I 3/4</td>
+					<td>Mathematics</td>
+					<td>Lopez</td>
+					<td>308</td>
+					<td>4, 8</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_I_3_4_Syllabus_Jin.pdf" target="_blank">Algebra I 1/4</a></td>
+					<td>Algebra II 1/2</td>
 					<td>Mathematics</td>
-					<td>Jin</td>
-					<td>216</td>
-					<td>BC, GH</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_I_3_4_Syllabus_Pena.pdf" target="_blank">Algebra I 3/4</a></td>
-					<td>Mathematics</td>
-					<td>Peña</td>
+					<td>Pe&ntilde;a</td>
 					<td>207</td>
-					<td>DE</td>
+					<td>B</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 4/4</td>
-					<td>Mathematics</td>
-					<td>Gasero</td>
-					<td>411</td>
-					<td>12, 34, 78</td>
+					<td>Anatomy</td>
+					<td>Life Science</td>
+					<td>Rojas</td>
+					<td>204</td>
+					<td>A13, A25, D24, E13</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Auto Shop</td>
+					<td>Careers</td>
+					<td>Sarno</td>
+					<td>106</td>
+					<td>1, 4, 6, 7</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra I 4/4</td>
-					<td>Mathematics</td>
-					<td>Jin</td>
-					<td>216</td>
-					<td>BC, GH</td>
+					<td>Chemistry 1/2</td>
+					<td>Physical Science</td>
+					<td>Tahir</td>
+					<td>212</td>
+					<td>D, G, H</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_I_4_4_Syllabus_Pena.pdf" target="_blank">Algebra I 4/4</a></td>
-					<td>Mathematics</td>
-					<td>Peña</td>
-					<td>207</td>
-					<td>DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_II_1_2_Syllabus_Pena.pdf" target="_blank">Algebra II 1/2</a></td>
-					<td>Mathematics</td>
-					<td>Peña</td>
-					<td>207</td>
-					<td>BC</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Algebra_II_2_2_Syllabus_Pena.pdf" target="_blank">Algebra II 2/2</a></td>
-					<td>Mathematics</td>
-					<td>Peña</td>
-					<td>207</td>
-					<td>BC, DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Computer_Art_Syllabus_Ayala.pdf" target="_blank">Computer Art</a></td>
+					<td>Computer Art</td>
 					<td>Arts</td>
 					<td>Ayala</td>
 					<td>310</td>
-					<td>12, 5, 6, 78</td>
+					<td>1, 2, 5, 8</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Computer_Business_Syllabus_Afzal.pdf" target="_blank">Computer Business</a></td>
-					<td>Technology</td>
-					<td>Afzal</td>
-					<td>402</td>
-					<td>5</td>
+					<td>Cosmetology</td>
+					<td>Careers</td>
+					<td>DeJesus</td>
+					<td>210</td>
+					<td>1, 3, 7, 8</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Creative_Writing_Syllabus_Velez.pdf" target="_blank">Creative Writing</a></td>
-					<td>Arts</td>
-					<td>Velez</td>
-					<td>408</td>
-					<td>5</td>
+					<td>Career Exploration</td>
+					<td>Guidance</td>
+					<td>Flores</td>
+					<td>222</td>
+					<td>F</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Culinary</td>
+					<td>Human Services</td>
+					<td>Gonzalez</td>
+					<td>104</td>
+					<td>1, 2, 5, 6</td>
 					<td>Main</td>
 				</tr>
 				<tr>
 					<td>Culinary</td>
 					<td>Human Services</td>
-					<td>Sarno</td>
+					<td>Santana</td>
 					<td>227</td>
-					<td>A, B, C, D, E, F</td>
+					<td>C13, C24, G24, G35, H14, H25</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Earth_Science_1_2_Syllabus_Dubizh.pdf" target="_blank">Earth Science 1/2</a></td>
-					<td>Physical Science</td>
-					<td>Dubizh</td>
-					<td>208</td>
-					<td>BC</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Earth_Science_1_2_Syllabus_Velez.pdf" target="_blank">Earth Science 1/2</a></td>
-					<td>Physical Science</td>
-					<td>Velez</td>
-					<td>408</td>
-					<td>12, 34</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td>Earth Science 2/2</td>
-					<td>Physical Science</td>
-					<td>Dubizh</td>
-					<td>208</td>
-					<td>BC</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Earth_Science_2_2_Syllabus_Velez.pdf" target="_blank">Earth Science 2/2</a></td>
-					<td>Physical Science</td>
-					<td>Velez</td>
-					<td>408</td>
-					<td>12, 34</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td>Economics</td>
+					<td>Current Events</td>
 					<td>Social Studies</td>
+					<td>Turner</td>
+					<td>206</td>
+					<td>H14, H25</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Devised Theater</td>
+					<td>Arts</td>
+					<td>Manas</td>
+					<td>210</td>
+					<td>A35, H14</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Digital Film</td>
+					<td>Arts</td>
+					<td>Manas</td>
+					<td>222 222 210 210</td>
+					<td>B14, B35, C13, C24</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Earth Science 1/2</td>
+					<td>Physical Science</td>
+					<td>Tahir</td>
+					<td>212</td>
+					<td>C, F</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Earth Science 1/2</td>
+					<td>Physical Science</td>
 					<td>Glynn</td>
-					<td>406</td>
-					<td>12, 34</td>
+					<td>313</td>
+					<td>5, 7</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_1_8_Syllabus_Bennett.pdf" target="_blank">English 1/8</a></td>
+					<td>Earth Science 1/2</td>
+					<td>Physical Science</td>
+					<td>Wybaillie</td>
+					<td>410</td>
+					<td>2, 4</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td>English 1/8</td>
 					<td>Core English</td>
-					<td>Bennett</td>
+					<td>Dotter</td>
 					<td>205</td>
-					<td>GH</td>
+					<td>A, B, C, E</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_1_8_Syllabus_Verde.pdf" target="_blank">English 1/8</a></td>
+					<td>English 1/8</td>
 					<td>Core English</td>
-					<td>Verde</td>
-					<td>415</td>
-					<td>12, 34</td>
+					<td>Glynn</td>
+					<td>313</td>
+					<td>8</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_1_8_Syllabus_Williams.pdf" target="_blank">English 1/8</a></td>
+					<td>English 1/8</td>
 					<td>Core English</td>
-					<td>Williams</td>
-					<td>220</td>
-					<td>DE</td>
-					<td>Beacon</td>
+					<td>McCarthy</td>
+					<td>404</td>
+					<td>2, 3</td>
+					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_2_8_Syllabus_Bennett.pdf" target="_blank">English 2/8</a></td>
+					<td>English 1/8</td>
 					<td>Core English</td>
-					<td>Bennett</td>
+					<td></td>
+					<td>302</td>
+					<td>3, 7</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td>English 3/8</td>
+					<td>Core English</td>
+					<td>Dotter</td>
 					<td>205</td>
-					<td>GH</td>
+					<td>H</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_2_8_Syllabus_Verde.pdf" target="_blank">English 2/8</a></td>
-					<td>Core English</td>
-					<td>Verde</td>
-					<td>415</td>
-					<td>12, 34, 78</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td>English 2/8</td>
-					<td>Core English</td>
-					<td>Williams</td>
-					<td>220</td>
-					<td>DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\English_3_8_Syllabus_Bennett.pdf" target="_blank">English 3/8</a></td>
-					<td>Core English</td>
-					<td>Bennett</td>
-					<td>205</td>
-					<td>BC, DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\English_3_8_Syllabus_Verde.pdf" target="_blank">English 3/8</a></td>
-					<td>Core English</td>
-					<td>Verde</td>
-					<td>415</td>
-					<td>34, 78</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\English_4_8_Syllabus_Bennett.pdf" target="_blank">English 4/8</a></td>
-					<td>Core English</td>
-					<td>Bennett</td>
-					<td>205</td>
-					<td>BC, DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\English_4_8_Syllabus_Verde.pdf" target="_blank">English 4/8</a></td>
-					<td>Core English</td>
-					<td>Verde</td>
-					<td>415</td>
-					<td>12, 34, 78</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\English_5_8_Syllabus_Medina.pdf" target="_blank">English 5/8</a></td>
+					<td>English 3/8</td>
 					<td>Core English</td>
 					<td>Medina</td>
-					<td>218</td>
-					<td>BC, DE</td>
+					<td>218 218 205</td>
+					<td>A, E, F</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_5_8_Syllabus_Verde.pdf" target="_blank">English 5/8</a></td>
+					<td>English 3/8</td>
 					<td>Core English</td>
-					<td>Verde</td>
-					<td>415</td>
-					<td>12, 34, 78</td>
+					<td>Paik</td>
+					<td>413</td>
+					<td>7</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_6_8_Syllabus_Medina.pdf" target="_blank">English 6/8</a></td>
+					<td>English 3/8</td>
+					<td>Core English</td>
+					<td></td>
+					<td>302</td>
+					<td>4, 8</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td>English 5/8</td>
+					<td>Core English</td>
+					<td>Lane</td>
+					<td>218</td>
+					<td>F, H</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>English 5/8</td>
 					<td>Core English</td>
 					<td>Medina</td>
-					<td>218</td>
-					<td>BC, DE, GH</td>
+					<td>211, 205</td>
+					<td>C, G</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_6_8_Syllabus_Verde.pdf" target="_blank">English 6/8</a></td>
+					<td>English 5/8</td>
 					<td>Core English</td>
-					<td>Verde</td>
-					<td>415</td>
-					<td>12, 34, 78</td>
+					<td>Paik</td>
+					<td>413</td>
+					<td>5, 6</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_7_8_Syllabus_Medina.pdf" target="_blank">English 7/8</a></td>
+					<td>English 7/8</td>
 					<td>Core English</td>
-					<td>Medina</td>
+					<td>Lane</td>
 					<td>218</td>
-					<td>GH</td>
+					<td>B, C</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_7_8_Syllabus_Verde.pdf" target="_blank">English 7/8</a></td>
+					<td>English 7/8</td>
 					<td>Core English</td>
-					<td>Verde</td>
-					<td>415</td>
-					<td>12, 34, 78</td>
+					<td>Paik</td>
+					<td>413</td>
+					<td>3, 5</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\English_8_8_Syllabus_Medina.pdf" target="_blank">English 8/8</a></td>
+					<td>English 7/8</td>
 					<td>Core English</td>
-					<td>Medina</td>
-					<td>218</td>
-					<td>GH</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\English_8_8_Syllabus_Verde.pdf" target="_blank">English 8/8</a></td>
-					<td>Core English</td>
-					<td>Verde</td>
-					<td>415</td>
-					<td>34, 78</td>
+					<td></td>
+					<td>302</td>
+					<td>8</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Geometry_1_2_Syllabus_Gasero.pdf" target="_blank">Geometry 1/2</a></td>
-					<td>Mathematics</td>
-					<td>Gasero</td>
-					<td>411</td>
-					<td>78</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Geometry_1_2_Syllabus_Pena.pdf" target="_blank">Geometry 1/2</a></td>
-					<td>Mathematics</td>
-					<td>Peña</td>
+					<td>Forensics</td>
+					<td>Science</td>
+					<td>Katz</td>
 					<td>207</td>
-					<td>DE, GH</td>
+					<td>G24, G35</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Geometry 2/2</td>
-					<td>Mathematics</td>
-					<td>Gasero</td>
-					<td>411</td>
-					<td>78</td>
-					<td>Main</td>
+					<td>Geography</td>
+					<td>Social Studies</td>
+					<td>Kennedy</td>
+					<td>214</td>
+					<td>D13, D24</td>
+					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Geometry_2_2_Syllabus_Pena.pdf" target="_blank">Geometry 2/2</a></td>
+					<td>Geometry 1/2</td>
 					<td>Mathematics</td>
-					<td>Peña</td>
+					<td>Jin</td>
+					<td>216</td>
+					<td>A</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Geometry 1/2</td>
+					<td>Mathematics</td>
+					<td>Pe&ntilde;a</td>
 					<td>207</td>
-					<td>GH</td>
+					<td>C, D, F</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Global_1_4_Syllabus_Afzal.pdf" target="_blank">Global 1/4</a></td>
-					<td>Social Studies</td>
-					<td>Afzal</td>
-					<td>402</td>
-					<td>12, 34, 78</td>
+					<td>Geometry 1/2</td>
+					<td>Mathematics</td>
+					<td>Torres</td>
+					<td>415</td>
+					<td>3, 5</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Global_1_4_Syllabus_Turner.pdf" target="_blank">Global 1/4</a></td>
-					<td>Social Studies</td>
-					<td>Turner</td>
-					<td>206</td>
-					<td>DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Global_1_4_Syllabus_Williams.pdf" target="_blank">Global 1/4</a></td>
-					<td>Social Studies</td>
-					<td>Williams</td>
-					<td>220</td>
-					<td>BC, GH</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Global_2_4_Syllabus_Afzal.pdf" target="_blank">Global 2/4</a></td>
+					<td>Global 1/4</td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
-					<td>34, 78</td>
+					<td>6</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 2/4</td>
+					<td>Global 1/4</td>
 					<td>Social Studies</td>
-					<td>Turner</td>
-					<td>206</td>
-					<td>DE</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td>Global 2/4</td>
-					<td>Social Studies</td>
-					<td>Williams</td>
-					<td>220</td>
-					<td>BC, GH</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Global_3_4_Syllabus_Afzal.pdf" target="_blank">Global 3/4</a></td>
-					<td>Social Studies</td>
-					<td>Afzal</td>
-					<td>402</td>
-					<td>34, 78</td>
+					<td>McCarthy</td>
+					<td>404</td>
+					<td>5, 7</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Global_3_4_Syllabus_Morell.pdf" target="_blank">Global 3/4</a></td>
+					<td>Global 1/4</td>
 					<td>Social Studies</td>
 					<td>Morell</td>
-					<td>214</td>
-					<td>DE</td>
+					<td>417</td>
+					<td>8</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td>Global 1/4</td>
+					<td>Social Studies</td>
+					<td>Williams</td>
+					<td>220</td>
+					<td>B, C, E, F, H</td>
 					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Global 3/4</td>
+					<td>Social Studies</td>
+					<td>Afzal</td>
+					<td>402</td>
+					<td>2, 3, 7</td>
+					<td>Main</td>
 				</tr>
 				<tr>
 					<td>Global 3/4</td>
 					<td>Social Studies</td>
 					<td>Turner</td>
 					<td>206</td>
-					<td>BC, GH</td>
+					<td>B, C, F</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Global_4_4_Syllabus_Afzal.pdf" target="_blank">Global 4/4</a></td>
+					<td>Government &amp; Economics 1/2</td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
-					<td>34, 78</td>
+					<td>2, 7</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Global_4_4_Syllabus_Morell.pdf" target="_blank">Global 4/4</a></td>
+					<td>Government &amp; Economics 1/2</td>
 					<td>Social Studies</td>
-					<td>Morell</td>
-					<td>214</td>
-					<td>DE</td>
+					<td>Kennedy</td>
+					<td>206 214 214</td>
+					<td>A, F, H</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 4/4</td>
+					<td>Government &amp; Economics 1/2</td>
+					<td>Social Studies</td>
+					<td>Morell</td>
+					<td>417</td>
+					<td>2</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td>Government &amp; Economics 1/2</td>
 					<td>Social Studies</td>
 					<td>Turner</td>
 					<td>206</td>
-					<td>BC, GH</td>
+					<td>E</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Government</td>
-					<td>Social Studies</td>
-					<td>Lopez</td>
-					<td>404</td>
-					<td>12, 34</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Government_Economics_1_2_Syllabus_Afzal.pdf" target="_blank">Government &#38; Economics 1/2</a></td>
-					<td>Social Studies</td>
-					<td>Afzal</td>
-					<td>402</td>
-					<td>12, 34, 78</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Government_Economics_1_2_Syllabus_Morell.pdf" target="_blank">Government &#38; Economics 1/2</a></td>
-					<td>Social Studies</td>
-					<td>Morell</td>
-					<td>214</td>
-					<td>BC</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Government_Economics_2_2_Syllabus_Afzal.pdf" target="_blank">Government &#38; Economics 2/2</a></td>
-					<td>Social Studies</td>
-					<td>Afzal</td>
-					<td>402</td>
-					<td>12, 34</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Government_Economics_2_2_Syllabus_Morell.pdf" target="_blank">Government &#38; Economics 2/2</a></td>
-					<td>Social Studies</td>
-					<td>Morell</td>
-					<td>214</td>
-					<td>BC</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Health_Syllabus_Geller.pdf" target="_blank">Health</a></td>
+					<td>Health</td>
 					<td>PE and Health</td>
 					<td>Geller</td>
-					<td>212</td>
-					<td>BC</td>
+					<td>211</td>
+					<td>D</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Living_Environment_1_4_Syllabus_Velez.pdf" target="_blank">Living Environment 1/4</a></td>
-					<td>Life Science</td>
-					<td>Velez</td>
-					<td>408</td>
-					<td>12, 34, 78</td>
+					<td>Health</td>
+					<td>PE and Health</td>
+					<td>Gerdes</td>
+					<td>216</td>
+					<td>G, H</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Health</td>
+					<td>PE and Health</td>
+					<td>Verde</td>
+					<td>317</td>
+					<td>3, 4, 6</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Living_Environment_1_4_Syllabus_Watkins.pdf" target="_blank">Living Environment 1/4</a></td>
-					<td>Life Science</td>
-					<td>Watkins</td>
-					<td>204</td>
-					<td>BC, GH</td>
+					<td>Honors Art</td>
+					<td>Arts</td>
+					<td>DiLorenzo</td>
+					<td>211</td>
+					<td>A13, H35</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Living_Environment_2_4_Syllabus_Velez.pdf" target="_blank">Living Environment 2/4</a></td>
+					<td>Honors English 7/8</td>
+					<td>Core English</td>
+					<td>Lane</td>
+					<td>218</td>
+					<td>G</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Honors Music</td>
+					<td>Arts</td>
+					<td>Brickel</td>
+					<td>210</td>
+					<td>D13, E24</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Keyboard</td>
+					<td>Arts</td>
+					<td>Brickel</td>
+					<td>C43</td>
+					<td>A13, A25, H14, H25</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Living Environment 1/4</td>
 					<td>Life Science</td>
-					<td>Velez</td>
-					<td>408</td>
-					<td>34, 78</td>
+					<td>Katz</td>
+					<td>212 212 208 204</td>
+					<td>A, B, F, H</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Living Environment 1/4</td>
+					<td>Life Science</td>
+					<td>Phillips</td>
+					<td>406/215</td>
+					<td>6, 8</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Living Environment 2/4</td>
+					<td>Living Environment 1/4</td>
 					<td>Life Science</td>
-					<td>Watkins</td>
-					<td>204</td>
-					<td>BC, GH</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Living_Environment_3_4_Syllabus_Velez.pdf" target="_blank">Living Environment 3/4</a></td>
-					<td>Life Science</td>
-					<td>Velez</td>
-					<td>408</td>
-					<td>78</td>
+					<td>Wybaillie</td>
+					<td>410/215</td>
+					<td>5, 8</td>
 					<td>Main</td>
 				</tr>
 				<tr>
 					<td>Living Environment 3/4</td>
 					<td>Life Science</td>
-					<td>Watkins</td>
-					<td>204</td>
-					<td>BC, GH</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Living_Environment_4_4_Syllabus_Velez.pdf" target="_blank">Living Environment 4/4</a></td>
-					<td>Life Science</td>
-					<td>Velez</td>
-					<td>408</td>
-					<td>78</td>
+					<td>Phillips</td>
+					<td>406/215</td>
+					<td>3, 7</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Living Environment 4/4</td>
+					<td>Living Environment 3/4</td>
 					<td>Life Science</td>
-					<td>Watkins</td>
+					<td>Rojas</td>
 					<td>204</td>
-					<td>BC, GH</td>
+					<td>B, F, G</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Music_Syllabus_Brickel.pdf" target="_blank">Music</a></td>
-					<td>Arts</td>
-					<td>Brickel</td>
-					<td>210</td>
-					<td>A, D</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td>Music</td>
-					<td>Arts</td>
-					<td>Gasero</td>
-					<td>411</td>
-					<td>6</td>
-					<td>Main</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Photo_Design_Syllabus_Miller.pdf" target="_blank">Photo &#38; Design</a></td>
-					<td>Arts</td>
-					<td>Miller</td>
-					<td>211</td>
-					<td>A, B, C, D, F</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td><a href="\syllabi\2018_7\Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
+					<td>Physical Education</td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>226</td>
-					<td>D, E, F</td>
+					<td>C13, C24</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
+					<td>Physical Education</td>
 					<td>PE and Health</td>
 					<td>Geller</td>
-					<td>702</td>
-					<td>A</td>
+					<td>702B</td>
+					<td>A13, A25, H14, H25, G24, G35</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Physical_Education_Syllabus_Waver.pdf" target="_blank">Physical Education</a></td>
+					<td>Physical Education</td>
+					<td>PE and Health</td>
+					<td>Gerdes</td>
+					<td>226</td>
+					<td>A13, A25, F13, F24, B35</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Physical Education</td>
+					<td>PE and Health</td>
+					<td>Gerdes</td>
+					<td>702B</td>
+					<td>B14</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Physical Education</td>
+					<td>PE and Health</td>
+					<td>Verde</td>
+					<td>GYM</td>
+					<td>8</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td>Physical Education</td>
 					<td>PE and Health</td>
 					<td>Waver</td>
 					<td>GYM</td>
-					<td>59, 69</td>
+					<td>1</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Spanish_1_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 1/6</a></td>
-					<td>Foreign Language</td>
-					<td>Dubizh</td>
-					<td>208</td>
-					<td>DE, GH</td>
+					<td>Rock Band</td>
+					<td>Arts</td>
+					<td>Brickel</td>
+					<td>210</td>
+					<td>B14, B35, G24, G35</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Spanish_2_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 2/6</a></td>
+					<td>Spanish 1/6</td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>208</td>
-					<td>DE, GH</td>
+					<td>A, B, D, G, H</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Spanish_3_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 3/6</a></td>
+					<td>Spanish 1/2</td>
 					<td>Foreign Language</td>
-					<td>Dubizh</td>
-					<td>208</td>
-					<td>DE, GH</td>
+					<td>Velez</td>
+					<td>408</td>
+					<td>1, 2, 6, 7</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Spanish_4_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 4/6</a></td>
-					<td>Foreign Language</td>
-					<td>Dubizh</td>
-					<td>208</td>
-					<td>DE, GH</td>
+					<td>Statistics</td>
+					<td>Mathematics</td>
+					<td>Pe&ntilde;a</td>
+					<td>207</td>
+					<td>H</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Spanish_5_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 5/6</a></td>
-					<td>Foreign Language</td>
-					<td>Dubizh</td>
-					<td>208</td>
-					<td>DE, GH</td>
+					<td>Studio Art</td>
+					<td>Arts</td>
+					<td>Collins</td>
+					<td>319</td>
+					<td>2, 4, 6, 8</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td>Studio Art</td>
+					<td>Arts</td>
+					<td>DiLorenzo</td>
+					<td>211</td>
+					<td>A25, B14, B35, F13, F24, H14, H25, G24, G35</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\Spanish_6_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 6/6</a></td>
-					<td>Foreign Language</td>
-					<td>Dubizh</td>
-					<td>208</td>
-					<td>DE, GH</td>
+					<td>Theater</td>
+					<td>Arts</td>
+					<td>Manas</td>
+					<td>210</td>
+					<td>A13, F13, F24, H14, H25</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\US_History_1_2_Syllabus_Afzal.pdf" target="_blank">US History 1/2</a></td>
+					<td>US History 1/2</td>
 					<td>Social Studies</td>
-					<td>Afzal</td>
-					<td>402</td>
-					<td>12</td>
-					<td>Main</td>
+					<td>Kennedy</td>
+					<td>214</td>
+					<td>B</td>
+					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\US_History_1_2_Syllabus_Morell.pdf" target="_blank">US History 1/2</a></td>
+					<td>US History 1/2</td>
 					<td>Social Studies</td>
 					<td>Morell</td>
-					<td>214</td>
-					<td>GH</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td>US History 2/2</td>
-					<td>Social Studies</td>
-					<td>Afzal</td>
-					<td>402</td>
-					<td>12</td>
+					<td>417</td>
+					<td>5, 6</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td><a href="\syllabi\2018_7\US_History_2_2_Syllabus_Morell.pdf" target="_blank">US History 2/2</a></td>
+					<td>US History 1/2</td>
 					<td>Social Studies</td>
-					<td>Morell</td>
+					<td>Prisco</td>
 					<td>214</td>
-					<td>GH</td>
+					<td>A, C, G</td>
 					<td>Beacon</td>
 				</tr>
 			</tbody>
