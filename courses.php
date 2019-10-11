@@ -20,7 +20,7 @@ include("includes/header.php");
 			</thead>
 			<tbody>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td><a href="/syllabi/2019_1/Algebra_I_1_4_Syllabus_Flores.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Flores</td>
 					<td>222</td>
@@ -124,7 +124,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Career Exploration</td>
+					<td><a href="/syllabi/2019_1/Career_Exploration_Syllabus_Flores.pdf" target="_blank">Career Exploration</a></td>
 					<td>Guidance</td>
 					<td>Flores</td>
 					<td>222</td>
@@ -148,7 +148,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Current Events</td>
+					<td><a href="/syllabi/2019_1/Current_Events_Syllabus_Turner.pdf" target="_blank">Current Events</a></td>
 					<td>Social Studies</td>
 					<td>Turner</td>
 					<td>206</td>
@@ -260,7 +260,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td><a href="/syllabi/2019_1/English_5_8_Syllabus_Lane.pdf" target="_blank">English 5/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -284,7 +284,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="/syllabi/2019_1/English_7_8_Syllabus_Lane.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -388,7 +388,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 3/4</td>
+					<td><a href="/syllabi/2019_1/Global_3_4_Syllabus_Turner.pdf" target="_blank">Global 3/4</a></td>
 					<td>Social Studies</td>
 					<td>Turner</td>
 					<td>206</td>
@@ -452,7 +452,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Honors English 7/8</td>
+					<td><a href="/syllabi/2019_1/Honors_English_7_8_Syllabus_Lane.pdf" target="_blank">Honors English 7/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -572,7 +572,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Spanish 1/6</td>
+					<td><a href="/syllabi/2019_1/Spanish_1_6_Syllabus_Dubizh.pdf" target="_blank">Spanish 1/6</a></td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>208</td>
