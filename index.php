@@ -107,7 +107,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h3 class="contentheadright">Upcoming</h3>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">10/9/2019</span> <br /> Yom Kippur (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/14/2019</span> <br /> Columbus Day (school closed)</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">10/16/2019</span> <br /> In school SAT/PSAT Day </p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/5/2019</span> <br /> Chancellor's Conference Day (staff only)</p>
