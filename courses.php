@@ -6,7 +6,7 @@ include("includes/header.php");
 ?>
 
 	<main id="directory">
-		<h3 class="contenthead">Fall 2019 Courses <span class="rightlink"><a href="pastcourses.php">Past Courses</a><button class="btn btn-warning excelexport btn-md" type="button"></button></span></h3>
+		<h2 class="contenthead">Fall 2019 Courses <span class="rightlink"><a href="pastcourses.php">Past Courses</a><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export"></button></span></h2>
 		<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)" data-exporting="true">
 			<thead>
 			<tr class="header">

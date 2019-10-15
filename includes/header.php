@@ -58,6 +58,6 @@
 		</ul>
 	</nav>
 	<div id="logo">
-		<a href="/index.php">Manhattan High School <img src="/images/logo.svg" alt="Manhattan High School Logo"></a>
+		<h1><a href="/index.php">Manhattan High School <img src="/images/logo.svg" alt="Manhattan High School Logo"></a></h1>
 	</div>
 </header>

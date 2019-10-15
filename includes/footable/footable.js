@@ -4013,7 +4013,7 @@
 					.append($('<label/>', {'class': 'sr-only', text: 'Search'})),
 				$input_grp = $('<div/>', {'class': 'input-group'}).appendTo($form_grp),
 				$input_grp_btn = $('<div/>', {'class': 'input-group-btn'}),
-				$dropdown_toggle = $('<button/>', {type: 'button', 'class': 'btn btn-default dropdown-toggle'})
+				$dropdown_toggle = $('<button/>', {type: 'button', 'class': 'btn btn-default dropdown-toggle', 'title': 'Filter'})
 					.on('click', { self: self }, self._onDropdownToggleClicked)
 					.append($('<span/>', {'class': 'caret'})),
 				position;
@@ -4038,7 +4038,7 @@
 
 			self.$input = $('<input/>', {type: 'text', 'class': 'form-control', placeholder: self.placeholder});
 
-			self.$button = $('<button/>', {type: 'button', 'class': 'btn btn-primary'})
+			self.$button = $('<button/>', {type: 'button', 'class': 'btn btn-primary', 'title': 'Search'})
 				.on('click', { self: self }, self._onSearchButtonClicked)
 				.append($('<span/>', {'class': 'fooicon fooicon-search'}));
 
