@@ -316,14 +316,6 @@ include("includes/header.php");
 			<td>Bellevue</td>
 		</tr>
 		<tr>
-			<td>Alexandro Flores</td>
-			<td>Paraprofessional</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:aflores21@schools.nyc.gov">aflores21@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Jessica Flores</td>
 			<td>Social Skills Teacher</td>
 			<td>222</td>
@@ -366,10 +358,10 @@ include("includes/header.php");
 		<tr>
 			<td>Shaun Geiger</td>
 			<td>English Teacher</td>
-			<td>205, 211, 218</td>
-			<td>2051, 2111, 2181</td>
+			<td>302</td>
+			<td>3021</td>
 			<td><a href="mailto:sgeiger4@schools.nyc.gov">sgeiger4@schools.nyc.gov</a></td>
-			<td>Beacon</td>
+			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Kristian Geller</td>
