@@ -10,7 +10,7 @@ body {
 }
 
 a {
-	color: #825E09;
+	color: #684B07;
 }
 
 a:hover {
@@ -77,7 +77,7 @@ a:hover {
 }
 
 li#students a {
-	background: #80B34E;
+	background: #679D32;
 	box-shadow: inset 0 0 20px #6F835C;
 }
 
@@ -90,7 +90,7 @@ li#students a:active {
 }
 
 li#parents a {
-	background: #FF9832;
+	background: #D77819;
 	box-shadow: inset 0 0 20px #AA6E32;
 }
 
@@ -103,8 +103,8 @@ li#parents a:active {
 }
 
 li#staff a {
-	background: #669ACC;
-	box-shadow: inset 0 0 20px #517AA2;
+	background: #5581AC;
+	box-shadow: inset 0 0 20px #496E93;
 }
 
 li#staff a:hover {
@@ -133,6 +133,11 @@ li#visitors a:active {
 	background: linear-gradient(#B8870F, #F8F3E6);
 }
 
+#logo h1 {
+	padding: 0px;
+    margin: 0px;
+}
+
 #logo a {
 	font-size: 22px;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
@@ -142,6 +147,7 @@ li#visitors a:active {
 	justify-content: center;
 	align-items: center;
 	position: relative;
+	font-weight: normal;
 }
 
 #logo img {
@@ -197,15 +203,21 @@ li#visitors a:active {
 	box-shadow: 0 10px 22px -18px #000;
 	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
 	font: 'LeagueGothicRegular';
+	font-size: 14pt;
 }
 
-h3.contenthead {
+h2.contenthead {
 	display: flex;
 	justify-content: space-between;
+	overflow: hidden;
+}
+
+ul.contenthead {
+	font-size: 10pt;
 }
 
 .maincontent, .fullcontent {
-	margin: -10px 10px -5px 10px;
+	margin: -7px 10px -5px 10px;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 11pt;
 	line-height: 1.4em;
@@ -225,10 +237,11 @@ h3.contenthead {
 	margin-top: 0;
 	padding: 5px 0 5px 5px;
 	border-radius: 4px 4px 0 0;
+	font-size: 14pt;
 }
 
 .sidecontent {
-	margin: -10px 10px -5px 10px;
+	margin: -7px 10px -5px 10px;
 	font-family: Verdana, Arial, sans-serif;
 	font-size: 11pt;
 	line-height: 1.4em;
@@ -316,11 +329,11 @@ h3.contenthead {
 }
 
 .main-label {
-	background: #CA6500;
+	background: #AE5902;
 }
 
 .beacon-label {
-	background: #68923F;
+	background: #597e37;
 }
 
 .bellevue-label {
@@ -447,6 +460,7 @@ h3.contenthead {
 #accessibility {
 	color: #EFE4C7;
 	margin: 10px;
+	background: #453205;
 }
 
 #accessibility a {
@@ -471,7 +485,7 @@ h3.contenthead {
 }
 
 #subcontent .maincontent, #subcontent .sidecontent {
-	margin: -10px 10px 10px 10px;
+	margin: -7px 10px 10px 10px;
 	display: flex;
 	flex-flow: row wrap;
 	font-size: 10pt;
@@ -609,7 +623,7 @@ h3.contenthead {
 		margin: 5px;
 	}
 	
-	#directory, #fullwidth, #govtresults {
+	#directory, .fullwidth, #govtresults {
 		width: 96% !important;
 	}
 	
@@ -2214,10 +2228,10 @@ table.footable-paging-center>tfoot>tr.footable-paging>td {
 	top: 9px;
 	left: 10px;
 	padding: 1px;
+	float: right;
 }
 
 ul.contenthead .excelexport{
-	float: right;
 	left: 0;
 }
 
@@ -2280,7 +2294,7 @@ ul.contenthead .excelexport{
 
 /* Full Content Pages */
 
-#fullwidth {
+.fullwidth {
 	background: #F2E6C8;
 	border: 1px solid rgba(105, 76, 7, 0.4);
 	border-radius: 4px;

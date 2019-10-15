@@ -5,8 +5,8 @@ $page_description = "Past Courses at Manhattan High School";
 include("includes/header.php");
 ?>
 	<main>
-		<div id="fullwidth">
-			<ul class="contenthead"><li><a href="/courses.php"><h3>Current Courses</h3></li></a><li><h3>Past Courses</h3></li></ul>
+		<div class="fullwidth">
+			<ul class="contenthead"><li><a href="/courses.php"><h2>Current Courses</h2></li></a><li><h2>Past Courses</h2></li></ul>
 			<div class="fullcontent">
 				<table>
 					<tr><td><a href="/courses/courses20187.php">Summer 2019</a></td></tr>

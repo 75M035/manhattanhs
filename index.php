@@ -8,27 +8,27 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
-                <h3 class="contenthead">Phone Service Restored - August 7, 2019 <span class="labels"><span class="beacon-label">Beacon</span></span></h3>
+                <h2 class="contenthead">Phone Service Restored - August 7, 2019 <span class="labels"><span class="beacon-label">Beacon</span></span></h2>
                 <div class="maincontent">
                     <p>Our issues with the phones have been fixed. Thank you for your patience.</p>
                 </div>
             </article>
 			<article class="contentleft">
-				<h3 class="contenthead">Phone Service Not Working - July 30, 2019 <span class="labels"><span class="beacon-label">Beacon</span></span></h3>
+				<h2 class="contenthead">Phone Service Not Working - July 30, 2019 <span class="labels"><span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 					<p>We are currently experiencing technical difficulties with the phone service at our Beacon site. We can dial out, but we cannot receive calls, so you may be unable to reach us by phone.</p>
 					<p>If you need to reach us, email is the best method of communication at this time. For attendance issues, please email Ms. Rivera at <a href="mailto:erivera67@schools.nyc.gov">erivera67@schools.nyc.gov</a>. For email addresses of teachers and personnel, please view the <a href="directory.php">Faculty Directory</a>. For general inquiries, please email <a href="mailto:admin@manhattanhs.org">admin@manhattanhs.org</a></p>
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">Fleet Week - May 30, 2019 <span class="labels"><span class="all-label">All</span></span></h3>
+				<h2 class="contenthead">Fleet Week - May 30, 2019 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/fleetwk2019.jpeg" alt="Fleet Week"></div>
 					<p>On May 23, Manhattan High School students attended Fleet Week on board the USS New York.</p>
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">Snow Day - March 3, 2019 <span class="labels"><span class="all-label">All</span></span></h3>
+				<h2 class="contenthead">Snow Day - March 3, 2019 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/03_03_2019_Snow_Day.gif" alt="Snow Day Announcement"></div>
 					<p>Due to expected severe weather conditions, all New York City public schools will be closed Monday, March 4, 2019. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
@@ -38,7 +38,7 @@ include("includes/header.php");
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">Shelter In - December 7, 2018 <span class="labels"> <span class="beacon-label">Beacon</span></span></h3>
+				<h2 class="contenthead">Shelter In - December 7, 2018 <span class="labels"> <span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 	    			<p>Dear Parents/Guardians and Staff,</p>
 					<p>The safety and well-being of all students and staff members at P35M: Manhattan High School at The Beacon School remains our highest priority.  Towards that end, we are informing about an incident that took place today near our school today, during which no one was hurt.</p>
@@ -52,14 +52,14 @@ include("includes/header.php");
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">College Application Week - October 18, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
+				<h2 class="contenthead">College Application Week - October 18, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 					<div class="news-image"><img src="/images/news/collegeappwk.png" alt="College Application Week"></div>
-					<p>The week of October 22 is College Application Week. Seniors should fill out at least 1 application. For assistance, please see <a href="mailto:twatkin@schools.nyc.gov">Ms. Watkins</a> at the Beacon Site or <a href="mailto:vrankins@schools.nyc.gov">Ms. Rankins</a> at the Main Site. More information about the college application process is available <a href="https://startheregetthere.org" target="_blank">here</a>.</p>
+					<p>The week of October 22 is College Application Week. Seniors should fill out at least 1 application. For assistance, please see <a href="mailto:twatkin@schools.nyc.gov">Ms. Watkins</a> at the Beacon Site or <a href="mailto:vrankins@schools.nyc.gov">Ms. Rankins</a> at the Main Site. More information about the college application process is available at <a href="https://startheregetthere.org" target="_blank">Start Here Get There</a>.</p>
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">Camping Trip - June 4, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
+				<h2 class="contenthead">Camping Trip - June 4, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 					<p>On May 24 and 25 Mr. Wybaillie took students from the Main and Beacon sites on an overnight camping trip. We all had a lot of fun and practiced some great living environment skills!</p>
 					<div class="news-photo"><img src="/images/news/06_04_2018_Camping_Trip.jpg" alt="Students at the camping trip"></div>
@@ -67,14 +67,14 @@ include("includes/header.php");
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">Snow Day - March 20, 2018 <span class="labels"><span class="all-label">All</span></span></h3>
+				<h2 class="contenthead">Snow Day - March 20, 2018 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Due to expected severe weather conditions, all New York City district schools will be closed Wednesday, March 21, 2018. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
 					<p>SAT School Day administration will be postponed to Tuesday, April 24, 2018.</p>
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">NBA Game - February 14, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
+				<h2 class="contenthead">NBA Game - February 14, 2018 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 					<div class="news-photo"><img src="/images/news/02_14_2018_Nets_Game.jpg" alt="Students at the NBA game"></div>
 					<p>On Monday February 12, 2018 select students were greeted on a trip to a NBA basketball game between the Brooklyn Nets and Los Angeles Clippers. This was the 2nd annual reward trip for students who have shown great improvement both in academics and social behavior.</p>
@@ -82,13 +82,13 @@ include("includes/header.php");
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">Election Results - February 12, 2018 <span class="labels"><span class="beacon-label">Beacon</span></span></h3>
+				<h2 class="contenthead">Election Results - February 12, 2018 <span class="labels"><span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
-					<p>The student government election results are in! Check them out <a href="/government.php">here</a>.</p>
+					<p>The student government election results are in! Check them out on the <a href="/government.php">student government page</a>.</p>
 				</div>
 			</article>
 			<article class="contentleft">
-				<h3 class="contenthead">Snow Day - January 3, 2018 <span class="labels"><span class="all-label">All</span></span></h3>
+				<h2 class="contenthead">Snow Day - January 3, 2018 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>As per the New York City Department of Education all NYC Public Schools will be closed Thursday, January 4th, 2018. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
 				</div>
@@ -96,16 +96,17 @@ include("includes/header.php");
 			<!--Archive Page Button-->
 			<button type="button" class="primary-btn archive-btn" onClick="archivePage();">Past News</button>
 		</section>
+	</main>
 		<section id="right">
 			<aside class="contentright">
-				<h3 class="contentheadright">Reminders</h3>
+				<h2 class="contentheadright">Reminders</h2>
 				<div class="sidecontent">
 					<p><span class="all-label">All</span> Marking Period 1 grades for Term 1 are due November 14. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
 					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:KHughes15@schools.nyc.gov">Ms. Hughes</a> or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
 			</aside>
 			<aside class="contentright">
-				<h3 class="contentheadright">Upcoming</h3>
+				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/14/2019</span> <br /> Columbus Day (school closed)</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">10/16/2019</span> <br /> In school SAT/PSAT Day </p>
@@ -116,7 +117,7 @@ include("includes/header.php");
 				</div>
 			</aside>
 			<aside class="contentright">
-				<h3 class="contentheadright">Donate</h3>
+				<h2 class="contentheadright">Donate</h2>
 				<div class="sidecontent">
 					<p>To donate, please write a check payable to P.S. 035 Manhattan High School and either hand it to a secretary in the main office, or mail it to the site your child attends at the address on the bottom of this page.</p>
 					<p>All contributions are tax deductible! Tax ID #13-6400434.</p>
@@ -125,7 +126,6 @@ include("includes/header.php");
 				</div>
 			</aside>
 		</section>
-	</main>
 
 <script>
     function archivePage(){
@@ -133,6 +133,17 @@ include("includes/header.php");
     }
 </script>
 
-<?php include("includes/footer.php");?>
-
-<p id="accessibility">Statement on Accessibility: We are working to make this website easier to access for people with disabilities, and will follow the Web Content Accessibility Guidelines 2.0. If you need assistance with a particular page or document on our current site, please email <a href="mailto:admin@manhattanhs.org">admin@manhattanhs.org</a> to request assistance.</p>
+<footer id="footer">
+	<h2 id="footerhead">P35M Sites</h2>
+	<div id="footercontent">
+		<div id="leftfoot"><h3><a href="/main.php">Main</a></h3><p class="phone">(212) 247-4307</p><p>Manhattan High School<br />317 West 52nd Street<br />New York, NY<br />10019</p></div>
+		<div class="footerbar"></div>
+		<div id="middlefoot"><h3><a href="/beacon.php">Beacon School</a></h3><p class="phone">(212) 465-4390</p><p>Manhattan High School<br />522 West 44th Street<br />2nd Floor<br />New York, NY<br />10036</p></div>
+		<div class="footerbar"></div>
+		<div id="rightfoot"><h3><a href="/bellevue.php">Bellevue Hospital</a></h3><p class="phone">(212) 685-4269</p><p>The Riverview School<br />462 First Avenue<br />21st Floor<br />New York, NY<br />10016</p></div>
+	</div>
+	<div id="copyright">Copyright © 2017 P.S. 035 Manhattan High School. All Rights Reserved.</div>
+	<div id="accessibility"><p>Statement on Accessibility: We are working to make this website easier to access for people with disabilities, and will follow the Web Content Accessibility Guidelines 2.0. If you need assistance with a particular page or document on our current site, please email <a href="mailto:admin@manhattanhs.org">admin@manhattanhs.org</a> to request assistance.</p></div>
+</footer>
+</body>
+</html>
