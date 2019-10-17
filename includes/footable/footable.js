@@ -4036,7 +4036,7 @@
 			}
 			self.$form = $('<form/>', {'class': 'form-inline'}).append($form_grp).appendTo(self.$container);
 
-			self.$input = $('<input/>', {type: 'text', 'class': 'form-control', placeholder: self.placeholder});
+			self.$input = $('<input/>', {type: 'text', 'class': 'form-control', placeholder: self.placeholder, 'aria-label': 'Search'});
 
 			self.$button = $('<button/>', {type: 'button', 'class': 'btn btn-primary', 'title': 'Search'})
 				.on('click', { self: self }, self._onSearchButtonClicked)

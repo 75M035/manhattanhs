@@ -5,8 +5,8 @@ $page_description = "Employment Opportunities at Manhattan High School";
 include("includes/header.php");
 ?>
 	<main>
-		<div id="fullwidth">
-			<h3 class="contenthead">Employment Opportunities</h3>
+		<div class="fullwidth">
+			<h2 class="contenthead">Employment Opportunities</h2>
 			<div class="fullcontent">
 				<div id="jobs"><img src="images/buttons/NYC_DOE_Logo.png" alt=""><img src="images/buttons/District_75_Logo.png" alt=""></div>
 				<p>Working in a special education public school in District 75 is not easy, but it is rewarding.</p>

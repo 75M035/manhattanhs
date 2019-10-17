@@ -8,7 +8,7 @@ include("includes/header.php");
 	<main id="subcontent">
 		<div id="left">
 			<section class="contentleft">
-				<h3 class="contenthead">School Information</h3>
+				<h2 class="contenthead">School Information</h2>
 				<div class="maincontent">
 					<a href="directory.php" id="buttondy"><div class="buttontop"></div><div class="buttonbottom">Directory</div></a>
 					<a href="courses.php" id="buttoncs"><div class="buttontop"></div><div class="buttonbottom">Courses</div></a>
@@ -21,13 +21,12 @@ include("includes/header.php");
 				</div>
 			</section>
 			<section class="contentleft">
-				<h3 class="contenthead">Important Logins</h3>
+				<h2 class="contenthead">Important Logins</h2>
 				<div class="maincontent">
 					<a href="https://portal.office.com" class="buttonem" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Email</div></a>
 					<a href="https://skedula.com" id="buttonio" target="_blank"><div class="buttontop"></div><div class="buttonbottom">IO Classroom</div></a>
 					<a href="https://classroom.google.com" id="buttongc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">G Classroom</div></a>
 					<a href="https://sesis.nycenet.edu/" id="buttonse" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SESIS</div></a>
-					<a href="http://www.edperformance.com" id="buttonsc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Scantron</div></a>
 					<a href="https://www.nycenet.edu/starsclassroom" id="buttonstc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">STARS</div></a>
 					<a href="https://www.nycenet.edu/studentprofile/" id="buttonsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Student Profile</div></a>
 					<a href="https://nycdoe.access411.com" id="buttonca" target="_blank"><div class="buttontop"></div><div class="buttonbottom">CAASS</div></a>
@@ -38,7 +37,7 @@ include("includes/header.php");
 			</section>
 			
 			<section class="contentleft">
-				<h3 class="contenthead">Administrative Links</h3>
+				<h2 class="contenthead">Administrative Links</h2>
 				<div class="maincontent">
 					<a href="https://wc.nycenet.edu" id="buttonat" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ATS</div></a>
 					<a href="http://ats.nycboe.net/atsprint/" id="buttonatp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ATS Print</div></a>
@@ -55,7 +54,7 @@ include("includes/header.php");
 		</div>
 		<div id="right">
 			<section class="contentright">
-				<h3 class="contentheadright">Human Resources</h3>
+				<h2 class="contentheadright">Human Resources</h2>
 				<div class="sidecontent">
 					<a href="https://doehrconnect.custhelp.com" id="buttonhr" target="_blank"><div class="buttontop"></div><div class="buttonbottom">HR Connect</div></a>
 					<a href="https://payrollportal.nycboe.net/payrollportalweb/main.aspx" id="buttonpa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Payroll</div></a>
@@ -68,7 +67,7 @@ include("includes/header.php");
 				</div>
 			</section>
 			<section class="contentright">
-				<h3 class="contentheadright">Other Resources</h3>
+				<h2 class="contentheadright">Other Resources</h2>
 				<div class="sidecontent">
 					<a href="https://www.khanacademy.org" id="buttonka" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Khan Academy</div></a>
 					<a href="https://www.geogebra.org" id="buttongb" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Geogebra</div></a>
@@ -80,14 +79,13 @@ include("includes/header.php");
 				</div>
 			</section>
 			<section class="contentright">
-				<h3 class="contentheadright">Other Websites and Links</h3>
+				<h2 class="contentheadright">Other Websites and Links</h2>
 				<div class="sidecontent">
 					<a href="http://schools.nyc.gov" id="buttonnyc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">NYCDOE</div></a>
 					<a href="http://www.nysed.gov" id="buttonnys" target="_blank"><div class="buttontop"></div><div class="buttonbottom">NYSED</div></a>
 					<a href="http://www.uft.org" id="buttonuf" target="_blank"><div class="buttontop"></div><div class="buttonbottom">UFT</div></a>
 					<a href="http://www.beaconschool.org" id="buttonbs" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon</div></a>
 					<a href="http://www.nychealthandhospitals.org/bellevue/" id="buttonbl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bellevue</div></a>
-					<a href="https://mhaofnyc.org" id="buttonmha" target="_blank"><div class="buttontop"></div><div class="buttonbottom">MHA-NYC</div></a>
 					<a href="http://www.optnyc.org" id="buttonopt" target="_blank"><div class="buttontop"></div><div class="buttonbottom">OPT</div></a>
 					<a href="/calendars/school-calendar-2019-2020_staff.pdf" id="buttoncl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><? echo date("M"); ?></div><div id="cald"><? echo date("d"); ?></div></a>
 					<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" id="buttonrg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>

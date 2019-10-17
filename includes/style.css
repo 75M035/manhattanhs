@@ -681,7 +681,7 @@ ul.contenthead {
 
 #buttonpp {
 	border: 1px solid #0A6A8C;
-	background: url("/images/buttons/pupilpath.png") no-repeat #10A5DA;
+	background: url("/images/buttons/pupilpath.png") no-repeat #0B688A;
 	background-size: 62px 60px;
 	background-position: 50% 25%;
 	color: #fff;
@@ -689,10 +689,14 @@ ul.contenthead {
 
 #buttonpp .buttonbottom {
 	border-top: 1px solid #0A6A8C;
-	background: linear-gradient(to bottom, #51C8F1 0%, #10A5DA 50%, #51C8F1 100%);
+	background: linear-gradient(to bottom, #0D7CA4 0%, #0B688A 50%, #0D7CA4 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
+}
+
+a#buttonpp:hover{
+	box-shadow: 0 0 5px #403f3f, inset 0 0 10px #403f3f;
 }
 
 /* IO Classroom Button */
@@ -764,7 +768,7 @@ a#buttonse:hover{
 	background: url("/images/buttons/starsclassroom.svg") no-repeat #E8CD95;
 	background-size: 100px 68px;
 	background-position: 50% 65%;
-	color: #98721F;
+	color: #6D5115;
 }
 
 #buttonstc .buttonbottom {
@@ -809,7 +813,7 @@ a#buttonsp:hover{
 	background: url("/images/buttons/intranet.svg") no-repeat #FE6FFF;
 	background-size: 100px 70px;
 	background-position: 50% 15%;
-	color: #5E5E5E;
+	color: #373636;
 }
 
 #buttonin .buttonbottom {
@@ -831,7 +835,7 @@ a#buttonin:hover{
 	background: url("/images/buttons/shopdoe.png") no-repeat #FDDBD3;
 	background-size: 66px 70px;
 	background-position: 50% 15%;
-	color: #8A7A80;
+	color: #685C60;
 }
 
 #buttonsh .buttonbottom {
@@ -853,7 +857,7 @@ a#buttonsh:hover{
 	background: url("/images/buttons/techshare.png") no-repeat #C7E1F5;
 	background-size: 93px 65px;
 	background-position: 50% 22%;
-	color: #1D78BB;
+	color: #176197;
 }
 
 #buttonts .buttonbottom {
@@ -981,7 +985,7 @@ a#buttonsc:hover{
 	background: url("/images/buttons/hrconnect.png") no-repeat #FAA9BF;
 	background-size: 91px 60px;
 	background-position: 50% 23%;
-	color: #0A5A54;
+	color: #073C38;
 }
 
 #buttonhr .buttonbottom {
@@ -1043,7 +1047,7 @@ a#buttonpa:hover{
 	background: url("/images/buttons/trs.svg") no-repeat #F6DB91;
 	background-size: 100px 60px;
 	background-position: 50% 30%;
-	color: #7D5E08;
+	color: #5C4505;
 }
 
 #buttontrs .buttonbottom {
@@ -1087,7 +1091,7 @@ a#buttoner:hover{
 	background: url("/images/buttons/advance.svg") no-repeat #C0D9A7;
 	background-size: 70px 70px;
 	background-position: 50% 15%;
-	color: #9A5006;
+	color: #6F3904;
 }
 
 #buttonad .buttonbottom {
@@ -1105,7 +1109,7 @@ a#buttoner:hover{
 	background: url("/images/buttons/subcentral.png") no-repeat #B5E9B7;
 	background-size: 99px 70px;
 	background-position: 50% 15%;
-	color: #636A7D;
+	color: #3B3F4B;
 }
 
 #buttonsub .buttonbottom {
@@ -1149,12 +1153,12 @@ a#buttonnyc:hover{
 	background: url("/images/buttons/swlogo.svg") no-repeat #8E3700;
 	background-size: 63px 60px;
 	background-position: 45% 30%;
-	color: #FFB043;
+	color: #F9E2C1;
 }
 
 #buttonsw .buttonbottom {
 	border-top: 1px solid #7E0B00;
-	background: linear-gradient(to bottom, #BD6227, #AE3109, #9B3D01);
+	background: linear-gradient(to bottom, #B13711, #AE3109, #9B3D01);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -1194,7 +1198,7 @@ a#buttonsw:hover{
 
 #buttonuf .buttonbottom {
 	border-top: 1px solid #0B3688;
-	background: linear-gradient(to bottom, #4F86EF 0%, #114EC2 50%, #4F86EF 100%);
+	background: linear-gradient(to bottom, #416EC4 0%, #114EC2 50%, #416EC4 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -1252,7 +1256,7 @@ a#buttonmha:hover{
 
 #buttonopt {
 	border: 1px solid #14598E;
-	background: url("/images/buttons/opt.svg") no-repeat #3D71A7;
+	background: url("/images/buttons/opt.svg") no-repeat #445E78;
 	background-size: 64px 65px;
 	background-position: 50% 29%;
 	color: #FFFFFF;
@@ -1260,7 +1264,7 @@ a#buttonmha:hover{
 
 #buttonopt .buttonbottom {
 	border-top: 1px solid #14598E;
-	background: linear-gradient(to bottom, #749FCC 0%, #3D71A7 50%, #749FCC 100%);
+	background: linear-gradient(to bottom, #4F6D8C 0%, #445E78 50%, #4F6D8C 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -1274,15 +1278,15 @@ a#buttonopt:hover{
 
 #buttonpl {
 	border: 1px solid #2C2F85;
-	background: url("/images/buttons/psal.png") no-repeat #545AD0;
+	background: url("/images/buttons/psal.png") no-repeat #56598E;
 	background-size: 90px 90px;
 	background-position: 50% 10%;
-	color: #F5C6B0;
+	color: #F9F1EE;
 }
 
 #buttonpl .buttonbottom {
 	border-top: 1px solid #2C2F85;
-	background: linear-gradient(to bottom, #8589DD 0%, #545AD0 50%, #8589DD 100%);
+	background: linear-gradient(to bottom, #6265A4 0%, #56598E 50%, #6265A4 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -1443,14 +1447,14 @@ a#buttongb:hover{
 
 #buttonds {
 	border: 1px solid #0D582D;
-	background: url("/images/buttons/desmos.png") no-repeat #148343;
+	background: url("/images/buttons/desmos.png") no-repeat #106D37;
 	background-size: 98px 78px;
 	color: #FFF;
 }
 
 #buttonds .buttonbottom {
 	border-top: 1px solid #0D582D;
-	background: linear-gradient(to bottom, #1AAF59 0%, #148343 50%, #1AAF59 100%);
+	background: linear-gradient(to bottom, #148343 0%, #106D37 50%, #148343 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -1677,7 +1681,7 @@ a#buttonrg:hover{
 	background: url("/images/buttons/graduation.svg") no-repeat #FF3A3A;
 	background-size: 94px 75px;
 	background-position: 50% 10%;
-	color: #700000;
+	color: #3e0101;
 }
 
 #buttongr .buttonbottom {
@@ -1691,16 +1695,16 @@ a#buttonrg:hover{
 /* DIIT Service Button */
 
 #buttondi {
-	border: 1px solid #3B6398;
-	background: url("/images/buttons/diitservice.svg") no-repeat #737C7E;
+	border: 1px solid #2C4A72;
+	background: url("/images/buttons/diitservice.svg") no-repeat #474D4D;
 	background-size: 100px 70px;
 	background-position: 50% 13%;
-	color: #EBEBEB;
+	color: #FFF;
 }
 
 #buttondi .buttonbottom {
 	border-top: 1px solid #3B6398;
-	background: linear-gradient(to bottom, #9CA3A4 0%, #737C7E 50%, #9CA3A4 100%);
+	background: linear-gradient(to bottom, #666C6D 0%, #474D4D 50%, #666C6D 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -1783,7 +1787,7 @@ a#buttonatp:hover{
 	background: url("/images/buttons/famis.gif") no-repeat #E9EDFF;
 	background-size: 97px 30px;
 	background-position: 50% 41%;
-	color: #88A7D4;
+	color: #536784;
 }
 
 #buttonfa .buttonbottom {
@@ -1805,7 +1809,7 @@ a#buttonfa:hover{
 	background: url("/images/buttons/fitnessgram.png") no-repeat #DCEBD7;
 	background-size: 41px 37px;
 	background-position: 50% 41%;
-	color: #6EAD5B;
+	color: #436a37;
 }
 
 #buttonfg .buttonbottom {
@@ -1915,7 +1919,7 @@ a#buttonsv:hover{
 	background: url("/images/buttons/wiki.svg") no-repeat #CD7A31;
 	background-size: 100px 50px;
 	background-position: 50% 33%;
-	color: #72431B;
+	color: #2B180A;
 }
 
 #buttonwi .buttonbottom {
@@ -1999,14 +2003,14 @@ a.buttonam:hover{
 
 .buttonab {
 	border: 1px solid #3C5515;
-	background: url("/images/buttons/beacon.jpg") #5BA02F;
+	background: url("/images/buttons/beacon.jpg") #70C43B;
 	background-size: 100px 80px;
-	color: #3C5515;
+	color: #27370D;
 }
 
 .buttonab .buttonbottom {
 	border-top: 1px solid #3C5515;
-	background: linear-gradient(to bottom, #75C741 0%, #5BA02F 50%, #75C741 100%);
+	background: linear-gradient(to bottom, #7DD943 0%, #70C43B 50%, #7DD943 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -2022,7 +2026,7 @@ a.buttonab:hover{
 	border: 1px solid #244C63;
 	background: url("/images/buttons/bellevue.jpg") #6DA7C9;
 	background-size: 100px 80px;
-	color: #244C63;
+	color: #193646;
 }
 
 .buttonau .buttonbottom {
@@ -2087,7 +2091,7 @@ a.buttonaa:hover{
 
 #buttonga .buttonbottom {
 	border-top: 1px solid #041B4A;
-	background: linear-gradient(to bottom, #1B3873 0%, #000 50%, #8BA7E2 100%);
+	background: linear-gradient(to bottom, #1B3873 0%, #000 50%, #1353DB 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;
@@ -2193,12 +2197,12 @@ table.footable-paging-center>tfoot>tr.footable-paging>td {
 }
 
 .footable .pagination>.active>a, .footable .pagination>.active>a:focus, .footable .pagination>.active>a:hover, .footable .pagination>.active>span, .footable .pagination>.active>span:focus, .footable .pagination>.active>span:hover {
-	background: #B8A36E !important;
-	border-color: #9D864D !important;
+	background: #7B693C !important;
+	border-color: #7B693C !important;
 }
 
 .footable .pagination>li>a, .footable .pagination>li>span {
-	color: #9D864D !important;
+	color: #7B693C !important;
 }
 
 .footable .pagination>.active>a, .footable .pagination>.active>a:focus, .footable .pagination>.active>a:hover, .footable .pagination>.active>span, .footable .pagination>.active>span:focus, .footable .pagination>.active>span:hover {
@@ -2206,11 +2210,11 @@ table.footable-paging-center>tfoot>tr.footable-paging>td {
 }
 
 .footable .pagination>.disabled>a, .footable .pagination>.disabled>a:focus, .footable .pagination>.disabled>a:hover, .footable .pagination>.disabled>span, .footable .pagination>.disabled>span:focus, .footable .pagination>.disabled>span:hover {
-	color: #777 !important;
+	color: #5e5e5e !important;
 }
 
 .footable .label-default {
-	background: #9D864D !important;
+	background: #7B693C !important;
 }
 
 .excelexport {
@@ -2280,7 +2284,7 @@ ul.contenthead .excelexport{
 	padding: 6px 12px;
 	margin-left: -3px;
 	line-height: 1.42857143;
-	color: #9D864D;
+	color: #7B693C;
 	text-decoration: none;
 	background-color: #fff;
 	border: 1px solid #ddd;
@@ -2319,6 +2323,12 @@ ul.contenthead {
 	margin-top: -18.5px;
 	margin-bottom: -19px;
 	margin-right: 20px;
+}
+
+.contenthead li.rightcontenthead {
+	float: right;
+	margin-top: -1.5px;
+	margin-right: 0;
 }
 
 .contenthead li a {
@@ -2436,24 +2446,21 @@ div.loading > span.fooicon {
 }
 
 .imgtext {
-    position: absolute;
-    bottom: 15px;
-    left: 15px;
-    color: white;
+    color: #000;
     font-size: 20px;
+	text-align: center;
 }
 
 .closebtn {
     position: absolute;
     top: 10px;
-    right: 15px;
-    color: white;
+    color: #684B07;
     font-size: 35px;
     cursor: pointer;
 }
 
 .closebtn:hover {
-	color: #D4C7A6 !important;
+	color: #372804 !important;
 }
 
 .opacity-off {
@@ -2461,7 +2468,7 @@ div.loading > span.fooicon {
 }
 
 .leftphotobutton, .rightphotobutton {
-	color: #fff !important;
+	color: #684B07 !important;
 	background: transparent;
 	font-size: 24px;
 	position: absolute;
@@ -2471,7 +2478,6 @@ div.loading > span.fooicon {
 	border: none;
 	display: inline-block;
 	outline: 0;
-	padding: 8px 16px;
 	vertical-align: middle;
 	overflow: hidden;
 	text-decoration: none;
@@ -2481,29 +2487,28 @@ div.loading > span.fooicon {
 }
 
 .leftphotobutton:hover, .rightphotobutton:hover {
-	color: #D4C7A6 !important;
+	color: #372804 !important;
 }
 
 .leftphotobutton {
-	left: 0%;
+	left: -25px;
 }
 
 .rightphotobutton {
-	right: 0%;
+	right: -25px;
 }
 
 .printbutton {
 	position: absolute;
 	height: 20px;
 	width: 20px;
-    bottom: 15px;
     right: 15px;
-    color: white;
+    color: #684B07;
     font-size: 20px;
 }
 
 .printbutton:hover {
-	color: #D4C7A6
+	color: #372804;
 }
 
 /* About Pages */
@@ -2539,11 +2544,11 @@ div.loading > span.fooicon {
 
 /* Donate Page */
 
-#donate {
+.donate {
 	text-align: left;
 }
 
-#donate img {
+.donate img {
 	display:block;
 	margin:auto;
 	width: 20%;

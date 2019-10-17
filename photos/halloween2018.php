@@ -7,8 +7,9 @@ $path .= "/includes/header.php";
 	include_once($path);
 ?>
 
-	<div id="fullwidth">
-		<ul class="contenthead"><li><a href="/photos.php"><h3>Photos</h3></li></a><li><h3>Halloween</h3></li></ul>
+<main id="content">
+	<div class="fullwidth">
+		<ul class="contenthead"><li><a href="/photos.php"><h2>Photos</h2></li></a><li><h2>Halloween</h2></li></ul>
 		<div class="fullcontent">
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Halloween 1" class="expandedImg">
@@ -16,7 +17,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_1.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_1.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Halloween 1</div>
@@ -27,7 +28,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_2.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_2.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Halloween 2</div>
@@ -38,7 +39,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Halloween 4</div>
@@ -49,7 +50,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Halloween 5</div>
@@ -60,7 +61,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Halloween 6</div>
@@ -71,7 +72,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7.JPG" class="printbutton" target="_blank">
+				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Halloween 7</div>
@@ -141,6 +142,16 @@ function plusDivs(n) {
 function currentDiv(n) {
   showDivs(slideIndex = n);
 }
+	
+document.onkeydown = function(e) {
+        e = e || window.event;
+        if (e.keyCode == '37') {
+            plusDivs(-1) //left <- show Prev image
+        } else if (e.keyCode == '39') {
+            // right -> show next image
+            plusDivs(1)
+		}
+}
 
 function showDivs(n) {
   var i;
@@ -162,6 +173,7 @@ function showDivs(n) {
 			
 		</div>
 	</div>
+</main>
 
 <?php
 $path = $_SERVER['DOCUMENT_ROOT'];

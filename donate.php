@@ -5,9 +5,9 @@ $page_description = "Donate to Manhattan High School";
 include("includes/header.php");
 ?>
 
-	<main id="fullwidth">
-		<div id="donate">
-			<h3 class="contenthead">Donate</h3>
+	<main class="fullwidth">
+		<div class="donate">
+			<h2 class="contenthead">Donate</h2>
 			<div class="fullcontent">
 				<p>It turns out that donating to public schools is actually kind of complicated. As a result, we unfortunately cannot provide a way for you to do so online at this time.</p>
 				<p>However, do not despair! We are more than happy to take your money in the form of a check, made out to P.S. 035 Manhattan High School. If you deliver this check to one of our office secretaries, they'll make sure our principal gets it and puts it to good use. Otherwise, feel free to mail it to the site your child attends at the address on the bottom of this page.</p>
@@ -26,7 +26,7 @@ include("includes/header.php");
 						<li><s>Extra apple slices</s> – We changed our minds; we'll throw those in.</li>
 					</ul>
 				</p>
-				<div id="donate"><img src="images/buttons/donate.svg" alt=""></div>
+				<div class="donate"><img src="images/buttons/donate.svg" alt=""></div>
 			</div>
 		</div>
 	</main>

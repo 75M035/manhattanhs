@@ -84,7 +84,7 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h2 class="contenthead">Election Results - February 12, 2018 <span class="labels"><span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
-					<p>The student government election results are in! Check them out on the <a href="/government.php">student government page</a>.</p>
+					<p>The student government election results are in! Check them out on the student government page.</p>
 				</div>
 			</article>
 			<article class="contentleft">

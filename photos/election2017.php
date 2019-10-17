@@ -7,8 +7,9 @@ $path .= "/includes/header.php";
 	include_once($path);
 ?>
 
-	<div id="fullwidth">
-		<ul class="contenthead"><li><a href="/photos.php"><h3>Photos</h3></li></a><li><h3>Beacon Election</h3></li></ul>
+<main id="content">
+	<div class="fullwidth">
+		<ul class="contenthead"><li><a href="/photos.php"><h2>Photos</h2></li></a><li><h2>Beacon Election</h2></li></ul>
 		<div class="fullcontent">
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Election 1" class="expandedImg">
@@ -16,7 +17,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_1.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_1.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 1</div>
@@ -27,7 +28,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_2.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_2.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 2</div>
@@ -38,7 +39,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_3.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_3.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 3</div>
@@ -49,7 +50,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_4.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_4.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 4</div>
@@ -59,7 +60,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_5.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_5.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 5</div>
@@ -70,7 +71,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_6.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_6.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 6</div>
@@ -81,7 +82,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_7.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_7.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 7</div>
@@ -92,7 +93,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_8.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_8.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 8</div>
@@ -102,7 +103,7 @@ $path .= "/includes/header.php";
 				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2017_2018/election/election2017_9.jpg" class="printbutton" target="_blank">
+				<a href="/images/photos/2017_2018/election/election2017_9.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Election 9</div>
@@ -179,6 +180,16 @@ function plusDivs(n) {
 function currentDiv(n) {
   showDivs(slideIndex = n);
 }
+	
+document.onkeydown = function(e) {
+        e = e || window.event;
+        if (e.keyCode == '37') {
+            plusDivs(-1) //left <- show Prev image
+        } else if (e.keyCode == '39') {
+            // right -> show next image
+            plusDivs(1)
+		}
+}
 
 function showDivs(n) {
   var i;
@@ -200,6 +211,7 @@ function showDivs(n) {
 			
 		</div>
 	</div>
+</main>
 
 <?php
 $path = $_SERVER['DOCUMENT_ROOT'];
