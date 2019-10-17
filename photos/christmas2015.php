@@ -14,7 +14,7 @@ $path .= "/includes/header.php";
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Christmas 1" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_1lg.jpg" alt="Christmas 1" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_1.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -199,49 +199,49 @@ function showDivs(n) {
 			<div class="loading"><span class="fooicon fooicon-loader"></span></div>
 			<div class="row">
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_1th.jpg" alt="Christmas 1" style="width:100%" onclick="currentDiv(1)">
+					<a href="#" onclick="currentDiv(1)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_1th.jpg" alt="Christmas 1" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_2th.jpg" alt="Christmas 2" style="width:100%" onclick="currentDiv(2)">
+					<a href="#" onclick="currentDiv(2)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_2th.jpg" alt="Christmas 2" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_3th.jpg" alt="Christmas 3" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(3)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_3th.jpg" alt="Christmas 3" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_4th.jpg" alt="Christmas 4" style="width:100%" onclick="currentDiv(4)">
+					<a href="#" onclick="currentDiv(4)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_4th.jpg" alt="Christmas 4" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_5th.jpg" alt="Christmas 5" style="width:100%" onclick="currentDiv(5)">
+					<a href="#" onclick="currentDiv(5)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_5th.jpg" alt="Christmas 5" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_6th.jpg" alt="Christmas 6" style="width:100%" onclick="currentDiv(6)">
+					<a href="#" onclick="currentDiv(6)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_6th.jpg" alt="Christmas 6" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_7th.jpg" alt="Christmas 7" style="width:100%" onclick="currentDiv(7)">
+					<a href="#" onclick="currentDiv(7)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_7th.jpg" alt="Christmas 7" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_8th.jpg" alt="Christmas 8" style="width:100%" onclick="currentDiv(8)">
+					<a href="#" onclick="currentDiv(8)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_8th.jpg" alt="Christmas 8" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_9th.jpg" alt="Christmas 9" style="width:100%" onclick="currentDiv(9)">
+					<a href="#" onclick="currentDiv(9)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_9th.jpg" alt="Christmas 9" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_10th.jpg" alt="Christmas 10" style="width:100%" onclick="currentDiv(10)">
+					<a href="#" onclick="currentDiv(10)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_10th.jpg" alt="Christmas 10" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_11th.jpg" alt="Christmas 11" style="width:100%" onclick="currentDiv(11)">
+					<a href="#" onclick="currentDiv(11)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_11th.jpg" alt="Christmas 11" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_12th.jpg" alt="Christmas 12" style="width:100%" onclick="currentDiv(12)">
+					<a href="#" onclick="currentDiv(12)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_12th.jpg" alt="Christmas 12" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_13th.jpg" alt="Christmas 13" style="width:100%" onclick="currentDiv(13)">
+					<a href="#" onclick="currentDiv(13)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_13th.jpg" alt="Christmas 13" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_14th.jpg" alt="Christmas 14" style="width:100%" onclick="currentDiv(14)">
+					<a href="#" onclick="currentDiv(14)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_14th.jpg" alt="Christmas 14" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_15th.jpg" alt="Christmas 15" style="width:100%" onclick="currentDiv(15)">
+					<a href="#" onclick="currentDiv(15)"><img class="gallerythumbnail" src="/images/photos/2015_2016/christmas/christmas2015_15th.jpg" alt="Christmas 15" style="width:100%"></a>
 				</div>
 			</div>
 			
@@ -250,7 +250,17 @@ function showDivs(n) {
 					$('.row').css('visibility','visible');
 					$('.loading').css('display','none');
 				});
-			</script>
+		</script>
+		
+		<script>
+		jQuery(function(event) {
+			jQuery(window).keypress(function(e){
+				if (e.which === 27) {
+               jQuery(".close").click();
+				}
+			});
+		})
+		</script>
 			
 <script>
 	var slideIndex = -1;

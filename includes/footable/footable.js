@@ -4009,11 +4009,10 @@
 		$create: function () {
 			var self = this;
 			// generate the cell that actually contains all the UI.
-			var $form_grp = $('<div/>', {'class': 'form-group footable-filtering-search'})
-					.append($('<label/>', {'class': 'sr-only', text: 'Search'})),
+			var $form_grp = $('<div/>', {'class': 'form-group footable-filtering-search'}),
 				$input_grp = $('<div/>', {'class': 'input-group'}).appendTo($form_grp),
 				$input_grp_btn = $('<div/>', {'class': 'input-group-btn'}),
-				$dropdown_toggle = $('<button/>', {type: 'button', 'class': 'btn btn-default dropdown-toggle', 'title': 'Filter'})
+				$dropdown_toggle = $('<button/>', {type: 'button', 'class': 'btn btn-default dropdown-toggle', 'title': 'Filter', 'aria-label': 'Filter'})
 					.on('click', { self: self }, self._onDropdownToggleClicked)
 					.append($('<span/>', {'class': 'caret'})),
 				position;
@@ -4038,7 +4037,7 @@
 
 			self.$input = $('<input/>', {type: 'text', 'class': 'form-control', placeholder: self.placeholder, 'aria-label': 'Search'});
 
-			self.$button = $('<button/>', {type: 'button', 'class': 'btn btn-primary', 'title': 'Search'})
+			self.$button = $('<button/>', {type: 'button', 'class': 'btn btn-primary', 'title': 'Search', 'aria-label': 'Search'})
 				.on('click', { self: self }, self._onSearchButtonClicked)
 				.append($('<span/>', {'class': 'fooicon fooicon-search'}));
 

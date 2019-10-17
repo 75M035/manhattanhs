@@ -13,8 +13,8 @@ include("includes/header.php");
 					<a href="directory.php" id="buttondy"><div class="buttontop"></div><div class="buttonbottom">Directory</div></a>
 					<a href="courses.php" id="buttoncs"><div class="buttontop"></div><div class="buttonbottom">Courses</div></a>
 					<a href="photos.php" id="buttonps"><div class="buttontop"></div><div class="buttonbottom">Photos</div></a>
-					<a href="schedules/P35_2019_2020_Band_Schedule.pdf" id="buttonbb" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon Bands</div></a>
-					<a href="schedules/2019_2020_Main_Schedule_P35.pdf" id="buttonms" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
+					<a href="schedules/P35_2019_2020_Band_Schedule.pdf" id="buttonbb" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Beacon Bands</div></a>
+					<a href="schedules/2019_2020_Main_Schedule_P35.pdf" id="buttonms" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
 					<a href="donate.php" id="buttondn"><div class="buttontop"></div><div class="buttonbottom">Donate</div></a>
 				</div>
 			</section>
@@ -29,9 +29,9 @@ include("includes/header.php");
 			<section class="contentright">
 				<h2 class="contentheadright">Helpful Links</h2>
 				<div class="sidecontent">
-					<a href="/calendars/school-calendar-2019-2020.pdf" id="buttoncl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><? echo date("M"); ?></div><div id="cald"><? echo date("d"); ?></div></a>
-					<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" id="buttonrg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
-					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
+					<a href="/calendars/school-calendar-2019-2020.pdf" id="buttoncl" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><? echo date("M"); ?></div><div id="cald"><? echo date("d"); ?></div></a>
+					<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
+					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 				</div>
 			</section>
 			<section class="contentright">

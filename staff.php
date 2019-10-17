@@ -13,8 +13,8 @@ include("includes/header.php");
 					<a href="directory.php" id="buttondy"><div class="buttontop"></div><div class="buttonbottom">Directory</div></a>
 					<a href="courses.php" id="buttoncs"><div class="buttontop"></div><div class="buttonbottom">Courses</div></a>
 					<a href="photos.php" id="buttonps"><div class="buttontop"></div><div class="buttonbottom">Photos</div></a>
-					<a href="schedules/P35_2019_2020_Band_Schedule.pdf" id="buttonbb" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon Bands</div></a>
-					<a href="schedules/2019_2020_Main_Schedule_P35.pdf" id="buttonms" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
+					<a href="schedules/P35_2019_2020_Band_Schedule.pdf" id="buttonbb" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Beacon Bands</div></a>
+					<a href="schedules/2019_2020_Main_Schedule_P35.pdf" id="buttonms" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35beacon" class="buttonbsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35main" class="buttonmsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Main Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35allsites" class="buttonasp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">All Share</div></a>
@@ -87,9 +87,9 @@ include("includes/header.php");
 					<a href="http://www.beaconschool.org" id="buttonbs" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon</div></a>
 					<a href="http://www.nychealthandhospitals.org/bellevue/" id="buttonbl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bellevue</div></a>
 					<a href="http://www.optnyc.org" id="buttonopt" target="_blank"><div class="buttontop"></div><div class="buttonbottom">OPT</div></a>
-					<a href="/calendars/school-calendar-2019-2020_staff.pdf" id="buttoncl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><? echo date("M"); ?></div><div id="cald"><? echo date("d"); ?></div></a>
-					<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" id="buttonrg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
-					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
+					<a href="/calendars/school-calendar-2019-2020_staff.pdf" id="buttoncl" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><? echo date("M"); ?></div><div id="cald"><? echo date("d"); ?></div></a>
+					<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
+					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 					<a href="https://servicecenter.nycenet.edu/selfsupport/" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DIIT Service</div></a>
 					<a href="https://manhattanhs.on.spiceworks.com/portal/tickets" id="buttonsw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Help Desk</div></a>
 					<a href="http://schoolview.nycboe.net" id="buttonsv" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Schoolview</div></a>

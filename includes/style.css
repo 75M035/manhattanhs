@@ -548,6 +548,21 @@ ul.contenthead {
 	width: 100%;
 }
 
+.pdf-label {
+	background: #CC392E;
+	border-radius: 5px;
+	font-size: 9pt;
+	color: #FFFFFF;
+	text-shadow: none;
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: normal;
+	width: 35px;
+	text-align: center;
+	height: 19px;
+	margin-left: 63px;
+	margin-bottom: 59px;
+}
+
 /* Mobile Layout */
 
 @media only screen and (max-width: 768px) {
@@ -2505,6 +2520,7 @@ div.loading > span.fooicon {
     right: 15px;
     color: #684B07;
     font-size: 20px;
+	bottom: 0;
 }
 
 .printbutton:hover {
