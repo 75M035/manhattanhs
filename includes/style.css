@@ -471,6 +471,19 @@ ul.contenthead {
 	color: #806E44;
 }
 
+#nycdoelogo {
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+#nycdoelogo img {
+	width: 130px;
+	margin: 10px;
+}
+
 /* Subpage content */
 
 #subcontent #left{
