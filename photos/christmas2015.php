@@ -25,7 +25,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 2" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_2lg.jpg" alt="Christmas 2" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_2.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -36,7 +36,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 3" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_3lg.jpg" alt="Christmas 3" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_3.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -47,7 +47,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 4" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_4lg.jpg" alt="Christmas 4" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_4.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -57,7 +57,7 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="Christmas 5" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_5lg.jpg" alt="Christmas 5" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_5.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -68,7 +68,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 6" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_6lg.jpg" alt="Christmas 6" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_6.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -79,7 +79,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 7" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_7lg.jpg" alt="Christmas 7" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_7.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -90,7 +90,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 8" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_8lg.jpg" alt="Christmas 8" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_8.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -100,7 +100,7 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="Christmas 9" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_9lg.jpg" alt="Christmas 9" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_9.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -111,7 +111,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 10" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_10lg.jpg" alt="Christmas 10" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_10.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -122,7 +122,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 11" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_11lg.jpg" alt="Christmas 11" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_11.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -133,7 +133,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 12" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_12lg.jpg" alt="Christmas 12" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_12.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -144,7 +144,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 13" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_13lg.jpg" alt="Christmas 13" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_13.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -154,7 +154,7 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="Christmas 14" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_14lg.jpg" alt="Christmas 14" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_14.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -165,7 +165,7 @@ $path .= "/includes/header.php";
 			
 			<div id="Christmas 15" class="expandedImg">
 				<img src="/images/photos/2015_2016/christmas/christmas2015_15lg.jpg" alt="Christmas 15" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+				<a href="#" class="close" onclick="this.parentElement.style.display='none'"><span class="closebtn">&times;</span></a>
 				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
 				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
 				<a href="/images/photos/2015_2016/christmas/christmas2015_15.jpg" class="printbutton" target="_blank" aria-label="Print">
@@ -254,8 +254,8 @@ function showDivs(n) {
 		
 		<script>
 		jQuery(function(event) {
-			jQuery(window).keypress(function(e){
-				if (e.which === 27) {
+			jQuery(document).keypress(function(e){
+				if (e.charCode === 27) {
                jQuery(".close").click();
 				}
 			});
