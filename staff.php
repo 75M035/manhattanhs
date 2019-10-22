@@ -15,8 +15,9 @@ include("includes/header.php");
 					<a href="photos.php" id="buttonps"><div class="buttontop"></div><div class="buttonbottom">Photos</div></a>
 					<a href="schedules/P35_2019_2020_Band_Schedule.pdf" id="buttonbb" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Beacon Bands</div></a>
 					<a href="schedules/2019_2020_Main_Schedule_P35.pdf" id="buttonms" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
-					<a href="https://nycdoe.sharepoint.com/sites/p35beacon" class="buttonbsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35main" class="buttonmsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Main Share</div></a>
+					<a href="https://nycdoe.sharepoint.com/sites/p35beacon" class="buttonbsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon Share</div></a>
+					<a href="https://nycdoe.sharepoint.com/sites/bellevue" class="buttonrsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bellevue Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35allsites" class="buttonasp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">All Share</div></a>
 				</div>
 			</section>

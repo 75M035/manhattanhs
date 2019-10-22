@@ -940,6 +940,29 @@ a.buttonbsp:hover{
 	box-shadow: 0 0 5px #C3C3C3, inset 0 0 10px #C3C3C3 !important;
 }
 
+/* Bellevue SharePoint Button */
+
+.buttonrsp {
+	border: 1px solid #B1B9DB;
+	background: url("/images/buttons/bellesharepoint.svg") no-repeat #F7F7FC;
+	background-size: 70px 70px;
+	background-position: 50% 15%;
+	color: #424D94;
+	font-size: 13px;
+}
+
+.buttonrsp .buttonbottom {
+	border-top: 1px solid #C1C7E1;
+	background: linear-gradient(to bottom, #F7F7FC 0%, #EDEDF7 50%, #F7F7FC 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonrsp:hover{
+	box-shadow: 0 0 5px #C3C3C3, inset 0 0 10px #C3C3C3 !important;
+}
+
 /* Main SharePoint Button */
 
 .buttonmsp {
