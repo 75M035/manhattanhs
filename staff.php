@@ -40,7 +40,7 @@ include("includes/header.php");
 			<section class="contentleft">
 				<h2 class="contenthead">Administrative Links</h2>
 				<div class="maincontent">
-					<a href="https://wc.nycenet.edu" id="buttonat" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ATS</div></a>
+					<a href="https://schools.ra.nyc.gov" id="buttonat" target="_blank"><div class="buttontop"></div><div class="buttonbottom">WebConnect</div></a>
 					<a href="http://ats.nycboe.net/atsprint/" id="buttonatp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ATS Print</div></a>
 					<a href="https://ats.nycboe.net/stars" id="buttonsa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">STARS Admin</div></a>
 					<a href="https://mygalaxy.nycenet.edu/default.aspx" id="buttonga" target="_blank"><div class="buttontop"></div><div class="buttonbottom">myGalaxy</div></a>
