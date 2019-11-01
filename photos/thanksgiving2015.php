@@ -14,9 +14,9 @@ $path .= "/includes/header.php";
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Feast 1" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_1lg.jpg" alt="Feast 1" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_1.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -25,9 +25,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 2" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_2lg.jpg" alt="Feast 2" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_2.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -36,9 +36,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 3" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_3lg.jpg" alt="Feast 3" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_3.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -47,9 +47,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 4" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_4lg.jpg" alt="Feast 4" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_4.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -57,9 +57,9 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="Feast 5" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_5lg.jpg" alt="Feast 5" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_5.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -68,9 +68,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 6" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_6lg.jpg" alt="Feast 6" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_6.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -79,9 +79,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 7" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_7lg.jpg" alt="Feast 7" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_7.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -90,9 +90,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 8" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_8lg.jpg" alt="Feast 8" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_8.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -100,9 +100,9 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="Feast 9" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_9lg.jpg" alt="Feast 9" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_9.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -111,9 +111,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 10" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_10lg.jpg" alt="Feast 10" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_10.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -122,9 +122,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 11" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_11lg.jpg" alt="Feast 11" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_11.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -133,9 +133,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 12" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_12lg.jpg" alt="Feast 12" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_12.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -144,9 +144,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 13" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_13lg.jpg" alt="Feast 13" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_13.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -154,9 +154,9 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="Feast 14" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_14lg.jpg" alt="Feast 14" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_14.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -165,9 +165,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Feast 15" class="expandedImg">
 				<img src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_15lg.jpg" alt="Feast 15" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2015_2016/thanksgiving/thanksgiving2015_15.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -199,49 +199,49 @@ function showDivs(n) {
 			<div class="loading"><span class="fooicon fooicon-loader"></span></div>
 			<div class="row">
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_1th.jpg" alt="Feast 1" style="width:100%" onclick="currentDiv(1)">
+					<a href="#" onclick="currentDiv(1)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_1th.jpg" alt="Feast 1" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_2th.jpg" alt="Feast 2" style="width:100%" onclick="currentDiv(2)">
+					<a href="#" onclick="currentDiv(2)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_2th.jpg" alt="Feast 2" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_3th.jpg" alt="Feast 3" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(3)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_3th.jpg" alt="Feast 3" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_4th.jpg" alt="Feast 4" style="width:100%" onclick="currentDiv(4)">
+					<a href="#" onclick="currentDiv(4)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_4th.jpg" alt="Feast 4" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_5th.jpg" alt="Feast 5" style="width:100%" onclick="currentDiv(5)">
+					<a href="#" onclick="currentDiv(5)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_5th.jpg" alt="Feast 5" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_6th.jpg" alt="Feast 6" style="width:100%" onclick="currentDiv(6)">
+					<a href="#" onclick="currentDiv(6)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_6th.jpg" alt="Feast 6" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_7th.jpg" alt="Feast 7" style="width:100%" onclick="currentDiv(7)">
+					<a href="#" onclick="currentDiv(7)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_7th.jpg" alt="Feast 7" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_8th.jpg" alt="Feast 8" style="width:100%" onclick="currentDiv(8)">
+					<a href="#" onclick="currentDiv(8)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_8th.jpg" alt="Feast 8" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_9th.jpg" alt="Feast 9" style="width:100%" onclick="currentDiv(9)">
+					<a href="#" onclick="currentDiv(9)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_9th.jpg" alt="Feast 9" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_10th.jpg" alt="Feast 10" style="width:100%" onclick="currentDiv(10)">
+					<a href="#" onclick="currentDiv(10)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_10th.jpg" alt="Feast 10" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_11th.jpg" alt="Feast 11" style="width:100%" onclick="currentDiv(11)">
+					<a href="#" onclick="currentDiv(11)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_11th.jpg" alt="Feast 11" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_12th.jpg" alt="Feast 12" style="width:100%" onclick="currentDiv(12)">
+					<a href="#" onclick="currentDiv(12)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_12th.jpg" alt="Feast 12" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_13th.jpg" alt="Feast 13" style="width:100%" onclick="currentDiv(13)">
+					<a href="#" onclick="currentDiv(13)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_13th.jpg" alt="Feast 13" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_14th.jpg" alt="Feast 14" style="width:100%" onclick="currentDiv(14)">
+					<a href="#" onclick="currentDiv(14)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_14th.jpg" alt="Feast 14" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_15th.jpg" alt="Feast 15" style="width:100%" onclick="currentDiv(15)">
+					<a href="#" onclick="currentDiv(15)"><img class="gallerythumbnail" src="/images/photos/2015_2016/thanksgiving/thanksgiving2015_15th.jpg" alt="Feast 15" style="width:100%"></a>
 				</div>
 			</div>
 			

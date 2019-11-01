@@ -14,9 +14,9 @@ $path .= "/includes/header.php";
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Halloween 1" class="expandedImg">
 				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_1lg.jpg" alt="Halloween 1" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_1.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -25,9 +25,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Halloween 2" class="expandedImg">
 				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_2lg.jpg" alt="Halloween 2" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_2.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -36,46 +36,46 @@ $path .= "/includes/header.php";
 			
 			<div id="Halloween 3" class="expandedImg">
 				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4lg.jpg" alt="Halloween 3" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4.JPG" class="printbutton" target="_blank" aria-label="Print">
+					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
+				</a>
+				<div class="imgtext">Halloween 3</div>
+			</div>
+			
+			<div id="Halloween 4" class="expandedImg">
+				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5lg.jpg" alt="Halloween 4" style="width:100%">
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
+				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Halloween 4</div>
 			</div>
 			
-			<div id="Halloween 4" class="expandedImg">
-				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5lg.jpg" alt="Halloween 4" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5.JPG" class="printbutton" target="_blank" aria-label="Print">
+			<div id="Halloween 5" class="expandedImg">
+				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6lg.jpg" alt="Halloween 5" style="width:100%">
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
+				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
 				<div class="imgtext">Halloween 5</div>
 			</div>
 			
-			<div id="Halloween 5" class="expandedImg">
-				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6lg.jpg" alt="Halloween 5" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
-				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6.JPG" class="printbutton" target="_blank" aria-label="Print">
-					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
-				</a>
-				<div class="imgtext">Halloween 6</div>
-			</div>
-			
 			<div id="Halloween 6" class="expandedImg">
 				<img src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7lg.jpg" alt="Halloween 6" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7.JPG" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
-				<div class="imgtext">Halloween 7</div>
+				<div class="imgtext">Halloween 6</div>
 			</div>
 			
 			<script>
@@ -103,22 +103,22 @@ function showDivs(n) {
 			<div class="loading"><span class="fooicon fooicon-loader"></span></div>
 			<div class="row">
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_1th.jpg" alt="Halloween 1" style="width:100%" onclick="currentDiv(1)">
+					<a href="#" onclick="currentDiv(1)"><img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_1th.jpg" alt="Halloween 1" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_2th.jpg" alt="Halloween 2" style="width:100%" onclick="currentDiv(2)">
+					<a href="#" onclick="currentDiv(2)"><img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_2th.jpg" alt="Halloween 2" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4th.jpg" alt="Halloween 3" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(3)"><img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_4th.jpg" alt="Halloween 3" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5th.jpg" alt="Halloween 4" style="width:100%" onclick="currentDiv(4)">
+					<a href="#" onclick="currentDiv(4)"><img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_5th.jpg" alt="Halloween 4" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6th.jpg" alt="Halloween 5" style="width:100%" onclick="currentDiv(5)">
+					<a href="#" onclick="currentDiv(5)"><img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_6th.jpg" alt="Halloween 5" style="width:100%"></a>
 				</div>
 				<div class="column" style="margin-right:50%">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7th.jpg" alt="Halloween 6" style="width:100%" onclick="currentDiv(6)">
+					<a href="#" onclick="currentDiv(6)"><img class="gallerythumbnail" src="/images/photos/2018_2019/halloween2018/halloween2018_beacon_7th.jpg" alt="Halloween 6" style="width:100%"></a>
 				</div>
 				
 			</div>

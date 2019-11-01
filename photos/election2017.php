@@ -14,9 +14,9 @@ $path .= "/includes/header.php";
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Election 1" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_1lg.jpg" alt="Election 1" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_1.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -25,9 +25,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Election 2" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_2lg.jpg" alt="Election 2" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_2.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -36,9 +36,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Election 3" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_3lg.jpg" alt="Election 3" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_3.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -47,9 +47,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Election 4" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_4lg.jpg" alt="Election 4" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_4.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -57,9 +57,9 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="Election 5" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_5lg.jpg" alt="Election 5" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_5.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -68,9 +68,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Election 6" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_6lg.jpg" alt="Election 6" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_6.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -79,9 +79,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Election 7" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_7lg.jpg" alt="Election 7" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_7.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -90,9 +90,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Election 8" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_8lg.jpg" alt="Election 8" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_8.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -100,9 +100,9 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="Election 9" class="expandedImg">
 				<img src="/images/photos/2017_2018/election/election2017_9lg.jpg" alt="Election 9" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/election/election2017_9.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -134,31 +134,31 @@ function showDivs(n) {
 			<div class="loading"><span class="fooicon fooicon-loader"></span></div>
 			<div class="row">
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_1th.jpg" alt="Election 1" style="width:100%" onclick="currentDiv(1)">
+					<a href="#" onclick="currentDiv(1)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_1th.jpg" alt="Election 1" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_2th.jpg" alt="Election 2" style="width:100%" onclick="currentDiv(2)">
+					<a href="#" onclick="currentDiv(2)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_2th.jpg" alt="Election 2" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_3th.jpg" alt="Election 3" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(3)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_3th.jpg" alt="Election 3" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_4th.jpg" alt="Election 4" style="width:100%" onclick="currentDiv(4)">
+					<a href="#" onclick="currentDiv(4)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_4th.jpg" alt="Election 4" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_5th.jpg" alt="Election 5" style="width:100%" onclick="currentDiv(5)">
+					<a href="#" onclick="currentDiv(5)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_5th.jpg" alt="Election 5" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_6th.jpg" alt="Election 6" style="width:100%" onclick="currentDiv(6)">
+					<a href="#" onclick="currentDiv(6)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_6th.jpg" alt="Election 6" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_7th.jpg" alt="Election 7" style="width:100%" onclick="currentDiv(7)">
+					<a href="#" onclick="currentDiv(7)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_7th.jpg" alt="Election 7" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_8th.jpg" alt="Election 8" style="width:100%" onclick="currentDiv(8)">
+					<a href="#" onclick="currentDiv(8)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_8th.jpg" alt="Election 8" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_9th.jpg" alt="Election 9" style="width:100%" onclick="currentDiv(9)">
+					<a href="#" onclick="currentDiv(9)"><img class="gallerythumbnail" src="/images/photos/2017_2018/election/election2017_9th.jpg" alt="Election 9" style="width:100%"></a>
 				</div>
 			</div>
 			

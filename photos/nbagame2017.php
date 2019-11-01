@@ -14,9 +14,9 @@ $path .= "/includes/header.php";
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="NBA Game 1" class="expandedImg">
 				<img src="/images/photos/2017_2018/nbagame/nbagame2017_1lg.jpg" alt="NBA Game 1" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/nbagame/nbagame2017_1.jpeg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -25,9 +25,9 @@ $path .= "/includes/header.php";
 			
 			<div id="NBA Game 2" class="expandedImg">
 				<img src="/images/photos/2017_2018/nbagame/nbagame2017_2lg.jpg" alt="NBA Game 2" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/nbagame/nbagame2017_2.jpeg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -36,9 +36,9 @@ $path .= "/includes/header.php";
 			
 			<div id="NBA Game 3" class="expandedImg">
 				<img src="/images/photos/2017_2018/nbagame/nbagame2017_3lg.jpg" alt="NBA Game 3" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/nbagame/nbagame2017_3.jpeg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -47,9 +47,9 @@ $path .= "/includes/header.php";
 			
 			<div id="NBA Game 4" class="expandedImg">
 				<img src="/images/photos/2017_2018/nbagame/nbagame2017_4lg.jpg" alt="NBA Game 4" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/nbagame/nbagame2017_4.jpeg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -57,9 +57,9 @@ $path .= "/includes/header.php";
 			</div>
 			<div id="NBA Game 5" class="expandedImg">
 				<img src="/images/photos/2017_2018/nbagame/nbagame2017_5lg.jpg" alt="NBA Game 5" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/nbagame/nbagame2017_5.jpeg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -68,9 +68,9 @@ $path .= "/includes/header.php";
 			
 			<div id="NBA Game 6" class="expandedImg">
 				<img src="/images/photos/2017_2018/nbagame/nbagame2017_6lg.jpg" alt="NBA Game 6" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2017_2018/nbagame/nbagame2017_6.jpeg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -102,22 +102,22 @@ function showDivs(n) {
 			<div class="loading"><span class="fooicon fooicon-loader"></span></div>
 			<div class="row">
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_1th.jpg" alt="NBA Game 1" style="width:100%" onclick="currentDiv(1)">
+					<a href="#" onclick="currentDiv(1)"><img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_1th.jpg" alt="NBA Game 1" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_2th.jpg" alt="NBA Game 2" style="width:100%" onclick="currentDiv(2)">
+					<a href="#" onclick="currentDiv(2)"><img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_2th.jpg" alt="NBA Game 2" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_3th.jpg" alt="NBA Game 3" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(3)"><img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_3th.jpg" alt="NBA Game 3" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_4th.jpg" alt="NBA Game 4" style="width:100%" onclick="currentDiv(4)">
+					<a href="#" onclick="currentDiv(4)"><img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_4th.jpg" alt="NBA Game 4" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_5th.jpg" alt="NBA Game 5" style="width:100%" onclick="currentDiv(5)">
+					<a href="#" onclick="currentDiv(5)"><img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_5th.jpg" alt="NBA Game 5" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_6th.jpg" alt="NBA Game 6" style="width:100%" onclick="currentDiv(6)">
+					<a href="#" onclick="currentDiv(6)"><img class="gallerythumbnail" src="/images/photos/2017_2018/nbagame/nbagame2017_6th.jpg" alt="NBA Game 6" style="width:100%"></a>
 				</div>
 			</div>
 			

@@ -14,9 +14,9 @@ $path .= "/includes/header.php";
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Pink Day 1 (Beacon)" class="expandedImg">
 				<img src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_1_lg.jpg" alt="Pink Day 1 (Beacon)" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_1.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -25,9 +25,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Pink Day 2 (Beacon)" class="expandedImg">
 				<img src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_2_lg.jpg" alt="Pink Day 2 (Beacon)" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_2.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -36,9 +36,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Pink Day 3 (Beacon)" class="expandedImg">
 				<img src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_3_lg.jpg" alt="Pink Day 3 (Beacon)" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_3.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -47,9 +47,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Pink Day 4 (Main)" class="expandedImg">
 				<img src="" alt="Pink Day 4 (Main)" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -58,9 +58,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Pink Day 5 (Main)" class="expandedImg">
 				<img src="" alt="Pink Day 4 (Main)" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -69,9 +69,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Pink Day 6 (Main)" class="expandedImg">
 				<img src="" alt="Pink Day 4 (Main)" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -104,22 +104,22 @@ function showDivs(n) {
 			<div class="loading"><span class="fooicon fooicon-loader"></span></div>
 			<div class="row">
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_1_th.jpg" alt="Pink Day 1 (Beacon)" style="width:100%" onclick="currentDiv(1)">
+					<a href="#" onclick="currentDiv(1)"><img class="gallerythumbnail" src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_1_th.jpg" alt="Pink Day 1 (Beacon)" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_2_th.jpg" alt="Pink Day 2 (Beacon)" style="width:100%" onclick="currentDiv(2)">
+					<a href="#" onclick="currentDiv(2)"><img class="gallerythumbnail" src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_2_th.jpg" alt="Pink Day 2 (Beacon)" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_3_th.jpg" alt="Pink Day 3 (Beacon)" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(3)"><img class="gallerythumbnail" src="/images/photos/2018_2019/pinkday2018/beacon/pinkday_2018_beacon_3_th.jpg" alt="Pink Day 3 (Beacon)" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="" alt="Pink Day 4 (Main)" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(4)"><img class="gallerythumbnail" src="" alt="Pink Day 4 (Main)" style="width:100%"></a>
 				</div>
 					<div class="column">
-					<img class="gallerythumbnail" src="" alt="Pink Day 5 (Main)" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(5)"><img class="gallerythumbnail" src="" alt="Pink Day 5 (Main)" style="width:100%"></a>
 				</div>
 					<div class="column">
-					<img class="gallerythumbnail" src="" alt="Pink Day 6 (Main)" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(6)"><img class="gallerythumbnail" src="" alt="Pink Day 6 (Main)" style="width:100%"></a>
 				</div>
 			</div>
 			

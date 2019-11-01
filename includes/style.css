@@ -616,11 +616,6 @@ ul.contenthead {
 		font-size: 17px;
 	}
 	
-	.contenthead li {
-		margin-top: -15.5px !important;
-		margin-bottom: -16px !important;
-	}
-	
 	.labels {
 		width: 60px;
 	}
@@ -664,7 +659,11 @@ ul.contenthead {
 	}
 	
 	.expandedImg {
-		width: 100% !important;
+		width: 90% !important;
+	}
+	
+	.printbutton {
+		margin-bottom: 3px;
 	}
 	
 	.column {
@@ -2382,6 +2381,10 @@ ul.contenthead {
 	margin-right: 0;
 }
 
+ul.contenthead li:nth-last-child(2) {
+		margin-right: 0;
+	}
+
 .contenthead li a {
 	position: relative;
 	display: block;
@@ -2508,6 +2511,7 @@ div.loading > span.fooicon {
     color: #684B07;
     font-size: 35px;
     cursor: pointer;
+	text-decoration: none;
 }
 
 .closebtn:hover {
@@ -2528,7 +2532,6 @@ div.loading > span.fooicon {
 	-ms-transform: translate(-0%, -50%);
 	border: none;
 	display: inline-block;
-	outline: 0;
 	vertical-align: middle;
 	overflow: hidden;
 	text-decoration: none;

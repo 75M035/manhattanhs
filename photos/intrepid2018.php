@@ -14,9 +14,9 @@ $path .= "/includes/header.php";
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Intrepid 1" class="expandedImg">
 				<img src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_1lg.jpg" alt="Intrepid Trip 1" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_1.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -25,9 +25,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Intrepid 2" class="expandedImg">
 				<img src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_2lg.jpg" alt="Intrepid Trip 2" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_2.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -36,9 +36,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Intrepid 3" class="expandedImg">
 				<img src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_3lg.jpg" alt="Intrepid Trip 3" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_3.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -47,9 +47,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Intrepid 4" class="expandedImg">
 				<img src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_4lg.jpg" alt="Intrepid Trip 4" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_4.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -58,9 +58,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Intrepid 5" class="expandedImg">
 				<img src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_5lg.jpg" alt="Intrepid Trip 5" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_5.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -69,9 +69,9 @@ $path .= "/includes/header.php";
 			
 			<div id="Intrepid 6" class="expandedImg">
 				<img src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_6lg.jpg" alt="Intrepid Trip 6" style="width:100%">
-				<span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-				<button class="leftphotobutton" onclick="plusDivs(-1)">&#10094;</button>
-				<button class="rightphotobutton" onclick="plusDivs(1)">&#10095;</button>
+				<a href="#" class="closebtn" onclick="this.parentElement.style.display='none'" aria-label="Close">&times;</a>
+				<button class="leftphotobutton" onclick="plusDivs(-1)" aria-label="Left">&#10094;</button>
+				<button class="rightphotobutton" onclick="plusDivs(1)" aria-label="Right">&#10095;</button>
 				<a href="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_6.jpg" class="printbutton" target="_blank" aria-label="Print">
 					<i class="fa fa-print fa-lg" aria-hidden="true"></i>
 				</a>
@@ -103,22 +103,22 @@ function showDivs(n) {
 			<div class="loading"><span class="fooicon fooicon-loader"></span></div>
 			<div class="row">
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_1th.jpg" alt="Intrepid Trip 1" style="width:100%" onclick="currentDiv(1)">
+					<a href="#" onclick="currentDiv(1)"><img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_1th.jpg" alt="Intrepid Trip 1" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_2th.jpg" alt="Intrepid Trip 2" style="width:100%" onclick="currentDiv(2)">
+					<a href="#" onclick="currentDiv(2)"><img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_2th.jpg" alt="Intrepid Trip 2" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_3th.jpg" alt="Intrepid Trip 3" style="width:100%" onclick="currentDiv(3)">
+					<a href="#" onclick="currentDiv(3)"><img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_3th.jpg" alt="Intrepid Trip 3" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_4th.jpg" alt="Intrepid Trip 4" style="width:100%" onclick="currentDiv(4)">
+					<a href="#" onclick="currentDiv(4)"><img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_4th.jpg" alt="Intrepid Trip 4" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_5th.jpg" alt="Intrepid Trip 5" style="width:100%" onclick="currentDiv(5)">
+					<a href="#" onclick="currentDiv(5)"><img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_5th.jpg" alt="Intrepid Trip 5" style="width:100%"></a>
 				</div>
 				<div class="column">
-					<img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_6th.jpg" alt="Intrepid Trip 6" style="width:100%" onclick="currentDiv(6)">
+					<a href="#" onclick="currentDiv(6)"><img class="gallerythumbnail" src="/images/photos/2018_2019/intrepid_2018/intrepid_2018_beacon_6th.jpg" alt="Intrepid Trip 6" style="width:100%"></a>
 				</div>
 				
 			</div>
