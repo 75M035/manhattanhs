@@ -8,7 +8,7 @@ $path .= "/includes/header.php";
 ?>
 
 	<main id="directory">
-		<ul class="contenthead"><li><a href="/pastcourses.php"><h2>Past Courses</h2></li></a><li><h2>Summer 2019 Courses</h2></li><li class="rightcontenthead"><span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export"></button></span></li></ul>
+		<ul class="contenthead"><li><a href="/pastcourses.php"><h2>Past Courses</h2></li></a><li class="lastcontenthead"><h2>Summer 2019 Courses</h2></li><li class="rightcontenthead"><span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export"></button></span></li></ul>
 		<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)" data-exporting="true">
 			<thead>
 			<tr class="header">

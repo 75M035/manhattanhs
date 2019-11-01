@@ -2381,7 +2381,7 @@ ul.contenthead {
 	margin-right: 0;
 }
 
-ul.contenthead li:nth-last-child(2) {
+li.lastcontenthead {
 		margin-right: 0;
 	}
 
