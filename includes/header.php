@@ -2,6 +2,7 @@
 <html lang="en-US">
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="format-detection" content="telephone=no"/>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111276604-1"></script>
 <script>
