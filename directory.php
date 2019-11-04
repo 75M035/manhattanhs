@@ -379,6 +379,14 @@ include("includes/header.php");
 			<td><a href="mailto:egerdes@schools.nyc.gov">egerdes@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
+			<tr>
+			<td>Arthur Glauberman</td>
+			<td>Teacher</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:aglaube@schools.nyc.gov">aglaube@schools.nyc.gov</a></td>
+			<td>NYSPI</td>
+		</tr>
 		<tr>
 			<td>Patrick Glynn</td>
 			<td>Teacher</td>
@@ -604,6 +612,14 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
+			<td>Miriam Moreno</td>
+			<td>Educational Assistant</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:mmoreno10@schools.nyc.gov">mmoreno10@schools.nyc.gov</a></td>
+			<td>NYSPI</td>
+		</tr>
+		<tr>
 			<td>Alex Murillo</td>
 			<td>Paraprofessional</td>
 			<td></td>
@@ -677,7 +693,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Joseph Planer</td>
-			<td>Technology Intern</td>
+			<td>Technology</td>
 			<td>(M) 208E</td>
 			<td>(M) 2085</td>
 			<td><a href="mailto:jplaner@schools.nyc.gov">jplaner@schools.nyc.gov</a></td>
@@ -945,7 +961,7 @@ include("includes/header.php");
 			<td></td>
 			<td></td>
 			<td><a href="mailto:mwalker23@schools.nyc.gov">mwalker23@schools.nyc.gov</a></td>
-			<td>Beacon</td>
+			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Tiffany Watkins</td>
