@@ -142,8 +142,8 @@ include("includes/header.php");
 		<div id="rightfoot"><h3><a href="/bellevue.php">Bellevue Hospital</a></h3><p class="phone">(212) 685-4269</p><p>The Riverview School<br />462 First Avenue<br />21st Floor<br />New York, NY<br />10016</p></div>
 	</div>
 	<div id="nycdoelogo">
-		<a href="http://schools.nyc.gov/default.htm" target="_blank"><img src="images/buttons/NYC_DOE_Logo_Light.png" alt="NYC DOE Logo"></a>
-		<img src="images/buttons/District_75_Logo.png" alt="District 75 Logo">
+		<a href="http://schools.nyc.gov/default.htm" target="_blank"><img src="/images/buttons/NYC_DOE_Logo_Light.png" alt="NYC DOE Logo"></a>
+		<img src="/images/buttons/District_75_Logo.png" alt="District 75 Logo">
 	</div>
 	<div id="copyright">Copyright © 2017 P.S. 035 Manhattan High School. All Rights Reserved.</div>
 	<div id="accessibility"><p>Statement on Accessibility: We are working to make this website easier to access for people with disabilities, and will follow the Web Content Accessibility Guidelines 2.0. If you need assistance with a particular page or document on our current site, please email <a href="mailto:admin@manhattanhs.org">admin@manhattanhs.org</a> to request assistance.</p></div>
