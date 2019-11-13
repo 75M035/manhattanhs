@@ -671,7 +671,7 @@ ul.contenthead {
 	
 	.printbutton {
 		margin-bottom: 3px;
-		right: 35px;
+		right: 25px !important;
 	}
 	
 	.column {
