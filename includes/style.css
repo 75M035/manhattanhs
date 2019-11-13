@@ -425,7 +425,7 @@ ul.contenthead {
 }
 
 #righterfoot h3 a{
-	color: #FCA5AB;
+	color: #FCB0B3;
 }
 
 #footercontent h3 a{
@@ -2095,18 +2095,18 @@ a.buttonau:hover{
 	box-shadow: 0 0 5px #646464, inset 0 0 10px #646464 !important;
 }
 
-/* About MHA Button */
+/* About NYSPI Button */
 
 .buttonaa {
 	border: 1px solid #85040D;
-	background: url("/images/buttons/mha.jpg") #F9414E;
+	background: url("/images/buttons/nyspi.jpg") #F9414E;
 	background-size: 100px 80px;
-	color: #85040D;
+	color: #210303;
 }
 
 .buttonaa .buttonbottom {
 	border-top: 1px solid #85040D;
-	background: linear-gradient(to bottom, #FA737D 0%, #F9414E 50%, #FA737D 100%);
+	background: linear-gradient(to bottom, #FB989E 0%, #F9717A 50%, #FB989E 100%);
 	background-size:1px 40px;
 	-webkit-transition: 0.5s;
 	transition: 0.5s;

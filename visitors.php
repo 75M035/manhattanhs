@@ -13,6 +13,7 @@ include("includes/header.php");
 					<a href="/main.php" class="buttonam"><div class="buttontop"></div><div class="buttonbottom">Main</div></a>
 					<a href="/beacon.php" class="buttonab"><div class="buttontop"></div><div class="buttonbottom">Beacon</div></a>
 					<a href="/bellevue.php" class="buttonau"><div class="buttontop"></div><div class="buttonbottom">Bellevue</div></a>
+					<a href="/nyspi.php" class="buttonaa"><div class="buttontop"></div><div class="buttonbottom">NYSPI</div></a>
 				</div>
 			</section>
 			<section class="contentleft">

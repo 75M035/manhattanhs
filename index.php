@@ -108,11 +108,12 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/5/2019</span> <br /> Chancellor's Conference Day (staff only)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2019</span> <br /> Veterans Day (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/28/2019-11/29/2019</span> <br /> Thanksgiving Break (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">12/23/2019-1/1/2020</span> <br /> Winter Break (school closed)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/20/2019</span> <br /> Martin Luther King Jr. Day (school closed)</p>
+					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/21/2019-11/22/2019</span> <br /> Parent Teacher Conferences</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/28/2019-11/29/2019</span> <br /> Thanksgiving Recess (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/23/2019-01/01/2020</span> <br /> Winter Recess (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">01/20/2020</span> <br /> Martin Luther King Jr. Day (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">01/21/2020-01/24/2020</span> <br /> Regents Week [<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" target="_blank">PDF Schedule</a>]</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">02/17/<2020></2020>-02/21/2020</span> <br /> Midwinter Recess (school closed)</p>
 				</div>
 			</aside>
 			<aside class="contentright">
@@ -140,6 +141,8 @@ include("includes/header.php");
 		<div id="middlefoot"><h3><a href="/beacon.php">Beacon School</a></h3><p class="phone">(212) 465-4390</p><p>Manhattan High School<br />522 West 44th Street<br />2nd Floor<br />New York, NY<br />10036</p></div>
 		<div class="footerbar"></div>
 		<div id="rightfoot"><h3><a href="/bellevue.php">Bellevue Hospital</a></h3><p class="phone">(212) 685-4269</p><p>The Riverview School<br />462 First Avenue<br />21st Floor<br />New York, NY<br />10016</p></div>
+		<div class="footerbar"></div>
+		<div id="righterfoot"><h3><a href="/nyspi.php">NYSPI</a></h3><p class="phone">(646) 774-6441</p><p>Children's Day Unit<br />1051 Riverside Drive<br />Suite 2500<br />New York, NY<br />10032</p></div>
 	</div>
 	<div id="nycdoelogo">
 		<a href="http://schools.nyc.gov/default.htm" target="_blank"><img src="/images/buttons/NYC_DOE_Logo_Light.png" alt="NYC DOE Logo"></a>
