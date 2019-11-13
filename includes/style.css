@@ -662,12 +662,16 @@ ul.contenthead {
 		width: 90% !important;
 	}
 	
-	.leftphotobutton {
-		left: -8% !important;
+	.leftphotobutton, .rightphotobutton {
+		bottom: 0;
+		top: auto !important;
+		transform: none !important;
+		margin-bottom: -3px;
 	}
 	
 	.printbutton {
 		margin-bottom: 3px;
+		right: 25px;
 	}
 	
 	.column {
