@@ -9,7 +9,7 @@ $path .= "/includes/header.php";
 
 <main id="content">
 	<div class="fullwidth">
-		<ul class="contenthead"><li><a href="/photos.php"><h2>Photos</h2></li></a><li><h2>Beacon Senior Convocation 2018</h2></li></ul>
+		<ul class="contenthead"><li><a href="/photos.php"><h2>Photos</h2></li></a><li><h2>Beacon Senior Convocation</h2></li></ul>
 		<div class="fullcontent">
 			<!-- The expanding image grid (hidden by default) -->
 			<div id="Senior Convocation 1" class="expandedImg">
