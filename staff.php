@@ -33,7 +33,7 @@ include("includes/header.php");
 					<a href="https://nycdoe.access411.com" id="buttonca" target="_blank"><div class="buttontop"></div><div class="buttonbottom">CAASS</div></a>
 					<a href="https://infohub.nyced.org" id="buttonin" target="_blank"><div class="buttontop"></div><div class="buttonbottom">InfoHub</div></a>
 					<a href="http://www.shopdoe.com/" id="buttonsh" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ShopDOE</div></a>
-					<a href="https://infohub.nyced.org/nyc-doe-topics/it/nycschoolstech" id="buttonts" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SchoolsTech</div></a>
+					<a href="https://tools.nycenet.edu/insight" id="buttonins" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Insight</div></a>
 				</div>
 			</section>
 			
@@ -43,6 +43,7 @@ include("includes/header.php");
 					<a href="https://schools.ra.nyc.gov" id="buttonat" target="_blank"><div class="buttontop"></div><div class="buttonbottom">WebConnect</div></a>
 					<a href="http://ats.nycboe.net/atsprint/" id="buttonatp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ATS Print</div></a>
 					<a href="https://ats.nycboe.net/stars" id="buttonsa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">STARS Admin</div></a>
+					<a href="http://portal.nycboe.net/sites/FinanceAdmin/DIIT/AppDev/HSST/Stars%20Setup/Install_Stars2.0_Client.htm" id="buttonist" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Install STARS</div></a>
 					<a href="https://mygalaxy.nycenet.edu/default.aspx" id="buttonga" target="_blank"><div class="buttontop"></div><div class="buttonbottom">myGalaxy</div></a>
 					<a href="https://finance360.org/famis/portal/" id="buttonfa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">FAMIS</div></a>
 					<a href="https://www.nycenet.edu/wellness/nycfitnessgram/" id="buttonfg" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Fitnessgram</div></a>

@@ -671,7 +671,7 @@ ul.contenthead {
 	
 	.printbutton {
 		margin-bottom: 3px;
-		right: 25px;
+		right: 35px;
 	}
 	
 	.column {
@@ -818,6 +818,29 @@ a#buttonstc:hover{
 	box-shadow: 0 0 5px #959595, inset 0 0 10px #959595;
 }
 
+/* Install STARS Button */
+
+#buttonist {
+	border: 1px solid #BA6624;
+	background: url("/images/buttons/installstars.svg") no-repeat #F2D4BC;
+	background-size: 32px 32px;
+	background-position: 50% 40%;
+	color: #643713;
+}
+
+#buttonist .buttonbottom {
+	border-top: 1px solid #BA6624;
+	background: linear-gradient(to bottom, #F6E9DE 0%, #F2D4BC 50%, #F6E9DE 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonist:hover{
+	box-shadow: 0 0 5px #959595, inset 0 0 10px #959595;
+}
+
+
 /* Student Profile Button */
 
 #buttonsp {
@@ -841,7 +864,7 @@ a#buttonsp:hover{
 	box-shadow: 0 0 5px #D9D9D9, inset 0 0 10px #D9D9D9;
 }
 
-/* Intranet Button */
+/* Infohub Button */
 
 #buttonin {
 	border: 1px solid #5E5E5E;
@@ -903,6 +926,28 @@ a#buttonsh:hover{
 	transition: 0.5s;
 }
 
+/* Insight Button */
+
+#buttonins {
+	border: 1px solid #661953;
+	background: url("/images/buttons/insight.png") no-repeat #9F2882;
+	background-size: 93px 42px;
+	background-position: 50% 0;
+	color: #FFFFFF;
+}
+
+#buttonins .buttonbottom {
+	border-top: 1px solid #661953;
+	background: linear-gradient(to bottom, #B72E95 0%, #9F2882 50%, #B72E95 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonins:hover{
+	box-shadow: 0 0 5px #3C3C3C, inset 0 0 10px #3C3C3C;
+}
+
 /* Email Button */
 
 .buttonem {
@@ -955,7 +1000,7 @@ a.buttonbsp:hover{
 	background-size: 70px 70px;
 	background-position: 50% 15%;
 	color: #424D94;
-	font-size: 13px;
+	font-size: 12px;
 }
 
 .buttonrsp .buttonbottom {

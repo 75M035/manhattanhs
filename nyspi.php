@@ -13,7 +13,7 @@ include("includes/header.php");
 				<div class="about-image"><img src="images/about/aboutnyspi.jpg" alt="NYS Psychiatric Institute"></div>
 				<p>Information coming soon</p>
 				<p></p>
-				<div class="google-maps"><iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJqccvIQxZwokR4PfF_NqTomc&key=AIzaSyB_kD5TwtDPL8zde3GbJXGQaauEhQ0GMK8" title="Google Maps" allowfullscreen></iframe></div>
+				<div class="google-maps"><iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJT2WxyJv2wokREy-XPiOmgQM&key=AIzaSyB_kD5TwtDPL8zde3GbJXGQaauEhQ0GMK8" title="Google Maps" allowfullscreen></iframe></div>
 			</div>
 		</section>
 	</div>
