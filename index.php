@@ -113,7 +113,7 @@ include("includes/header.php");
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/23/2019-01/01/2020</span> <br /> Winter Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/20/2020</span> <br /> Martin Luther King Jr. Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/21/2020-01/24/2020</span> <br /> Regents Week [<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" target="_blank">PDF Schedule</a>]</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">02/17/<2020></2020>-02/21/2020</span> <br /> Midwinter Recess (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">02/17/2020-02/21/2020</span> <br /> Midwinter Recess (school closed)</p>
 				</div>
 			</aside>
 			<aside class="contentright">
