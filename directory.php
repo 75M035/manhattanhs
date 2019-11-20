@@ -204,14 +204,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Hiram Cordero</td>
-			<td>Attendance Teacher</td>
-			<td>(M) 412</td>
-			<td>(M) 4123</td>
-			<td><a href="mailto:hcordero4@schools.nyc.gov">hcordero4@schools.nyc.gov</a></td>
-			<td>All</td>
-		</tr>
-		<tr>
 			<td>Nicole Croce</td>
 			<td>Unit Coordinator</td>
 			<td>203A</td>
@@ -890,6 +882,14 @@ include("includes/header.php");
 			<td>2221</td>
 			<td><a href="mailto:nthomas8@schools.nyc.gov">nthomas8@schools.nyc.gov</a></td>
 			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>Robert Thomas</td>
+			<td>Attendance Teacher</td>
+			<td>(M) 412</td>
+			<td>(M) 4123</td>
+			<td><a href="mailto:rthomas40@schools.nyc.gov">rthomas40@schools.nyc.gov</a></td>
+			<td>All</td>
 		</tr>
 		<tr>
 			<td>Eduardo Torres</td>
