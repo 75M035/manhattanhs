@@ -101,14 +101,13 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Reminders</h2>
 				<div class="sidecontent">
-					<p><span class="all-label">All</span> Marking Period 1 grades for Term 1 are due November 14. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
+					<p><span class="all-label">All</span> Marking Period 2 grades for Term 1 are due January 15. Final (MP3) grades are due January 17. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
 					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:KHughes15@schools.nyc.gov">Ms. Hughes</a> or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
 			</aside>
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/21/2019-11/22/2019</span> <br /> Parent Teacher Conferences</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/28/2019-11/29/2019</span> <br /> Thanksgiving Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/23/2019-01/01/2020</span> <br /> Winter Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/20/2020</span> <br /> Martin Luther King Jr. Day (school closed)</p>
