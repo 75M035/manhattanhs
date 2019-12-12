@@ -844,14 +844,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Rosa Suarez</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:rnegron3@schools.nyc.gov">rnegron3@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Hezekiah Spady</td>
 			<td>Dean</td>
 			<td>228</td>
@@ -864,7 +856,7 @@ include("includes/header.php");
 			<td>Science Teacher</td>
 			<td>212</td>
 			<td>2121</td>
-			<td><a href="mailto:mtahir2@schools.nyc.gov">utahir@schools.nyc.gov</a></td>
+			<td><a href="mailto:mtahir2@schools.nyc.gov">mtahir2@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
 		<tr>
