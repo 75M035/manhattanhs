@@ -7,7 +7,7 @@
 		<div class="footerbar"></div>
 		<div id="rightfoot"><h3><a href="/bellevue.php">Bellevue Hospital</a></h3><p class="phone">(212) 685-4269</p><p>The Riverview School<br />462 First Avenue<br />21st Floor<br />New York, NY<br />10016</p></div>
 		<div class="footerbar"></div>
-		<div id="righterfoot"><h3><a href="/nyspi.php">NYSPI</a></h3><p class="phone">(646) 774-6441</p><p>Children's Day Unit<br />1051 Riverside Drive<br />Suite 2500<br />New York, NY<br />10032</p></div>
+		<div id="righterfoot"><h3><a href="/nyspi.php">NYSPI</a></h3><p class="phone">(646) 774-5812</p><p>Children's Day Unit<br />1051 Riverside Drive<br />Suite 2500<br />New York, NY<br />10032</p></div>
 	</div>
 	<div id="nycdoelogo">
 		<a href="http://schools.nyc.gov/default.htm" target="_blank"><img src="/images/buttons/NYC_DOE_Logo_Light.png" alt="NYC DOE Logo"></a>
