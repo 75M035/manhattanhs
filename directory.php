@@ -686,8 +686,8 @@ include("includes/header.php");
 		<tr>
 			<td>Joseph Planer</td>
 			<td>Technology Administrator</td>
-			<td>(M) 208E</td>
-			<td>(M) 2085</td>
+			<td>(M) 204</td>
+			<td>(M) 2045</td>
 			<td><a href="mailto:jplaner@schools.nyc.gov">jplaner@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
