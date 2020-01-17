@@ -8,6 +8,20 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Shelter In - January 17, 2020 <span class="labels"> <span class="beacon-label">Beacon</span></span></h2>
+				<div class="maincontent">
+	    			<p>Dear Parents/Guardians and Staff,</p>
+					<p>The safety and well-being of all students and staff members at P35M: Manhattan High School remains our highest priority.  Towards that end, we are informing about a non-school related incident that took place today near our school.</p>
+					<p>Out of an abundance of caution, the school was placed in a Shelter-In for approximately 15 minutes due to NYPD activity in the vicinity of our school building.  The Shelter-In was lifted after NYPD determined that there was no threat to our school building.</p>
+					<p>We assure you that every precaution was taken and will continue to be taken to ensure the safety of our students and staff.  I want to thank all students and staff for their cooperation during the Shelter-In.</p>
+					<p>We look forward to your continued partnership as we work together to ensure that P35M: Manhattan High School continues to provide the best and safest learning environment possible for all of its students and staff.</p>
+					<p>If you have any questions, please feel free to contact Assistant Principal Gavriel Berkovits at (212) 465-4390.</p>
+					<p>Sincerely yours,</p>
+					<p>Marta Barnett<br />
+					Principal</p>
+				</div>
+			</article>
+			<article class="contentleft">
                 <h2 class="contenthead">Phone Service Restored - August 7, 2019 <span class="labels"><span class="beacon-label">Beacon</span></span></h2>
                 <div class="maincontent">
                     <p>Our issues with the phones have been fixed. Thank you for your patience.</p>
