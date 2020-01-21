@@ -115,17 +115,18 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Reminders</h2>
 				<div class="sidecontent">
-					<p><span class="all-label">All</span> Marking Period 2 grades for Term 1 are due January 15. Final (MP3) grades are due January 17. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
+					<p><span class="all-label">All</span> Marking Period 1 grades for Term 2 are due April 6. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
 					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:KHughes15@schools.nyc.gov">Ms. Hughes</a> or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
 			</aside>
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/20/2020</span> <br /> Martin Luther King Jr. Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/21/2020-01/24/2020</span> <br /> Regents Week [<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" target="_blank">PDF Schedule</a>]</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">01/27/2020</span> <br /> January Clerical Day (staff only)</p>
 					<p><span class="beacon-label">Beacon</span> <span class="upcoming-date">01/22/2020</span> <br /> Introduction to Transition Planning Workshop [<a href="/Intro_to_Transition_flyer.pdf" target="_blank">PDF Schedule</a>]</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">02/17/2020-02/21/2020</span> <br /> Midwinter Recess (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">04/09/2020-04/17/2020</span> <br /> Spring Recess (school closed)</p>
 				</div>
 			</aside>
 			<aside class="contentright">
