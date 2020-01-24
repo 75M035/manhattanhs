@@ -122,11 +122,11 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/21/2020-01/24/2020</span> <br /> Regents Week [<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" target="_blank">PDF Schedule</a>]</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/27/2020</span> <br /> January Clerical Day (staff only)</p>
-					<p><span class="beacon-label">Beacon</span> <span class="upcoming-date">01/22/2020</span> <br /> Introduction to Transition Planning Workshop [<a href="/Intro_to_Transition_flyer.pdf" target="_blank">PDF Schedule</a>]</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">02/17/2020-02/21/2020</span> <br /> Midwinter Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">04/09/2020-04/17/2020</span> <br /> Spring Recess (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">05/25/2020</span> <br /> Memorial Day (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/04/2020</span> <br /> Chancellor's Conference Day (staff only)</p>
 				</div>
 			</aside>
 			<aside class="contentright">

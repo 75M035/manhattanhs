@@ -34,7 +34,7 @@ include("includes/header.php");
 				<h2 class="contentheadright">Helpful Links</h2>
 				<div class="sidecontent">
 					<a href="https://cdn-blob-prd.azureedge.net/prd-pws/docs/default-source/default-document-library/school-calendar-2018-2019.pdf" id="buttoncl" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><?php echo date("M"); ?></div><div id="cald"><?php echo date("d"); ?></div></a>
-					<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-120.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
+					<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-620.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 				</div>
 			</section>

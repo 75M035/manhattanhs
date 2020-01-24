@@ -213,7 +213,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Jean Darbouze</td>
-			<td>Psychologist</td>
+			<td>Social Worker</td>
 			<td>311</td>
 			<td>3112</td>
 			<td><a href="mailto:jdarbou@schools.nyc.gov">jdarbou@schools.nyc.gov</a></td>
@@ -421,7 +421,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Janice Huggins</td>
-			<td>Educational Assistant</td>
+			<td>Purchasing</td>
 			<td>208C</td>
 			<td>2083</td>
 			<td><a href="mailto:jhuggins3@schools.nyc.gov">jhuggins3@schools.nyc.gov</a></td>
@@ -481,6 +481,14 @@ include("includes/header.php");
 			<td>214</td>
 			<td>2141</td>
 			<td><a href="mailto:nkennedy4@schools.nyc.gov">nkennedy4@schools.nyc.gov</a></td>
+			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>Alvin Kerremans</td>
+			<td>Educational Assistant</td>
+			<td>214</td>
+			<td>2141</td>
+			<td><a href="mailto:akerremans@schools.nyc.gov@schools.nyc.gov">akerremans@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
 		<tr>
@@ -685,7 +693,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Joseph Planer</td>
-			<td>Technology Administrator</td>
+			<td>SPOC/Technology Coordinator</td>
 			<td>(M) 204</td>
 			<td>(M) 2045</td>
 			<td><a href="mailto:jplaner@schools.nyc.gov">jplaner@schools.nyc.gov</a></td>
@@ -764,6 +772,14 @@ include("includes/header.php");
 			<td>All</td>
 		</tr>
 		<tr>
+			<td>Jason Rodriguez</td>
+			<td>Educational Assistant</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:jrodriguez198@schools.nyc.gov">jrodriguez198@schools.nyc.gov</a></td>
+			<td>Beacon</td>
+		</tr>
+		<tr>
 			<td>Yngrid Rodriguez</td>
 			<td>Dean</td>
 			<td>208B</td>
@@ -780,12 +796,28 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
+			<td>Santiago Rosario</td>
+			<td>Dean</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:srosario17@schools.nyc.gov">srosario17@schools.nyc.gov</a></td>
+			<td>Main</td>
+		</tr>
+		<tr>
 			<td>Leslie Rosenstein</td>
 			<td>Teacher</td>
 			<td>21E42</td>
 			<td></td>
 			<td><a href="mailto:lrosens@schools.nyc.gov">lrosens@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
+		</tr>
+		<tr>
+			<td>Lionel Salomon</td>
+			<td>Educational Assistant</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:lsalomon2@schools.nyc.gov">lsalomon2@schools.nyc.gov</a></td>
+			<td>Beacon</td>
 		</tr>
 		<tr>
 			<td>Beatriz Santana</td>
@@ -990,8 +1022,8 @@ include("includes/header.php");
 		<tr>
 			<td>Aja Aaron Woodson</td>
 			<td>Unit Coordinator</td>
-			<td>210</td>
-			<td>2103</td>
+			<td>108</td>
+			<td>1088</td>
 			<td><a href="mailto:aaaron3@schools.nyc.gov">aaaron3@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
