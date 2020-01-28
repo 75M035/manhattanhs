@@ -108,7 +108,7 @@ include("includes/header.php");
 				</div>
 			</article>
 			<!--Archive Page Button-->
-			<button type="button" class="primary-btn archive-btn" onClick="archivePage();">Past News</button>
+			<a href="newsarchive.php" type="button" class="primary-btn archive-btn">Past News</a>
 		</section>
 	</main>
 		<section id="right">
@@ -122,7 +122,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/27/2020</span> <br /> January Clerical Day (staff only)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">02/17/2020-02/21/2020</span> <br /> Midwinter Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">04/09/2020-04/17/2020</span> <br /> Spring Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/25/2020</span> <br /> Memorial Day (school closed)</p>
