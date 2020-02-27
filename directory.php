@@ -414,8 +414,8 @@ include("includes/header.php");
 		<tr>
 			<td>Jeniffer Higgins</td>
 			<td>Jewish Board Social Worker</td>
-			<td>2173</td>
-			<td>2173</td>
+			<td>217D</td>
+			<td>2172</td>
 			<td><a href="mailto:jhiggins@jbfcs.org">jhiggins@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -694,8 +694,8 @@ include("includes/header.php");
 		<tr>
 			<td>Joseph Planer</td>
 			<td>SPOC/Technology Coordinator</td>
-			<td>(M) 204</td>
-			<td>(M) 2045</td>
+			<td>(M) 208</td>
+			<td>(M) 2085</td>
 			<td><a href="mailto:jplaner@schools.nyc.gov">jplaner@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
