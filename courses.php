@@ -20,7 +20,7 @@ include("includes/header.php");
 			</thead>
 			<tbody>
 				<tr>
-					<td>Algebra I 2/4</td>
+					<td><a href="syllabi/2019_2/Algebra_I_2_4_Syllabus_Flores.pdf" target="_blank">Algebra I 2/4</a></td>
 					<td>Mathematics</td>
 					<td>Flores</td>
 					<td>222</td>
@@ -44,7 +44,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra I 2/4</td>
+					<td><a href="syllabi/2019_2/Algebra_I_2_4_Syllabus_Thomas.pdf" target="_blank">Algebra I 2/4</a></td>
 					<td>Mathematics</td>
 					<td>Thomas</td>
 					<td>222</td>
@@ -52,7 +52,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 4/4</td>
+					<td><a href="syllabi/2019_2/Algebra_I_4_4_Syllabus_Jin.pdf" target="_blank">Algebra I 4/4</a></td>
 					<td>Mathematics</td>
 					<td>Jin</td>
 					<td>216</td>
@@ -84,7 +84,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra Skills</td>
+					<td><a href="syllabi/2019_2/Algebra_Skills_Syllabus_Thomas.pdf" target="_blank">Algebra Skills</a></td>
 					<td>Mathematics</td>
 					<td>Thomas</td>
 					<td>227</td>
@@ -92,7 +92,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Anatomy</td>
+					<td><a href="syllabi/2019_2/Anatomy_Syllabus_Rojas.pdf" target="_blank">Anatomy</a></td>
 					<td>Life Science</td>
 					<td>Rojas</td>
 					<td>204</td>
@@ -100,7 +100,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Auto Shop</td>
+					<td><a href="syllabi/2019_2/Auto_Shop_Syllabus_Sarno.pdf" target="_blank">Auto Shop</a></td>
 					<td>Careers</td>
 					<td>Sarno</td>
 					<td>106</td>
@@ -156,7 +156,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Devised Theater</td>
+					<td><a href="syllabi/2019_2/Devised_Theater_Syllabus_Manas.pdf" target="_blank">Devised Theater</a></td>
 					<td>Arts</td>
 					<td>Manas</td>
 					<td>210</td>
@@ -164,7 +164,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Digital Film</td>
+					<td><a href="syllabi/2019_2/Digital_Film_Syllabus_Manas.pdf" target="_blank">Digital Film</a></td>
 					<td>Arts</td>
 					<td>Manas</td>
 					<td>222 222 210 210</td>
@@ -196,7 +196,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 2/8</td>
+					<td><a href="syllabi/2019_2/English_2_8_Syllabus_Dotter.pdf" target="_blank">English 2/8</a></td>
 					<td>Core English</td>
 					<td>Dotter</td>
 					<td>205</td>
@@ -228,7 +228,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 4/8</td>
+					<td><a href="syllabi/2019_2/English_4_8_Syllabus_Dotter.pdf" target="_blank">English 4/8</a></td>
 					<td>Core English</td>
 					<td>Dotter</td>
 					<td>205</td>
@@ -252,7 +252,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 4/8</td>
+					<td><a href="/syllabi/2019_2/English_4_8_Syllabus_Medina.pdf" target="_blank">English 4/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>218 218 205</td>
@@ -284,7 +284,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 6/8</td>
+					<td><a href="/syllabi/2019_2/English_4_8_Syllabus_Medina.pdf" target="_blank">English 6/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>211 205</td>
@@ -308,7 +308,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Forensics</td>
+					<td><a href="syllabi/2019_2/Forensics_Syllabus_Katz.pdf" target="_blank">Forensics</a></td>
 					<td>Science</td>
 					<td>Katz</td>
 					<td>207</td>
@@ -332,7 +332,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Geometry 2/2</td>
+					<td><a href="syllabi/2019_2/Geometry_2_2_Syllabus_Jin.pdf" target="_blank">Geometry 2/2</a></td>
 					<td>Mathematics</td>
 					<td>Jin</td>
 					<td>216</td>
@@ -356,7 +356,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 2/4</td>
+					<td><a href="syllabi/2019_2/Global_2_4_Syllabus_Afzal.pdf" target="_blank">Global 2/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -388,7 +388,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 4/4</td>
+					<td><a href="syllabi/2019_2/Global_4_4_Syllabus_Afzal.pdf" target="_blank">Global 4/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -436,7 +436,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Health</td>
+					<td><a href="syllabi/2019_2/Health_Syllabus_Gerdes.pdf" target="_blank">Health</a></td>
 					<td>PE and Health</td>
 					<td>Gerdes</td>
 					<td>216</td>
@@ -452,7 +452,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Honors Art</td>
+					<td><a href="syllabi/2019_2/Honors_Art_Syllabus_Dilorenzo.pdf" target="_blank">Honors Art</a></td>
 					<td>Arts</td>
 					<td>DiLorenzo</td>
 					<td>211</td>
@@ -460,7 +460,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Honors Music</td>
+					<td><a href="syllabi/2019_2/Honors_Music_Syllabus_Brickel.pdf" target="_blank">Honors Music</a></td>
 					<td>Arts</td>
 					<td>Brickel</td>
 					<td>210</td>
@@ -476,7 +476,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Keyboard</td>
+					<td><a href="syllabi/2019_2/Keyboard_Syllabus_Brickel.pdf" target="_blank">Keyboard</a></td>
 					<td>Arts</td>
 					<td>Brickel</td>
 					<td>C43</td>
@@ -484,7 +484,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 2/4</td>
+					<td><a href="syllabi/2019_2/Living_Environment_2_4_Syllabus_Katz.pdf" target="_blank">Living Environment 2/4</a></td>
 					<td>Life Science</td>
 					<td>Katz</td>
 					<td>212 212 208 204</td>
@@ -492,7 +492,15 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 4/4</td>
+					<td><a href="syllabi/2019_2/Living_Environment_2_4_Syllabus_Phillips.pdf" target="_blank">Living Environment 2/4</a></td>
+					<td>Life Science</td>
+					<td>Phillips</td>
+					<td>406</td>
+					<td>6</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td><a href="syllabi/2019_2/Living_Environment_4_4_Syllabus_Phillips.pdf" target="_blank">Living Environment 4/4</a></td>
 					<td>Life Science</td>
 					<td>Phillips</td>
 					<td>406</td>
@@ -500,7 +508,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Living Environment 4/4</td>
+					<td><a href="syllabi/2019_2/Living_Environment_4_4_Syllabus_Rojas.pdf" target="_blank">Living Environment 4/4</a></td>
 					<td>Life Science</td>
 					<td>Rojas</td>
 					<td>204</td>
@@ -516,7 +524,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Ecuation</td>
+					<td><a href="syllabi/2019_2/Physical_Education_Syllabus_Waver.pdf" target="_blank">Physical Ecuation</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>702B</td>
@@ -532,7 +540,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="syllabi/2019_2/Physical_Education_Syllabus_Gerdes.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Gerdes</td>
 					<td>702B</td>
@@ -556,7 +564,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Rockband</td>
+					<td><a href="syllabi/2019_2/Rock_Band_Syllabus_Brickel.pdf" target="_blank">Rockband</a></td>
 					<td>Arts</td>
 					<td>Brickel</td>
 					<td>210</td>
@@ -588,7 +596,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Studio Art</td>
+					<td><a href="syllabi/2019_2/Studio_Art_Syllabus_Collins.pdf" target="_blank">Studio Art</a></td>
 					<td>Arts</td>
 					<td>Collins</td>
 					<td>319</td>
@@ -596,7 +604,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Studio Art</td>
+					<td><a href="syllabi/2019_2/Studio_Art_Syllabus_Dilorenzo.pdf" target="_blank">Studio Art</a></td>
 					<td>Arts</td>
 					<td>DiLorenzo</td>
 					<td>211</td>
@@ -604,7 +612,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Theater</td>
+					<td><a href="syllabi/2019_2/Theater_Syllabus_Manas.pdf" target="_blank">Theater</a></td>
 					<td>Arts</td>
 					<td>Manas</td>
 					<td>210</td>

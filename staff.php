@@ -77,7 +77,6 @@ include("includes/header.php");
 					<a href="https://www.desmos.com" id="buttonds" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Desmos</div></a>
 					<a href="https://www.flocabulary.com" id="buttonfl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Flocabulary</div></a>
 					<a href="https://www.pearsonrealize.com/" id="buttonpr" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Pearson</div></a>
-					<a href="http://www.problem-attic.com/" id="buttonpc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Problem-Attic</div></a>
 					<a href="https://www.bookshare.org/cms" id="buttonbks" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bookshare</div></a>
 				</div>
 			</section>

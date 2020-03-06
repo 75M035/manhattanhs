@@ -22,6 +22,7 @@ include("includes/header.php");
 				<h2 class="contenthead">Important Logins</h2>
 				<div class="maincontent">
 					<a href="https://pupilpath.skedula.com" id="buttonpp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">PupilPath</div></a>
+					<a href="https://mystudent.nyc" class="buttonnsa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">NYCSA</div></a>
 				</div>
 			</section>
 		</div>

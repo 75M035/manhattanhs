@@ -2190,6 +2190,28 @@ a.buttonaa:hover{
 	box-shadow: 0 0 5px #646464, inset 0 0 10px #646464 !important;
 }
 
+/*NYCSA Button */
+
+.buttonnsa {
+	border: 1px solid #85040D;
+	background: url("/images/buttons/nycsa.jpg") #840746;
+	background-size: 100px 80px;
+	color: #FFFFFF;
+}
+
+.buttonnsa .buttonbottom {
+	border-top: 1px solid #85040D;
+	background: linear-gradient(to bottom, #C40A68 0%, #840746 50%, #C40A68 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a.buttonnsa:hover{
+	box-shadow: 0 0 5px #646464, inset 0 0 10px #646464 !important;
+	color: #FFFFFF !important;
+}
+
 /* Jobs Button */
 
 #buttonjo {
