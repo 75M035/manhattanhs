@@ -636,7 +636,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>US History 2/2</td>
+					<td><a href="syllabi/2019_2/US_History_2_2_Syllabus_Prisco.pdf" target="_blank">US History 2/2</a></td>
 					<td>Social Studies</td>
 					<td>Prisco</td>
 					<td>214</td>
