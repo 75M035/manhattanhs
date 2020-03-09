@@ -125,7 +125,7 @@ include("includes/header.php");
 					<p><span class="all-label">All</span> <span class="upcoming-date">04/09/2020-04/17/2020</span> <br /> Spring Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/25/2020</span> <br /> Memorial Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/04/2020</span> <br /> Chancellor's Conference Day (staff only)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/04/2020</span> <br /> Regents Week [<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-620.pdf" target="_blank">PDF Schedule</a>]</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/17/2020-06/26/2020</span> <br /> Regents Week [<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-620.pdf" target="_blank">PDF Schedule</a>]</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/26/2020</span> <br /> Last Day of School - Early Dismissal</p>
 				</div>
 			</aside>
