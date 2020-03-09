@@ -668,6 +668,14 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
+			<td>Zaida Paris</td>
+			<td>Parent Coordinator</td>
+			<td>(M) 108</td>
+			<td>(M) 1084</td>
+			<td><a href="mailto:zparis2@schools.nyc.gov">zparis2@schools.nyc.gov</a></td>
+			<td>All</td>
+		</tr>
+		<tr>
 			<td>Michelle Pe&ntilde;a</td>
 			<td>Math Teacher</td>
 			<td>207</td>
