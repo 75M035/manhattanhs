@@ -8,6 +8,29 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Coronavirus Update for Families - March 16, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Dear Families,</p>
+					<p>All of us are living through an unprecedented time as we work to keep our communities safe and healthy in the face of the coronavirus. New Yorkers are joining millions in cities, states, and nations across the world in confronting decisions that we’ve never had to face—and maybe never could have imagined having to.</p>
+					<p>Here in New York, Mayor de Blasio and I have been clear that any changes to our school system as we know it would be an extreme measure—a last resort. We’ve been monitoring the outbreak in New York City day by day, hour by hour, minute by minute. This weekend, it became clear that continuing public education in our school buildings was no longer sustainable for the time being.</p>
+					<p>On Sunday, we announced that for the next three and a half weeks, we are moving to a remote learning model, with a projected reopening of school buildings the week of April 20, 2020. I know this may feel abrupt, and has the potential to cause disruption in your lives. We are committed to consistent and clear communication with you throughout this time period, and a clear understanding of what will happen.</p>
+					<p>Our announcement today means that Monday, March 16, school buildings are closed and students will be out of session. However, students and families can pick up medication or receive any standard medical services from Tuesday through Thursday, during regular school hours; school nurses and school based health center staff will be on site. During that time, teachers will also be expected to report to their buildings and receive full-day professional development on remote learning.</p>
+					<p>Later in the week, students will begin picking up materials, including technology to participate in remote learning when needed. Additional guidance on all of this will be shared with you in the next couple of days.</p>
+					<p>All throughout this week, grab-and-go breakfast will be available at the entrance of every school building from 7:30 AM – 1:30 PM. Any student can pick up breakfast and lunch at any school building.</p>
+					<p>On Monday, March 23, we will be opening several dozen Regional Enrichment Centers across the City, to serve the children of our City’s first responders, healthcare workers, transit workers, and our most vulnerable populations.</p>
+					<p>That Monday, we will also launch remote learning for grades K-12. I have every confidence in New York City educators and know they will rise to the occasion, and dedicate the same passion for delivering high-quality instruction remotely as they do in the classroom. We know we have the most dedicated school staff: teachers, custodians, administrators, and especially the school food workers who will be continuing to work during this time as part of a citywide meals program. More information on the launch of that program will be coming soon.</p>
+					<p>I want to be clear that this is not a closure, but a transition. We will not lower our expectations for our students. We know they are hungry to learn and we will match their curiosity and passion with work-from-home materials, including distribution of devices that will support our remote-learning instructional model.</p>
+					<p>There are already instructional resources available for every grade level in every subject at <a href="https://www.schools.nyc.gov/learning/learn-at-home" target="_blank">schools.nyc.gov/learnathome</a>.</p>
+					<p>We know this is a difficult time, and we are working hard to make sure our City continues to support families in every way we can. I want to assure families we’re working to make this as seamless a transition as possible.</p>
+					<p>Now is the time to come together to do what’s best for the health and safety of all New Yorkers. We are with you, partners in education in the greatest city in the world. We have the world’s most talented students, educators, and staff—and nothing will ever change that.</p> 
+					<p>We will continue to communicate with you in the coming days, and encourage you to visit our website at <a href="https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update" target="_blank">https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update</a> for more information and updates on this transition.</p>
+					<p>Sincerely,</p>
+					<p>Richard A. Carranza<br />
+					Chancellor<br />
+					New York City Department of Education</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Critical Update on DOE Operations - March 16, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 	    			<p>As per the <a href="https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update" target="_blank">Chancellor's communication</a>, NYCDOE schools are closed for instruction effective today through the end of the April vacation. We are currently planning on how we will support students through virtual and at-home learning over the upcoming weeks and what this new reality means for District 75 in terms of our uniqueness.</p>
