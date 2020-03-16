@@ -8,6 +8,15 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Critical Update on DOE Operations - March 16, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+	    			<p>As per the <a href="https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update" target="_blank">Chancellor's communication</a>, NYCDOE schools are closed for instruction effective today through the end of the April vacation. We are currently planning on how we will support students through virtual and at-home learning over the upcoming weeks and what this new reality means for District 75 in terms of our uniqueness.</p>
+					<p>Tuesday-Thursday, all staff should report to their assigned school site. Staff with multiple site assignments should follow their typical reporting schedule on each day, and Inclusion teams should report to their regularly assigned host school to engage in planning along with their general education colleagues. This time will be used to ensure that students have what they need to support instructional continuity at home beginning March 23rd.</p>
+					<p>We know that this is a challenging and unprecedented time, with many questions left to be answered. We hope to obtain these answers in the upcoming days, and will pass along all information to you as it comes. We thank all staff for your ongoing commitment to your students, communication to your school communities, and support to your families. Your steadfast leadership is what assures us that we will effectively continue to serve our students during this unexpected shift in our school year.</p>
+					<p>Take good care and stay well.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Shelter In - January 17, 2020 <span class="labels"> <span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 	    			<p>Dear Parents/Guardians and Staff,</p>
@@ -122,6 +131,8 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
+					<p><span class="all-label">All</span> <span class="upcoming-date">03/16/2020</span> <br /> Citywide closure (food available)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">03/17/2020-04/08/2020</span> <br /> School closed for instruction (food available)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">04/09/2020-04/17/2020</span> <br /> Spring Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/25/2020</span> <br /> Memorial Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/04/2020</span> <br /> Chancellor's Conference Day (staff only)</p>
