@@ -8,6 +8,12 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Important Message for Families - March 22, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+	    			<p>As we head into our first day of remote learning, the New York City Schools Chancellor has prepared the following letter for the families of all our 1.1 million New York City public school students, available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters/coronavirus" target="_blank">InfoHub Coronavirus Letters</a> page.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Coronavirus Update for Families - March 16, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Dear Families,</p>
