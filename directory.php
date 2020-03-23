@@ -211,12 +211,20 @@ include("includes/header.php");
 			<td><a href="mailto:ncroce@schools.nyc.gov">ncroce@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
+			<tr>
+			<td>Nicole Croce</td>
+			<td>Unit Coordinator</td>
+			<td>203A</td>
+			<td>2021</td>
+			<td><a href="mailto:ncroce@schools.nyc.gov">ncroce@schools.nyc.gov</a></td>
+			<td>Beacon</td>
+		</tr>
 		<tr>
-			<td>Jean Darbouze</td>
-			<td>Social Worker</td>
-			<td>311</td>
-			<td>3112</td>
-			<td><a href="mailto:jdarbou@schools.nyc.gov">jdarbou@schools.nyc.gov</a></td>
+		<td>Devin Cruz</td>
+			<td>Educational Assistant</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:dcruz26@schools.nyc.gov">dcruz26@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
