@@ -160,8 +160,7 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">03/16/2020</span> <br /> Citywide closure (food available)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">03/17/2020-04/08/2020</span> <br /> School closed for instruction (food available)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">03/17/2020-04/08/2020</span> <br /> School closed for instruction</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">04/09/2020-04/17/2020</span> <br /> Spring Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/25/2020</span> <br /> Memorial Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/04/2020</span> <br /> Chancellor's Conference Day (staff only)</p>
