@@ -8,15 +8,16 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
-				<h2 class="contenthead">Free Meals - March 24, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<h2 class="contenthead">Meals and Remote Learning Devices - March 24, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
-	    			<p>Beginning March 23, meals will be distributed at more than 400 sites across the city. Three meals a day, including breakfast, will be available to all NYC children Monday through Friday 7:30 am to 1:30 pm at locations across the city. Use the <a href="https://www.opt-osfns.org/schoolfoodny/meals/default.aspx" target="_blank">site lookup tool</a> to find a location near you!</p>
+	    			<p>Beginning March 23, free meals will be distributed at more than 400 sites across the city. Three meals a day, including breakfast, will be available to all NYC children Monday through Friday 7:30 am to 1:30 pm at locations across the city. Use the <a href="https://www.opt-osfns.org/schoolfoodny/meals/default.aspx" target="_blank">site lookup tool</a> to find a location near you!</p>
 					<ul>
 						<li>No registration, ID, or documentation required.</li>
 						<li>All three meals a day may be picked up at the same time.</li>
 						<li>No dining space is available, so meals must be eaten off premises.</li>
 						<li>Parents and guardians may pick up meals for their children.</li>
 					</ul>
+					<p>To help students stay connected during emergencies, the DOE is lending internet-enabled iPads to support remote learning for students. If you would like to request a device for a NYC student in your family, please fill out the <a href="https://coronavirus.schools.nyc/RemoteLearningDevices" target="_blank">Request form</a>. The DOE will use the contact information you provide to get in touch with you to discuss when and where you can pick up a device. Priority will be given to students most in need, and all devices are granted on a temporary basis and will need to be returned.</p>
 				</div>
 			</article>
 			<article class="contentleft">
