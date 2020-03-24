@@ -8,6 +8,18 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Free Meals - March 24, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+	    			<p>Beginning March 23, meals will be distributed at more than 400 sites across the city. Three meals a day, including breakfast, will be available to all NYC children Monday through Friday 7:30 am to 1:30 pm at locations across the city. Use the <a href="https://www.opt-osfns.org/schoolfoodny/meals/default.aspx" target="_blank">site lookup tool</a> to find a location near you!</p>
+					<ul>
+						<li>No registration, ID, or documentation required.</li>
+						<li>All three meals a day may be picked up at the same time.</li>
+						<li>No dining space is available, so meals must be eaten off premises.</li>
+						<li>Parents and guardians may pick up meals for their children.</li>
+					</ul>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Important Message for Families - March 22, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 	    			<p>As we head into our first day of remote learning, the New York City Schools Chancellor has prepared the following letter for the families of all our 1.1 million New York City public school students, available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters/coronavirus" target="_blank">InfoHub Coronavirus Letters</a> page.</p>
