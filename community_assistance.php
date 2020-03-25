@@ -1,6 +1,6 @@
 <?php 
-$page_title = "Donate";
-$page_description = "Donate to Manhattan High School";
+$page_title = "Community Assistance";
+$page_description = "Community Assistance for Families Outreach Services";
 
 include("includes/header.php");
 ?>
