@@ -166,6 +166,7 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Reminders</h2>
 				<div class="sidecontent">
+					<p><span class="all-label">All</span> Resources for families are listed on our new <a href="/community_assistance.php">Community Assistance page</a>.</p>
 					<p><span class="all-label">All</span> Marking Period 1 grades for Term 2 are due April 6. Please contact <a href="mailto:aroberts16@schools.nyc.gov">Mr. Roberts</a> with any questions.</p>
 					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:KHughes15@schools.nyc.gov">Ms. Hughes</a> or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
