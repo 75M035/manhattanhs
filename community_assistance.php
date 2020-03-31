@@ -112,7 +112,7 @@ include("includes/header.php");
 						</ul>
 					</ul>
 				</p>
-				<p>
+				<p>Instructional Materials
 					<ul>
 						<li>NYPL Instructional Materials Now Available for Every DOE Teacher and Student</li>
 						<ul>
