@@ -112,6 +112,14 @@ include("includes/header.php");
 						</ul>
 					</ul>
 				</p>
+				<p>
+					<ul>
+						<li>NYPL Instructional Materials Now Available for Every DOE Teacher and Student</li>
+						<ul>
+							<li>All resources can be accessed for free with a NYPL library card by navigating to <a href="https://www.nypl.org/about/remote-resources/kids-and-teens?utm_campaign=DOECommunityLearning&utm_source=DOE&utm_medium=referral" target="_blank">nypl.org/communitylearning</a>. Anyone without a library card can visit <a href="https://www.nypl.org/books-music-movies/ebookcentral/simplye" target="_blank">nypl.org/SimplyE</a> to learn how to sign up for a NYPL Card using the SimplyE app.</li>
+						</ul>
+					</ul>
+				</p>
 				<p>Internet/Phone Service Accommodations
 					<ul>
 						<li>Comcast: <a href="https://corporate.comcast.com/press/releases/internet-essentials-low-income-broadband-coronavirus-pandemic" target="_blank">Free public Wi-Fi for 60 Days to families</a></li>
