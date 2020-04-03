@@ -164,6 +164,14 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
+			<td>Tom Christensen</td>
+			<td>Jewish Board Social Worker</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:Tchristensen@jbfcs.org">Tchristensen@jbfcs.org</a></td>
+			<td>Beacon</td>
+		</tr>
+		<tr>
 			<td>Emily Clark</td>
 			<td>Inclusion Coordinator</td>
 			<td>203C</td>
@@ -204,14 +212,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Nicole Croce</td>
-			<td>Unit Coordinator</td>
-			<td>203A</td>
-			<td>2021</td>
-			<td><a href="mailto:ncroce@schools.nyc.gov">ncroce@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-			<tr>
 			<td>Nicole Croce</td>
 			<td>Unit Coordinator</td>
 			<td>203A</td>
@@ -494,8 +494,8 @@ include("includes/header.php");
 		<tr>
 			<td>Alvin Kerremans</td>
 			<td>Educational Assistant</td>
-			<td>214</td>
-			<td>2141</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:akerremans@schools.nyc.gov@schools.nyc.gov">akerremans@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -533,7 +533,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Pamela Lopez</td>
-			<td>English and Social Studies Teacher</td>
+			<td>Math Teacher</td>
 			<td>308</td>
 			<td>3081</td>
 			<td><a href="mailto:plopez12@schools.nyc.gov">plopez12@schools.nyc.gov</a></td>
@@ -597,7 +597,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Margaret Moore</td>
-			<td>Family Worker</td>
+			<td>School Aide</td>
 			<td></td>
 			<td></td>
 			<td><a href="mailto:mmoore19@schools.nyc.gov">mmoore19@schools.nyc.gov</a></td>
@@ -812,28 +812,12 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Santiago Rosario</td>
-			<td>Dean</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:srosario17@schools.nyc.gov">srosario17@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Leslie Rosenstein</td>
 			<td>Teacher</td>
 			<td>21E42</td>
 			<td></td>
 			<td><a href="mailto:lrosens@schools.nyc.gov">lrosens@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
-		</tr>
-		<tr>
-			<td>Lionel Salomon</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:lsalomon2@schools.nyc.gov">lsalomon2@schools.nyc.gov</a></td>
-			<td>Beacon</td>
 		</tr>
 		<tr>
 			<td>Beatriz Santana</td>
