@@ -492,14 +492,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Alvin Kerremans</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:akerremans@schools.nyc.gov@schools.nyc.gov">akerremans@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Avery Klotsche</td>
 			<td>Jewish Board Social Worker</td>
 			<td>217D</td>
@@ -969,7 +961,7 @@ include("includes/header.php");
 			<td>213B</td>
 			<td>2132</td>
 			<td><a href="mailto:jvining2@schools.nyc.gov">jvining2@schools.nyc.gov</a></td>
-			<td>Main</td>
+			<td>Beacon</td>
 		</tr>
 		<tr>
 			<td>Melania Walker</td>
