@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Spring Break Announcement - April 6, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+	    			<p>For the health and well-being of all New Yorkers, the City and the State are in agreement that schools must continue to offer remote learning, including during days that were previously scheduled as breaks. As a result, our schools will continue with remote learning through the time originally scheduled for Spring Recess.</p>
+					<p>Please see the <a href="https://www.schools.nyc.gov/about-us/policies/spring-break-announcement" target="_blank">New York City Schools Chancellor's letter</a> for more information.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Meals and Remote Learning Devices - March 24, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 	    			<p>Beginning March 23, free meals will be distributed at more than 400 sites across the city. Three meals a day, including breakfast, will be available to all NYC children Monday through Friday 7:30 am to 1:30 pm at locations across the city. Use the <a href="https://www.opt-osfns.org/schoolfoodny/meals/default.aspx" target="_blank">site lookup tool</a> to find a location near you!</p>
