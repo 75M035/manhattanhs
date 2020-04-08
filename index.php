@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">School Closure Updates - April 8, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+	    			<p>On Monday, the Governor announced that all public school buildings in New York State will now remain closed until April 29. The State also announced that high school Regents exams have been canceled. </p>
+					<p>Please see the the <a href="https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update" target="_blank">family site</a> for more information.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Spring Break Announcement - April 6, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 	    			<p>For the health and well-being of all New Yorkers, the City and the State are in agreement that schools must continue to offer remote learning, including during days that were previously scheduled as breaks. As a result, our schools will continue with remote learning through the time originally scheduled for Spring Recess.</p>
