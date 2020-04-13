@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Remote Learning Update - April 13, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+	    			<p>New York City public schools will be continuing academic instruction through Remote Learning for the remainder of the 2019-20 school year. Please check back for further updates, as all announcements are subject to change.</p>
+					<p>Please see the the <a href="https://www.schools.nyc.gov/learn-at-home/chancellor-s-message-for-families" target="_blank">New York City Schools Chancellor's letter</a> for more information.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">School Closure Updates - April 8, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 	    			<p>On Monday, the Governor announced that all public school buildings in New York State will now remain closed until April 29. The State also announced that high school Regents exams have been canceled. </p>
