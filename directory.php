@@ -980,20 +980,20 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Celeste Watson</td>
-			<td>Programmer</td>
-			<td>208F</td>
-			<td>2087</td>
-			<td><a href="mailto:cwatson4@schools.nyc.gov">cwatson4@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Janetta Watson</td>
 			<td>Educational Assistant</td>
 			<td></td>
 			<td></td>
 			<td><a href="mailto:jwatson7@schools.nyc.gov">jwatson7@schools.nyc.gov</a></td>
 			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>Celeste Watson-Whitlock</td>
+			<td>Programmer</td>
+			<td>208F</td>
+			<td>2087</td>
+			<td><a href="mailto:cwatsonwhitlock@schools.nyc.gov">cwatsonwhitlock@schools.nyc.gov</a></td>
+			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Chester Waver</td>
