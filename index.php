@@ -8,6 +8,14 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Remote Learning Survey - April 23, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>NYC DOE wants your feedback!</p>
+					<p>Take the Remote Learning Survey to share your experiences learning at home. All students in grades 6–12 and parents/guardians of students in grades 3-K through 12 are invited to participate in the Remote Learning Survey. The deadline to complete the survey is <b>Friday, May 1</b>. Survey feedback will help schools support students and families learning at home.</p>
+					<p>Visit <a href="http://schools.nyc.gov/RLSurvey" target="_blank">schools.nyc.gov/RLSurvey</a> to take the survey now! If you need help completing the survey, please call 311.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Remote Learning Update - April 13, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 	    			<p>New York City public schools will be continuing academic instruction through Remote Learning for the remainder of the 2019-20 school year. Please check back for further updates, as all announcements are subject to change.</p>
