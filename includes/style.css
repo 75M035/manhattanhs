@@ -1864,6 +1864,29 @@ a#buttonsa:hover{
 	box-shadow: 0 0 5px #242424, inset 0 0 10px #242424;
 }
 
+/* Remote Desktop Button */
+
+#buttonrd {
+	border: 1px solid #B92100;
+	background: url("/images/buttons/remote-desktop.png") no-repeat #DF2800;
+	background-size: 60px 57px;
+	background-position: 50% 35%;
+	color: #fff;
+	font-size: 8.5pt;
+}
+
+#buttonrd .buttonbottom {
+	border-top: 1px solid #B92100;
+	background: linear-gradient(to bottom, #FE4E28 0%, #DF2800 50%, #FE4E28 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonrd:hover{
+	box-shadow: 0 0 5px #831800, inset 0 0 15px #831800;
+}
+
 /* ATS Button */
 
 #buttonat {
