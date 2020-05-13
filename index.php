@@ -147,6 +147,7 @@ include("includes/header.php");
 				<h2 class="contentheadright">Reminders</h2>
 				<div class="sidecontent">
 					<p><span class="all-label">All</span> Resources for families are listed on our new <a href="/community_assistance.php">Community Assistance</a> page.</p>
+					<p><span class="all-label">All</span> Parents and guardians can sign up for a NYC Schools account to keep track of their child's grades, schedule, transportation and more. Please contact <a href="mailto:JPlaner@schools.nyc.gov">Mr. Planer</a> for additional information.</p>
 					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:KHughes15@schools.nyc.gov">Ms. Hughes</a> or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
 			</aside>
@@ -156,7 +157,7 @@ include("includes/header.php");
 					<p><span class="all-label">All</span> <span class="upcoming-date">03/17/2020-06/26/2020</span> <br /> School closed for instruction (remote learning)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/25/2020</span> <br /> Memorial Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/04/2020</span> <br /> Chancellor's Conference Day (staff only)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/26/2020</span> <br /> Last Day of School - Early Dismissal</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/26/2020</span> <br /> Last Day of School</p>
 				</div>
 			</aside>
 			<aside class="contentright">

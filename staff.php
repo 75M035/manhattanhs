@@ -42,7 +42,7 @@ include("includes/header.php");
 				<h2 class="contenthead">Administrative Links</h2>
 				<div class="maincontent">
 					<a href="https://rdweb.wvd.microsoft.com/webclient/index.html" id="buttonrd" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Remote Desktop</div></a>
-					<a href="https://schools.ra.nyc.gov" id="buttonat" target="_blank"><div class="buttontop"></div><div class="buttonbottom">WebConnect</div></a>
+					<a href="https://schools.ra.nyc.gov/dana/home/index.cgi" id="buttonat" target="_blank"><div class="buttontop"></div><div class="buttonbottom">WebConnect</div></a>
 					<a href="http://ats.nycboe.net/atsprint/" id="buttonatp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ATS Print</div></a>
 					<a href="https://ats.nycboe.net/stars" id="buttonsa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">STARS Admin</div></a>
 					<a href="http://portal.nycboe.net/sites/FinanceAdmin/DIIT/AppDev/HSST/Stars%20Setup/Install_Stars2.0_Client.htm" id="buttonist" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Install STARS</div></a>
