@@ -8,6 +8,12 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Update on MIS-C - May 20, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>The New York City Department of Health and Mental Hygiene (NYC Health) has shared updated information on Multi-System Inflammatory Syndrome in Children (MIS-C), formerly known as Pediatric Multisystem Inflammatory Syndrome (PMIS). The letter on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters/coronavirus" target="_blank">Coronavirus Parent Letters</a> page on the Info Hub offers more information to families about the illness and guidance about when to seek medical care.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">PMIS Letter to REC Families - May 12, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Information is emerging about Pediatric Multi-System Inflammatory Syndrome, or PMIS, a new health condition appearing in children in New York City and elsewhere, and which may be associated with COVID-19 in children. The letter on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters/coronavirus" target="_blank">Coronavirus Parent Letters</a> page on the Info Hub offers more information to families about the illness and guidance about when to seek medical care.</p>
