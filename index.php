@@ -167,6 +167,8 @@ include("includes/header.php");
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/26/2020</span> <br /> Last Day of School</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">07/01/2020</span> <br /> Summer School Staff Orientation Day</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">07/02/2020</span> <br /> Summer School Begins for Students (Remote Instruction)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">07/03/2020</span> <br /> Independence Day (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">07/31/2020</span> <br /> Eid al-Adha (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">08/13/2020</span> <br /> Last Day of Summer School</p>
 				</div>
 			</aside>
