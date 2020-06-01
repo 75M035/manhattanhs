@@ -8,6 +8,12 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Second Update on MIS-C - June 1, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Addtional updates have been shared regarding Multi-System Inflammatory Syndrome in Children (MIS-C), formerly known as Pediatric Multisystem Inflammatory Syndrome (PMIS). The letter on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters/coronavirus" target="_blank">Coronavirus Parent Letters</a> page on the Info Hub offers more information to families about the illness and guidance about when to seek medical care.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Update on MIS-C - May 20, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>The New York City Department of Health and Mental Hygiene (NYC Health) has shared updated information on Multi-System Inflammatory Syndrome in Children (MIS-C), formerly known as Pediatric Multisystem Inflammatory Syndrome (PMIS). The letter on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters/coronavirus" target="_blank">Coronavirus Parent Letters</a> page on the Info Hub offers more information to families about the illness and guidance about when to seek medical care.</p>
@@ -162,7 +168,7 @@ include("includes/header.php");
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
 					<p><span class="all-label">All</span> <span class="upcoming-date">03/17/2020-08/13/2020</span> <br /> School Closed for Instruction (Remote Instruction)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/04/2020</span> <br /> Chancellor's Conference Day (staff only)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/04/2020</span> <br /> Chancellor's Conference Day</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/26/2020</span> <br /> Last Day of School</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">07/01/2020</span> <br /> Summer School Staff Orientation Day</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">07/02/2020</span> <br /> Summer School Begins for Students (Remote Instruction)</p>
