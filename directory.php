@@ -523,14 +523,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Helene Langot</td>
-			<td>Speech Teacher</td>
-			<td>412</td>
-			<td>4122</td>
-			<td><a href="mailto:hlangot@schools.nyc.gov">hlangot@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Pamela Lopez</td>
 			<td>Math Teacher</td>
 			<td>308</td>
