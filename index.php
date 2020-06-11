@@ -10,20 +10,17 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h2 class="contenthead">Senior Spirit Week - June 11, 2020 <span class="labels"><span class="main-label">Main</span><span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
-					<p>The week of June 15 is Senior Spirit Week. Below please find the agenda for our Senior Spirit Week Activities: <br /><br />
-						
-					 &nbsp;&nbsp;&nbsp; Monday (6/15): Jersey Day <br/><br />
- 
-					 &nbsp;&nbsp;&nbsp; Wednesday (6/17): Ice Bucket Challenge <br/><br/>
-
-					 &nbsp;&nbsp;&nbsp; Thursday (6/18): Senior Pizza Day <br/><br/>
-
-					 &nbsp;&nbsp;&nbsp; Friday (6/19): Quarantine Fashion Day - Zoom Chat Room (2-3PM) <br/><br/>
-
-					Please contact <a href="mailto:COttey@schools.nyc.gov">Mr. Ottey</a> with any questions. Thank you to all the staff who helped put this together for your participation and support.</p>
+					<p>The week of June 15 is Senior Spirit Week. Below please find the agenda for our Senior Spirit Week Activities: </p>
+					<ul class="noBullets">
+						<li>Monday (6/15): Jersey Day</li><br />
+						<li>Wednesday (6/17): Ice Bucket Challenge</li><br />
+					 	<li>Thursday (6/18): Senior Pizza Day </li><br />
+						<li>Friday (6/19): Quarantine Fashion Day - Zoom Chat Room (2-3PM)</li>
+					</ul>
+					<p>Please contact <a href="mailto:COttey@schools.nyc.gov">Mr. Ottey</a> with any questions. Thank you to all the staff who helped put this together for your participation and support.</p>
 				</div>
 			</article>
-			<article class="contentleft">
+			<article class="contentleft"
 				<h2 class="contenthead">Second Update on MIS-C - June 1, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Addtional updates have been shared regarding Multi-System Inflammatory Syndrome in Children (MIS-C), formerly known as Pediatric Multisystem Inflammatory Syndrome (PMIS). The letter on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters/coronavirus" target="_blank">Coronavirus Parent Letters</a> page on the Info Hub offers more information to families about the illness and guidance about when to seek medical care.</p>
