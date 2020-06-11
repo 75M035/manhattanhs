@@ -8,9 +8,9 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
-				<h2 class="contenthead">Senior Spirit Week - June 11, 2020 <span class="labels"><span class="main-label">Main</span><span class="beacon-label">Beacon</span></span></h2>
+				<h2 class="contenthead">Senior Spirit Week - June 11, 2020 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
-					<p>The week of June 15 is Senior Spirit Week. Below please find the agenda for our Senior Spirit Week Activities: </p>
+					<p>The week of June 15 is Senior Spirit Week. Below please find the agenda for our Senior Spirit Week Activities:</p>
 					<ul class="noBullets">
 						<li>Monday (6/15): Jersey Day</li><br />
 						<li>Wednesday (6/17): Ice Bucket Challenge</li><br />
