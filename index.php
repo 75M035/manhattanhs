@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Return to School 2020 Survey - June 15, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>The Return to School Survey 2020 is now open to capture feedback from students and families about what are the most important considerations for their return to school in the fall. This feedback will help us to explore and plan various options for re-opening school buildings in the 2020-21 school year along with guidance from public health experts and advisory groups.</p>
+					<p>All students in grades 6–12, and parents/guardians of students in grades 3–K through 12, are encouraged to participate in this anonymous online survey through <strong>June 22</strong>. You can fill out this survey, as well as read some recent updates shared by the chancellor, on the <a href="https://www.schools.nyc.gov/learning/in-our-classrooms/return-to-school-2020" target="_blank">Return to School 2020</a> page on the DOE website.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Senior Spirit Week - June 11, 2020 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 					<p>The week of June 15 is Senior Spirit Week. Below please find the agenda for our Senior Spirit Week Activities:</p>
