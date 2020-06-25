@@ -776,6 +776,28 @@ a#buttonio:hover{
 	transition: 0.5s;
 }
 
+/* iLearnNYC Button */
+
+#buttonil {
+	border: 1px solid #6693a4;
+	background: url("/images/buttons/iLearnNYC.png") no-repeat #C5D9EE;
+	background-size: 106px 52px;
+	background-position: 50% 31%;
+	color: #222E3B;
+}
+
+#buttonil .buttonbottom {
+	border-top: 1px solid #6693a4;
+	background: linear-gradient(to bottom, #C5D9EE 0%, #A3C5E9 50%, #C5D9EE 100%);
+	background-size: 1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonil:hover{
+	box-shadow: 0 0 5px #6A99AC, inset 0 0 11px #6A99AC;
+}
+
 /* Sesis Button */
 
 #buttonse {
