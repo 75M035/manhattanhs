@@ -27,7 +27,6 @@ include("includes/header.php");
 					<a href="https://portal.office.com" class="buttonem" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Email</div></a>
 					<a href="https://skedula.com" id="buttonio" target="_blank"><div class="buttontop"></div><div class="buttonbottom">IO Classroom</div></a>
 					<a href="https://classroom.google.com" id="buttongc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">G Classroom</div></a>
-					<a href="https://classroom.google.com" id="buttonil" target="_blank"><div class="buttontop"></div><div class="buttonbottom">iLearnNYC</div></a>
 					<a href="https://sesis.nycenet.edu/" id="buttonse" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SESIS</div></a>
 					<a href="https://www.nycenet.edu/starsclassroom" id="buttonstc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">STARS</div></a>
 					<a href="https://www.nycenet.edu/studentprofile/" id="buttonsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Student Profile</div></a>
@@ -94,6 +93,7 @@ include("includes/header.php");
 					<a href="/calendars/school-calendar-2019-2020_staff.pdf" id="buttoncl" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><?php echo date("M"); ?></div><div id="cald"><?php echo date("d"); ?></div></a>
 					<a href="http://www.p12.nysed.gov/assessment/schedules/2020/504-620.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
+					<a href="https://classroom.google.com" id="buttonil" target="_blank"><div class="buttontop"></div><div class="buttonbottom">iLearnNYC</div></a>
 					<a href="https://servicecenter.nycenet.edu/selfsupport/" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DIIT Service</div></a>
 					<a href="https://manhattanhs.on.spiceworks.com/portal/tickets" id="buttonsw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Help Desk</div></a>
 					<a href="http://schoolview.nycboe.net" id="buttonsv" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Schoolview</div></a>
