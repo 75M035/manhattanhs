@@ -164,14 +164,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Tom Christensen</td>
-			<td>Jewish Board Social Worker</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:Tchristensen@jbfcs.org">Tchristensen@jbfcs.org</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Emily Clark</td>
 			<td>Inclusion Coordinator</td>
 			<td>203C</td>

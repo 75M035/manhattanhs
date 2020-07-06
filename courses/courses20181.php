@@ -658,7 +658,7 @@ $('.excelexport').on('click', function (e) {
     var hiddenElement = document.createElement('a');
     hiddenElement.href = 'data:application/csv;charset=utf-8,' + encodeURI(csv);
     hiddenElement.target = '_blank';
-    hiddenElement.download = 'Courses_2017_7.csv';
+    hiddenElement.download = 'Courses_2018_1.csv';
     hiddenElement.click();
 }); 
 </script>
