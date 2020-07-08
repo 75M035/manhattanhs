@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Return to School 2020 Update - July 8, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Chancellor Richard Carranza has shared updates regarding school reopening plans for the upcoming school year. Please find his letter to families by accessing the <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Message for Families page</a> on the DOE website. We also encourage all families to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+					<p>Please note that translations of the Chancellor's letter will be available later today on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Return to School 2020 Survey Deadline Extended - June 25, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>The deadline to complete the Return to School 2020 Survey has been extended to <strong>June 30</strong>. This survey was created to gather feedback from students and families about the most important considerations for your return to school in the Fall. All students in grades 6–12, and parents/guardians of students in grades 3–K through 12, are encouraged to participate in this anonymous online survey.</p>
