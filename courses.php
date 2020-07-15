@@ -100,7 +100,7 @@ include("includes/header.php");
 					<td>Remote Instruction</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td><a href="syllabi/2019_7/English_1_8_Syllabus_Perrin.pdf" target="_blank">English 1/8</a></td>
 					<td>Core English</td>
 					<td>Perrin</td>
 					<td></td>
