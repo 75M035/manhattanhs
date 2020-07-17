@@ -28,7 +28,7 @@ include("includes/header.php");
 					<td>Remote Instruction</td>
 				</tr>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td><a href="syllabi/2019_7/Algebra_I_1_4_Syllabus_Thomas.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Watkins</td>
 					<td></td>
@@ -196,7 +196,7 @@ include("includes/header.php");
 					<td>Remote Instruction</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td><a href="syllabi/2019_7/Geometry_1_2_Syllabus_Watkins.pdf" target="_blank">Geometry 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Watkins</td>
 					<td></td>
