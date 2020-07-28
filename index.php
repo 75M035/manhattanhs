@@ -8,6 +8,14 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Update on Fall Learning Options - July 28, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>The Chancellor has shared additional information regarding the remote and blended learning options for this upcoming school year. Please find his latest letter to families here: <a href="otherdocs/Jul27SchoolReopeningUpdate.pdf" target="blank">Update for Families on Fall Learning Options (PDF link)</a>.</p>
+					<p>Remember to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+					<p>Please note that translations of this letter will soon be available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Return to School 2020 Update - July 8, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Chancellor Richard Carranza has shared updates regarding school reopening plans for the upcoming school year. Please find his letter to families by accessing the <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Message for Families page</a> on the DOE website. We also encourage all families to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
