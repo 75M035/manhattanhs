@@ -32,6 +32,7 @@ include("includes/header.php");
 						<li>Free or affordable meals:</li>
 						<ul>
 							<li><a href="https://www.schools.nyc.gov/school-life/food/free-meals-for-all" target="_blank">School meals</a> for students</li>
+							<li><a href="https://otda.ny.gov/SNAP-COVID-19/Frequently-Asked-Questions-Pandemic-EBT.asp" target="_blank">Pandemic Electronic Benefit Transfer (P-EBT)</a> food benefits</li>
 							<li><a href="https://docs.google.com/spreadsheets/d/1glFt2IhZugT4bRUOR_-WosBlnglbfIB6iBF0XhKABOw/edit" target="_blank">Restaurants</a> donating food</li>
 							<li><a href="https://www.littlespain.com/covid/" target="_blank">Little Spain</a> is offering affordable and free meals</li>
 							<li><a href="https://www.citymeals.org/get-meals" target="_blank">Citymeals</a> for people 60 years or older</li>
