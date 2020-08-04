@@ -8,9 +8,23 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Update on Health and Safety Protocols for DOE Schools - August 3, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Following the joint press release on Friday, July 31 from City Hall and the NYC Department of Education, the Chancellor has shared information on test and trace protocols for all NYC public schools. Please find his latest update to families containing this information on the the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="blank">Message for Families page</a>.</p>
+					<p>Please note that translations of this letter will soon be available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
+					<p>Remember to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+				</div>
+			</article>
+			<article class="contentleft">
+				<h2 class="contenthead">Updated DOE Filtering Application on iPads (Zscaler) - August 3, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>The DOE has recently made updates to its filtering application on centrally issued iPads, resulting in limited internet connectivity for iPad users. In order to restore full internet access, students must sign in to the <strong>Zscaler</strong> application using their DOE credentials to enable those updates. For help getting your DOE credentials and completing this process, please contact <a href="mailto:jplaner@schools.nyc.gov">Mr. Planer</a>. </p>
+				</div>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Update on Fall Learning Options - July 28, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
-					<p>The Chancellor has shared additional information regarding the remote and blended learning options for this upcoming school year. Please find his latest letter to families here on the the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="blank">Message for Families page</a>.</p>
+					<p>The Chancellor has shared additional information regarding the remote and blended learning options for this upcoming school year. Please find his latest letter to families on the the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="blank">Message for Families page</a>.</p>
 					<p>Remember to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
 					<p>Please note that translations of this letter will soon be available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
 				</div>
