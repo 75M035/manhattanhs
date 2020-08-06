@@ -299,14 +299,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Wanda Figueroa</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:wfigueroa4@schools.nyc.gov">wfigueroa4@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Stephen Finnerty</td>
 			<td>Teacher</td>
 			<td>21E38</td>
@@ -803,14 +795,6 @@ include("includes/header.php");
 			<td>Bellevue</td>
 		</tr>
 		<tr>
-			<td>Beatriz Santana</td>
-			<td>Culinary Teacher</td>
-			<td>227</td>
-			<td>2271</td>
-			<td><a href="mailto:bsantana3@schools.nyc.gov">bsantana3@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Richard Santiago</td>
 			<td>Educational Assistant</td>
 			<td>21E22</td>
@@ -953,14 +937,6 @@ include("includes/header.php");
 			<td>2132</td>
 			<td><a href="mailto:jvining2@schools.nyc.gov">jvining2@schools.nyc.gov</a></td>
 			<td>Beacon</td>
-		</tr>
-		<tr>
-			<td>Melania Walker</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:mwalker23@schools.nyc.gov">mwalker23@schools.nyc.gov</a></td>
-			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Tiffany Watkins</td>
