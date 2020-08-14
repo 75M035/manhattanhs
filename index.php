@@ -8,6 +8,12 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Update on DOE issued iPads - August 14, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Before the start of the upcoming school year, families in possession of DOE iPads are asked to take some steps to ensure their loaned devices are fully functional and prepared for remote learning. These steps are detailed on the  <a href="https://www.schools.nyc.gov/learning/learn-at-home/technical-tools-and-support/getting-started-with-your-ipad" target="blank">Getting Started with Your iPad</a> page on the DOE's website. If you need help following the steps, or they do not work for you, please contact <a href="mailto:jplaner@schools.nyc.gov">Mr. Planer (jplaner@schools.nyc.gov)</a>.</p>
+					<p>Additionally, the DOE has now enabled personal hotspots on distributed iPads, which can be used to allow other devices, that may not have built-in service, to connect to the internet. Please contact <a href="mailto:jplaner@schools.nyc.gov">Mr. Planer (jplaner@schools.nyc.gov)</a> if you need help using this feature.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Chancellor's Update on Instruction - August 6, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Ahead of tomorrow's deadline to submit your choice mode of instruction, Chancellor Richard Carranza has shared another update with additional information on the blended and remote learning options. Please find his latest update to families on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="blank">Message for Families page</a>.</p>
@@ -183,36 +189,7 @@ include("includes/header.php");
 					Principal</p>
 				</div>
 			</article>
-			<article class="contentleft">
-                <h2 class="contenthead">Phone Service Restored - August 7, 2019 <span class="labels"><span class="beacon-label">Beacon</span></span></h2>
-                <div class="maincontent">
-                    <p>Our issues with the phones have been fixed. Thank you for your patience.</p>
-                </div>
-            </article>
-			<article class="contentleft">
-				<h2 class="contenthead">Phone Service Not Working - July 30, 2019 <span class="labels"><span class="beacon-label">Beacon</span></span></h2>
-				<div class="maincontent">
-					<p>We are currently experiencing technical difficulties with the phone service at our Beacon site. We can dial out, but we cannot receive calls, so you may be unable to reach us by phone.</p>
-					<p>If you need to reach us, email is the best method of communication at this time. For attendance issues, please email Ms. Rivera at <a href="mailto:erivera67@schools.nyc.gov">erivera67@schools.nyc.gov</a>. For email addresses of teachers and personnel, please view the <a href="directory.php">Faculty Directory</a>. For general inquiries, please email <a href="mailto:admin@manhattanhs.org">admin@manhattanhs.org</a></p>
-				</div>
-			</article>
-			<article class="contentleft">
-				<h2 class="contenthead">Fleet Week - May 30, 2019 <span class="labels"><span class="all-label">All</span></span></h2>
-				<div class="maincontent">
-					<div class="news-photo"><img src="/images/news/fleetwk2019.jpeg" alt="Fleet Week"></div>
-					<p>On May 23, Manhattan High School students attended Fleet Week on board the USS New York.</p>
-				</div>
-			</article>
-			<article class="contentleft">
-				<h2 class="contenthead">Snow Day - March 3, 2019 <span class="labels"><span class="all-label">All</span></span></h2>
-				<div class="maincontent">
-					<div class="news-photo"><img src="/images/news/03_03_2019_Snow_Day.gif" alt="Snow Day Announcement"></div>
-					<p>Due to expected severe weather conditions, all New York City public schools will be closed Monday, March 4, 2019. After-school programs, adult education, YABC programs, and PSAL activities are also cancelled.</p>
-					<p>DOE central and field offices will remain open.</p>
-					<p>New York City district schools will be open, Tuesday, March 5, 2019. All programs and activities will be held as scheduled.</p>
-					<p>Thank you to all custodial engineers and custodial staff who will be out in full force to shovel snow, clear sidewalks, and ensure our buildings are ready for staff and students to safely return.</p>
-				</div>
-			</article>
+			
 			
 			<!--Archive Page Button-->
 			<a href="newsarchive.php" type="button" class="primary-btn archive-btn">Past News</a>
@@ -231,7 +208,6 @@ include("includes/header.php");
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
 					<p><span class="all-label">All</span> <span class="upcoming-date">03/17/2020-08/13/2020</span> <br /> School Closed for Instruction (Remote Instruction)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">08/13/2020</span> <br /> Last Day of Summer School</p>
 				</div>
 			</aside>
 			<aside class="contentright">

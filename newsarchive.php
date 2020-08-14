@@ -9,6 +9,7 @@ include("includes/header.php");
 			<h2 class="contenthead">Past News</h2>
 			<div class="fullcontent">
 				<table>
+					<tr><td><a href="/archive/news2019.php">2019 News</a></td></tr>
 					<tr><td><a href="/archive/news2018.php">2018 News</a></td></tr>
 					<tr><td><a href="/archive/news2017.php">2017 News</a></td></tr>
 				</table>
