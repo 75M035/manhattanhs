@@ -12,10 +12,10 @@ include("includes/header.php");
 				<div class="maincontent">
 					<p>Chancellor Richard Carranza has shared an additional update on reopening. Please find his latest weekly update on the <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Message for Families page</a> on the DOE website.</p>
 					<p>Please note that translations of this letter are now available available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
-					<p>Remember to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+					<p>Remember to regularly check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
 			</article>
 			<article class="contentleft">
-				<h2 class="contenthead">Update on DOE issued iPads - August 14, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<h2 class="contenthead">Update on DOE Issued iPads - August 14, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Before the start of the upcoming school year, families in possession of DOE iPads are asked to take some steps to ensure their loaned devices are fully functional and prepared for remote learning. These steps are detailed on the  <a href="https://www.schools.nyc.gov/learning/learn-at-home/technical-tools-and-support/getting-started-with-your-ipad" target="blank">Getting Started with Your iPad</a> page on the DOE's website. If you need help following the steps, or they do not work for you, please contact <a href="mailto:jplaner@schools.nyc.gov">Mr. Planer (jplaner@schools.nyc.gov)</a>.</p>
 					<p>Additionally, the DOE has now enabled personal hotspots on distributed iPads, which can be used to allow other devices, that may not have built-in service, to connect to the internet. Please contact <a href="mailto:jplaner@schools.nyc.gov">Mr. Planer (jplaner@schools.nyc.gov)</a> if you need help using this feature.</p>
@@ -25,7 +25,7 @@ include("includes/header.php");
 				<div class="maincontent">
 					<p>Ahead of tomorrow's deadline to submit your choice mode of instruction, Chancellor Richard Carranza has shared another update with additional information on the blended and remote learning options. Please find his latest update to families on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="blank">Message for Families page</a>.</p>
 					<p>Please note that translations of this letter will soon be available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
-					<p>Remember to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+					<p>Remember to regularly check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
 				</div>
 			</article>
 			<article class="contentleft">
@@ -33,7 +33,7 @@ include("includes/header.php");
 				<div class="maincontent">
 					<p>Following the joint press release on Friday, July 31 from City Hall and the NYC Department of Education, the Chancellor has shared information on test and trace protocols for all NYC public schools. Please find his latest update to families containing this information on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="blank">Message for Families page</a>.</p>
 					<p>Please note that translations of this letter will soon be available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
-					<p>Remember to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+					<p>Remember to regularly check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
 				</div>
 			</article>
 			<article class="contentleft">
@@ -46,14 +46,14 @@ include("includes/header.php");
 				<h2 class="contenthead">Update on Fall Learning Options - July 28, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>The Chancellor has shared additional information regarding the remote and blended learning options for this upcoming school year. Please find his latest letter to families on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="blank">Message for Families page</a>.</p>
-					<p>Remember to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+					<p>Remember to regularly check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
 					<p>Please note that translations of this letter will soon be available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
 				</div>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">Return to School 2020 Update - July 8, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
-					<p>Chancellor Richard Carranza has shared updates regarding school reopening plans for the upcoming school year. Please find his letter to families by accessing the <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Message for Families page</a> on the DOE website. We also encourage all families to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+					<p>Chancellor Richard Carranza has shared updates regarding school reopening plans for the upcoming school year. Please find his letter to families by accessing the <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Message for Families page</a> on the DOE website. We also encourage all families to regularly check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
 					<p>Please note that translations of the Chancellor's letter will be available later today on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
 				</div>
 			</article>
@@ -114,14 +114,14 @@ include("includes/header.php");
 				<h2 class="contenthead">Remote Learning Update - April 13, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 	    			<p>New York City public schools will be continuing academic instruction through Remote Learning for the remainder of the 2019-20 school year. Please check back for further updates, as all announcements are subject to change.</p>
-					<p>Please see the the <a href="https://www.schools.nyc.gov/learn-at-home/chancellor-s-message-for-families" target="_blank">New York City Schools Chancellor's letter</a> for more information.</p>
+					<p>Please see the <a href="https://www.schools.nyc.gov/learn-at-home/chancellor-s-message-for-families" target="_blank">New York City Schools Chancellor's letter</a> for more information.</p>
 				</div>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">School Closure Updates - April 8, 2020 <span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 	    			<p>On Monday, the Governor announced that all public school buildings in New York State will now remain closed until April 29. The State also announced that high school Regents exams have been canceled. </p>
-					<p>Please see the the <a href="https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update" target="_blank">family site</a> for more information.</p>
+					<p>Please see the <a href="https://www.schools.nyc.gov/school-life/health-and-wellness/coronavirus-update" target="_blank">family site</a> for more information.</p>
 				</div>
 			</article>
 			<article class="contentleft">
