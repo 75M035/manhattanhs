@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Reopening Update - August 17, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Chancellor Richard Carranza has shared an additional update on reopening. Please find his latest weekly update on the <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Message for Families page</a> on the DOE website.</p>
+					<p>Please note that translations of this letter are now available available on the <a href="https://infohub.nyced.org/in-our-schools/translations/letters" target="_blank">translations page</a> on the DOE Infohub.</p>
+					<p>Remember to regulary check the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020" target="_blank">Return to School 2020 page</a> for ongoing updates.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Update on DOE issued iPads - August 14, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Before the start of the upcoming school year, families in possession of DOE iPads are asked to take some steps to ensure their loaned devices are fully functional and prepared for remote learning. These steps are detailed on the  <a href="https://www.schools.nyc.gov/learning/learn-at-home/technical-tools-and-support/getting-started-with-your-ipad" target="blank">Getting Started with Your iPad</a> page on the DOE's website. If you need help following the steps, or they do not work for you, please contact <a href="mailto:jplaner@schools.nyc.gov">Mr. Planer (jplaner@schools.nyc.gov)</a>.</p>

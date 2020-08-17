@@ -1698,6 +1698,28 @@ a#buttonbks:hover{
 	box-shadow: 0 0 5px #3C3C3C, inset 0 0 10px #3C3C3C;
 }
 
+/* Spark Button */
+
+#buttonas {
+	border: 1px solid #C51D00;
+	background: url("/images/buttons/spark.png") no-repeat #460B0C;
+	background-size: 84px 77px;
+	background-position: 50% 10%;
+	color: #FFFFFF;
+}
+
+#buttonas .buttonbottom {
+	border-top: 1px solid #C51D00;
+	background: linear-gradient(to bottom, #6F1719 0%, #460B0C 50%, #6F1719 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonas:hover{
+	box-shadow: 0 0 5px #CB3117, inset 0 0 10px #CB3117;
+}
+
 /* Bands Button */
 
 #buttonbb {
