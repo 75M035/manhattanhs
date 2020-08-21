@@ -8,6 +8,11 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Back to School Pledge - August 21, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Yesterday, Mayor Bill de Blasio and Chancellor Richard Carranza released the <em>Return to School 2020 Back to School Pledge</em>, detailing their commitments to school communities regarding health and safety, cleaning, and instruction. You can find this pledge, as well as translations, on the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020/back-to-school-pledge" target="_blank">Back to School Pledge page</a> on the DOE website.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Reopening Update - August 17, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Chancellor Richard Carranza has shared an additional update on reopening. Please find his latest weekly update on the <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Message for Families page</a> on the DOE website.</p>
@@ -214,7 +219,7 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">03/17/2020-08/13/2020</span> <br /> School Closed for Instruction (Remote Instruction)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">TBD Date in Sept. 2020</span> <br /> First Day of School (Blended/Remote Instruction)</p>
 				</div>
 			</aside>
 			<aside class="contentright">
