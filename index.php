@@ -8,6 +8,19 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">School Programming Model - August 26, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>P35M/MHS has selected Model 5B as its programming model for the 2020-21 school year.</p>
+
+					<p>Based on your remote learning survey, your child will be placed in a cohort group and will attend in school instruction 2 or 3 days each week, alternating Mondays, and then attend either Tuesdays and Wednesdays or Thursdays and Fridays, unless you opted for remote learning only.</p>
+
+					<p>Presently we are programming your child’s schedule to ensure that all high school credit requirements are fulfilled.</p>
+
+					<p>You will receive specific cohort information shortly.</p>
+
+					<p>We appreciate your support and patience. We are all very eager to see the students. Administrators will return to the school on August 31st, 2020. You can contact us at 212-247-4307 or at <a href="mailto:MBarnett4@schools.nyc.gov">MBarnett4@schools.nyc.gov</a>.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Back to School Pledge - August 21, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Yesterday, Mayor Bill de Blasio and Chancellor Richard Carranza released the <em>Return to School 2020 Back to School Pledge</em>, detailing their commitments to school communities regarding health and safety, cleaning, and instruction. You can find this pledge, as well as translations, on the <a href="https://www.schools.nyc.gov/school-year-20-21/return-to-school-2020/back-to-school-pledge" target="_blank">Back to School Pledge page</a> on the DOE website.</p>
