@@ -6,7 +6,7 @@ include("includes/header.php");
 ?>
 	
 <main id="directory">
-	<h2 class="contenthead">2019-2020 Staff Directory<span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export" aria-label="Excel Export"></button></span></h2>
+	<h2 class="contenthead">2020-2021 Staff Directory<span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export" aria-label="Excel Export"></button></span></h2>
 	<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)">
 		<thead>
 			<tr class="header">
@@ -212,13 +212,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-		<td>Devin Cruz</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:dcruz26@schools.nyc.gov">dcruz26@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
 		<td>Jean Darbouze</td>
 			<td>Social Worker</td>
 			<td>311</td>
@@ -370,7 +363,7 @@ include("includes/header.php");
 			<td><a href="mailto:egerdes@schools.nyc.gov">egerdes@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
-			<tr>
+		<tr>
 			<td>Arthur Glauberman</td>
 			<td>Teacher</td>
 			<td></td>
@@ -763,14 +756,6 @@ include("includes/header.php");
 			<td>All</td>
 		</tr>
 		<tr>
-			<td>Jason Rodriguez</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:jrodriguez198@schools.nyc.gov">jrodriguez198@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Yngrid Rodriguez</td>
 			<td>Dean</td>
 			<td>208B</td>
@@ -923,7 +908,7 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Marisol Vicente</td>
+			<td>Marisol Vicente-Owen</td>
 			<td>Educational Assistant</td>
 			<td></td>
 			<td></td>

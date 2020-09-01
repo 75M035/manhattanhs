@@ -232,7 +232,7 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">TBD Date in Sept. 2020</span> <br /> First Day of School (Blended/Remote Instruction)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">9/21/2020</span> <br /> First Day of School (Blended/Remote Instruction)</p>
 				</div>
 			</aside>
 			<aside class="contentright">
