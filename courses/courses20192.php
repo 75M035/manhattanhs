@@ -65,7 +65,7 @@ $path .= "/includes/header.php";
 					<td>Algebra I 4/4</td>
 					<td>Mathematics</td>
 					<td>Lopez</td>
-					<td>415</td>
+					<td>308</td>
 					<td>4, 8</td>
 					<td>Main</td>
 				</tr>
@@ -451,7 +451,7 @@ $path .= "/includes/header.php";
 					<td>Verde</td>
 					<td>317</td>
 					<td>3, 4, 6</td>
-					<td>Beacon</td>
+					<td>Main</td>
 				</tr>
 				<tr>
 					<td><a href="syllabi/2019_2/Honors_Art_Syllabus_Dilorenzo.pdf" target="_blank">Honors Art</a></td>
@@ -595,7 +595,7 @@ $path .= "/includes/header.php";
 					<td>Pe&ntilde;a</td>
 					<td>207</td>
 					<td>H</td>
-					<td>Main</td>
+					<td>Beacon</td>
 				</tr>
 				<tr>
 					<td><a href="syllabi/2019_2/Studio_Art_Syllabus_Collins.pdf" target="_blank">Studio Art</a></td>
@@ -635,7 +635,7 @@ $path .= "/includes/header.php";
 					<td>Morell</td>
 					<td>417</td>
 					<td>5, 6</td>
-					<td>Beacon</td>
+					<td>Main</td>
 				</tr>
 				<tr>
 					<td><a href="syllabi/2019_2/US_History_2_2_Syllabus_Prisco.pdf" target="_blank">US History 2/2</a></td>
