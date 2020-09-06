@@ -234,8 +234,14 @@ include("includes/header.php");
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
 					<p><span class="all-label">All</span> <span class="upcoming-date">09/08/2020</span> <br /> First Day for School-based Staff</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/16/2020</span> <br /> School Begins for Students (Remote)</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/21/2020</span> <br /> First Day of Blended Learning</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">09/16/2020-09/18/2020</span> <br /> Fully Remote Partial School Days for Students</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">09/21/2020</span> <br /> First Full Day of School/Blended Learning Begins</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">09/28/2020</span> <br /> Yom Kippur (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">10/12/2020</span> <br /> Columbus Day (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/03/2020</span> <br /> Election Day - Fully Remote School Day for Students</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2020</span> <br /> Veterans Day (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/26/2020-11/27/2020</span> <br /> Thanksgiving Recess (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/2020-01/01/2021</span> <br /> Winter Recess (school closed)</p>
 				</div>
 			</aside>
 			<aside class="contentright">

@@ -989,9 +989,9 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>James Zimmerman</td>
-			<td>Job Developer</td>
-			<td>108</td>
-			<td>1087</td>
+			<td>Career Ed. Teacher/Job Developer</td>
+			<td>(M) 411</td>
+			<td>(M) 4111</td>
 			<td><a href="mailto:jzimmer3@schools.nyc.gov">jzimmer3@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
