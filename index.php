@@ -8,6 +8,11 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Instructional Guidance Update for Families - September 8, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Chancellor Richard Carranza has shared a letter to families explaining what the new instructional guidance for the 2020-21 school year means. This letter includes more information on remote and live instruction, teachers, and how to stay informed on confirmed COVID-19 cases in your school community. You can find this latest letter, as well as translated versions, on the DOE InfoHub's <a href="https://infohub.nyced.org/in-our-schools/translations/letters/letters-from-the-chancellor" target="_blank">Letters from the Chancellor page</a>.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">School Programming Model - August 26, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>P35M/MHS has selected Model 5B as its programming model for the 2020-21 school year.</p>
