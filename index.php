@@ -8,6 +8,11 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Important: Manhattan High School Start Date - September 18, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Please note that the start date for full-time blended learning for Manhattan High School will be September 21, 2020, with group A students scheduled to attend in-person instruction on this day.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Instructional Guidance Update for Families - September 8, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Chancellor Richard Carranza has shared a letter to families explaining what the new instructional guidance for the 2020-21 school year means. This letter includes more information on remote and live instruction, teachers, and how to stay informed on confirmed COVID-19 cases in your school community. You can find this latest letter, as well as translated versions, on the DOE InfoHub's <a href="https://infohub.nyced.org/in-our-schools/translations/letters/letters-from-the-chancellor" target="_blank">Letters from the Chancellor page</a>.</p>
@@ -238,8 +243,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/08/2020</span> <br /> First Day for School-based Staff</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/16/2020-09/18/2020</span> <br /> Fully Remote Partial School Days for Students</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">09/21/2020</span> <br /> First Full Day of School/Blended Learning Begins</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">09/28/2020</span> <br /> Yom Kippur (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/12/2020</span> <br /> Columbus Day (school closed)</p>
