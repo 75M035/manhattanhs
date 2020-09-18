@@ -10,7 +10,7 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h2 class="contenthead">Important: Manhattan High School Start Date - September 18, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
-					<p>Please note that the start date for full-time blended learning for Manhattan High School will be September 21, 2020, with group A students scheduled to attend in-person instruction on this day. The in-person school day begins at 8:30AM.</p>
+					<p>Please note that the start date for full-time blended learning for Manhattan High School will be September 21, 2020, with group A students scheduled to attend in-person instruction on this day. In-person school days begin at 8:30AM.</p>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">Instructional Guidance Update for Families - September 8, 2020<span class="labels"><span class="all-label">All</span></span></h2>
