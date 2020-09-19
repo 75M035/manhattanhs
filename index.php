@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Important Update on In-Person Learning Start Dates - September 19, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Chancellor Richard Carranza has shared updates clarifying the in-person learning start dates. You can find these latest updates, as well as translations, on the DOE website's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>.</p>
+
+					<p>Please be reminded that <strong>we are a District 75 high school</strong>, which means in-person learning at our school begins on Monday, September 21st, with blended student group A scheduled to attend in-person on this day. The school day will begin at 8:30AM every day.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Important: Manhattan High School Start Date - September 18, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Please note that the start date for full-time blended learning for Manhattan High School will be September 21, 2020, with group A students scheduled to attend in-person instruction on this day. In-person school days begin at 8:30AM.</p>
