@@ -243,15 +243,11 @@ include("includes/header.php");
 				<div class="sidecontent">
 					<p><span class="all-label">All</span> Resources for families are listed on our new <a href="/community_assistance.php">Community Assistance</a> page.</p>
 					<p><span class="all-label">All</span> Parents and guardians can sign up for a NYC Schools account to keep track of their child's grades, schedule, transportation and more. Please contact <a href="mailto:JPlaner@schools.nyc.gov">Mr. Planer</a> for additional information.</p>
-					<p><span class="all-label">All</span> School communities are invited to join the Citywide Council for D75's <a href="other/D75_business_meeting_flier.pdf" target="_blank">business meeting [PDF]</a> on September 16, 2020 and <a href="other/D75_calender_meeting_flier.pdf" target="_blank">calendar meeting [PDF]</a> on Sept. 30, 2020. Please click on the PDF links for fliers with more information. </p>
-					<p><span class="main-label">Main</span> Anyone interested in donating money or items to the staff lounge should contact <a href="mailto:KHughes15@schools.nyc.gov">Ms. Hughes</a> or <a href="mailto:PLopez12@schools.nyc.gov">Ms. Lopez</a>.</p>
 				</div>
 			</aside>
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/21/2020</span> <br /> First Full Day of School/Blended Learning Begins</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/28/2020</span> <br /> Yom Kippur (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/12/2020</span> <br /> Columbus Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/03/2020</span> <br /> Election Day - Fully Remote School Day for Students</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2020</span> <br /> Veterans Day (school closed)</p>
