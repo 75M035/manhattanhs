@@ -22,21 +22,21 @@ include("includes/header.php");
 				<tr>
 					<td>Algebra I 1/4</td>
 					<td>Mathematics</td>
-					<td>Lopez</td>
-					<td></td>
-					<td>1, 2, 3</td>
-					<td>Remote</td>
-				</tr>
-				<tr>
-					<td>Algebra I 1/4</td>
-					<td>Mathematics</td>
-					<td>Thomas</td>
+					<td>Flores</td>
 					<td>222</td>
-					<td>1, 3</td>
+					<td>2, 3</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td><a href="/syllabi/2020_1/Algebra_I_1_4_Syllabus_Thomas.pdf" target="_blank">Algebra I 1/4</a></td>
+					<td>Mathematics</td>
+					<td>Thomas</td>
+					<td></td>
+					<td>1, 2, 3, 4</td>
+					<td>Remote</td>
+				</tr>
+				<tr>
+					<td><a href="/syllabi/2020_1/Algebra_I_1_4_Syllabus_Walker.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Walker</td>
 					<td>308</td>
@@ -48,11 +48,11 @@ include("includes/header.php");
 					<td>Mathematics</td>
 					<td>Glynn</td>
 					<td></td>
-					<td>1, 2</td>
+					<td>1, 2, 3</td>
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>Algebra I 3/4</td>
+					<td><a href="/syllabi/2020_1/Algebra_I_3_4_Syllabus_Jin.pdf" target="_blank">Algebra I 3/4</a></td>
 					<td>Mathematics</td>
 					<td>Jin</td>
 					<td>216</td>
@@ -76,7 +76,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra I 3/4</td>
+					<td><a href="/syllabi/2020_1/Algebra_I_3_4_Syllabus_Walker.pdf" target="_blank">Algebra I 3/4</a></td>
 					<td>Mathematics</td>
 					<td>Walker</td>
 					<td>308</td>
@@ -84,7 +84,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra II 1/2</td>
+					<td><a href="/syllabi/2020_1/Algebra_II_1_2_Syllabus_Pena.pdf" target="_blank">Algebra II 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Pe&ntilde;a</td>
 					<td>207</td>
@@ -92,7 +92,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra II 1/2</td>
+					<td><a href="/syllabi/2020_1/Algebra_II_1_2_Syllabus_Pena.pdf" target="_blank">Algebra II 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Pe&ntilde;a</td>
 					<td></td>
@@ -100,7 +100,7 @@ include("includes/header.php");
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>AP Calculus BC</td>
+					<td><a href="/syllabi/2020_1/AP_Calculus_BC_Syllabus_Roberts.pdf" target="_blank">AP Calculus BC</a></td>
 					<td>Mathematics</td>
 					<td>Roberts</td>
 					<td></td>
@@ -108,15 +108,23 @@ include("includes/header.php");
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>Auto Shop</td>
+					<td><a href="/syllabi/2020_1/Auto_Shop_Syllabus_Sarno.pdf" target="_blank">Auto Shop</a></td>
 					<td>Careers</td>
 					<td>Sarno</td>
 					<td>106</td>
-					<td>1, 2, 3</td>
+					<td>1, 3</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Career Education</td>
+					<td><a href="/syllabi/2020_1/Auto_Shop_Syllabus_Sarno.pdf" target="_blank">Auto Shop</a></td>
+					<td>Careers</td>
+					<td>Sarno</td>
+					<td></td>
+					<td>1, 2, 3</td>
+					<td>Remote</td>
+				</tr>
+				<tr>
+					<td><a href="/syllabi/2020_1/Career_Education_Syllabus_Flores.pdf" target="_blank">Career Education</a></td>
 					<td>Careers</td>
 					<td>Flores</td>
 					<td>207</td>
@@ -156,7 +164,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Core Music</td>
+					<td><a href="/syllabi/2020_1/Core_Music_Syllabus_Brickel.pdf" target="_blank">Core Music</a></td>
 					<td>Arts</td>
 					<td>Brickel</td>
 					<td>210</td>
@@ -167,22 +175,6 @@ include("includes/header.php");
 					<td>Core Music</td>
 					<td>Arts</td>
 					<td>Glynn</td>
-					<td></td>
-					<td>1</td>
-					<td>Remote</td>
-				</tr>
-				<tr>
-					<td>Current Events</td>
-					<td>Social Studies Elective</td>
-					<td>Williams</td>
-					<td></td>
-					<td>1, 2</td>
-					<td>Remote</td>
-				</tr>
-				<tr>
-					<td>Earth Science 1/2</td>
-					<td>Physical Science</td>
-					<td>Katz</td>
 					<td></td>
 					<td>1, 2</td>
 					<td>Remote</td>
@@ -204,6 +196,22 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
+					<td>Earth Science 1/2</td>
+					<td>Physical Science</td>
+					<td>Wybaillie</td>
+					<td></td>
+					<td>1, 2</td>
+					<td>Remote</td>
+				</tr>
+				<tr>
+					<td>English 1/8</td>
+					<td>Core English</td>
+					<td>Bennett</td>
+					<td>205</td>
+					<td>1, 2, 4</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
 					<td>English 1/8</td>
 					<td>Core English</td>
 					<td>Clark</td>
@@ -214,39 +222,23 @@ include("includes/header.php");
 				<tr>
 					<td>English 1/8</td>
 					<td>Core English</td>
-					<td>Dotter</td>
-					<td>205</td>
-					<td>1, 2, 4</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td>English 1/8</td>
-					<td>Core English</td>
 					<td>Mccarthy</td>
 					<td>205</td>
 					<td>1, 2, 4</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td><a href="/syllabi/2020_1/English_1_8_Syllabus_Medina.pdf" target="_blank">English 1/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td></td>
-					<td>1, 2, 3</td>
+					<td>1, 2, 3, 4</td>
 					<td>Remote</td>
 				</tr>
 				<tr>
 					<td>English 3/8</td>
 					<td>Core English</td>
 					<td>Bennett</td>
-					<td>222</td>
-					<td>2</td>
-					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td>English 3/8</td>
-					<td>Core English</td>
-					<td>Dotter</td>
 					<td>205</td>
 					<td>2, 4</td>
 					<td>Beacon</td>
@@ -270,15 +262,15 @@ include("includes/header.php");
 				<tr>
 					<td>English 3/8</td>
 					<td>Core English</td>
-					<td>Medina</td>
+					<td>Dotter</td>
 					<td></td>
-					<td>1, 2, 3</td>
+					<td>1, 2, 3, 4</td>
 					<td>Remote</td>
 				</tr>
 				<tr>
 					<td>English 3/8</td>
 					<td>Core English</td>
-					<td>Paik</td>
+					<td>Dotter</td>
 					<td></td>
 					<td>1</td>
 					<td>Remote</td>
@@ -292,7 +284,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td><a href="/syllabi/2020_1/English_5_8_Syllabus_Landas.pdf" target="_blank">English 5/8</a></td>
 					<td>Core English</td>
 					<td>Landas</td>
 					<td></td>
@@ -332,7 +324,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="/syllabi/2020_1/English_7_8_Syllabus_Landas.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Landas</td>
 					<td></td>
@@ -344,27 +336,27 @@ include("includes/header.php");
 					<td>Science</td>
 					<td>Katz</td>
 					<td></td>
-					<td>1, 2</td>
+					<td>1, 2, 3</td>
 					<td>Remote</td>
 				</tr>
 				<tr>
 					<td>Geography</td>
 					<td>Social Studies Elective</td>
 					<td>Kennedy</td>
-					<td></td>
+					<td>214</td>
 					<td>4</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
 					<td>Geometry 1/2</td>
 					<td>Mathematics</td>
-					<td>Glynn</td>
+					<td>Heath</td>
 					<td></td>
-					<td>1, 2, 3</td>
+					<td>1, 2, 3, 4</td>
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td><a href="/syllabi/2020_1/Geometry_1_2_Syllabus_Pena.pdf" target="_blank">Geometry 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Pe&ntilde;a</td>
 					<td>207</td>
@@ -380,10 +372,10 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td><a href="/syllabi/2020_1/Global_1_4_Syllabus_Afzal.pdf" target="_blank">Global 1/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
-					<td></td>
+					<td>402</td>
 					<td>1, 2, 4</td>
 					<td>Main</td>
 				</tr>
@@ -399,60 +391,76 @@ include("includes/header.php");
 					<td>Global 1/4</td>
 					<td>Social Studies</td>
 					<td>Williams</td>
-					<td></td>
+					<td>220</td>
 					<td>1, 4</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 3/4</td>
+					<td><a href="/syllabi/2020_1/Global_3_4_Syllabus_Afzal.pdf" target="_blank">Global 3/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
-					<td></td>
+					<td>402</td>
 					<td>2, 4</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 3/4</td>
+					<td><a href="/syllabi/2020_1/Global_3_4_Syllabus_Morell.pdf" target="_blank">Global 3/4</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
-					<td></td>
+					<td>417</td>
 					<td>3</td>
 					<td>Main</td>
 				</tr>
 				<tr>
+					<td><a href="/syllabi/2020_1/Global_3_4_Syllabus_Watkins.pdf" target="_blank">Global 3/4</a></td>
+					<td>Social Studies</td>
+					<td>Watkins</td>
+					<td></td>
+					<td>1, 2, 3, 4, 5</td>
+					<td>Remote</td>
+				</tr>
+				<tr>
 					<td>Global 3/4</td>
 					<td>Social Studies</td>
-					<td>Turner</td>
-					<td></td>
-					<td>2, 3</td>
+					<td>Williams</td>
+					<td>220</td>
+					<td>1, 2, 3</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
 					<td>Government &amp; Economics 1/2</td>
 					<td>Social Studies</td>
 					<td>Kennedy</td>
-					<td></td>
+					<td>214</td>
 					<td>1, 2</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Government &amp; Economics 1/2</td>
+					<td><a href="/syllabi/2020_1/Government_Economics_1_2_Syllabus_Morell.pdf" target="_blank">Government &amp; Economics 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
-					<td></td>
+					<td>417</td>
 					<td>1, 2</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Health</td>
-					<td>PE and Health</td>
-					<td>Flores</td>
+					<td>Government &amp; Economics 1/2</td>
+					<td>Social Studies</td>
+					<td>Turner</td>
 					<td></td>
 					<td>1, 2, 3</td>
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>Health</td>
+					<td><a href="/syllabi/2020_1/Health_Syllabus_Flores.pdf" target="_blank">Health</a></td>
+					<td>PE and Health</td>
+					<td>Flores</td>
+					<td></td>
+					<td>1, 2</td>
+					<td>Remote</td>
+				</tr>
+				<tr>
+					<td><a href="/syllabi/2020_1/Health_Syllabus_Gerdes.pdf" target="_blank">Health</a></td>
 					<td>PE and Health</td>
 					<td>Gerdes</td>
 					<td>218</td>
@@ -480,23 +488,15 @@ include("includes/header.php");
 					<td>PE and Health</td>
 					<td>Wybaillie</td>
 					<td>410</td>
-					<td>1, 2</td>
+					<td>2</td>
 					<td>Main</td>
-				</tr>
-				<tr>
-					<td>History of Sports</td>
-					<td>Social Studies Elective</td>
-					<td>Turner</td>
-					<td></td>
-					<td>1, 2, 3</td>
-					<td>Remote</td>
 				</tr>
 				<tr>
 					<td>Living Environment 1/4</td>
 					<td>Life Science</td>
 					<td>Graciani</td>
 					<td></td>
-					<td>1, 2, 3, 4</td>
+					<td>1, 2, 3, 4, 5</td>
 					<td>Remote</td>
 				</tr>
 				<tr>
@@ -508,11 +508,11 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Living Environment 1/4</td>
+					<td><a href="/syllabi/2020_1/Living_Environment_1_4_Syllabus_Rojas.pdf" target="_blank">Living Environment 1/4</a></td>
 					<td>Life Science</td>
 					<td>Rojas</td>
 					<td>204</td>
-					<td>2, 4</td>
+					<td>2</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
@@ -522,14 +522,6 @@ include("includes/header.php");
 					<td>226</td>
 					<td>4</td>
 					<td>Beacon</td>
-				</tr>
-				<tr>
-					<td>Living Environment 3/4</td>
-					<td>Life Science</td>
-					<td>Graciani</td>
-					<td></td>
-					<td>1, 2</td>
-					<td>Remote</td>
 				</tr>
 				<tr>
 					<td>Living Environment 3/4</td>
@@ -548,12 +540,20 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Living Environment 3/4</td>
+					<td><a href="/syllabi/2020_1/Living_Environment_3_4_Syllabus_Rojas.pdf" target="_blank">Living Environment 3/4</a></td>
 					<td>Life Science</td>
 					<td>Rojas</td>
 					<td>204</td>
 					<td>1, 3</td>
 					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td><a href="/syllabi/2020_1/Living_Environment_3_4_Syllabus_Rojas.pdf" target="_blank">Living Environment 3/4</a></td>
+					<td>Life Science</td>
+					<td>Rojas</td>
+					<td></td>
+					<td>1, 2</td>
+					<td>Remote</td>
 				</tr>
 				<tr>
 					<td>Living Environment 3/4</td>
@@ -564,7 +564,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="/syllabi/2020_1/Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td></td>
@@ -572,7 +572,7 @@ include("includes/header.php");
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="/syllabi/2020_1/Physical_Education_Syllabus_Gerdes.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Gerdes</td>
 					<td></td>
@@ -630,6 +630,14 @@ include("includes/header.php");
 				<tr>
 					<td>Spanish 1/6</td>
 					<td>Foreign Language</td>
+					<td>Dubizh</td>
+					<td></td>
+					<td>1, 2</td>
+					<td>Remote</td>
+				</tr>
+				<tr>
+					<td>Spanish 1/6</td>
+					<td>Foreign Language</td>
 					<td>Gonzalez</td>
 					<td>408</td>
 					<td>1, 2, 3</td>
@@ -640,7 +648,7 @@ include("includes/header.php");
 					<td>Foreign Language</td>
 					<td>Velez</td>
 					<td></td>
-					<td>1, 2, 3, 4, 5, 6</td>
+					<td>1, 2, 3, 4, 5</td>
 					<td>Remote</td>
 				</tr>
 				<tr>
@@ -656,8 +664,16 @@ include("includes/header.php");
 					<td>Arts</td>
 					<td>Collins</td>
 					<td>104</td>
-					<td>1, 2, 3</td>
+					<td>1, 3</td>
 					<td>Main</td>
+				</tr>
+				<tr>
+					<td>Studio Art</td>
+					<td>Arts</td>
+					<td>Collins</td>
+					<td></td>
+					<td>1, 2, 3</td>
+					<td>Remote</td>
 				</tr>
 				<tr>
 					<td>Studio Art</td>
@@ -670,21 +686,21 @@ include("includes/header.php");
 				<tr>
 					<td>Theater</td>
 					<td>Arts</td>
-					<td>Landas</td>
-					<td></td>
-					<td>1</td>
-					<td>Remote</td>
-				</tr>
-				<tr>
-					<td>Theater</td>
-					<td>Arts</td>
 					<td>Manas</td>
 					<td>C45</td>
 					<td>1, 2, 3</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>US History</td>
+					<td>Theater</td>
+					<td>Arts</td>
+					<td>Manas</td>
+					<td></td>
+					<td>1, 2</td>
+					<td>Remote</td>
+				</tr>
+				<tr>
+					<td><a href="/syllabi/2020_1/US_History_1_2_Syllabus_Morell.pdf" target="_blank">US History 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td></td>
@@ -692,12 +708,28 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>US History</td>
+					<td><a href="/syllabi/2020_1/US_History_1_2_Syllabus_Prisco.pdf" target="_blank">US History 1/2</a></td>
+					<td>Social Studies</td>
+					<td>Prisco</td>
+					<td>214</td>
+					<td>2, 3</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td><a href="/syllabi/2020_1/US_History_1_2_Syllabus_Prisco.pdf" target="_blank">US History 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Prisco</td>
 					<td></td>
-					<td>2, 3</td>
-					<td>Beacon</td>
+					<td>1</td>
+					<td>Remote</td>
+				</tr>
+				<tr>
+					<td>US History 1/2</td>
+					<td>Social Studies</td>
+					<td>Turner</td>
+					<td></td>
+					<td>1, 2</td>
+					<td>Remote</td>
 				</tr>
 			</tbody>
 		</table>
