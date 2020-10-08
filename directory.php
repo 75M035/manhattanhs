@@ -733,7 +733,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Asher Roberts</td>
-			<td>Programmer</td>
+			<td>Program Chair</td>
 			<td>(M) 208F, (B) 203B</td>
 			<td>(M) 2087, (B) 2032</td>
 			<td><a href="mailto:aroberts16@schools.nyc.gov">aroberts16@schools.nyc.gov</a></td>

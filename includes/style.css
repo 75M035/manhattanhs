@@ -1720,6 +1720,27 @@ a#buttonas:hover{
 	box-shadow: 0 0 5px #CB3117, inset 0 0 10px #CB3117;
 }
 
+/* Minecraft Button */
+
+#buttonmc {
+	border: 1px solid #0D582D;
+	background: url("/images/buttons/minecraft.svg") no-repeat, url("/images/buttons/Pixel_Green_BG.png") no-repeat #1F7620;
+	background-size: 98px 78px;
+	color: #FFF;
+}
+
+#buttonmc .buttonbottom {
+	border-top: 1px solid #0D582D;
+	background: linear-gradient(to bottom, #217E22 0%, #1F7620 50%, #217E22 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonmc:hover{
+	box-shadow: 0 0 5px #404040, inset 0 0 10px #404040;
+}
+
 /* Bands Button */
 
 #buttonbb {
