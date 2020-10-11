@@ -248,7 +248,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">10/12/2020</span> <br /> Columbus Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/03/2020</span> <br /> Election Day - Fully Remote School Day for Students</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2020</span> <br /> Veterans Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/26/2020-11/27/2020</span> <br /> Thanksgiving Recess (school closed)</p>

@@ -101,9 +101,9 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Tayler Bennett</td>
-			<td>Reading Intervention Specialist</td>
-			<td>213C</td>
-			<td>2133</td>
+			<td>English Teacher/Reading Intervention Specialist</td>
+			<td>205, 213C</td>
+			<td>2051, 2133</td>
 			<td><a href="mailto:tbennett9@schools.nyc.gov">tbennett9@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -229,7 +229,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Dalmira DeJesus</td>
-			<td>Cosmetology Teacher</td>
+			<td>Educational Assistant</td>
 			<td></td>
 			<td></td>
 			<td><a href="mailto:ddejesus7@schools.nyc.gov">ddejesus7@schools.nyc.gov</a></td>
@@ -262,9 +262,17 @@ include("includes/header.php");
 		<tr>
 			<td>Maria Dotter</td>
 			<td>English Teacher</td>
-			<td>205</td>
-			<td>2051</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:mdotter@schools.nyc.gov">mdotter@schools.nyc.gov</a></td>
+			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>William Dotter</td>
+			<td>Teacher</td>
+			<td>222</td>
+			<td>2221</td>
+			<td><a href="mailto:wdotter2@schools.nyc.gov">wdotter2@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
 		<tr>
@@ -298,14 +306,6 @@ include("includes/header.php");
 			<td></td>
 			<td><a href="mailto:sfinnerty@schools.nyc.gov">sfinnerty@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
-		</tr>
-		<tr>
-			<td>Jessica Flores</td>
-			<td>Social Skills Teacher</td>
-			<td>222</td>
-			<td>2221</td>
-			<td><a href="mailto:jflores25@schools.nyc.gov">jflores25@schools.nyc.gov</a></td>
-			<td>Beacon</td>
 		</tr>	
 		<tr>
 			<td>Darryl Foster</td>
@@ -333,11 +333,11 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Sara Gasero</td>
-			<td>Math Teacher</td>
-			<td>411</td>
-			<td>4111</td>
+			<td>IEP Coordinator</td>
+			<td>(M) 411</td>
+			<td>(M) 4111</td>
 			<td><a href="mailto:sgasero@schools.nyc.gov">sgasero@schools.nyc.gov</a></td>
-			<td>Main</td>
+			<td>Main/Beacon</td>
 		</tr>
 		<tr>
 			<td>Shaun Geiger</td>
@@ -381,9 +381,9 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Sohad Gonzalez</td>
-			<td>Culinary Teacher</td>
-			<td>104</td>
-			<td>1041</td>
+			<td>Language Teacher</td>
+			<td>408</td>
+			<td>4081</td>
 			<td><a href="mailto:sgonzalez4@schools.nyc.gov">sgonzalez4@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
@@ -422,8 +422,8 @@ include("includes/header.php");
 		<tr>
 			<td>Corinne Iaquinta</td>
 			<td>ESL Teacher</td>
-			<td>(M) 412</td>
-			<td>(M) 4121</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:ciaquinta@schools.nyc.gov">ciaquinta@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
@@ -445,7 +445,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Tamika Jordan</td>
-			<td>Educational Assistant</td>
+			<td>School Aide</td>
 			<td></td>
 			<td></td>
 			<td><a href="mailto:tjordan5@schools.nyc.gov">tjordan5@schools.nyc.gov</a></td>
@@ -549,7 +549,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Margaret Moore</td>
-			<td>School Aide</td>
+			<td>Family Worker</td>
 			<td>(M) 412</td>
 			<td>(M) 4123</td>
 			<td><a href="mailto:mmoore19@schools.nyc.gov">mmoore19@schools.nyc.gov</a></td>
@@ -710,8 +710,8 @@ include("includes/header.php");
 		<tr>
 			<td>Jacqueline Rivera</td>
 			<td>Educational Assistant</td>
-			<td>227</td>
-			<td>2271</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:jrivera26@schools.nyc.gov">jrivera26@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -830,8 +830,8 @@ include("includes/header.php");
 		<tr>
 			<td>Natasha Thomas</td>
 			<td>Math Teacher</td>
-			<td>222</td>
-			<td>2221</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:nthomas8@schools.nyc.gov">nthomas8@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -854,8 +854,8 @@ include("includes/header.php");
 		<tr>
 			<td>Desmond Turner</td>
 			<td>Social Studies Teacher</td>
-			<td>206</td>
-			<td>2061</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:dturner7@schools.nyc.gov">dturner7@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -934,8 +934,8 @@ include("includes/header.php");
 		<tr>
 			<td>Chester Waver</td>
 			<td>Physical Education Teacher</td>
-			<td>GYM</td>
-			<td>1015</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:cwaver@schools.nyc.gov">cwaver@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
