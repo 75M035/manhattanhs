@@ -588,7 +588,7 @@ include("includes/header.php");
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="/syllabi/2020_1/Physical_Education_Syllabus_Waver.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Waver</td>
 					<td></td>
