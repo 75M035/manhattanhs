@@ -10,7 +10,7 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h2 class="contenthead">DOE Systemwide Building Closure - November 18th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
-					<p>As announced today by Chancellor Richard Carranza, all DOE building will temporary close down starting tomorrow, November 19th, 2020, and all learning will take place remotely. Please review this important announcement on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>.</p>
+					<p>As announced today by Chancellor Richard Carranza, all DOE building will temporarily close down starting tomorrow, November 19th, 2020, and all learning will take place remotely. Please review this important announcement on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>.</p>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">Important Update on In-Person Learning Start Dates - September 19, 2020<span class="labels"><span class="all-label">All</span></span></h2>
