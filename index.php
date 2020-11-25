@@ -8,6 +8,11 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Remote Learning/COVID-19 Testing Update for Families - November 24th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Chancellor Carranza shared an update for families today regarding remote learning and COVID-19 testing. Today's letter includes updates on attendance requirements, grading policy for the 2020-21 school year, and remote learning devices. Please find his latest message on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">DOE Systemwide Building Closure - November 18th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>As announced today by Chancellor Richard Carranza, all DOE buildings will temporarily close down starting tomorrow, November 19th, 2020, and all learning will take place remotely. Please review this important announcement on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>.</p>
