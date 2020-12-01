@@ -8,6 +8,11 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Re-opening School Buildings - December 1st, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Chancellor Carranza shared an update this week on the re-opening of school buildings, providing the re-opening date of December 10th, 2020 for District 75 schools of <strong>all grades</strong>. Please review his latest update for families on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>. Translations are available on this page.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Remote Learning/COVID-19 Testing Update for Families - November 24th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Chancellor Carranza shared an update for families today regarding remote learning and COVID-19 testing. Today's letter includes updates on attendance requirements, grading policy for the 2020-21 school year, and remote learning devices. Please find his latest message on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>.</p>
@@ -259,7 +264,7 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/26/2020-11/27/2020</span> <br /> Thanksgiving Recess (school closed)</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/10/2020</span> <br /> In-Person/Blended Learning Resumes</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/2020-01/01/2021</span> <br /> Winter Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/18/2021</span> <br /> Martin Luther King Jr. Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">02/12/2021</span> <br /> Lunar New Year (school closed)</p>
