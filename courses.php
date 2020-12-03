@@ -204,7 +204,7 @@ include("includes/header.php");
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td><a href="/syllabi/2020_1/English_1_8_Syllabus_Bennett.pdf" target="_blank">English 1/8</a></td>
 					<td>Core English</td>
 					<td>Bennett</td>
 					<td>205</td>
@@ -236,7 +236,7 @@ include("includes/header.php");
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>English 3/8</td>
+					<td><a href="/syllabi/2020_1/English_3_8_Syllabus_Bennett.pdf" target="_blank">English 3/8</a></td>
 					<td>Core English</td>
 					<td>Bennett</td>
 					<td>205</td>
