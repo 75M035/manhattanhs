@@ -8,24 +8,9 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
-				<h2 class="contenthead">Update on Inclement Weather - December 15th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<h2 class="contenthead">Information on Potential Inclement Weather Closures - December 15th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
-					<p>The Chancellor has shared an update on with information on how instruction will take place during a potential school closure due to inclement weather. Please find his letter to families below:</p>
-					
-					<i>
-					<p>Dear Families, </p>
-					<p>I hope you are safe and well.</p>
-					<p>As we head into winter, it’s likely we will have inclement weather that in an ordinary year would cause all schools to close for teaching and learning. This year, if a snowstorm or other weather demands that school buildings close, all schools will still conduct remote learning on that day. All students will be expected to log on and engage with their work from home as they do on other days when they learn remotely. Middle and high school students who are already learning remotely every day are expected to attend school remotely, regardless of the weather.</p>
-					<p>The ability to teach and learn remotely across the system allows us to continue learning despite inclement weather closures. You will still be notified as usual when we are closing buildings due to weather, but these will not be days off from learning.</p>
-					<p>Your school will stay in close communication with you regarding the upcoming snowstorm predicted to affect New York City beginning the evening of Wednesday, December 16. Please note that extra meals will be available on Tuesday, December 15 and Wednesday, December 16 to take home.</p>
-					<p>Please do not hesitate to contact your principal if you have any questions.</p>
-					<p>Richard A. Carranza</br>
-					Chancellor</br>
-					New York City Department of Education</p>
-					</i>
-					
-					
-					<p>Please note that translations of this letter will be available later today on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>.</p>
+					<p>The Chancellor has shared an update on with information on how instruction will take place during a potential school closure due to inclement weather. Please find this latest letter for families on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>. Translations will be available on this page later today.</p>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">December Reopening Update - December 11th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
