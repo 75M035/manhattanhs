@@ -8,7 +8,7 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
-				<h2 class="contenthead">December Reopening Update - December 11th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<h2 class="contenthead">Update on Inclement Weather - December 15th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>The Chancellor has shared an update on with information on how instruction will take place during a potential school closure due to inclement weather. Please find his letter to families below:</p>
 					
