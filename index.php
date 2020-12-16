@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">School Building Closure Due to Weather - December 16th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Due to expected severe weather conditions, all New York City public school buildings will be closed tomorrow, Thursday, December 17, 2020. <strong>All instruction will take place remotely</strong>. Students scheduled for in-person learning tomorrow should check their emails and Google Classrooms for information for their virtual class meetings.</p> 
+					
+					<p>Learning Bridges and Learning Labs, after-school programs, adult education, and YABC programs are cancelled tomorrow. Food distribution sites are closed as well.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Information on Potential Inclement Weather Closures - December 15th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>The Chancellor has shared an update on with information on how instruction will take place during a potential school closure due to inclement weather. Please find this latest letter for families on the DOE's <a href="https://www.schools.nyc.gov/about-us/news/chancellor-s-message-for-families" target="_blank">Messages for Families page</a>. Translations will be available on this page later today.</p>
