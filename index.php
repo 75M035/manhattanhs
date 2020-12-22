@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">P35@Beacon Closed 12/23/2020 - December 22nd, 2020<span class="labels"><span class="beacon-label">Beacon</span></span></h2>
+				<div class="maincontent">
+					<p>P35@Beacon recently had a confirmed case of COVID-19 in which a number of students and staff members were deemed close contacts. Due to the number of staff members exposed, <strong>P35@Beacon will be closed for in-person instruction tomorrow, December 23rd, 2020, and all learning will take place remotely</strong>. As of now, in-person learning is expected to be in session when we return from Winter Recess, January 4, 2020.</p> 
+					
+					<p>Please read over <a href="/other/12.23_beacon_closure_letter.pdf" target="_blank">this detailed Family Letter</a> for more information on the closure and our efforts to safely resume in-person instruction as soon as possible. We will remain in communication with families and inform you of any changes.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">School Building Closure Due to Weather - December 16th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Due to expected severe weather conditions, all New York City public school buildings will be closed tomorrow, Thursday, December 17, 2020. <strong>All instruction will take place remotely</strong>. Students scheduled for in-person learning tomorrow should check their emails and Google Classrooms for information for their virtual class meetings.</p> 
