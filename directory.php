@@ -388,14 +388,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Gilberto Graciani</td>
-			<td>Teacher</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:ggracia@schools.nyc.gov">ggracia@schools.nyc.gov</a></td>
-			<td>Bellevue</td>
-		</tr>
-		<tr>
 			<td>Jeniffer Higgins</td>
 			<td>Jewish Board Social Worker</td>
 			<td>217D</td>
@@ -465,14 +457,6 @@ include("includes/header.php");
 			<td>214</td>
 			<td>2141</td>
 			<td><a href="mailto:nkennedy4@schools.nyc.gov">nkennedy4@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
-			<td>Avery Klotsche</td>
-			<td>Jewish Board Social Worker</td>
-			<td>217D</td>
-			<td>2173</td>
-			<td><a href="mailto:aklotsche@jbfcs.org">aklotsche@jbfcs.org</a></td>
 			<td>Beacon</td>
 		</tr>
 		<tr>
