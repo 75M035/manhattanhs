@@ -295,7 +295,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/2020-01/01/2021</span> <br /> Winter Recess (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/18/2021</span> <br /> Martin Luther King Jr. Day (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">02/12/2021</span> <br /> Lunar New Year (school closed)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">02/15/2021-02/19/2021</span> <br /> Midwinter Recess (school closed)</p>

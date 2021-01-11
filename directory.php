@@ -598,10 +598,10 @@ include("includes/header.php");
 		<tr>
 			<td>Cesar Ottey</td>
 			<td>Assistant Principal</td>
-			<td>423</td>
-			<td>4232</td>
+			<td>(B) 203D, (M) 423</td>
+			<td>(B) 2222, (M) 4232</td>
 			<td><a href="mailto:cottey@schools.nyc.gov">cottey@schools.nyc.gov</a></td>
-			<td>Main</td>
+			<td>All</td>
 		</tr>
 		<tr>
 			<td>Joon Paik</td>
