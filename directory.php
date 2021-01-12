@@ -780,14 +780,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Henrietta Smith</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:hsmith5@schools.nyc.gov">hsmith5@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Cheryl Snow</td>
 			<td>School Psychologist</td>
 			<td></td>
@@ -995,7 +987,7 @@ $('.excelexport').on('click', function (e) {
     var hiddenElement = document.createElement('a');
     hiddenElement.href = 'data:application/csv;charset=utf-8,' + encodeURI(csv);
     hiddenElement.target = '_blank';
-    hiddenElement.download = 'Directory_2018_2019.csv';
+    hiddenElement.download = 'Directory_2020_2021.csv';
     hiddenElement.click();
 }); 
 </script>
