@@ -12,21 +12,21 @@ include("includes/header.php");
 				<div class="maincontent">
 					<p>Our main site recently had a confirmed case of COVID-19 in which a number of students and staff members were deemed close contacts. Due to the number of staff members exposed, <strong>our main site will be closed for in-person instruction tomorrow, January 13th, 2021, and the rest of the week January 14th, 2021 and January 15th, 2021.</strong> All learning will take place remotely.
 					
-					<p>Please read over <a href="/other/1.12_main_closure_letter.pdf" target="_blank">this detailed Family Letter</a> for more information on the closure and our efforts to safely resume in-person instruction as soon as possible. We will remain in communication with families and inform you of any changes.</p>
+					<p>Please read over <a href="/other/1.12_main_closure_letter.pdf" target="_blank">this detailed Family Letter [PDF]</a> for more information on the closure and our efforts to safely resume in-person instruction as soon as possible. We will remain in communication with families and inform you of any changes.</p>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">Main Site Closed 1/11/2021 - January 10th, 2021<span class="labels"><span class="main-label">Main</span></span></h2>
 				<div class="maincontent">
 					<p>Our main site recently had a confirmed case of COVID-19 in which a number of students and staff members were deemed close contacts. Due to the number of staff members exposed, <strong>our main site will be closed for in-person instruction tomorrow, January 11th, 2021, and the next day January 12th, 2021.</strong> All learning will take place remotely. While the quarantine period for affected staff extends through 1/18/21, we will make every effort to safely return to in-person instruction before then.</p> 
 					
-					<p>Please read over <a href="/other/1.10_main_closure_letter.pdf" target="_blank">this detailed Family Letter</a> for more information on the closure and our efforts to safely resume in-person instruction as soon as possible. We will remain in communication with families and inform you of any changes.</p>
+					<p>Please read over <a href="/other/1.10_main_closure_letter.pdf" target="_blank">this detailed Family Letter [PDF]</a> for more information on the closure and our efforts to safely resume in-person instruction as soon as possible. We will remain in communication with families and inform you of any changes.</p>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">P35@Beacon Closed 12/23/2020 - December 22nd, 2020<span class="labels"><span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 					<p>P35@Beacon recently had a confirmed case of COVID-19 in which a number of students and staff members were deemed close contacts. Due to the number of staff members exposed, <strong>P35@Beacon will be closed for in-person instruction tomorrow, December 23rd, 2020, and all learning will take place remotely</strong>. As of now, in-person learning is expected to be in session when we return from Winter Recess, January 4, 2020.</p> 
 					
-					<p>Please read over <a href="/other/12.23_beacon_closure_letter.pdf" target="_blank">this detailed Family Letter</a> for more information on the closure and our efforts to safely resume in-person instruction as soon as possible. We will remain in communication with families and inform you of any changes.</p>
+					<p>Please read over <a href="/other/12.23_beacon_closure_letter.pdf" target="_blank">this detailed Family Letter [PDF]</a> for more information on the closure and our efforts to safely resume in-person instruction as soon as possible. We will remain in communication with families and inform you of any changes.</p>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">School Building Closure Due to Weather - December 16th, 2020<span class="labels"><span class="all-label">All</span></span></h2>
