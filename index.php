@@ -8,7 +8,7 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
-				<h2 class="contenthead">Main Site Closed for the Rest of the Week - January 10th, 2021<span class="labels"><span class="main-label">Main</span></span></h2>
+				<h2 class="contenthead">Main Site Closed for the Rest of the Week - January 12th, 2021<span class="labels"><span class="main-label">Main</span></span></h2>
 				<div class="maincontent">
 					<p>Our main site recently had a confirmed case of COVID-19 in which a number of students and staff members were deemed close contacts. Due to the number of staff members exposed, <strong>our main site will be closed for in-person instruction tomorrow, January 13th, 2021, and the rest of the week January 14th, 2021 and January 15th, 2021.</strong> All learning will take place remotely.
 					
