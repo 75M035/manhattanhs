@@ -901,9 +901,9 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Celeste Watson-Whitlock</td>
-			<td>Programmer</td>
-			<td>208F</td>
-			<td>2087</td>
+			<td>Educational Assistant</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:cwatsonwhitlock@schools.nyc.gov">cwatsonwhitlock@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
