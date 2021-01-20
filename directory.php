@@ -388,6 +388,14 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
+			<td>Gregory Heath</td>
+			<td>Math Teacher</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:gheath@schools.nyc.gov">gheath@schools.nyc.gov</a></td>
+			<td>Beacon</td>
+		</tr>
+		<tr>
 			<td>Jeniffer Higgins</td>
 			<td>Jewish Board Social Worker</td>
 			<td>217D</td>
