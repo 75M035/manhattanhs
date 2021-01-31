@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">School Building Closed 2/1/21 Due to Weather - January 31st, 2021<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Due to expected severe weather conditions, all New York City public school buildings will be closed tomorrow, Monday, February 1, 2021. <strong>All instruction will take place remotely</strong>. As a reminder, tomorrow is also the first day of term 2. Students should check Gmail and Google Classrooms for communications from their teachers with additional instructions.</p> 
+					
+					<p>Learning Bridges and Learning Labs, after-school programs, adult education, and YABC programs are cancelled tomorrow. Food distribution sites are closed as well.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Main Site Closed for the Rest of the Week - January 12th, 2021<span class="labels"><span class="main-label">Main</span></span></h2>
 				<div class="maincontent">
 					<p>Our main site recently had a confirmed case of COVID-19 in which a number of students and staff members were deemed close contacts. Due to the number of staff members exposed, <strong>our main site will be closed for in-person instruction tomorrow, January 13th, 2021, and the rest of the week January 14th, 2021 and January 15th, 2021.</strong> All learning will take place remotely.
