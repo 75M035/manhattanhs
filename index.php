@@ -8,7 +8,7 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
-				<h2 class="contenthead">School Building Closed 2/1/21 Due to Weather - January 31st, 2021<span class="labels"><span class="all-label">All</span></span></h2>
+				<h2 class="contenthead">School Buildings Closed 2/1/21 Due to Weather - January 31st, 2021<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Due to expected severe weather conditions, all New York City public school buildings will be closed tomorrow, Monday, February 1, 2021. <strong>All instruction will take place remotely</strong>. As a reminder, tomorrow is also the first day of term 2. Students should check Gmail and Google Classrooms for communications from their teachers with additional instructions.</p> 
 					
