@@ -62,8 +62,8 @@ include("includes/header.php");
 		<tr>
 			<td>Bryan Ayala</td>
 			<td>Computer Teacher</td>
-			<td>310</td>
-			<td>3101</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:bayala5@schools.nyc.gov">bayala5@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
@@ -766,8 +766,8 @@ include("includes/header.php");
 		<tr>
 			<td>Blaise Sarno</td>
 			<td>Automotive Teacher</td>
-			<td>106</td>
-			<td>1061</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:bsarno@schools.nyc.gov">bsarno@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
