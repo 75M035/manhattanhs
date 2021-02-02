@@ -52,6 +52,14 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
+			<td>Michelle Aubin</td>
+			<td>Attendance Teacher</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:maubin@schools.nyc.gov">maubin@schools.nyc.gov</a></td>
+			<td>All</td>
+		</tr>
+		<tr>
 			<td>Damon Avinger</td>
 			<td>Jewish Board Social Worker</td>
 			<td>217E</td>
