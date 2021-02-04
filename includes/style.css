@@ -798,6 +798,28 @@ a#buttonil:hover{
 	box-shadow: 0 0 5px #6A99AC, inset 0 0 11px #6A99AC;
 }
 
+/* DocuSign Button */
+
+#buttondsn {
+	border: 1px solid #d64500;
+	background: url("/images/buttons/docusign.svg") no-repeat;
+	background-size: 100px 110px;
+	background-position: 50% 90%;
+	color: #470606;
+}
+
+#buttondsn .buttonbottom {
+	border-top: 1px solid #d64500;
+	background: linear-gradient(to bottom, #e3ed1a 0%, #acb500 50%, #e3ed1a 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttondsn:hover{
+	box-shadow: 0 0 4px #B05300, inset 0 0 7px #B05300;
+}
+
 /* Sesis Button */
 
 #buttonse {
