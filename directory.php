@@ -69,7 +69,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Bryan Ayala</td>
-			<td>Computer Teacher</td>
+			<td>Educational Assistant</td>
 			<td></td>
 			<td></td>
 			<td><a href="mailto:bayala5@schools.nyc.gov">bayala5@schools.nyc.gov</a></td>
@@ -93,7 +93,7 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Sterling Baptiste</td>
-			<td>Educational Assistant</td>
+			<td>Supervising School Aide</td>
 			<td></td>
 			<td></td>
 			<td><a href="mailto:sbaptiste4@schools.nyc.gov">sbaptiste4@schools.nyc.gov</a></td>
@@ -502,8 +502,8 @@ include("includes/header.php");
 		<tr>
 			<td>Samantha Manas</td>
 			<td>Theater Teacher</td>
-			<td>C45</td>
-			<td></td>
+			<td>210</td>
+			<td>2101</td>
 			<td><a href="mailto:smanas@schools.nyc.gov">smanas@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -590,10 +590,10 @@ include("includes/header.php");
 		<tr>
 			<td>Shannon Murphy</td>
 			<td>Speech Teacher</td>
-			<td>213D</td>
-			<td>2134</td>
+			<td>(B) 213D, (M) 210A</td>
+			<td>(B) 2134</td>
 			<td><a href="mailto:smurphy3@schools.nyc.gov">smurphy3@schools.nyc.gov</a></td>
-			<td>Beacon</td>
+			<td>Beacon/Main</td>
 		</tr>
 		<tr>
 			<td>Miguel Negron</td>
