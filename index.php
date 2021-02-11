@@ -8,6 +8,13 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Phone Service Issues at Bellevue - February 11th, 2021<span class="labels"><span class="bellevue-label">Bellevue</span></span></h2>
+				<div class="maincontent">
+					<p>We are currently experiencing service issues with the main line at our Bellevue Hospital site. For now, if you need to reach us, please dial (212) 679-3688, or email <a href="mailto:SDeptula@schools.nyc.gov">Ms. Deptula (SDeptula@schools.nyc.gov)</a>.</p> 
+					
+					<p>We will make an additional update once normal phone service resumes.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">School Buildings Remain Closed Tomorrow 2/2/21 - February 1st, 2021<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Due to continued severe weather conditions, all New York City public school buildings will remain closed tomorrow, Tuesday, February 2, 2021. <strong>All instruction will continue to take place remotely</strong>. Students scheduled for in-person learning tomorrow should check their emails and Google Classrooms for information for their virtual class meetings.</p> 
