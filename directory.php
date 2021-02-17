@@ -310,7 +310,7 @@ include("includes/header.php");
 		<tr>
 			<td>Stephen Finnerty</td>
 			<td>Teacher</td>
-			<td>21E38</td>
+			<td>21E40</td>
 			<td></td>
 			<td><a href="mailto:sfinnerty@schools.nyc.gov">sfinnerty@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
