@@ -61,11 +61,12 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">02/15/2021-02/19/2021</span> <br /> Midwinter Recess - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">03/29/2021-04/02/2021</span> <br /> Spring Recess - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/13/2021</span> <br /> Eid Al-Fitr - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/31/2021</span> <br /> Memorial Day - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/03/2021</span> <br /> Chancellor's Conference Day - Students Not In Attendance</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/08/2021</span> <br /> Clerical Day - Students Not In Attendance</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/25/2021</span> <br /> Last Day of School</p>
 				</div>
 			</aside>
 			<aside class="contentright">
