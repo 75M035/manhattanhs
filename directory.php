@@ -180,14 +180,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Linda Cohen</td>
-			<td>Teacher</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:lcohen23@schools.nyc.gov">lcohen23@schools.nyc.gov</a></td>
-			<td>Bellevue</td>
-		</tr>
-		<tr>
 			<td>Lisa Collazo</td>
 			<td>Teacher</td>
 			<td>21E19</td>
