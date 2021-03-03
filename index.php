@@ -8,6 +8,12 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Phones Down at P35@Beacon - March 3rd, 2021<span class="labels"><span class="beacon-label">Beacon</span></span></h2>
+				<div class="maincontent">
+					<p>We are currently experiencing technical difficulties with the phone service at our Beacon site. We can dial out, but we cannot receive calls, so you may be unable to reach us by phone.</p>
+					<p>If you need to reach us, email is the best method of communication at this time. For attendance issues, please email Ms. Rivera at <a href="mailto:erivera67@schools.nyc.gov">erivera67@schools.nyc.gov</a>. For email addresses of teachers and personnel, please view the <a href="directory.php">Faculty Directory</a>. For general inquiries, please email <a href="mailto:admin@manhattanhs.org">admin@manhattanhs.org</a></p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Phone Service Issues at Bellevue - February 11th, 2021<span class="labels"><span class="bellevue-label">Bellevue</span></span></h2>
 				<div class="maincontent">
 					<p>We are currently experiencing service issues with the main line at our Bellevue Hospital site. For now, if you need to reach us, please dial (212) 679-3688, or email <a href="mailto:SDeptula@schools.nyc.gov">Ms. Deptula (SDeptula@schools.nyc.gov)</a>.</p> 
