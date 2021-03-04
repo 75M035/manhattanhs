@@ -8,6 +8,11 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Beacon Site Phone Service Restored - March 4th, 2021<span class="labels"><span class="beacon-label">Beacon</span></span></h2>
+				<div class="maincontent">
+					<p>Phone service at Beacon is now fully restored.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Phones Down at P35@Beacon - March 3rd, 2021<span class="labels"><span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 					<p>We are currently experiencing technical difficulties with the phone service at our Beacon site. We can dial out, but we cannot receive calls, so you may be unable to reach us by phone.</p>
