@@ -60,16 +60,8 @@ include("includes/header.php");
 			<td>All</td>
 		</tr>
 		<tr>
-			<td>Damon Avinger</td>
-			<td>Jewish Board Social Worker</td>
-			<td>217E</td>
-			<td>2174</td>
-			<td><a href="mailto:davinger@jbfcs.org">davinger@jbfcs.org</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Bryan Ayala</td>
-			<td>Educational Assistant</td>
+			<td>Computer Teacher</td>
 			<td></td>
 			<td></td>
 			<td><a href="mailto:bayala5@schools.nyc.gov">bayala5@schools.nyc.gov</a></td>

@@ -574,7 +574,7 @@ include("includes/header.php");
 				<tr>
 					<td>Psychology</td>
 					<td>Social Studies Elective</td>
-					<td>Cohen</td>
+					<td>Ayala</td>
 					<td></td>
 					<td>7, 9</td>
 					<td>Remote</td>
@@ -622,7 +622,7 @@ include("includes/header.php");
 				<tr>
 					<td>Studio Art</td>
 					<td>Arts</td>
-					<td>Cohen</td>
+					<td>Ayala</td>
 					<td></td>
 					<td>1, 3, 5, 6</td>
 					<td>Remote</td>
