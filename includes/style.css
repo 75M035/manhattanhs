@@ -308,12 +308,12 @@ ul.contenthead {
 	margin-right: 6px;
 }
 
-.contenthead .all-label, .contenthead .main-label, .contenthead .beacon-label, .contenthead .bellevue-label, .contenthead .mha-label {
+.contenthead .all-label, .contenthead .main-label, .contenthead .beacon-label, .contenthead .bellevue-label, .contenthead .nyspi-label {
 	padding-top: 2px;
 	margin-right: 1px;
 }
 
-.all-label, .main-label, .beacon-label, .bellevue-label, .mha-label {
+.all-label, .main-label, .beacon-label, .bellevue-label, .nyspi-label {
 	border-radius: 5px;
 	font-size: 9pt;
 	color: #FFFFFF;
@@ -342,8 +342,39 @@ ul.contenthead {
 	background: #3B76B2;
 }
 
-.mha-label {
-	background: #F9414E;
+.nyspi-label {
+	color: #F9414E;
+}
+
+/* Directory Site Labels */
+
+.main-dir {
+	font-weight: bold;
+	color: #AE5902;
+}
+
+.beacon-dir {
+	font-weight: bold;
+	color: #597e37;
+}
+
+.bellevue-dir {
+	font-weight: bold;
+	color: #3B76B2;
+}
+
+.nyspi-dir {
+	font-weight: bold;
+	color: #F9414E;
+}
+
+/* Directory Site Label Key */
+
+#rmextkey {
+	margin: auto;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 
 .upcoming p {

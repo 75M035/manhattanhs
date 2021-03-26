@@ -94,8 +94,8 @@ include("includes/header.php");
 		<tr>
 			<td>Marta Barnett</td>
 			<td>Principal</td>
-			<td>(M) 206, (B) 203D</td>
-			<td>(M) 2062, (B) 2222</td>
+			<td><span class="main-dir">M</span> 206, <span class="beacon-dir">B</span> 203D</td>
+			<td><span class="main-dir">M</span> 2062, <span class="beacon-dir">B</span> 2222</td>
 			<td><a href="mailto:mbarnett4@schools.nyc.gov">mbarnett4@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
@@ -130,6 +130,14 @@ include("includes/header.php");
 			<td></td>
 			<td><a href="mailto:lbracy@schools.nyc.gov">lbracy@schools.nyc.gov</a></td>
 			<td>Main</td>
+		</tr>
+		<tr>
+			<td>Sara Brathwaite</td>
+			<td>Occupational Therapist</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:sbrathwaite2@schools.nyc.gov">sbrathwaite2@schools.nyc.gov</a></td>
+			<td>Main/Beacon</td>
 		</tr>
 		<tr>
 			<td>Madison Brickel</td>
@@ -316,6 +324,14 @@ include("includes/header.php");
 			<td>NYSPI</td>
 		</tr>
 		<tr>
+			<td>Russell Garbarino</td>
+			<td>Fireman</td>
+			<td>101</td>
+			<td>1011</td>
+			<td></td>
+			<td>Main</td>
+		</tr>
+		<tr>
 			<td>Maria Garcia</td>
 			<td>School Aide</td>
 			<td>201</td>
@@ -326,8 +342,8 @@ include("includes/header.php");
 		<tr>
 			<td>Sara Gasero</td>
 			<td>IEP Coordinator</td>
-			<td>(M) 411</td>
-			<td>(M) 4111</td>
+			<td><span class="main-dir">M</span> 411</td>
+			<td><span class="main-dir">M</span> 4111</td>
 			<td><a href="mailto:sgasero@schools.nyc.gov">sgasero@schools.nyc.gov</a></td>
 			<td>Main/Beacon</td>
 		</tr>
@@ -418,6 +434,14 @@ include("includes/header.php");
 			<td></td>
 			<td><a href="mailto:ciaquinta@schools.nyc.gov">ciaquinta@schools.nyc.gov</a></td>
 			<td>All</td>
+		</tr>
+		<tr>
+			<td>Paul Jackson</td>
+			<td>Custodial Staff</td>
+			<td>101</td>
+			<td>1011</td>
+			<td></td>
+			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Brandi Jean Pierre</td>
@@ -534,8 +558,8 @@ include("includes/header.php");
 		<tr>
 			<td>Margaret Moore</td>
 			<td>Family Worker</td>
-			<td>(M) 412</td>
-			<td>(M) 4123</td>
+			<td><span class="main-dir">M</span> 412</td>
+			<td><span class="main-dir">M</span> 4123</td>
 			<td><a href="mailto:mmoore19@schools.nyc.gov">mmoore19@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
@@ -574,8 +598,8 @@ include("includes/header.php");
 		<tr>
 			<td>Shannon Murphy</td>
 			<td>Speech Teacher</td>
-			<td>(B) 213D, (M) 210A</td>
-			<td>(B) 2134</td>
+			<td><span class="main-dir">M</span> 210A <span class="main-dir">B</span> 213D</td>
+			<td><span class="beacon-dir">B</span> 2134</td>
 			<td><a href="mailto:smurphy3@schools.nyc.gov">smurphy3@schools.nyc.gov</a></td>
 			<td>Beacon/Main</td>
 		</tr>
@@ -598,10 +622,18 @@ include("includes/header.php");
 		<tr>
 			<td>Cesar Ottey</td>
 			<td>Assistant Principal</td>
-			<td>(B) 203D, (M) 423</td>
-			<td>(B) 2222, (M) 4232</td>
+			<td><span class="beacon-dir">B</span> 203D</td>
+			<td><span class="beacon-dir">B</span> 2222</td>
 			<td><a href="mailto:cottey@schools.nyc.gov">cottey@schools.nyc.gov</a></td>
 			<td>All</td>
+		</tr>
+		<tr>
+			<td>Michael Pagliaro</td>
+			<td>Custodial Engineer</td>
+			<td>101</td>
+			<td>1011</td>
+			<td><a href="mailto:cm058@schools.nyc.gov">cm058@schools.nyc.gov</a></td>
+			<td>Main</td>
 		</tr>
 		<tr>
 			<td>Joon Paik</td>
@@ -646,16 +678,16 @@ include("includes/header.php");
 		<tr>
 			<td>Joseph Planer</td>
 			<td>Technology Coordinator</td>
-			<td>(M) 208, (B) 203C</td>
-			<td>(M) 2085, (B) 2033</td>
+			<td><span class="main-dir">M</span> 208, <span class="beacon-dir">B</span> 203C, <span class="bellevue-dir">R</span> 21E39</td>
+			<td><span class="main-dir">M</span> 2085, <span class="beacon-dir">B</span> 2033</td>
 			<td><a href="mailto:jplaner@schools.nyc.gov">jplaner@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
 		<tr>
 			<td>Judith Powell</td>
 			<td>Payroll Secretary</td>
-			<td>(M) 204</td>
-			<td>(M) 2041</td>
+			<td>M 204</td>
+			<td>M 2041</td>
 			<td><a href="mailto:jpowell18@schools.nyc.gov">jpowell18@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
@@ -718,8 +750,8 @@ include("includes/header.php");
 		<tr>
 			<td>Asher Roberts</td>
 			<td>Program Chair</td>
-			<td>(M) 208F, (B) 203B</td>
-			<td>(M) 2087, (B) 2032</td>
+			<td><span class="main-dir">M</span> 208F, <span class="beacon-dir">B</span> 203B</td>
+			<td><span class="main-dir">M</span> 2087, <span class="beacon-dir">B</span> 2032</td>
 			<td><a href="mailto:aroberts16@schools.nyc.gov">aroberts16@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
@@ -793,6 +825,14 @@ include("includes/header.php");
 			<td>228</td>
 			<td>2062</td>
 			<td><a href="mailto:hspady@schools.nyc.gov">hspady@schools.nyc.gov</a></td>
+			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>Dimitri Stefanopoulos</td>
+			<td>Custodial Engineer</td>
+			<td>C14</td>
+			<td>8141</td>
+			<td><a href="mailto:cm912@schools.nyc.gov">cm912@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
 		<tr>
@@ -884,6 +924,14 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
+			<td>John Washington</td>
+			<td>Custodial Staff</td>
+			<td>101</td>
+			<td>1011</td>
+			<td></td>
+			<td>Main</td>
+		</tr>
+		<tr>
 			<td>Tiffany Watkins</td>
 			<td>Teacher</td>
 			<td></td>
@@ -957,6 +1005,11 @@ include("includes/header.php");
 		</tr>
 		</tbody>
 	</table>
+	<!-- 
+	<div id="rmextkey">
+		<p>Room/Extension Key: <span class="main-dir">M</span> <span class="labels"><span class="main-label">Main</span></span></p>
+	</div>
+	-->
 	<div id="rowcount">
 		<ul>
 			<li>Rows to display:</li>
