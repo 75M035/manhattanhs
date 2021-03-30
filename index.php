@@ -8,6 +8,11 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">P35@Beacon Site Closed 4/5/21 - March 30th, 2021<span class="labels"><span class="beacon-label">Beacon</span></span></h2>
+				<div class="maincontent">
+					<p>Due to a recent COVID-19 case at Beacon High School in which a number of staff members and students may have been exposed, <strong>P35@Beacon will be closed for in-person instruction Monday, April 5th, 2021, and all learning will take place remotely. <em>Beacon will reopen for regular in-person instruction <u>Tuesday, April 6th</u>.</em></strong></p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Bellevue Site Phone Issues Resolved - March 11th, 2021<span class="labels"><span class="bellevue-label">Bellevue</span></span></h2>
 				<div class="maincontent">
 					<p>The issues with our phones at our Bellevue Hospital site have now been fully resolved, and our main line is now back in service.</p>
