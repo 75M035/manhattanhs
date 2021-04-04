@@ -10,7 +10,7 @@ include("includes/header.php");
 			<article class="contentleft">
 				<h2 class="contenthead">P35@Beacon Site Closed 4/5/21 - March 30th, 2021<span class="labels"><span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
-					<p>Due to a recent COVID-19 case at Beacon High School in which a number of staff members and students may have been exposed, <strong>P35@Beacon will be closed for in-person instruction Monday, April 5th, 2021, and all learning will take place remotely. <em>Beacon will reopen for regular in-person instruction <u>Tuesday, April 6th</u>.</em></strong></p>
+					<p>Due to a recent COVID-19 case at Beacon High School in which a number of staff members and students may have been exposed, <strong>P35@Beacon will be closed for in-person instruction Monday, April 5th, 2021, and all learning will take place remotely. <em>Beacon will reopen for regular in-person instruction <u>Tuesday, April 6th, 2021</u>.</em></strong></p>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">Bellevue Site Phone Issues Resolved - March 11th, 2021<span class="labels"><span class="bellevue-label">Bellevue</span></span></h2>
@@ -82,7 +82,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">03/29/2021-04/02/2021</span> <br /> Spring Recess - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/13/2021</span> <br /> Eid Al-Fitr - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/31/2021</span> <br /> Memorial Day - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/03/2021</span> <br /> Chancellor's Conference Day - Students Not In Attendance</p>
