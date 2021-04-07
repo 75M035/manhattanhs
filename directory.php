@@ -36,7 +36,7 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Benny Agostino</td>
+			<td>Benjamin Agostino</td>
 			<td>Educational Assistant</td>
 			<td></td>
 			<td></td>
@@ -686,8 +686,8 @@ include("includes/header.php");
 		<tr>
 			<td>Judith Powell</td>
 			<td>Payroll Secretary</td>
-			<td>M 204</td>
-			<td>M 2041</td>
+			<td><span class="main-dir">M</span> 204</td>
+			<td><span class="main-dir">M</span> 2041</td>
 			<td><a href="mailto:jpowell18@schools.nyc.gov">jpowell18@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
