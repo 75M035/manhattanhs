@@ -270,8 +270,8 @@ include("includes/header.php");
 		<tr>
 			<td>William Dotter</td>
 			<td>Teacher</td>
-			<td>222</td>
-			<td>2221</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:wdotter2@schools.nyc.gov">wdotter2@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -318,8 +318,8 @@ include("includes/header.php");
 		<tr>
 			<td>Martine Gammarano</td>
 			<td>Teacher</td>
-			<td></td>
-			<td></td>
+			<td>2510</td>
+			<td>5812</td>
 			<td><a href="mailto:mgammarano@schools.nyc.gov">mgammarano@schools.nyc.gov</a></td>
 			<td>NYSPI</td>
 		</tr>
@@ -558,8 +558,8 @@ include("includes/header.php");
 		<tr>
 			<td>Margaret Moore</td>
 			<td>Family Worker</td>
-			<td><span class="main-dir">M</span> 412</td>
-			<td><span class="main-dir">M</span> 4123</td>
+			<td></td>
+			<td></td>
 			<td><a href="mailto:mmoore19@schools.nyc.gov">mmoore19@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
@@ -662,7 +662,7 @@ include("includes/header.php");
 		<tr>
 			<td>Jason Pendleton</td>
 			<td>Teacher</td>
-			<td>21E25</td>
+			<td>21E35</td>
 			<td></td>
 			<td><a href="mailto:jpendleton@schools.nyc.gov">jpendleton@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
