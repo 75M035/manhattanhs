@@ -9,7 +9,7 @@ $path .= "/includes/header.php";
 
 	<main class="archive-page">
 		<article class="fullwidth">
-			 <h2 class="contenthead">NBA Game - December 20, 2017 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h3>
+			 <h2 class="contenthead">NBA Game - December 20, 2017 <span class="labels"><span class="main-label">Main</span> <span class="beacon-label">Beacon</span></span></h2>
 			<div class="fullcontent">
 				<div class="news-photo"><img src="/images/news/12_20_2017_Nets_Game.jpg" alt="Nets Game"></div>
 				<p>On Dec 12, 2017 Manhattan HS selected students from both Beacon and the main site to attend a NBA Basketball game. These students were rewarded for excellent progress made from September to December. They have progressed in both academics and behavior in the classroom. They enjoyed the Brooklyn Nets play the Washington Wizards, where the kids were able to receive a free shirt for their attendance.</p>
@@ -17,7 +17,7 @@ $path .= "/includes/header.php";
 			</div>
 		</article>
 		<article class="fullwidth">
-			<h3 class="contenthead">Welcome! - December 13, 2017 <span class="labels"><span class="all-label">All</span></span></h3>
+			<h2 class="contenthead">Welcome! - December 13, 2017 <span class="labels"><span class="all-label">All</span></span></h2>
 			<div class="fullcontent">
 				<div class="news-image"><img src="/images/news/hello_world_label.svg" alt="Hello World"></div>
 				<p>Welcome to our new website! On these pages we have all sorts of useful school information, including staff, courses, photos, and more.</p>
