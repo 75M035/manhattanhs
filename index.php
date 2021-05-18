@@ -85,7 +85,12 @@ include("includes/header.php");
 					<p><span class="all-label">All</span> <span class="upcoming-date">05/31/2021</span> <br /> Memorial Day - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/03/2021</span> <br /> Chancellor's Conference Day - Students Not In Attendance</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">06/08/2021</span> <br /> Clerical Day - Students Not In Attendance</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/25/2021</span> <br /> Last Day of School</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/25/2021</span> <br /> Last Day of 2020-21 School Year</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">07/01/2021</span> <br /> Summer School Staff Orientation Day - Students Not In Attendance</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">07/02/2021</span> <br /> First Day of Summer School For Students</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">07/05/2021</span> <br /> Independence Day Observed - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">07/20/2021</span> <br /> Eid al-Adha - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">08/13/2021</span> <br /> Last Day of Summer School</p>
 				</div>
 			</aside>
 			<aside class="contentright">
