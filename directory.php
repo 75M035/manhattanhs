@@ -404,14 +404,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Jeniffer Higgins</td>
-			<td>Jewish Board Social Worker</td>
-			<td>217D</td>
-			<td>2172</td>
-			<td><a href="mailto:jhiggins@jbfcs.org">jhiggins@jbfcs.org</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Janice Huggins</td>
 			<td>Purchasing</td>
 			<td>208C</td>
