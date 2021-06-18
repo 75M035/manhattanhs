@@ -8,6 +8,11 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">iPad Giveback Giveaway Raffle - June 18th, 2021<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>The NYC Department of Education has announced that graduating seniors returning their iPads to their school by the last day of school (Friday, June 25th), will be entered into a raffle for a chance to win Beats Headphones or a Chromebook! For more information on this raffle, please see the DOE's <a target="_blank" href="flyers/ipad_giveback_giveaway.pdf">iPad Giveback Giveaway Flyer [PDF]</a>.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">P35@Beacon Site Closed 4/5/21 - March 30th, 2021<span class="labels"><span class="beacon-label">Beacon</span></span></h2>
 				<div class="maincontent">
 					<p>Due to a recent COVID-19 case at Beacon High School in which a number of staff members and students may have been exposed, <strong>P35@Beacon will be closed for in-person instruction Monday, April 5th, 2021, and all learning will take place remotely. <em>Beacon will reopen for regular in-person instruction <u>Tuesday, April 6th, 2021</u>.</em></strong></p>
