@@ -87,11 +87,13 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">07/01/2021</span> <br /> Summer School Staff Orientation Day - Students Not In Attendance</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">07/02/2021</span> <br /> First Day of Summer School For Students</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">07/05/2021</span> <br /> Independence Day Observed - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">07/20/2021</span> <br /> Eid al-Adha - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">08/13/2021</span> <br /> Last Day of Summer School</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">09/09/2021-09/10/2021</span> <br /> Staff Development Days - Students Not In Attendance</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">09/13/2021</span> <br /> First Day of 2021-22 School Year for Students</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">09/16/2021</span> <br /> Yom Kippur - School Closed</p>
 				</div>
 			</aside>
 			<aside class="contentright">
