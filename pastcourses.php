@@ -9,6 +9,7 @@ include("includes/header.php");
 			<ul class="contenthead"><li><a href="/courses.php"><h2>Current Courses</h2></li></a><li><h2>Past Courses</h2></li></ul>
 			<div class="fullcontent">
 				<table>
+					<tr><td><a href="/courses/courses20202.php">Spring 2021</a></td></tr>
 					<tr><td><a href="/courses/courses20201.php">Fall 2020</a></td></tr>
 					<tr><td><a href="/courses/courses20197.php">Summer 2020</a></td></tr>
 					<tr><td><a href="/courses/courses20192.php">Spring 2020</a></td></tr>
