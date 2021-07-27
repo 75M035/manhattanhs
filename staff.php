@@ -98,7 +98,7 @@ include("includes/header.php");
 					<a href="https://app.docusign.com/home" id="buttondsn" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DocuSign</div></a>
 					<a href="https://platform.ilearnnyc.net/d2l/home/25392" id="buttonil" target="_blank"><div class="buttontop"></div><div class="buttonbottom">iLearnNYC</div></a>
 					<a href="https://servicecenter.nycenet.edu/selfsupport/" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DIIT Service</div></a>
-					<a href="https://manhattanhs.on.spiceworks.com/portal/tickets" id="buttonsw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Help Desk</div></a>
+					<a href="https://manhattanhs.on.spiceworks.com/portal/" id="buttonsw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Help Desk</div></a>
 					<a href="https://spocnoc.nycenet.edu/spocnoc/" id="buttonsv" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SPOC NOC</div></a>
 				</div>
 			</section>
