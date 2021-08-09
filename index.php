@@ -8,6 +8,15 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Changes to Student School User Accounts - August 9th, 2021<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>Beginning this upcoming school year, our school will no longer use our manhattanhs.org email accounts, per guidance from DOE central. We will instead use <em>nycstudents.net</em> email accounts for all students while teachers/staff will continue to use their schools.nyc.gov accounts. All data in each manhattanhs.org account will be moved to the new nycstudents.net accounts, so students will not lose any of their work. With their new nycstudents.net accounts, students can access every DOE application they need using one login, including Zoom, Microsoft Office, Google Tools, report cards, and more.</p>
+					
+					<p><strong>As part of this move, all manhattanhs.org accounts will be locked on August 26th, 2021.</strong></p>
+					
+					<p>After accounts are setup, the new login process is almost exactly the same as before, but students must complete a few simple steps before using their accounts for the first time. We will help all students with this process when school begins in September. However, if you would like to skip the line and begin using your account now, or if you have any other questions or concerns, please contact <a href="mailto:jplaner@schools.nyc.gov">Mr. Planer (jplaner@schools.nyc.gov)</a>.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">iPad Giveback Giveaway Raffle - June 18th, 2021<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>The NYC Department of Education has announced that graduating seniors returning their iPads to their school by the last day of school (Friday, June 25th), will be entered into a raffle for a chance to win Beats Headphones or a Chromebook! For more information on this raffle, please see the DOE's <a target="_blank" href="flyers/ipad_giveback_giveaway.pdf">iPad Giveback Giveaway Flyer [PDF]</a>.</p>
