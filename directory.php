@@ -916,14 +916,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Melania Walker</td>
-			<td>Math Teacher</td>
-			<td>308</td>
-			<td>3081</td>
-			<td><a href="mailto:mwalker23@schools.nyc.gov">mwalker23@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>John Washington</td>
 			<td>Custodial Staff</td>
 			<td>101</td>
