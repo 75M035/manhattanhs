@@ -849,7 +849,7 @@ include("includes/header.php");
 			<td></td>
 			<td></td>
 			<td><a href="mailto:nthomas8@schools.nyc.gov">nthomas8@schools.nyc.gov</a></td>
-			<td>Beacon</td>
+			<td>Bellevue</td>
 		</tr>
 		<tr>
 			<td>Eduardo Torres</td>
@@ -904,7 +904,7 @@ include("includes/header.php");
 			<td>Educational Assistant</td>
 			<td></td>
 			<td></td>
-			<td><a href="mailto:mvicente3@schools.nyc.gov">mvicente3@schools.nyc.gov</a></td>
+			<td><a href="mailto:mvicenteowen@schools.nyc.gov">mvicenteowen@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
 		<tr>
