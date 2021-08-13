@@ -6,7 +6,7 @@ include("includes/header.php");
 ?>
 	
 <main id="directory">
-	<h2 class="contenthead">2020-2021 Staff Directory<span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export" aria-label="Excel Export"></button></span></h2>
+	<h2 class="contenthead">2021-2022 Staff Directory<span class="rightlink"><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export" aria-label="Excel Export"></button></span></h2>
 	<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)">
 		<thead>
 			<tr class="header">
@@ -1024,7 +1024,7 @@ $('.excelexport').on('click', function (e) {
     var hiddenElement = document.createElement('a');
     hiddenElement.href = 'data:application/csv;charset=utf-8,' + encodeURI(csv);
     hiddenElement.target = '_blank';
-    hiddenElement.download = 'Directory_2020_2021.csv';
+    hiddenElement.download = 'Directory_2021_2022.csv';
     hiddenElement.click();
 }); 
 </script>
