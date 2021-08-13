@@ -36,14 +36,6 @@ include("includes/header.php");
 			<td>Beacon</td>
 		</tr>
 		<tr>
-			<td>Benjamin Agostino</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:bagostino2@schools.nyc.gov">bagostino2@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Morece Anderson</td>
 			<td>Educational Assistant</td>
 			<td></td>

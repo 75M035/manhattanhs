@@ -96,7 +96,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">08/13/2021</span> <br /> Last Day of Summer School</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">09/09/2021-09/10/2021</span> <br /> Staff Development Days - Students Not In Attendance</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">09/13/2021</span> <br /> First Day of 2021-22 School Year for Students</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">09/16/2021</span> <br /> Yom Kippur - School Closed</p>
