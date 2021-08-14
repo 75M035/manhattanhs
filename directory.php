@@ -148,14 +148,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Hazelle Byrd</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:hbyrd2@schools.nyc.gov">hbyrd2@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Luz Ceballosiaconis</td>
 			<td>Educational Assistant</td>
 			<td></td>
