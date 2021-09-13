@@ -376,15 +376,23 @@ include("includes/header.php");
 			<td>Math Teacher</td>
 			<td>222</td>
 			<td>2221</td>
-			<td><a href="mailto:gheath@schools.nyc.gov">gheath@schools.nyc.gov</a></td>
+			<td><a href="mailto:GHeath@schools.nyc.gov">GHeath@schools.nyc.gov</a></td>
 			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>Michelle Hili</td>
+			<td>Family Worker</td>
+			<td></td>
+			<td>21E38</td>
+			<td><a href="mailto:MHili@schools.nyc.gov">MHili@schools.nyc.gov</a></td>
+			<td>Bellevue</td>
 		</tr>
 		<tr>
 			<td>Janice Huggins</td>
 			<td>Purchasing</td>
 			<td>208C</td>
 			<td>2083</td>
-			<td><a href="mailto:jhuggins3@schools.nyc.gov">jhuggins3@schools.nyc.gov</a></td>
+			<td><a href="mailto:JHuggins3@schools.nyc.gov">JHuggins3@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
