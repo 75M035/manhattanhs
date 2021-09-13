@@ -96,10 +96,12 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/13/2021</span> <br /> First Day of 2021-22 School Year for Students</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">09/16/2021</span> <br /> Yom Kippur - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/11/2021</span> <br /> Indigenous Peoples’ Day - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/02/2021</span> <br /> Election Day - Remote Instruction/Staff PD Day</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2021</span> <br /> Veterans Day - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/25/2021-11/26/2021</span> <br /> Thanksgiving Recess - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/2021-12/31/2021</span> <br /> Winter Recess - School Closed</p>
 				</div>
 			</aside>
 			<aside class="contentright">
