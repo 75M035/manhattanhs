@@ -528,7 +528,7 @@ include("includes/header.php");
 			<td>Educational Assistant</td>
 			<td></td>
 			<td></td>
-			<td><a href="mailto:rmercado12@schools.nyc.gov">rmercado12@schools.nyc.gov</a></td>
+			<td><a href="mailto:rmercado12@schools.nyc.gov">RMercado12@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
@@ -536,15 +536,15 @@ include("includes/header.php");
 			<td>Family Worker</td>
 			<td></td>
 			<td></td>
-			<td><a href="mailto:mmoore19@schools.nyc.gov">mmoore19@schools.nyc.gov</a></td>
-			<td>All</td>
+			<td><a href="mailto:mmoore19@schools.nyc.gov">MMoore19@schools.nyc.gov</a></td>
+			<td>Bellevue</td>
 		</tr>
 		<tr>
 			<td>Daniel Morales</td>
 			<td>Social Worker</td>
 			<td>409</td>
 			<td>4091</td>
-			<td><a href="mailto:dmorales26@schools.nyc.gov">dmorales26@schools.nyc.gov</a></td>
+			<td><a href="mailto:dmorales26@schools.nyc.gov">DMorales26@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
