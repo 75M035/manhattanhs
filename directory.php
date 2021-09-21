@@ -288,7 +288,7 @@ include("includes/header.php");
 			<td>Teacher</td>
 			<td>21E40</td>
 			<td></td>
-			<td><a href="mailto:sfinnerty@schools.nyc.gov">sfinnerty@schools.nyc.gov</a></td>
+			<td><a href="mailto:sfinnerty@schools.nyc.gov">SFinnerty@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
 		</tr>	
 		<tr>
@@ -296,15 +296,15 @@ include("includes/header.php");
 			<td>Teacher</td>
 			<td>21E45</td>
 			<td></td>
-			<td><a href="mailto:dfoster32@schools.nyc.gov">dfoster32@schools.nyc.gov</a></td>
+			<td><a href="mailto:dfoster32@schools.nyc.gov">DFoster32@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
 		</tr>
 		<tr>
 			<td>Martine Gammarano</td>
-			<td>Teacher</td>
+			<td>Unit Coordinator</td>
 			<td>2510</td>
 			<td>5812</td>
-			<td><a href="mailto:mgammarano@schools.nyc.gov">mgammarano@schools.nyc.gov</a></td>
+			<td><a href="mailto:mgammarano@schools.nyc.gov">MGammarano@schools.nyc.gov</a></td>
 			<td>NYSPI</td>
 		</tr>
 		<tr>
@@ -952,7 +952,7 @@ include("includes/header.php");
 			<td>Physical Education Teacher</td>
 			<td>GYM, 217</td>
 			<td>1015, 2171</td>
-			<td><a href="mailto:cwaver@schools.nyc.gov">cwaver@schools.nyc.gov</a></td>
+			<td><a href="mailto:cwaver@schools.nyc.gov">CWaver@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
@@ -960,7 +960,7 @@ include("includes/header.php");
 			<td>English Teacher</td>
 			<td>302</td>
 			<td>3021</td>
-			<td><a href="mailto:MWiltshire4@schools.nyc.gov">MWitlshire4@schools.nyc.gov</a></td>
+			<td><a href="mailto:MWiltshire4@schools.nyc.gov">MWiltshire4@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
@@ -968,7 +968,7 @@ include("includes/header.php");
 			<td>Social Studies Teacher</td>
 			<td>2510</td>
 			<td>5812</td>
-			<td><a href="mailto:lwilliams13@schools.nyc.gov">lwilliams13@schools.nyc.gov</a></td>
+			<td><a href="mailto:lwilliams13@schools.nyc.gov">LWilliams13@schools.nyc.gov</a></td>
 			<td>NYSPI</td>
 		</tr>
 		<tr>
@@ -976,7 +976,7 @@ include("includes/header.php");
 			<td>Unit Coordinator</td>
 			<td>210A</td>
 			<td>2102</td>
-			<td><a href="mailto:aaaron3@schools.nyc.gov">aaaron3@schools.nyc.gov</a></td>
+			<td><a href="mailto:aaaron3@schools.nyc.gov">AAaron3@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
@@ -984,7 +984,7 @@ include("includes/header.php");
 			<td>Science Teacher</td>
 			<td>215</td>
 			<td>2151</td>
-			<td><a href="mailto:mwybaillie@schools.nyc.gov">mwybaillie@schools.nyc.gov</a></td>
+			<td><a href="mailto:mwybaillie@schools.nyc.gov">MWybaillie@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
@@ -992,7 +992,7 @@ include("includes/header.php");
 			<td>Educational Assistant</td>
 			<td></td>
 			<td></td>
-			<td><a href="mailto:hxiao2@schools.nyc.gov">hxiao2@schools.nyc.gov</a></td>
+			<td><a href="mailto:hxiao2@schools.nyc.gov">HXiao2@schools.nyc.gov</a></td>
 			<td>Bellevue</td>
 		</tr>
 		<tr>
@@ -1000,7 +1000,7 @@ include("includes/header.php");
 			<td>Career Ed. Teacher/Job Developer</td>
 			<td>313</td>
 			<td>3131</td>
-			<td><a href="mailto:jzimmer3@schools.nyc.gov">jzimmer3@schools.nyc.gov</a></td>
+			<td><a href="mailto:jzimmer3@schools.nyc.gov">JZimmer3@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		</tbody>
