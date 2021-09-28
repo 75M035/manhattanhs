@@ -156,6 +156,14 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
+			<td>Silvia Chiriboga</td>
+			<td>School Aide</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:SChiriboga@schools.nyc.gov">SChiriboga@schools.nyc.gov</a></td>
+			<td>Main</td>
+		</tr>
+		<tr>
 			<td>Latoya Chisolm</td>
 			<td>Transition Coordinator</td>
 			<td><span class="main-dir">M</span> 210A</td>
@@ -184,7 +192,7 @@ include("includes/header.php");
 			<td>Art Teacher</td>
 			<td>319</td>
 			<td>3191</td>
-			<td><a href="mailto:scollins21@schools.nyc.gov">scollins21@schools.nyc.gov</a></td>
+			<td><a href="mailto:scollins21@schools.nyc.gov">SCollins21@schools.nyc.gov</a></td>
 			<td>Main</td>
 		</tr>
 		<tr>
