@@ -34,7 +34,7 @@ include("includes/header.php");
 				<h2 class="contentheadright">Helpful Links</h2>
 				<div class="sidecontent">
 					<a href="https://www.schools.nyc.gov/about-us/news/2021-2022-school-year-calendar" id="buttoncl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><?php echo date("M"); ?></div><div id="cald"><?php echo date("d"); ?></div></a>
-					<a href="http://www.p12.nysed.gov/assessment/schedules/2021/regents-exam-schedule-june-2021.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
+					<a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-january-2022.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 				</div>
 			</section>

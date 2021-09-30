@@ -94,7 +94,7 @@ include("includes/header.php");
 					<a href="http://www.nychealthandhospitals.org/bellevue/" id="buttonbl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bellevue</div></a>
 					<a href="http://www.optnyc.org" id="buttonopt" target="_blank"><div class="buttontop"></div><div class="buttonbottom">OPT</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/doe-employees-only/fy22-school-year-calendar-memorandum.pdf" id="buttoncl" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><?php echo date("M"); ?></div><div id="cald"><?php echo date("d"); ?></div></a>
-					<a href="http://www.p12.nysed.gov/assessment/schedules/2021/regents-exam-schedule-june-2021.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
+					<a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-january-2022.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 					<a href="https://app.docusign.com/home" id="buttondsn" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DocuSign</div></a>
 					<a href="https://platform.ilearnnyc.net/d2l/home/25392" id="buttonil" target="_blank"><div class="buttontop"></div><div class="buttonbottom">iLearnNYC</div></a>
