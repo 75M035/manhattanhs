@@ -101,6 +101,8 @@ include("includes/header.php");
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2021</span> <br /> Veterans Day - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/25/2021-11/26/2021</span> <br /> Thanksgiving Recess - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/2021-12/31/2021</span> <br /> Winter Recess - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">01/17/2022</span> <br /> Martin Luther King Jr. Day - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">01/25/2022-01/28/2022</span> <br /> <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-january-2022.pdf" target="_blank">Regents Administration [PDF]</a></p>
 				</div>
 			</aside>
 			<aside class="contentright">
