@@ -89,7 +89,6 @@ include("includes/header.php");
 				<h2 class="contentheadright">Reminders</h2>
 				<div class="sidecontent">
 					<p><span class="all-label">All</span> Resources for families are listed on our new <a href="/community_assistance.php">Community Assistance</a> page.</p>
-					<p><span class="all-label">All</span> If you are a student or parent in need of tech support, please submit a ticket on our <a href="https://docs.google.com/forms/d/e/1FAIpQLSci72nscFhvernapo5ODkLJuuJe7wk-FKeNLq6pRc6KPcbvpw/viewform" target="_blank">Technical Support Help Desk</a>, or call/text (646) 397-9254.</p>
 					<p><span class="all-label">All</span> Parents and guardians can sign up for a NYC Schools account to keep track of their child's grades, schedule, transportation and more. Please email <a href="mailto:ZParis2@schools.nyc.gov">Ms. Paris (ZParis2@schools.nyc.gov)</a> for help setting up your account.</p>
 				</div>
 			</aside>
