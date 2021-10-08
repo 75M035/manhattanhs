@@ -78,8 +78,8 @@ include("includes/header.php");
 		<tr>
 			<td>Marta Barnett</td>
 			<td>Principal</td>
-			<td><span class="main-dir">M</span> 206 <span class="beacon-dir">B</span> 203D</td>
-			<td><span class="main-dir">M</span> 2062 <span class="beacon-dir">B</span> 2222</td>
+			<td><span class="main-dir">M</span> 206, <span class="beacon-dir">B</span> 203D</td>
+			<td><span class="main-dir">M</span> 2062, <span class="beacon-dir">B</span> 2222</td>
 			<td><a href="mailto:mbarnett4@schools.nyc.gov">MBarnett4@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
@@ -95,7 +95,7 @@ include("includes/header.php");
 			<td>Gavriel Berkovits</td>
 			<td>Assistant Principal</td>
 			<td><span class="beacon-dir">B</span> 203D</td>
-			<td><span class="beacon-dir">B</span> 2222<span class="beacon-dir">B</span> 2222</td>
+			<td><span class="beacon-dir">B</span> 2222</td>
 			<td><a href="mailto:gberkovits@schools.nyc.gov">GBerkovits@schools.nyc.gov</a></td>
 			<td>All</td>
 		</tr>
@@ -166,8 +166,8 @@ include("includes/header.php");
 		<tr>
 			<td>Emily Clark</td>
 			<td>English Teacher</td>
-			<td><span class="main-dir">M</span> 208A <span class="beacon-dir">B</span> 203C</td>
-			<td><span class="main-dir">M</span> 2081 <span class="beacon-dir">B</span> 2033</td>
+			<td><span class="main-dir">M</span> 208A, <span class="beacon-dir">B</span> 203C</td>
+			<td><span class="main-dir">M</span> 2081, <span class="beacon-dir">B</span> 2033</td>
 			<td><a href="mailto:EClark11@schools.nyc.gov">EClark11@schools.nyc.gov</a></td>
 			<td>Main/Beacon</td>
 		</tr>
