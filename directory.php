@@ -596,14 +596,6 @@ include("includes/header.php");
 			<td>All</td>
 		</tr>
 		<tr>
-			<td>Silvia Orellana</td>
-			<td>Jewish Board Clinical Director</td>
-			<td>217F</td>
-			<td>2175</td>
-			<td><a href="mailto:sorellana@jbfcs.org">SOrellana@jbfcs.org</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>Cesar Ottey</td>
 			<td>Assistant Principal</td>
 			<td><span class="main-dir">M</span> 423 <span class="beacon-dir">B</span> 203D</td>
