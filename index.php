@@ -8,6 +8,15 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Remote Instruction on Election Day - October 29th, 2021<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>This Tuesday, Election Day, 11/2/2021 will be a remote asynchronous school day for all DOE students. All P.S. 35 sites will be <strong>closed for in-person instruction on this day</strong>.</p>
+					
+					<p>Our teachers will be assigning schoolwork that students will be responsible to complete on Election Day. An attendance sign-in link will be provided for students to fill out to be marked present for the day.</p>
+					
+					<p>If you have any questions or concerns regarding this announcement, please feel to call us at (212) 247-4307 or send us an email at <a href="mailto:75M035@schools.nyc.gov">75M035@schools.nyc.gov</a>.</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Changes to Student School User Accounts - August 9th, 2021<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>Beginning this upcoming school year, our school will no longer use our manhattanhs.org email accounts, per guidance from DOE central. We will instead use <em>nycstudents.net</em> email accounts for all students while teachers/staff will continue to use their schools.nyc.gov accounts. All data in each manhattanhs.org account will be moved to the new nycstudents.net accounts, so students will not lose any of their work. With their new nycstudents.net accounts, students can access every DOE application they need using one login, including Zoom, Microsoft Office, Google Tools, report cards, and more.</p>
