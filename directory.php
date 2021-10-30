@@ -868,14 +868,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Marisol Vicente-Owen</td>
-			<td>Educational Assistant</td>
-			<td></td>
-			<td></td>
-			<td><a href="mailto:mvicenteowen@schools.nyc.gov">MVicenteowen@schools.nyc.gov</a></td>
-			<td>Beacon</td>
-		</tr>
-		<tr>
 			<td>James Vining</td>
 			<td>Social Worker</td>
 			<td>213B</td>
