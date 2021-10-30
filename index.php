@@ -14,7 +14,9 @@ include("includes/header.php");
 					
 					<p>Our teachers will be assigning schoolwork that students will be responsible to complete on Election Day. An attendance sign-in link will be provided for students to fill out to be marked present for the day.</p>
 					
-					<p>If you have any questions or concerns regarding this announcement, please feel to call us at (212) 247-4307 or send us an email at <a href="mailto:75M035@schools.nyc.gov">75M035@schools.nyc.gov</a>.</p>
+					<p>We will provide technical support for students on Election Day 7:30AM-3:00PM. If you require assistance, please call our Main Site number  – (212) 247-4307.</p>
+					
+					<p>If you have any questions or concerns regarding this announcement, please call your school site (numbers at bottom of this page) or send us an email at <a href="mailto:75M035@schools.nyc.gov">75M035@schools.nyc.gov</a>.</p>
 			</article>
 			<article class="contentleft">
 				<h2 class="contenthead">Changes to Student School User Accounts - August 9th, 2021<span class="labels"><span class="all-label">All</span></span></h2>
