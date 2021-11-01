@@ -342,7 +342,7 @@ include("includes/header.php");
 				<tr>
 					<td>Living Environment 3/4</td>
 					<td>Life Science</td>
-					<td>Phillips</td>
+					<td>Oakley</td>
 					<td>415</td>
 					<td>4, 7, 8, 9</td>
 					<td>Main</td>
