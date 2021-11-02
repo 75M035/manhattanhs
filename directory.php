@@ -596,14 +596,6 @@ include("includes/header.php");
 			<td>All</td>
 		</tr>
 		<tr>
-			<td>Brian Oakley</td>
-			<td>Science Teacher</td>
-			<td>415</td>
-			<td>4151</td>
-			<td><a href="mailto:BOakley2@schools.nyc.gov">BOakley2@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Cesar Ottey</td>
 			<td>Assistant Principal</td>
 			<td><span class="main-dir">M</span> 423 <span class="beacon-dir">B</span> 203D</td>
