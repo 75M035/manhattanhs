@@ -106,7 +106,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2021</span> <br /> Veterans Day - School Closed</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="nyspi-label">NYSPI</span> <span class="upcoming-date">11/17/2021</span> <br /> Evening Parent Teacher Conferences (5:00-7:30PM)</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="upcoming-date">11/18/2021</span> <br /> Early Dismissal for Students</p>
 					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="nyspi-label">NYSPI</span> <span class="upcoming-date">11/18/2021</span> <br /> Afternoon Parent Teacher Conferences (1:00-3:00PM)</p>
