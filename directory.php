@@ -148,14 +148,6 @@ include("includes/header.php");
 			<td>Main</td>
 		</tr>
 		<tr>
-			<td>Silvia Chiriboga</td>
-			<td>School Aide</td>
-			<td>204</td>
-			<td>2045</td>
-			<td><a href="mailto:SChiriboga@schools.nyc.gov">SChiriboga@schools.nyc.gov</a></td>
-			<td>Main</td>
-		</tr>
-		<tr>
 			<td>Latoya Chisolm</td>
 			<td>Transition Coordinator</td>
 			<td><span class="main-dir">M</span> 210A</td>
@@ -754,6 +746,14 @@ include("includes/header.php");
 			<td>1061</td>
 			<td><a href="mailto:bsarno@schools.nyc.gov">BSarno@schools.nyc.gov</a></td>
 			<td>Main</td>
+		</tr>
+		<tr>
+			<td>Sean Schiff</td>
+			<td>Jewish Board Social Worker</td>
+			<td>217C</td>
+			<td>2173</td>
+			<td><a href="mailto:sschiff@jbfcs.org">SSchiff@jbfcs.org</a></td>
+			<td>Beacon</td>
 		</tr>
 		<tr>
 			<td>Louis Simmons</td>
