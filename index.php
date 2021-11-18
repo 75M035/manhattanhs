@@ -106,12 +106,12 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="nyspi-label">NYSPI</span> <span class="upcoming-date">11/18/2021</span> <br /> Early Dismissal for Students</p>
-					<p><span class="main-label">Main</span> <span class="beacon-label">Beacon</span> <span class="nyspi-label">NYSPI</span> <span class="upcoming-date">11/18/2021</span> <br /> Afternoon Parent Teacher Conferences (1:00-3:00PM)</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/25/2021-11/26/2021</span> <br /> Thanksgiving Recess - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/24/2021-12/31/2021</span> <br /> Winter Recess - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/17/2022</span> <br /> Martin Luther King Jr. Day - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/25/2022-01/28/2022</span> <br /> <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-january-2022.pdf" target="_blank">Regents Administration [PDF]</a></p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">02/01/2022</span><br /> Lunar New Year - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">02/21/2022-02/25/2022</span> <br /> Midwinter Recess - School Closed</p>
 				</div>
 			</aside>
 			<aside class="contentright">
