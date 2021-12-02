@@ -365,11 +365,19 @@ include("includes/header.php");
 		</tr>
 		<tr>
 			<td>Sohad Gonzalez</td>
-			<td>Language Teacher</td>
+			<td>Culinary Teacher</td>
 			<td>104</td>
 			<td>1041</td>
 			<td><a href="mailto:sgonzalez4@schools.nyc.gov">SGonzalez4@schools.nyc.gov</a></td>
 			<td>Main</td>
+		</tr>
+		<tr>
+			<td>Jaclyn Guilfoyle</td>
+			<td>ESL Teacher</td>
+			<td></td>
+			<td></td>
+			<td><a href="mailto:JGuilfoyle2@schools.nyc.gov">JGuilfoyle2@schools.nyc.gov</a></td>
+			<td>Main/Beacon</td>
 		</tr>
 		<tr>
 			<td>Gregory Heath</td>
@@ -490,6 +498,14 @@ include("includes/header.php");
 			<td></td>
 			<td><a href="mailto:amarte13@schools.nyc.gov">AMarte13@schools.nyc.gov</a></td>
 			<td>Beacon</td>
+		</tr>
+		<tr>
+			<td>Frances Martinez</td>
+			<td>Pupil Accounting Secretary</td>
+			<td><span class="main-dir">M</span> 204</td>
+			<td><span class="main-dir">M</span> 2042</td>
+			<td><a href="mailto:FMartinez9@schools.nyc.gov">FMartinez9@schools.nyc.gov</a></td>
+			<td>All</td>
 		</tr>
 		<tr>
 			<td>Michael McCarthy</td>
