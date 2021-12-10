@@ -153,7 +153,7 @@ include("includes/header.php");
 			<td><span class="main-dir">M</span> 210A <span class="beacon-dir">B</span> 202</td>
 			<td><span class="main-dir">M</span> 2101 <span class="beacon-dir">B</span> 2031</td>
 			<td><a href="mailto:LChisolm3@schools.nyc.gov">LChisolm3@schools.nyc.gov</a></td>
-			<td>Main/Beacon</td>
+			<td>Main, Beacon</td>
 		</tr>
 		<tr>
 			<td>Emily Clark</td>
@@ -161,7 +161,7 @@ include("includes/header.php");
 			<td><span class="main-dir">M</span> 208A <span class="beacon-dir">B</span> 203C</td>
 			<td><span class="main-dir">M</span> 2081 <span class="beacon-dir">B</span> 2033</td>
 			<td><a href="mailto:EClark11@schools.nyc.gov">EClark11@schools.nyc.gov</a></td>
-			<td>Main/Beacon</td>
+			<td>Main, Beacon</td>
 		</tr>
 		<tr>
 			<td>Lisa Collazo</td>
@@ -321,13 +321,13 @@ include("includes/header.php");
 			<td><span class="main-dir">M</span> 411</td>
 			<td><span class="main-dir">M</span> 4111</td>
 			<td><a href="mailto:sgasero@schools.nyc.gov">SGasero@schools.nyc.gov</a></td>
-			<td>Main/Beacon</td>
+			<td>Main, Beacon</td>
 		</tr>
 		<tr>
 			<td>Shaun Geiger</td>
 			<td>English Teacher</td>
-			<td>205/218</td>
-			<td>2051/2181</td>
+			<td>205, 218</td>
+			<td>2051, 2181</td>
 			<td><a href="mailto:sgeiger4@schools.nyc.gov">SGeiger4@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
@@ -374,10 +374,10 @@ include("includes/header.php");
 		<tr>
 			<td>Jaclyn Guilfoyle</td>
 			<td>ESL Teacher</td>
-			<td><span class="main-dir">M</span> 208A</td>
-			<td><span class="main-dir">M</span> 2081</td>
+			<td><span class="main-dir">M</span> 208A <span class="beacon-dir">B</span> 203C</td>
+			<td><span class="main-dir">M</span> 2081 <span class="beacon-dir">B</span> 203C</td>
 			<td><a href="mailto:JGuilfoyle2@schools.nyc.gov">JGuilfoyle2@schools.nyc.gov</a></td>
-			<td>Main/Beacon</td>
+			<td>Main, Beacon</td>
 		</tr>
 		<tr>
 			<td>Gregory Heath</td>
@@ -486,8 +486,8 @@ include("includes/header.php");
 		<tr>
 			<td>Samantha Manas</td>
 			<td>Theater Teacher</td>
-			<td>207/210</td>
-			<td>2071/2101</td>
+			<td>207, 210</td>
+			<td>2071, 2101</td>
 			<td><a href="mailto:smanas@schools.nyc.gov">SManas@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
