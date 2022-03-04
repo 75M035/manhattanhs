@@ -550,7 +550,7 @@ $path .= "/includes/header.php";
 					<td>Remote</td>
 				</tr>
 				<tr>
-					<td>Government &amp; Economics 1/2</td>
+					<td><a href="/syllabi/2020_7/Government_Economics_1_2_Syllabus_Morell.pdf" target="_blank">Government &amp; Economics 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>417</td>
@@ -806,7 +806,7 @@ $path .= "/includes/header.php";
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td><a href="/syllabi/2019_7/US_History_1_2_Syllabus_Morell.pdf" target="_blank">US History 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>417</td>
