@@ -6,7 +6,7 @@ include("includes/header.php");
 ?>
 
 	<main id="directory">
-		<h2 class="contenthead">Fall 2021 Courses <span class="rightlink"><a href="pastcourses.php">Past Courses</a><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export"></button></span></h2>
+		<h2 class="contenthead">Spring 2022 Courses <span class="rightlink"><a href="pastcourses.php">Past Courses</a><button class="btn btn-warning excelexport btn-md" type="button" title="Excel Export"></button></span></h2>
 		<table id="directorylist" class="directorylist" data-paging="true" data-filtering="true" data-filter-position="center" data-sorting="true" data-paging-limit="4" data-filter-placeholder="Search (options on the right)" data-exporting="true">
 			<thead>
 			<tr class="header">
@@ -20,7 +20,7 @@ include("includes/header.php");
 			</thead>
 			<tbody>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td>Algebra I 2/4</td>
 					<td>Mathematics</td>
 					<td>Heath</td>
 					<td>222</td>
@@ -28,7 +28,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td>Algebra I 2/4</td>
 					<td>Mathematics</td>
 					<td>Jin</td>
 					<td>216</td>
@@ -36,7 +36,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td>Algebra I 2/4</td>
 					<td>Mathematics</td>
 					<td>Torres</td>
 					<td>308</td>
@@ -44,7 +44,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra I 3/4</td>
+					<td>Algebra I 4/4</td>
 					<td>Mathematics</td>
 					<td>Jin</td>
 					<td>216</td>
@@ -52,15 +52,15 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 3/4</td>
+					<td>Algebra I 4/4</td>
 					<td>Mathematics</td>
 					<td>Lopez</td>
-					<td>410</td>
+					<td>415</td>
 					<td>4, 5, 6, 9</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra II 1/2</td>
+					<td>Algebra II 2/2</td>
 					<td>Mathematics</td>
 					<td>Pe&ntilde;a</td>
 					<td>207</td>
@@ -72,19 +72,19 @@ include("includes/header.php");
 					<td>Careers</td>
 					<td>Sarno</td>
 					<td>106</td>
-					<td>12, 3, 5, 8</td>
+					<td>12, 3, 7, 9</td>
 					<td>Main</td>
 				</tr>
 				<tr>
 					<td>Career Education</td>
 					<td>Careers</td>
-					<td>Zimmerman</td>
-					<td>313</td>
+					<td>DeJesus</td>
+					<td>210</td>
 					<td>12, 4, 8, 9</td>
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Chemistry 1/2</td>
+					<td>Chemistry 2/2</td>
 					<td>Physical Science</td>
 					<td>Tahir</td>
 					<td>212</td>
@@ -96,7 +96,7 @@ include("includes/header.php");
 					<td>STEM Elective</td>
 					<td>Morell</td>
 					<td>310</td>
-					<td>7</td>
+					<td>5</td>
 					<td>Main</td>
 				</tr>
 				<tr>
@@ -104,7 +104,7 @@ include("includes/header.php");
 					<td>Arts</td>
 					<td>Brickel</td>
 					<td>210</td>
-					<td>D13, E24</td>
+					<td>D24, E13, H24, H35</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
@@ -112,19 +112,19 @@ include("includes/header.php");
 					<td>Human Services</td>
 					<td>Gonzalez</td>
 					<td>104</td>
-					<td>12, 4, 5, 9</td>
+					<td>12, 3, 5, 8</td>
 					<td>Main</td>
 				</tr>
 				<tr>
 					<td>Digital Film</td>
 					<td>Arts</td>
 					<td>Manas</td>
-					<td>210</td>
-					<td>C14, C25, D24, E13</td>
+					<td>207 207 207 210 210</td>
+					<td>A14, A35, E24, F13, F24</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Earth Science 1/2</td>
+					<td>Earth Science 2/2</td>
 					<td>Physical Science</td>
 					<td>Dotter</td>
 					<td>212</td>
@@ -132,7 +132,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Earth Science 1/2</td>
+					<td>Earth Science 2/2</td>
 					<td>Physical Science</td>
 					<td>Tahir</td>
 					<td>212</td>
@@ -140,7 +140,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td>English 2/8</td>
 					<td>Core English</td>
 					<td>Crisci</td>
 					<td>205</td>
@@ -148,7 +148,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td>English 2/8</td>
 					<td>Core English</td>
 					<td>Wiltshire</td>
 					<td>302</td>
@@ -156,7 +156,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 3/8</td>
+					<td>English 4/8</td>
 					<td>Core English</td>
 					<td>Geiger</td>
 					<td>205</td>
@@ -164,7 +164,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 3/8</td>
+					<td><a href="/syllabi/2021_2/English_4_8_Syllabus_Medina.pdf" target="_blank">English 4/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>404</td>
@@ -172,7 +172,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td>English 6/8</td>
 					<td>Core English</td>
 					<td>Geiger</td>
 					<td>218</td>
@@ -180,7 +180,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td>English 6/8</td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -188,7 +188,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td>English 6/8</td>
 					<td>Core English</td>
 					<td>Paik</td>
 					<td>413</td>
@@ -196,7 +196,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td>English 8/8</td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -204,7 +204,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td>English 8/8</td>
 					<td>Core English</td>
 					<td>Paik</td>
 					<td>413</td>
@@ -212,7 +212,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td>Geometry 2/2</td>
 					<td>Mathematics</td>
 					<td>Dotter</td>
 					<td>315</td>
@@ -220,7 +220,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td>Geometry 2/2</td>
 					<td>Mathematics</td>
 					<td>Pe&ntilde;a</td>
 					<td>207</td>
@@ -228,7 +228,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td>Global 2/4</td>
 					<td>Social Studies</td>
 					<td>McCarthy</td>
 					<td>304</td>
@@ -236,7 +236,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td>Global 2/4</td>
 					<td>Social Studies</td>
 					<td>Watkins</td>
 					<td>208</td>
@@ -244,7 +244,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 3/4</td>
+					<td>Global 4/4</td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
@@ -252,7 +252,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 3/4</td>
+					<td>Global 4/4</td>
 					<td>Social Studies</td>
 					<td>Turner</td>
 					<td>206</td>
@@ -260,7 +260,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Government &amp; Economics 1/2</td>
+					<td>Government &amp; Economics 2/2</td>
 					<td>Social Studies</td>
 					<td>Hughes</td>
 					<td>406</td>
@@ -268,7 +268,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Government &amp; Economics 1/2</td>
+					<td>Government &amp; Economics 2/2</td>
 					<td>Social Studies</td>
 					<td>Kennedy</td>
 					<td>214</td>
@@ -279,8 +279,16 @@ include("includes/header.php");
 					<td>Health</td>
 					<td>PE and Health</td>
 					<td>Geller</td>
-					<td>206 208</td>
-					<td>A, D</td>
+					<td>206</td>
+					<td>D</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Health</td>
+					<td>PE and Health</td>
+					<td>Gerdes</td>
+					<td>206</td>
+					<td>A</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
@@ -292,7 +300,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Honors English 7/8</td>
+					<td>Honors English 8/8</td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -304,27 +312,27 @@ include("includes/header.php");
 					<td>Arts</td>
 					<td>Brickel</td>
 					<td>210</td>
-					<td>A14, A35, G13, G24</td>
+					<td>D13, E24</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 1/4</td>
+					<td>Living Environment 2/4</td>
 					<td>Life Science</td>
 					<td>Rojas</td>
 					<td>220</td>
-					<td>A, F, G</td>
+					<td>B, F, G</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 1/4</td>
+					<td>Living Environment 2/4</td>
 					<td>Life Science</td>
 					<td>Tahir</td>
 					<td>212</td>
-					<td>B</td>
+					<td>A</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 1/4</td>
+					<td>Living Environment 2/4</td>
 					<td>Life Science</td>
 					<td>Wybaillie</td>
 					<td>215</td>
@@ -332,7 +340,15 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Living Environment 3/4</td>
+					<td>Living Environment 4/4</td>
+					<td>Life Science</td>
+					<td>Anderson</td>
+					<td>415</td>
+					<td>4, 7, 8, 9</td>
+					<td>Main</td>
+				</tr>
+				<tr>
+					<td>Living Environment 4/4</td>
 					<td>Life Science</td>
 					<td>Rojas</td>
 					<td>220</td>
@@ -340,19 +356,11 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 3/4</td>
-					<td>Life Science</td>
-					<td></td>
-					<td>415</td>
-					<td>4, 7, 8, 9</td>
-					<td>Main</td>
-				</tr>
-				<tr>
 					<td>Physical Education</td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>226</td>
-					<td>B13, B25</td>
+					<td>B13, B25, G13, G24</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
@@ -360,7 +368,7 @@ include("includes/header.php");
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>702</td>
-					<td>H24, H35</td>
+					<td>A14, A25, H24, H35</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
@@ -376,7 +384,7 @@ include("includes/header.php");
 					<td>PE and Health</td>
 					<td>Gerdes</td>
 					<td>702</td>
-					<td>A14, A35, G13, G24</td>
+					<td>G13, G24</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
@@ -392,7 +400,7 @@ include("includes/header.php");
 					<td>STEM Elective</td>
 					<td>Heath</td>
 					<td>222</td>
-					<td>B13, B25, D13, D24</td>
+					<td>F13, F24, G13, G24</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
@@ -400,11 +408,19 @@ include("includes/header.php");
 					<td>Arts</td>
 					<td>Brickel</td>
 					<td>210</td>
-					<td>B13, B25, H24, H35</td>
+					<td>A14, A35, G13, G24</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Spanish 1/6</td>
+					<td>Sound Design</td>
+					<td>Arts</td>
+					<td>Manas</td>
+					<td>701</td>
+					<td>C14, C25</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
+					<td>Spanish 2/6</td>
 					<td>Foreign Language</td>
 					<td>Dubizh</td>
 					<td>204</td>
@@ -412,7 +428,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Spanish 1/2</td>
+					<td>Spanish 2/2</td>
 					<td>Foreign Language</td>
 					<td>Velez</td>
 					<td>408</td>
@@ -424,7 +440,7 @@ include("includes/header.php");
 					<td>Arts</td>
 					<td>Collins</td>
 					<td>319</td>
-					<td>12, 3, 6, 7</td>
+					<td>12, 4, 7, 9</td>
 					<td>Main</td>
 				</tr>
 				<tr>
@@ -432,19 +448,19 @@ include("includes/header.php");
 					<td>Arts</td>
 					<td>DiLorenzo</td>
 					<td>211</td>
-					<td>A14, A35, B13, B25, F13, F24, G13, G24, H24, H35</td>
+					<td>A14, A35, B13, B25, C14, C25, G13, G24, H24, H35</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
 					<td>Theater</td>
 					<td>Arts</td>
 					<td>Manas</td>
-					<td>207 210 207</td>
-					<td>A14, A35, F13, F24, G13, G24</td>
+					<td>210 210 207</td>
+					<td>B13, B25, E13</td>
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td>US History 2/2</td>
 					<td>Social Studies</td>
 					<td>Hughes</td>
 					<td>406</td>
@@ -452,7 +468,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td>US History 2/2</td>
 					<td>Social Studies</td>
 					<td>Kennedy</td>
 					<td>214</td>
@@ -460,7 +476,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td>US History 2/2</td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>417</td>
@@ -468,7 +484,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td>US History 2/2</td>
 					<td>Social Studies</td>
 					<td>Prisco</td>
 					<td>214</td>
