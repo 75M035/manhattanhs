@@ -106,10 +106,15 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/17/2022</span> <br /> Martin Luther King Jr. Day - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/25/2022-01/28/2022</span> <br /> <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-january-2022.pdf" target="_blank">Regents Administration [PDF]</a></p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">02/01/2022</span><br /> Lunar New Year - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">02/21/2022-02/25/2022</span> <br /> Midwinter Recess - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">04/15/2022-04/22/2022</span> <br /> Spring Recess - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">05/02/2022</span> <br /> Eid al-Fitr - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">05/30/2022</span> <br /> Memorial Day - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/07/2022</span> <br /> Clerical Day - Students Do Not Attend</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/09/2022</span> <br /> Anniversary Day - Students Do Not Attend</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/15/2022-06/24/2022</span> <br /> <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-june-2022.pdf" target="_blank">Regents Administration [PDF]</a></p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/20/2022</span><br /> Juneteenth - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/27/2022</span><br /> Last Day of School for Students</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/28/2022</span><br /> Staff Conference Day</p>
 				</div>
 			</aside>
 			<aside class="contentright">
