@@ -4,13 +4,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="format-detection" content="telephone=no"/>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111276604-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2SVF9L8H0R"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-111276604-1');
+  gtag('config', 'G-2SVF9L8H0R');
 </script>
 <title><?php echo $page_title; ?></title>
 <meta http-equiv="description" content="<?php echo $page_description; ?>" />
