@@ -116,7 +116,7 @@ include("includes/header.php");
 					<p><span class="all-label">All</span> <span class="upcoming-date">11/24/2022-11/25/2022</span><br /> Thanksgiving - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">12/26/2022-01/02/2023</span><br /> Winter Recess - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">01/16/2023</span><br /> Rev. Dr. Martin Luther King Jr. Day - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/24/2023-01/27/2023</span><br /> Regents <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-january-2023.pdf">[PDF Schedule]</a></p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">01/24/2023-01/27/2023</span><br /> Regents <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-january-2023.pdf" target="_blank">[PDF Schedule]</a></p>
 				</div>
 			</aside>
 			<aside class="contentright">
