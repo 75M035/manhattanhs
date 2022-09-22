@@ -21,7 +21,7 @@ include("includes/header.php");
 			<section class="contentleft">
 				<h2 class="contenthead">Important Logins</h2>
 				<div class="maincontent">
-					<a href="https://pupilpath.skedula.com" id="buttonpp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">PupilPath</div></a>
+					<a href="https://manage.schoolsaccount.nyc/forgotpassword?lc=en" id="buttonpw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Pass Reset</div></a>
 					<a href="https://mystudent.nyc" class="buttonnsa" target="_blank"><div class="buttontop"></div><div class="buttonbottom">NYCSA</div></a>
 				</div>
 			</section>
@@ -44,6 +44,7 @@ include("includes/header.php");
 					<a href="http://www.nychealthandhospitals.org/bellevue/" id="buttonbl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bellevue</div></a>
 					<a href="http://www.optnyc.org" id="buttonopt" target="_blank"><div class="buttontop"></div><div class="buttonbottom">OPT</div></a>
 					<a href="http://www.psal.org" id="buttonpl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">PSAL</div></a>
+					<a href="https://supporthub.schools.nyc" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DIIT Service</div></a>
 				</div>
 			</section>
 		</div>

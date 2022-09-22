@@ -106,8 +106,6 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/06/2022</span><br /> First Day of School for Staff</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/08/2022</span><br /> First Day of School for Students</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">09/26/2022-09/27/2022</span><br /> Rosh Hashanah - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/05/2022</span><br /> Yom Kippur - School Closed</p>
 					<p><span class="all-label">All</span> <span class="upcoming-date">10/10/2022</span><br /> Italian Heritage / Indigenous Peoples' Day - School Closed</p>

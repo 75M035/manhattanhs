@@ -20,9 +20,10 @@ include("includes/header.php");
 			<section class="contentleft">
 				<h2 class="contenthead">Important Logins</h2>
 				<div class="maincontent">
-					<a href="https://pupilpath.skedula.com" id="buttonpp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">PupilPath</div></a>
+					<a href="https://teachhub.schools.nyc" id="buttonth" target="_blank"><div class="buttontop"></div><div class="buttonbottom">TeachHub</div></a>
 					<a href="https://classroom.google.com" id="buttongc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">G Classroom</div></a>
 					<a href="https://test.mapnwea.org" id="buttonmap" target="_blank"><div class="buttontop"></div><div class="buttonbottom">MAP</div></a>
+					<a href="https://selfservice.schools.nyc/Profile/Index" id="buttonpw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Pass Reset</div></a>
 				</div>
 			</section>
 		</div>

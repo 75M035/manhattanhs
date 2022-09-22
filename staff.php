@@ -17,7 +17,7 @@ include("includes/header.php");
 					<a href="schedules/P35_Beacon_2021_22_Bell_Schedule.pdf" id="buttonbb" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Beacon Bands</div></a>
 					<a href="schedules/P35_Main_2021_22_Bell_Schedule.pdf" id="buttonms" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35main" class="buttonmsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Main Share</div></a>
-					<a href="https://nycdoe.sharepoint.com/sites/p35beacon" class="buttonbsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon Share</div></a>
+					<a href="https://nycdoe.sharepoint.com/sites/p35beacon2" class="buttonbsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/bellevue" class="buttonrsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bellevue Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35allsites" class="buttonasp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">All Share</div></a>
 				</div>
@@ -26,7 +26,7 @@ include("includes/header.php");
 				<h2 class="contenthead">Important Logins</h2>
 				<div class="maincontent">
 					<a href="https://portal.office.com" class="buttonem" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Email</div></a>
-					<a href="https://skedula.com" id="buttonio" target="_blank"><div class="buttontop"></div><div class="buttonbottom">IO Classroom</div></a>
+					<a href="https://teachhub.schools.nyc" id="buttonth" target="_blank"><div class="buttontop"></div><div class="buttonbottom">TeachHub</div></a>
 					<a href="https://classroom.google.com" id="buttongc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">G Classroom</div></a>
 					<a href="https://sesis.nycenet.edu/" id="buttonse" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SESIS</div></a>
 					<a href="https://www.nycenet.edu/starsclassroom" id="buttonstc" target="_blank"><div class="buttontop"></div><div class="buttonbottom">STARS</div></a>
@@ -36,6 +36,8 @@ include("includes/header.php");
 					<a href="http://www.shopdoe.com/" id="buttonsh" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ShopDOE</div></a>
 					<a href="https://tools.nycenet.edu/insight" id="buttonins" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Insight</div></a>
 					<a href="https://nyc-admin.mapnwea.org" id="buttonmap" target="_blank"><div class="buttontop"></div><div class="buttonbottom">MAP</div></a>
+					<a href="https://eservices.nysed.gov/teach/teachext" id="buttontch" target="_blank"><div class="buttontop"></div><div class="buttonbottom">TEACH</div></a>
+					<a href="https://idm.nycenet.edu/selfservice/Login.do" id="buttonpw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Pass Reset</div></a>
 				</div>
 			</section>
 			
@@ -68,7 +70,7 @@ include("includes/header.php");
 					<a href="https://www.commuterbenefitsnyc.com" id="buttoner" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Edenred</div></a>
 					<a href="https://www.nycenet.edu/advance/" id="buttonad" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Advance</div></a>
 					<a href="https://subcentral.eschoolsolutions.com/" id="buttonsub" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SubCentral</div></a>
-					<a href="https://dhrnycaps.nycenet.edu/solas/" id="buttonsl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SOLAS</div></a>
+					<a href="https://apps.schools.nyc/solas" id="buttonsl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SOLAS</div></a>
 				</div>
 			</section>
 			<section class="contentright">
@@ -98,7 +100,7 @@ include("includes/header.php");
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 					<a href="https://app.docusign.com/home" id="buttondsn" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DocuSign</div></a>
 					<a href="https://platform.ilearnnyc.net/d2l/home/25392" id="buttonil" target="_blank"><div class="buttontop"></div><div class="buttonbottom">iLearnNYC</div></a>
-					<a href="https://servicecenter.nycenet.edu/selfsupport/" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DIIT Service</div></a>
+					<a href="https://supporthub.schools.nyc" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DIIT Service</div></a>
 					<a href="https://manhattanhs.on.spiceworks.com/portal/" id="buttonsw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Help Desk</div></a>
 					<a href="https://spocnoc.nycenet.edu/spocnoc/" id="buttonsv" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SPOC NOC</div></a>
 				</div>

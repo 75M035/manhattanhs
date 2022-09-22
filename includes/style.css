@@ -745,7 +745,57 @@ ul.contenthead {
 	}
 }
 
-/* PupilPath Button */
+/* TeachHub Button */
+
+#buttonth {
+	background: url("/images/buttons/teachhub.svg") no-repeat;
+	background-size: 96px 62px;
+	background-position: 50% 25%;
+	color: #434343;
+	font-size: 10pt;
+}
+
+a#buttonth {
+	box-shadow: none;
+}
+
+#buttonth .buttonbottom {
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonth:hover{
+	background: url("/images/buttons/teachhub.svg") no-repeat #D4C7A6;
+	background-size: 96px 62px;
+	background-position: 50% 25%;
+	box-shadow: 0 0 1px #bfbfbf, 0 0 10px #a6a6a6 inset;
+	color: #000;
+}
+
+/* Password Reset Button */
+
+#buttonpw {
+	border: 1px solid #c3c6bf;
+	background: url("/images/buttons/passwordreset.svg") no-repeat #ededed;
+	background-size: 65px 65px;
+	background-position: 50% 21%;
+	color: #363630;
+}
+
+#buttonpw .buttonbottom {
+	border-top: 1px solid #c3c6bf;
+	background: linear-gradient(to bottom, #edeeec 0%, #dcdcdc 50%, #edeeec 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+a#buttonpw:hover{
+	box-shadow: 0 0 5px #B3B3B3, inset 0 0 10px #B3B3B3;
+}
+
+/* PupilPath Button
 
 #buttonpp {
 	border: 1px solid #0A6A8C;
@@ -765,7 +815,7 @@ ul.contenthead {
 
 a#buttonpp:hover{
 	box-shadow: 0 0 5px #403f3f, inset 0 0 10px #403f3f;
-}
+} */
 
 /* IO Classroom Button */
 
@@ -1045,6 +1095,24 @@ a#buttonins:hover{
 
 a#buttonmap:hover{
 	box-shadow: 0 0 5px #979797, inset 0 0 10px #979797;
+}
+
+/* TEACH Button */
+
+#buttontch {
+	border: 1px solid #14598E;
+	background: url("/images/buttons/teach.png") no-repeat #3498db;
+	background-size: 60px 69px;
+	background-position: 50% 31%;
+	color: #062132;
+}
+
+#buttontch .buttonbottom {
+	border-top: 1px solid #14598E;
+	background: linear-gradient(to bottom, #B7D5F2 0%, #3498db 50%, #B7D5F2 100%);
+	background-size:1px 40px;
+	-webkit-transition: 0.5s;
+	transition: 0.5s;
 }
 
 
