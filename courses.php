@@ -244,7 +244,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td><a href="/syllabi/2022_1/Global_1_4_Syllabus_Mccarthy.pdf" target="_blank">Global 1/4</a></td>
 					<td>Social Studies</td>
 					<td>McCarthy</td>
 					<td>304</td>

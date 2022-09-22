@@ -36,7 +36,7 @@ include("includes/header.php");
 					<a href="http://www.shopdoe.com/" id="buttonsh" target="_blank"><div class="buttontop"></div><div class="buttonbottom">ShopDOE</div></a>
 					<a href="https://tools.nycenet.edu/insight" id="buttonins" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Insight</div></a>
 					<a href="https://nyc-admin.mapnwea.org" id="buttonmap" target="_blank"><div class="buttontop"></div><div class="buttonbottom">MAP</div></a>
-					<a href="https://eservices.nysed.gov/teach/teachext" id="buttontch" target="_blank"><div class="buttontop"></div><div class="buttonbottom">TEACH</div></a>
+					<a href="https://my.ny.gov/sreg/Login?TYPE=33554433&REALMOID=06-3a9d2238-5051-001a-0000-165800001658&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$YBLe/bJTktldNZD5RXcWZr3kc6Cs7I544bl8d0PztUyj8CljmZ+BfXul7YcWe77w&TARGET=$SM$HTTPS://my.ny.gov/bin/MyNy" id="buttontch" target="_blank"><div class="buttontop"></div><div class="buttonbottom">TEACH</div></a>
 					<a href="https://idm.nycenet.edu/selfservice/Login.do" id="buttonpw" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Pass Reset</div></a>
 				</div>
 			</section>
