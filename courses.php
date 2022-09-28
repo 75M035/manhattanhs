@@ -220,7 +220,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td><a href="/syllabi/2022_1/Geometry_1_2_Syllabus_Payton.pdf" target="_blank">Geometry 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Payton</td>
 					<td>411</td>
