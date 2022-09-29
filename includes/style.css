@@ -767,7 +767,7 @@ a#buttonth {
 
 a#buttonth:hover{
 	background: url("/images/buttons/teachhub.svg") no-repeat #D4C7A6;
-	background-size: 96px 62px;
+	background-size: 62px 62px;
 	background-position: 50% 25%;
 	box-shadow: 0 0 1px #bfbfbf, 0 0 10px #a6a6a6 inset;
 	color: #000;
