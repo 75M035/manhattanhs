@@ -164,7 +164,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td><a href="/syllabi/2022_1/English_5_8_Syllabus_Medina.pdf" target="_blank">English 5/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>404</td>
@@ -180,7 +180,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="/syllabi/2022_1/English_7_8_Syllabus_Medina.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Medina</td>
 					<td>404</td>
