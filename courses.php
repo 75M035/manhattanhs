@@ -204,7 +204,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Financial Literacy 1/2</td>
+					<td><a href="/syllabi/2022_1/Financial_Literacy_1_2_Syllabus_Turner.pdf" target="_blank">Financial Literacy 1/2</a></td>
 					<td>Business Elective</td>
 					<td>Turner</td>
 					<td>206</td>
@@ -260,7 +260,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 3/4</td>
+					<td><a href="/syllabi/2022_1/Global_3_4_Syllabus_Turner.pdf" target="_blank">Global 3/4</a></td>
 					<td>Social Studies</td>
 					<td>Turner</td>
 					<td>206</td>
@@ -332,7 +332,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Living Environment 1/4</td>
+					<td><a href="/syllabi/2022_1/Living_Environment_1_4_Syllabus_Ducret.pdf" target="_blank">Living Environment 1/4</a></td>
 					<td>Life Science</td>
 					<td>Ducret</td>
 					<td>212 220 212</td>
