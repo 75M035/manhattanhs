@@ -28,7 +28,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td><a href="/syllabi/2022_1/Algebra_I_1_4_Syllabus_Khanum.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Khanum</td>
 					<td>308</td>
@@ -44,7 +44,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 3/4</td>
+					<td><a href="/syllabi/2022_1/Algebra_I_3_4_Syllabus_Lopez.pdf" target="_blank">Algebra I 3/4</a></td>
 					<td>Mathematics</td>
 					<td>Lopez</td>
 					<td>306</td>
@@ -68,7 +68,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Computer Science</td>
+					<td><a href="/syllabi/2022_1/Computer_Science_Syllabus_Morell.pdf" target="_blank">Computer Science</a></td>
 					<td>STEM Elective</td>
 					<td>Morell</td>
 					<td>417</td>
@@ -84,7 +84,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Creative Writing</td>
+					<td><a href="/syllabi/2022_1/Creative_Writing_Syllabus_Curry.pdf" target="_blank">Creative Writing</a></td>
 					<td>English Elective</td>
 					<td>Curry</td>
 					<td>210</td>
@@ -92,7 +92,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Culinary</td>
+					<td><a href="/syllabi/2022_1/Culinary_Syllabus_Gonzalez.pdf" target="_blank">Culinary</a></td>
 					<td>Human Services</td>
 					<td>Gonzalez</td>
 					<td>104</td>
@@ -116,7 +116,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td><a href="/syllabi/2022_1/English_1_8_Syllabus_Crisci.pdf" target="_blank">English 1/8</a></td>
 					<td>Core English</td>
 					<td>Crisci</td>
 					<td>205</td>
@@ -140,7 +140,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 3/8</td>
+					<td><a href="/syllabi/2022_1/English_3_8_Syllabus_Wiltshire.pdf" target="_blank">English 3/8</a></td>
 					<td>Core English</td>
 					<td>Wiltshire</td>
 					<td>302</td>
@@ -156,7 +156,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td><a href="/syllabi/2022_1/English_5_8_Syllabus_Lane.pdf" target="_blank">English 5/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -172,7 +172,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="/syllabi/2022_1/English_7_8_Syllabus_Lane.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -188,7 +188,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="/syllabi/2022_1/English_7_8_Syllabus_Paik.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Paik</td>
 					<td>413</td>
@@ -196,7 +196,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Financial Literacy 1/2</td>
+					<td><a href="/syllabi/2022_1/Financial_Literacy_1_2_Syllabus_Gonzalez.pdf" target="_blank">Financial Literacy 1/2</a></td>
 					<td>Business Elective</td>
 					<td>Gonzalez</td>
 					<td>104</td>
@@ -212,7 +212,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Geography</td>
+					<td><a href="/syllabi/2022_1/Geography_Syllabus_Kennedy.pdf" target="_blank">Geography</a></td>
 					<td>Social Studies Elective</td>
 					<td>Kennedy</td>
 					<td>210</td>
@@ -236,7 +236,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td><a href="/syllabi/2022_1/Global_1_4_Syllabus_Curry.pdf" target="_blank">Global 1/4</a></td>
 					<td>Social Studies</td>
 					<td>Curry</td>
 					<td>208</td>
@@ -268,7 +268,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Government &amp; Economics 1/2</td>
+					<td><a href="/syllabi/2022_1/Government_Economics_1_2_Syllabus_Hughes.pdf" target="_blank">Government &amp; Economics 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Hughes</td>
 					<td>406</td>
@@ -276,7 +276,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Government &amp; Economics 1/2</td>
+					<td><a href="/syllabi/2022_1/Government_Economics_1_2_Syllabus_Kennedy.pdf" target="_blank">Government &amp; Economics 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Kennedy</td>
 					<td>214</td>
@@ -308,7 +308,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Honors English 7/8</td>
+					<td><a href="/syllabi/2022_1/Honors_English_7_8_Syllabus_Lane.pdf" target="_blank">Honors English 7/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -364,7 +364,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Math Puzzles</td>
+					<td><a href="/syllabi/2022_1/Math_Puzzles_Syllabus_Ducret.pdf" target="_blank">Math Puzzles</a></td>
 					<td>Math Elective</td>
 					<td>Ducret</td>
 					<td>220</td>
@@ -428,7 +428,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Sketch Comedy</td>
+					<td><a href="/syllabi/2022_1/Sketch_Comedy_Syllabus_Manas.pdf" target="_blank">Sketch Comedy</a></td>
 					<td>Arts</td>
 					<td>Manas</td>
 					<td>210</td>
@@ -444,7 +444,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Spanish 1/6</td>
+					<td><a href="/syllabi/2022_1/Spanish_1_6_Syllabus_Nevarez.pdf" target="_blank">Spanish 1/6</a></td>
 					<td>World Language</td>
 					<td>Nevarez</td>
 					<td>204</td>
@@ -452,7 +452,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Studio Art</td>
+					<td><a href="/syllabi/2022_1/Studio_Art_Syllabus_Collins.pdf" target="_blank">Studio Art</a></td>
 					<td>Arts</td>
 					<td>Collins</td>
 					<td>319</td>
@@ -468,7 +468,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Technical Theater</td>
+					<td><a href="/syllabi/2022_1/Technical_Theater_Syllabus_Manas.pdf" target="_blank">Technical Theater</a></td>
 					<td>Arts</td>
 					<td>Manas</td>
 					<td>701</td>
@@ -476,7 +476,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Theater</td>
+					<td><a href="/syllabi/2022_1/Theater_Syllabus_Manas.pdf" target="_blank">Theater</a></td>
 					<td>Arts</td>
 					<td>Manas</td>
 					<td>210</td>
@@ -484,7 +484,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td><a href="/syllabi/2022_1/US_History_1_2_Syllabus_Hughes.pdf" target="_blank">US History 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Hughes</td>
 					<td>406</td>
@@ -492,7 +492,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>US History 1/2</td>
+					<td><a href="/syllabi/2022_1/US_History_1_2_Syllabus_Morell.pdf" target="_blank">US History 1/2</a></td>
 					<td>Social Studies</td>
 					<td>Morell</td>
 					<td>417</td>
