@@ -52,7 +52,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Algebra II 1/2</td>
+					<td><a href="/syllabi/2022_1/Algebra_II_1_2_Syllabus_Pena.pdf" target="_blank">Algebra II 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Pe&ntilde;a</td>
 					<td>207</td>
@@ -124,7 +124,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 1/8</td>
+					<td><a href="/syllabi/2022_1/English_1_8_Syllabus_Bell.pdf" target="_blank">English 1/8</a></td>
 					<td>Core English</td>
 					<td>Bell</td>
 					<td>313</td>
@@ -228,7 +228,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td><a href="/syllabi/2022_1/Geometry_1_2_Syllabus_Pena.pdf" target="_blank">Geometry 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Pe&ntilde;a</td>
 					<td>207</td>
@@ -284,7 +284,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Health</td>
+					<td><a href="/syllabi/2022_1/Health_Syllabus_Geller.pdf" target="_blank">Health</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>208</td>
@@ -316,7 +316,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Literature</td>
+					<td><a href="/syllabi/2022_1/Literature_Syllabus_Bennett.pdf" target="_blank">Literature</a></td>
 					<td>English Elective</td>
 					<td>Bennett</td>
 					<td>208 205 208</td>
@@ -380,7 +380,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="/syllabi/2022_1/Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>226</td>
@@ -388,7 +388,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="/syllabi/2022_1/Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>702</td>
@@ -460,7 +460,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Studio Art</td>
+					<td><a href="/syllabi/2022_1/Studio_Art_Syllabus_DiLorenzo.pdf" target="_blank">Studio Art</a></td>
 					<td>Arts</td>
 					<td>DiLorenzo</td>
 					<td>211</td>
