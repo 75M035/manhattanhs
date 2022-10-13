@@ -340,7 +340,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Living Environment 1/4</td>
+					<td><a href="/syllabi/2022_1/Living_Environment_1_4_Syllabus_Robinson.pdf" target="_blank">Living Environment 1/4</a></td>
 					<td>Life Science</td>
 					<td>Robinson</td>
 					<td>415</td>
