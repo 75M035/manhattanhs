@@ -106,15 +106,15 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">09/26/2022-09/27/2022</span><br /> Rosh Hashanah - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">10/05/2022</span><br /> Yom Kippur - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">10/10/2022</span><br /> Italian Heritage / Indigenous Peoples' Day - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/08/2022</span><br /> Election Day - Only Staff Report</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/11/2022</span><br /> Veterans Day - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">11/24/2022-11/25/2022</span><br /> Thanksgiving - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">12/26/2022-01/02/2023</span><br /> Winter Recess - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/16/2023</span><br /> Rev. Dr. Martin Luther King Jr. Day - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">01/24/2023-01/27/2023</span><br /> Regents <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-january-2023.pdf" target="_blank">[PDF Schedule]</a></p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">02/20/2023-02/24/2023</span><br /> Midwinter Recess - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">04/06/2023-04/14/2023</span><br /> Spring Recess - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">04/21/2023</span><br /> Eid al-Fitr - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">05/29/2023</span><br /> Memorial Day - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/08/2023</span><br /> Anniversary Day - Only Staff Report</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/09/2023</span><br /> Clerical Day - Only Staff Report</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/14/2023-06/23/2023</span><br /> Regents <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-june-2023.pdf" target="_blank">[PDF Schedule]</a></p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/19/2023</span><br /> Juneteenth - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">06/27/2023</span><br /> Last Day of School</p>
 				</div>
 			</aside>
 			<aside class="contentright">
