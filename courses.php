@@ -388,7 +388,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Paint &amp; Draw</td>
+					<td><a href="/syllabi/2022_2/Paint_Draw_Syllabus_Dilorenzo.pdf" target="_blank">Paint &amp; Draw</a></td>
 					<td>Arts</td>
 					<td>DiLorenzo</td>
 					<td>211</td>
@@ -452,7 +452,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Sculpture</td>
+					<td><a href="/syllabi/2022_2/Sculpture_Syllabus_Dilorenzo.pdf" target="_blank">Sculpture</a></td>
 					<td>Arts</td>
 					<td>DiLorenzo</td>
 					<td>211</td>
@@ -492,7 +492,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Studio Art</td>
+					<td><a href="/syllabi/2022_2/Studio_Art_Syllabus_Dilorenzo.pdf" target="_blank">Studio Art</a></td>
 					<td>Arts</td>
 					<td>DiLorenzo</td>
 					<td>211</td>
