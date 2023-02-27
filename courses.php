@@ -268,7 +268,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Global 4/4</td>
+					<td><a href="/syllabi/2022_2/Global_4_4_Syllabus_Afzal.pdf" target="_blank">Global 4/4</a></td>
 					<td>Social Studies</td>
 					<td>Afzal</td>
 					<td>402</td>
