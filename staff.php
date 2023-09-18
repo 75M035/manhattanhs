@@ -14,8 +14,8 @@ include("includes/header.php");
 					<a href="directory.php" id="buttondy"><div class="buttontop"></div><div class="buttonbottom">Directory</div></a>
 					<a href="courses.php" id="buttoncs"><div class="buttontop"></div><div class="buttonbottom">Courses</div></a>
 					<a href="photos.php" id="buttonps"><div class="buttontop"></div><div class="buttonbottom">Photos</div></a>
-					<a href="schedules/P35_Beacon_2021_22_Bell_Schedule.pdf" id="buttonbb" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Beacon Bands</div></a>
-					<a href="schedules/P35_Main_2021_22_Bell_Schedule.pdf" id="buttonms" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
+					<a href="schedules/P35_Beacon_2023_24_Bell_Schedule.pdf" id="buttonbb" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Beacon Bands</div></a>
+					<a href="schedules/P35_Main_2023_24_Bell_Schedule.pdf" id="buttonms" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Main Schedule</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35main" class="buttonmsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Main Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/p35beacon2" class="buttonbsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon Share</div></a>
 					<a href="https://nycdoe.sharepoint.com/sites/bellevue" class="buttonrsp" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bellevue Share</div></a>
@@ -95,8 +95,8 @@ include("includes/header.php");
 					<a href="http://www.beaconschool.org" id="buttonbs" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Beacon</div></a>
 					<a href="http://www.nychealthandhospitals.org/bellevue/" id="buttonbl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Bellevue</div></a>
 					<a href="http://www.optnyc.org" id="buttonopt" target="_blank"><div class="buttontop"></div><div class="buttonbottom">OPT</div></a>
-					<a href="https://infohub.nyced.org/docs/default-source/doe-employees-only/2022-23-central-calendar.pdf" id="buttoncl" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><?php echo date("M"); ?></div><div id="cald"><?php echo date("d"); ?></div></a>
-					<a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-june-2023.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
+					<a href="https://infohub.nyced.org/docs/default-source/doe-employees-only/calendar-memo-2023-24.pdf" id="buttoncl" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><?php echo date("M"); ?></div><div id="cald"><?php echo date("d"); ?></div></a>
+					<a href="https://www.nysed.gov/sites/default/files/programs/state-assessment/regents-exams-schedule-january-2024.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
 					<a href="https://app.docusign.com/home" id="buttondsn" target="_blank"><div class="buttontop"></div><div class="buttonbottom">DocuSign</div></a>
 					<a href="https://platform.ilearnnyc.net/d2l/home/25392" id="buttonil" target="_blank"><div class="buttontop"></div><div class="buttonbottom">iLearnNYC</div></a>

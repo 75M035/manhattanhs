@@ -106,15 +106,13 @@ include("includes/header.php");
 			<aside class="contentright">
 				<h2 class="contentheadright">Upcoming</h2>
 				<div class="sidecontent upcoming">
-					<p><span class="all-label">All</span> <span class="upcoming-date">02/20/2023-02/24/2023</span><br /> Midwinter Recess - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">04/06/2023-04/14/2023</span><br /> Spring Recess - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">04/21/2023</span><br /> Eid al-Fitr - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">05/29/2023</span><br /> Memorial Day - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/08/2023</span><br /> Anniversary Day - Only Staff Report</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/09/2023</span><br /> Clerical Day - Only Staff Report</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/14/2023-06/23/2023</span><br /> Regents <a href="http://www.nysed.gov/common/nysed/files/programs/state-assessment/regents-exams-schedule-june-2023.pdf" target="_blank">[PDF Schedule]</a></p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/19/2023</span><br /> Juneteenth - School Closed</p>
-					<p><span class="all-label">All</span> <span class="upcoming-date">06/27/2023</span><br /> Last Day of School</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">09/25/2023</span><br /> Yom Kippur - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">10/09/2023</span><br /> Italian Heritage/Indigenous Peoples' Day - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/07/2023</span><br /> Election Day - Only Staff Report</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">11/23/2023-11/24/2023</span><br /> Thanksgiving - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">12/25/2023-01/01/2024</span><br /> Winter Recess - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">01/15/2024</span><br /> Rev. Dr. Martin Luther King Jr. Day - School Closed</p>
+					<p><span class="all-label">All</span> <span class="upcoming-date">01/23/2024-01/26/2024</span><br /> Regents <a href="https://www.nysed.gov/sites/default/files/programs/state-assessment/regents-exams-schedule-january-2024.pdf" target="_blank">[PDF Schedule]</a></p>
 				</div>
 			</aside>
 			<aside class="contentright">
