@@ -212,7 +212,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="/syllabi/2023_1/English_7_8_Syllabus_Paik.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Paik</td>
 					<td>413</td>
