@@ -8,6 +8,21 @@ include("includes/header.php");
 	<main id="content">
 		<section id="left">
 			<article class="contentleft">
+				<h2 class="contenthead">Virtual Open House Slides - September 22nd, 2023<span class="labels"><span class="all-label">All</span></span></h2>
+				<div class="maincontent">
+					<p>On September 21, 2023, P35M was able to successfully hold our first Virtual Open House of the year. This occasion was a wonderful opportunity for the parents and guardians to meet our dedicated staff members, who will play an integral role in educating their children.</p>
+					
+					<p>We believe that fostering a strong partnership between our staff and our valued parents and guardians is essential for our student’s educational journey. Your presence at this Open House was greatly appreciated, as it offered a chance to develop meaningful connections and a deeper understanding of the staff who you will be interacting with during the year.</p>
+					
+					<p>Please feel free to see our PowerPoint presentations for each site below if you need it for reference or were unable to make it to the open house event.</p>
+					
+					<p><a target="_blank" href="other/Main Site Open House PowerPoint Presentation.pdf">Main Site Open House Presentation Slides PDF</a><br />
+					<a target="_blank" href="other/Beacon Open House PowerPoint Presentation.pdf">Beacon Open House Presentation Slides PDF</a><br />
+					<a target="_blank" href="other/NYSPI Open House PowerPoint Presentation.pdf">NYSPI Open House Presentation Slides PDF</a></p>
+					
+					<p>We hope for an amazing year of collaboration with all of you!</p>
+			</article>
+			<article class="contentleft">
 				<h2 class="contenthead">Remote Instruction on Election Day - October 29th, 2021<span class="labels"><span class="all-label">All</span></span></h2>
 				<div class="maincontent">
 					<p>This Tuesday, Election Day, 11/2/2021 will be a remote asynchronous school day for all DOE students. All P.S. 35 sites will be <strong>closed for in-person instruction on this day</strong>.</p>
