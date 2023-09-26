@@ -116,6 +116,14 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
+					<td>Culinary</td>
+					<td>Human Services</td>
+					<td>Bennett</td>
+					<td>227</td>
+					<td>F13, F24</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
 					<td>Earth Science 1/2</td>
 					<td>Physical Science</td>
 					<td>Dotter</td>
@@ -226,6 +234,14 @@ include("includes/header.php");
 					<td>104</td>
 					<td>1, 4, 6</td>
 					<td>Main</td>
+				</tr>
+				<tr>
+					<td>Food Biochemistry 1/2</td>
+					<td>Life Science</td>
+					<td>Bennett</td>
+					<td>227</td>
+					<td>A, G</td>
+					<td>Beacon</td>
 				</tr>
 				<tr>
 					<td>Geometry 1/2</td>
@@ -388,6 +404,14 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
+					<td>Photography</td>
+					<td>Arts</td>
+					<td>Crisci</td>
+					<td>222</td>
+					<td>C14, C25</td>
+					<td>Beacon</td>
+				</tr>
+				<tr>
 					<td>Physical Education</td>
 					<td>PE and Health</td>
 					<td>Geller</td>
@@ -468,7 +492,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Studio Art</td>
+					<td><a href="/syllabi/2023_1/Studio_Art_Syllabus_Collins.pdf" target="_blank">Studio Art</a></td>
 					<td>Arts</td>
 					<td>Collins</td>
 					<td>319</td>
