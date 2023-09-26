@@ -324,7 +324,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Health</td>
+					<td><a href="/syllabi/2023_1/Health_Syllabus_Verde.pdf" target="_blank">Health</a></td>
 					<td>PE and Health</td>
 					<td>Verde</td>
 					<td>317</td>
