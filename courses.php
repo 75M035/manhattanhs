@@ -36,7 +36,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Algebra I 1/4</td>
+					<td><a href="/syllabi/2023_1/Algebra_I_1_4_Syllabus_Khanum.pdf" target="_blank">Algebra I 1/4</a></td>
 					<td>Mathematics</td>
 					<td>Khanum</td>
 					<td>308</td>
@@ -124,7 +124,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Earth Science 1/2</td>
+					<td><a href="/syllabi/2023_1/Earth_Science_1_2_Syllabus_Dotter.pdf" target="_blank">Earth Science 1/2</a></td>
 					<td>Physical Science</td>
 					<td>Dotter</td>
 					<td>315</td>
@@ -196,7 +196,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>English 5/8</td>
+					<td><a href="/syllabi/2023_1/English_5_8_Syllabus_Lane.pdf" target="_blank">English 5/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -212,7 +212,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>English 7/8</td>
+					<td><a href="/syllabi/2023_1/English_7_8_Syllabus_Lane.pdf" target="_blank">English 7/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -244,7 +244,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Geometry 1/2</td>
+					<td><a href="/syllabi/2023_1/Geometry_1_2_Syllabus_Dotter.pdf" target="_blank">Geometry 1/2</a></td>
 					<td>Mathematics</td>
 					<td>Dotter</td>
 					<td>315</td>
@@ -268,7 +268,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td><a href="/syllabi/2023_1/Global_1_4_Syllabus_McCarthy.pdf" target="_blank">Global 1/4</a></td>
 					<td>Social Studies</td>
 					<td>McCarthy</td>
 					<td>304</td>
@@ -308,7 +308,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Health</td>
+					<td><a href="/syllabi/2023_1/Health_Syllabus_Geller.pdf" target="_blank">Health</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>208</td>
@@ -332,7 +332,7 @@ include("includes/header.php");
 					<td>Main</td>
 				</tr>
 				<tr>
-					<td>Honors English 7/8</td>
+					<td><a href="/syllabi/2023_1/Honors_English_7_8_Syllabus_Lane.pdf" target="_blank">Honors English 7/8</a></td>
 					<td>Core English</td>
 					<td>Lane</td>
 					<td>218</td>
@@ -412,7 +412,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="/syllabi/2023_1/Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>226</td>
@@ -420,7 +420,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Physical Education</td>
+					<td><a href="/syllabi/2023_1/Physical_Education_Syllabus_Geller.pdf" target="_blank">Physical Education</a></td>
 					<td>PE and Health</td>
 					<td>Geller</td>
 					<td>702</td>
