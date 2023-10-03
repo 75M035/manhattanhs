@@ -822,8 +822,8 @@ include("includes/header.php");
 		<tr>
 			<td>Nancy Singer</td>
 			<td>Social Worker</td>
-			<td>213A</td>
-			<td>2131</td>
+			<td>213C</td>
+			<td>2133</td>
 			<td><a href="mailto:nsinger@schools.nyc.gov">NSinger@schools.nyc.gov</a></td>
 			<td>Beacon</td>
 		</tr>
