@@ -260,7 +260,7 @@ include("includes/header.php");
 					<td>Beacon</td>
 				</tr>
 				<tr>
-					<td>Global 1/4</td>
+					<td><a href="/syllabi/2023_1/Global_1_4_Syllabus_Curry.pdf" target="_blank">Global 1/4</a></td>
 					<td>Social Studies</td>
 					<td>Curry</td>
 					<td>208</td>
