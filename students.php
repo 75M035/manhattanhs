@@ -50,6 +50,7 @@ include("includes/header.php");
 					<a href="https://www.schools.nyc.gov/docs/default-source/default-document-library/school-year-2023-24-calendar-corrected" id="buttoncl" target="_blank"><div class="buttontop"></div><div class="buttonbottom">Calendar</div><div id="calm"><?php echo date("M"); ?></div><div id="cald"><?php echo date("d"); ?></div></a>
 					<a href="https://www.nysed.gov/sites/default/files/programs/state-assessment/regents-exams-schedule-january-2024.pdf" id="buttonrg" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Regents</div></a>
 					<a href="https://infohub.nyced.org/docs/default-source/default-document-library/acpolicy-graduationrequirementscard.pdf" id="buttongr" target="_blank"><span class="pdf-label">PDF</span><div class="buttontop"></div><div class="buttonbottom">Graduation</div></a>
+					<a href="https://supporthub.schools.nyc" id="buttondi" target="_blank"><div class="buttontop"></div><div class="buttonbottom">SupportHub</div></a>
 				</div>
 			</section>
 		</div>
